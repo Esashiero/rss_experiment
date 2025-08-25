@@ -121,22 +121,44 @@ class Simulator:
              for child_node in node.get('children', []):
                 self.execute_node(child_node)
 
-    def run_simulation(self, start_label_name):
-        """Starts the simulation from a specific label."""
+# ... (Keep all the code from the top of the file down to the end of the execute_node method) ...
+
+    def run_from_label(self, start_label_name):
+        """
+        Starts the simulation from a specific label. Simpler and more direct.
+        """
         if start_label_name not in self.labels:
             print(f"Error: Label '{start_label_name}' not found.")
             return
 
         print(f"\n--- Starting simulation from label '{start_label_name}' ---")
-        # First, run the 'start' label to initialize variables.
-        # This is a simplification; a real game could start anywhere.
-        if start_label_name != 'start':
-            print("Initializing state from 'start' label...")
-            start_node = self.labels['start']
-            self.execute_node(start_node)
-            print("Initialization complete.")
+        start_node = self.labels[start_label_name]
+        self.execute_node(start_node)
+        
+        print("--- Simulation finished ---")
+        print("\nFinal Game State:")
+        print(self.game_state)
 
-        # Now, run the target label
-        target_node = self.labels[start_label_name]
-        if start_label_name == 'start': # Avoid running 'start' twice
-            # Re-fet
+
+def main():
+    """Main function to test the simulator."""
+    try:
+        with open('/content/output_v5.json', 'r') as f:
+            ast = json.load(f)
+    except FileNotFoundError:
+        print("Error: AST file '/content/output_v5.json' not found.")
+        return
+
+    sim = Simulator(ast)
+
+    # --- TWO-PART TEST ---
+    # First, run the 'start' label to initialize the variables.
+    sim.run_from_label('start')
+    
+    # Second, run the 'test_logic' label to see the conditional logic in action.
+    # The state from the previous run will persist within the simulator object.
+    sim.run_from_label('test_logic')
+
+
+if __name__ == "__main__":
+    main()
