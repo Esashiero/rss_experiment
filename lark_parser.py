@@ -1,6 +1,9 @@
 import sys
 import json
-from lark import Lark, Transformer, Indenter, v_args
+# --- THIS IS THE PERMANENT FIX ---
+from lark import Lark, Transformer, v_args
+from lark.indenter import Indenter
+# ----------------------------------
 
 class RenpyIndenter(Indenter):
     NL_type = '_NEWLINE'
