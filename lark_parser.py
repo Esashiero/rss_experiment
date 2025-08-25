@@ -1,6 +1,7 @@
 import sys
 import json
-from lark import Lark, Transformer, Indenter
+from lark import Lark, Transformer
+from lark.indenter import Indenter 
 
 class RenpyIndenter(Indenter):
     NL_type = '_NEWLINE'
