@@ -1,9 +1,7 @@
 import sys
 import json
-# --- THIS IS THE PERMANENT FIX ---
 from lark import Lark, Transformer, v_args
 from lark.indenter import Indenter
-# ----------------------------------
 
 class RenpyIndenter(Indenter):
     NL_type = '_NEWLINE'
@@ -68,7 +66,6 @@ class TreeToJson(Transformer):
     def start(self, *statements):
         return {"ast_type": "root", "children": list(statements)}
 
-    # Lark terminals are just strings, so we return them as is
     def IDENTIFIER(self, s):
         return str(s)
     
@@ -92,7 +89,6 @@ def main():
         parser = Lark(grammar, start='start', parser='lalr', postlex=RenpyIndenter())
         tree = parser.parse(code)
         
-        # Transform the Lark Tree into our target JSON format
         json_output = TreeToJson().transform(tree)
         
         print(json.dumps(json_output, indent=2))
