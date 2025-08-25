@@ -1,34 +1,34 @@
 import json
-import re # We need the 're' module
+import operator
 
 class GameState:
     """A class to hold the state of the game's variables."""
     def __init__(self):
         self.variables = {}
-        print("GameState initialized.")
 
-    # --- NO CHANGES IN THIS CLASS ---
-    def set_variable(self, name, value):
-        clean_name = name.strip().lstrip('$').strip()
-        self.variables[clean_name] = value
-        print(f"STATE_UPDATE: {clean_name} = {value}")
-
-    def get_variable(self, name):
-        clean_name = name.strip().lstrip('$').strip()
-        return self.variables.get(clean_name)
+    def __str__(self):
+        # For pretty printing the final state
+        return json.dumps(self.variables, indent=2)
 
 class Simulator:
     """
     The main engine that traverses the AST and simulates the game's state.
+    This version parses expressions manually for stability.
     """
     def __init__(self, ast):
         self.ast = ast
         self.game_state = GameState()
         self.labels = self._find_all_labels()
-        print("Simulator initialized.")
+        # A map of operators to their functions (e.g., "+=" -> operator.iadd)
+        self.operators = {
+            "=": operator.setitem,
+            "+=": operator.iadd,
+            "-=": operator.isub
+        }
+        print("Simulator (V2) initialized.")
 
     def _find_all_labels(self):
-        # --- NO CHANGES IN THIS METHOD ---
+        """Pre-processes the AST to find all label nodes for quick access."""
         label_map = {}
         for node in self.ast['children']:
             if node['type'] == 'label':
@@ -36,38 +36,86 @@ class Simulator:
         print(f"Found labels: {list(label_map.keys())}")
         return label_map
 
-    # --- vvvvvv MAJOR CHANGES IN THIS METHOD vvvvvv ---
+    def _evaluate_value(self, value_str):
+        """
+        Converts a string value from the script into a Python object.
+        E.g., "100" -> 100, "\"Alex\"" -> "Alex", "True" -> True
+        """
+        value_str = value_str.strip()
+        # Boolean
+        if value_str == 'True':
+            return True
+        if value_str == 'False':
+            return False
+        # String
+        if value_str.startswith('"') and value_str.endswith('"'):
+            return value_str[1:-1]
+        # Integer
+        try:
+            return int(value_str)
+        except ValueError:
+            pass
+        # Float
+        try:
+            return float(value_str)
+        except ValueError:
+            pass
+        # Fallback: could be a variable name
+        return self.game_state.variables.get(value_str, None)
+
+    def _execute_variable_assignment(self, node):
+        """
+        Manually parses and executes a variable assignment expression.
+        Example: "$ score -= 25"
+        """
+        expression = node.get('expression', '').lstrip('$').strip()
+        
+        # Find which operator is being used
+        op_key = None
+        for op in self.operators:
+            if op in expression:
+                op_key = op
+                break
+
+        if not op_key:
+            print(f"Warning: Could not parse expression: {expression}")
+            return
+            
+        parts = [p.strip() for p in expression.split(op_key, 1)]
+        variable_name = parts[0]
+        value_str = parts[1]
+
+        # Convert the string value to a real type (int, string, bool, etc.)
+        value = self._evaluate_value(value_str)
+
+        print(f"EXECUTED: {variable_name} {op_key} {value}")
+
+        # Apply the operation
+        if op_key == "=":
+            self.game_state.variables[variable_name] = value
+        elif op_key in ["+=", "-="]:
+            # For += and -=, we need to ensure the variable exists first
+            if variable_name not in self.game_state.variables:
+                self.game_state.variables[variable_name] = 0 # Default to 0
+            
+            op_func = self.operators[op_key]
+            # Perform the operation in-place
+            self.game_state.variables[variable_name] = op_func(self.game_state.variables[variable_name], value)
+
     def execute_node(self, node):
         """The core dispatcher that executes a single AST node."""
         node_type = node.get('type')
-        
-        # We no longer just print, we process.
-        # print(f"Executing node: {node_type}") 
-
-        # In the Simulator.execute_node method...
 
         if node_type == 'variable_assignment':
-            # NEW, SIMPLER, CORRECT LOGIC
-            expression = node.get('expression', '')
-            code_to_execute = expression.lstrip('$').strip()
-
-            try:
-                # Step 1: Execute the code directly on our game state dictionary.
-                # This is what we had in Task 21. It correctly modifies the dictionary.
-                exec(code_to_execute, self.game_state.variables)
-
-                # Step 2: After execution, clean up the dictionary by removing the
-                # built-ins that exec adds. This prevents the JSON error.
-                if '__builtins__' in self.game_state.variables:
-                    del self.game_state.variables['__builtins__']
-                
-                print(f"EXECUTED: {code_to_execute}")
-
-            except Exception as e:
-                print(f"ERROR executing expression '{code_to_execute}': {e}")
+            self._execute_variable_assignment(node)
+        
+        # For container nodes, recursively execute their children
+        if 'children' in node:
+            for child_node in node.get('children', []):
+                self.execute_node(child_node)
 
     def run_from_label(self, start_label_name):
-        # --- NO CHANGES IN THIS METHOD ---
+        """Starts the simulation from a specific label."""
         if start_label_name not in self.labels:
             print(f"Error: Label '{start_label_name}' not found.")
             return
@@ -77,17 +125,16 @@ class Simulator:
         self.execute_node(start_node)
         print("--- Simulation finished ---")
         print("\nFinal Game State:")
-        print(json.dumps(self.game_state.variables, indent=2))
+        print(self.game_state)
 
 
 def main():
-    # --- NO CHANGES IN THIS FUNCTION ---
+    """Main function to test the simulator."""
     try:
         with open('/content/output_v5.json', 'r') as f:
             ast = json.load(f)
     except FileNotFoundError:
         print("Error: AST file '/content/output_v5.json' not found.")
-        print("Please run the parser first to generate it.")
         return
 
     sim = Simulator(ast)
