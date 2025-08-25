@@ -70,10 +70,13 @@ condition: /[^:]+/
 %ignore WS
 
 // _INDENT and _DEDENT are special tokens provided by Lark's LALR(1)
-// indentation-aware lexer to mark changes in indentation level.
+// indentation-aware lexer to mark changes in indentation level
 
 // TERMINALS & IMPORTS
 _NEWLINE: ( /\r?\n[\t ]*/ )+
+_INDENT: "INDENT"   // <-- ADD THIS LINE
+_DEDENT: "DEDENT"   // <-- ADD THIS LINE
+
 
 // Import common terminals Lark provides. These are essential.
 %import common.CNAME -> IDENTIFIER
