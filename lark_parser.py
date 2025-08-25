@@ -1,7 +1,6 @@
 import sys
 import json
-from lark import Lark, Transformer
-from lark.indenter import Indenter 
+from lark import Lark, Transformer, Indenter, v_args
 
 class RenpyIndenter(Indenter):
     NL_type = '_NEWLINE'
@@ -11,10 +10,67 @@ class RenpyIndenter(Indenter):
     DEDENT_type = '_DEDENT'
     tab_len = 4
 
+@v_args(inline=True)
 class TreeToJson(Transformer):
-    def transform(self, tree):
-        # This will be our logic to convert Lark's tree to our specific JSON
-        return super().transform(tree)
+    def command(self, keyword, args=None):
+        return {"type": "command", "keyword": str(keyword), "args": str(args) if args else ""}
+
+    def variable_assignment(self, expression):
+        return {"type": "variable_assignment", "expression": f"$ {expression}".strip()}
+
+    def dialogue(self, character, text):
+        return {"type": "dialogue", "character": str(character), "text": text.strip('"')}
+    
+    def return_statement(self, _):
+        return {"type": "command", "keyword": "return", "args": ""}
+
+    def args(self, value):
+        return value.strip()
+
+    def label(self, name, block):
+        return {"type": "label", "name": str(name), "children": block}
+
+    def block(self, *statements):
+        return [s for s in statements if s]
+
+    def menu(self, *choices):
+        return {"type": "menu", "children": list(choices)}
+
+    def choice(self, text, block):
+        return {"type": "choice", "text": text.strip('"'), "children": block}
+
+    def if_statement(self, condition, if_block, *elif_else):
+        node = {
+            "type": "if_statement",
+            "condition": str(condition),
+            "children": if_block
+        }
+        elif_blocks = [item for item in elif_else if item and item.get("type") == "elif_statement"]
+        else_block = next((item for item in elif_else if item and item.get("type") == "else_statement"), None)
+        if elif_blocks:
+            node["elif_blocks"] = elif_blocks
+        if else_block:
+            node["else_block"] = else_block
+        return node
+
+    def elif_statement(self, condition, block):
+        return {"type": "elif_statement", "condition": str(condition), "children": block}
+
+    def else_statement(self, block):
+        return {"type": "else_statement", "children": block}
+    
+    def condition(self, value):
+        return value.strip()
+
+    def start(self, *statements):
+        return {"ast_type": "root", "children": list(statements)}
+
+    # Lark terminals are just strings, so we return them as is
+    def IDENTIFIER(self, s):
+        return str(s)
+    
+    def STRING(self, s):
+        return str(s)
 
 def main():
     if len(sys.argv) != 2:
@@ -33,12 +89,13 @@ def main():
         parser = Lark(grammar, start='start', parser='lalr', postlex=RenpyIndenter())
         tree = parser.parse(code)
         
-        # For now, we just print the raw tree.
-        # We will convert it to our JSON format in the next step.
-        print(tree.pretty())
+        # Transform the Lark Tree into our target JSON format
+        json_output = TreeToJson().transform(tree)
+        
+        print(json.dumps(json_output, indent=2))
 
     except Exception as e:
-        print(f"Error parsing file: {e}", file=sys.stderr)
+        print(f"Error: {e}", file=sys.stderr)
         sys.exit(1)
 
 if __name__ == "__main__":
