@@ -1,0 +1,73 @@
+// A Lark grammar for a simplified Ren'py-like scripting language.
+// This grammar is indentation-sensitive.
+
+// The root of the script is one or more label blocks.
+// We allow newlines between blocks.
+start: _NEWLINE* (label_block | _NEWLINE)+
+
+// A label block is the top-level organizational unit.
+// It consists of the "label" keyword, a name, a colon, and an indented block of statements.
+label_block: "label" ID ":" _NEWLINE _INDENT statement+ _DEDENT
+
+// A statement can either be a simple, single-line command or a block structure
+// like a menu or an if/else block.
+?statement: (simple_statement _NEWLINE) | block_statement
+
+// A list of all possible single-line statements.
+?simple_statement: scene_statement
+                 | assignment_statement
+                 | dialogue_statement
+                 | snapshot_statement
+                 | jump_statement
+                 | return_statement
+
+// A list of all block-level statements.
+?block_statement: menu_block
+                | if_block
+
+// --- Block Definitions ---
+
+// A menu block starts with "menu:" and contains one or more indented choice blocks.
+menu_block: "menu" ":" _NEWLINE _INDENT choice_block+ _DEDENT
+
+// A choice block is a quoted string, a colon, and an indented block of statements.
+choice_block: ESCAPED_STRING ":" _NEWLINE _INDENT statement+ _DEDENT
+
+// An if/else block. It starts with an "if" clause and has an optional "else" clause.
+if_block: "if" condition ":" _NEWLINE _INDENT statement+ _DEDENT [else_block]
+else_block: "else" ":" _NEWLINE _INDENT statement+ _DEDENT
+
+// --- Simple Statement Definitions ---
+
+scene_statement: "scene" ARGS
+assignment_statement: "$" ARGS
+dialogue_statement: ID ESCAPED_STRING
+snapshot_statement: "snapshot" ARGS
+jump_statement: "jump" ID
+return_statement: "return"
+
+// --- Terminal Definitions ---
+
+// An identifier, like a label name or a character name.
+%import common.CNAME -> ID
+
+// A double-quoted string, for dialogue and menu choices.
+%import common.ESCAPED_STRING
+
+// Generic token to capture the rest of the line for commands and assignments.
+ARGS: /.+/
+
+// The condition for an 'if' statement is everything between "if" and the colon.
+condition: /[^:]+/
+
+// --- Whitespace and Indentation Control ---
+// Import NEWLINE for line breaks and WS for whitespace.
+%import common.NEWLINE
+%import common.WS
+
+// Ignore standard whitespace (spaces, tabs) between tokens, but NOT newlines.
+// Newlines and indentation are significant for parsing the block structure.
+%ignore WS
+
+// _INDENT and _DEDENT are special tokens provided by Lark's LALR(1)
+// indentation-aware lexer to mark changes in indentation level.
