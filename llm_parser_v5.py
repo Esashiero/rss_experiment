@@ -9,6 +9,9 @@ def parse_rpy_to_ast(script_content):
     parent_stack = [(-1, root)]
     lines = script_content.splitlines()
 
+    # Define a list of known command keywords for robust checking
+    KNOWN_COMMANDS = ["scene", "show", "hide", "play", "stop", "jump", "return", "snapshot"]
+
     for line in lines:
         stripped_line = line.strip()
         if not stripped_line or stripped_line.startswith('#'):
@@ -24,7 +27,15 @@ def parse_rpy_to_ast(script_content):
         new_node = None
         is_block_starter = False
 
-        if content.startswith('label ') and content.endswith(':'):
+        # --- Use a more robust check for commands first ---
+        parts = content.split(' ', 1)
+        keyword = parts[0]
+
+        if keyword in KNOWN_COMMANDS:
+            args = parts[1] if len(parts) > 1 else ""
+            new_node = {"type": "command", "keyword": keyword, "args": args}
+            parent_node["children"].append(new_node)
+        elif content.startswith('label ') and content.endswith(':'):
             name = content[6:-1].strip()
             new_node = {"type": "label", "name": name, "children": []}
             parent_node["children"].append(new_node)
@@ -67,15 +78,7 @@ def parse_rpy_to_ast(script_content):
             new_node = {"type": "dialogue", "character": character, "text": text}
             parent_node["children"].append(new_node)
         else:
-            parts = content.split(' ', 1)
-            keyword = parts[0]
-            # This is the line we updated.
-            if keyword in ["scene", "show", "hide", "play", "stop", "jump", "return", "snapshot"]:
-                args = parts[1] if len(parts) > 1 else ""
-                new_node = {"type": "command", "keyword": keyword, "args": args}
-                parent_node["children"].append(new_node)
-            else:
-                print(f"Warning: Unrecognized line format: {content}", file=sys.stderr)
+            print(f"Warning: Unrecognized line format: {content}", file=sys.stderr)
 
         if is_block_starter and new_node:
             parent_stack.append((indentation, new_node))
