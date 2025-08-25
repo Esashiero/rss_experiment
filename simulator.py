@@ -47,32 +47,24 @@ class Simulator:
         # In the Simulator.execute_node method...
 
         if node_type == 'variable_assignment':
-            # NEW, SAFER LOGIC
+            # NEW, SIMPLER, CORRECT LOGIC
             expression = node.get('expression', '')
             code_to_execute = expression.lstrip('$').strip()
-            
-            # Step 1: Create a temporary "scope" dictionary.
-            # We initialize it with a copy of our current game state.
-            scope = self.game_state.variables.copy()
 
             try:
-                # Step 2: Run exec() using the temporary scope.
-                # Python's built-ins will be added to this 'scope', not our game state.
-                exec(code_to_execute, scope)
+                # Step 1: Execute the code directly on our game state dictionary.
+                # This is what we had in Task 21. It correctly modifies the dictionary.
+                exec(code_to_execute, self.game_state.variables)
 
-                # Step 3: After execution, update our real game state.
-                # We iterate through the 'scope' and copy any new or changed
-                # values back to our official 'game_state.variables', ignoring
-                # the built-in functions that Python adds.
-                for key, value in scope.items():
-                    if key != "__builtins__": # Explicitly ignore the builtins object
-                        self.game_state.variables[key] = value
+                # Step 2: After execution, clean up the dictionary by removing the
+                # built-ins that exec adds. This prevents the JSON error.
+                if '__builtins__' in self.game_state.variables:
+                    del self.game_state.variables['__builtins__']
                 
                 print(f"EXECUTED: {code_to_execute}")
 
             except Exception as e:
                 print(f"ERROR executing expression '{code_to_execute}': {e}")
-
 
     def run_from_label(self, start_label_name):
         # --- NO CHANGES IN THIS METHOD ---
