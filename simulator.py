@@ -13,6 +13,35 @@ class Simulator:
     """
     The main engine that traverses the AST and simulates the game's state.
     """
+
+# ... inside the Simulator class ...
+
+    def take_snapshot(self, filename):
+        """Saves the current game state to a JSON file."""
+        print(f"--- Taking snapshot: {filename} ---")
+        with open(filename, 'w', encoding='utf-8') as f:
+            f.write(str(self.game_state))
+        print("Snapshot saved successfully.")
+
+    def execute_node(self, node):
+        # ... (the top of the method is the same) ...
+        node_type = node.get('type')
+
+        if node_type == 'variable_assignment':
+            self._execute_variable_assignment(node)
+        elif node_type == 'if_statement':
+            self._execute_if_statement(node)
+        
+        # vvv NEW PART vvv
+        elif node_type == 'command' and node.get('keyword') == 'snapshot':
+            self.take_snapshot(node.get('args'))
+        # ^^^ END NEW PART ^^^
+
+        elif 'children' in node and node_type not in ['if_statement']:
+             for child_node in node.get('children', []):
+                self.execute_node(child_node)
+
+
     def __init__(self, ast):
         self.ast = ast
         self.game_state = GameState()
