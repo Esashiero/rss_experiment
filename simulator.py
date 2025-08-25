@@ -7,28 +7,27 @@ class GameState:
         self.variables = {}
 
     def __str__(self):
-        # For pretty printing the final state
         return json.dumps(self.variables, indent=2)
 
 class Simulator:
     """
     The main engine that traverses the AST and simulates the game's state.
-    This version parses expressions manually for stability.
     """
     def __init__(self, ast):
         self.ast = ast
         self.game_state = GameState()
         self.labels = self._find_all_labels()
-        # A map of operators to their functions (e.g., "+=" -> operator.iadd)
         self.operators = {
-            "=": operator.setitem,
-            "+=": operator.iadd,
-            "-=": operator.isub
+            "=": operator.setitem, "+=": operator.iadd, "-=": operator.isub
         }
-        print("Simulator (V2) initialized.")
+        # A map for boolean comparisons
+        self.comparisons = {
+            ">": operator.gt, "<": operator.lt, "==": operator.eq, "!=": operator.ne,
+            ">=": operator.ge, "<=": operator.le
+        }
+        print("Simulator (V3) initialized.")
 
     def _find_all_labels(self):
-        """Pre-processes the AST to find all label nodes for quick access."""
         label_map = {}
         for node in self.ast['children']:
             if node['type'] == 'label':
@@ -37,70 +36,76 @@ class Simulator:
         return label_map
 
     def _evaluate_value(self, value_str):
-        """
-        Converts a string value from the script into a Python object.
-        E.g., "100" -> 100, "\"Alex\"" -> "Alex", "True" -> True
-        """
         value_str = value_str.strip()
-        # Boolean
-        if value_str == 'True':
-            return True
-        if value_str == 'False':
-            return False
-        # String
-        if value_str.startswith('"') and value_str.endswith('"'):
-            return value_str[1:-1]
-        # Integer
-        try:
-            return int(value_str)
-        except ValueError:
-            pass
-        # Float
-        try:
-            return float(value_str)
-        except ValueError:
-            pass
-        # Fallback: could be a variable name
+        if value_str == 'True': return True
+        if value_str == 'False': return False
+        if value_str.startswith('"') and value_str.endswith('"'): return value_str[1:-1]
+        try: return int(value_str)
+        except ValueError: pass
+        try: return float(value_str)
+        except ValueError: pass
         return self.game_state.variables.get(value_str, None)
 
+    def _evaluate_condition(self, condition_str):
+        """
+        Parses and evaluates a simple boolean condition.
+        Example: "score > 80" or "player_name == \"Alex\""
+        """
+        for op_key, op_func in self.comparisons.items():
+            if op_key in condition_str:
+                parts = [p.strip() for p in condition_str.split(op_key, 1)]
+                left_val_str, right_val_str = parts[0], parts[1]
+                
+                left_val = self._evaluate_value(left_val_str)
+                right_val = self._evaluate_value(right_val_str)
+
+                if left_val is None: return False # Variable not found
+                
+                result = op_func(left_val, right_val)
+                print(f"EVALUATED: ({left_val} {op_key} {right_val}) -> {result}")
+                return result
+        print(f"Warning: Could not evaluate condition: {condition_str}")
+        return False
+
     def _execute_variable_assignment(self, node):
-        """
-        Manually parses and executes a variable assignment expression.
-        Example: "$ score -= 25"
-        """
         expression = node.get('expression', '').lstrip('$').strip()
-        
-        # Find which operator is being used
         op_key = None
         for op in self.operators:
-            if op in expression:
-                op_key = op
-                break
+            if op in expression: op_key = op; break
+        if not op_key: return
 
-        if not op_key:
-            print(f"Warning: Could not parse expression: {expression}")
-            return
-            
         parts = [p.strip() for p in expression.split(op_key, 1)]
-        variable_name = parts[0]
-        value_str = parts[1]
-
-        # Convert the string value to a real type (int, string, bool, etc.)
+        variable_name, value_str = parts[0], parts[1]
         value = self._evaluate_value(value_str)
-
         print(f"EXECUTED: {variable_name} {op_key} {value}")
 
-        # Apply the operation
-        if op_key == "=":
-            self.game_state.variables[variable_name] = value
+        if op_key == "=": self.game_state.variables[variable_name] = value
         elif op_key in ["+=", "-="]:
-            # For += and -=, we need to ensure the variable exists first
-            if variable_name not in self.game_state.variables:
-                self.game_state.variables[variable_name] = 0 # Default to 0
-            
+            if variable_name not in self.game_state.variables: self.game_state.variables[variable_name] = 0
             op_func = self.operators[op_key]
-            # Perform the operation in-place
             self.game_state.variables[variable_name] = op_func(self.game_state.variables[variable_name], value)
+
+    def _execute_if_statement(self, node):
+        """Executes a full if/elif/else chain."""
+        # Check the main 'if' condition
+        if_condition = node.get('condition', 'False')
+        if self._evaluate_condition(if_condition):
+            for child_node in node.get('children', []):
+                self.execute_node(child_node)
+            return # Exit after executing a true block
+
+        # Check 'elif' blocks if they exist
+        for elif_block in node.get('elif_blocks', []):
+            elif_condition = elif_block.get('condition', 'False')
+            if self._evaluate_condition(elif_condition):
+                for child_node in elif_block.get('children', []):
+                    self.execute_node(child_node)
+                return # Exit after executing a true block
+        
+        # Execute 'else' block if it exists and no other block was executed
+        if 'else_block' in node:
+            for child_node in node['else_block'].get('children', []):
+                self.execute_node(child_node)
 
     def execute_node(self, node):
         """The core dispatcher that executes a single AST node."""
@@ -108,37 +113,30 @@ class Simulator:
 
         if node_type == 'variable_assignment':
             self._execute_variable_assignment(node)
+        elif node_type == 'if_statement':
+            self._execute_if_statement(node)
         
-        # For container nodes, recursively execute their children
-        if 'children' in node:
-            for child_node in node.get('children', []):
+        # For simple container nodes, recursively execute their children
+        elif 'children' in node and node_type not in ['if_statement']:
+             for child_node in node.get('children', []):
                 self.execute_node(child_node)
 
-    def run_from_label(self, start_label_name):
+    def run_simulation(self, start_label_name):
         """Starts the simulation from a specific label."""
         if start_label_name not in self.labels:
             print(f"Error: Label '{start_label_name}' not found.")
             return
 
         print(f"\n--- Starting simulation from label '{start_label_name}' ---")
-        start_node = self.labels[start_label_name]
-        self.execute_node(start_node)
-        print("--- Simulation finished ---")
-        print("\nFinal Game State:")
-        print(self.game_state)
+        # First, run the 'start' label to initialize variables.
+        # This is a simplification; a real game could start anywhere.
+        if start_label_name != 'start':
+            print("Initializing state from 'start' label...")
+            start_node = self.labels['start']
+            self.execute_node(start_node)
+            print("Initialization complete.")
 
-
-def main():
-    """Main function to test the simulator."""
-    try:
-        with open('/content/output_v5.json', 'r') as f:
-            ast = json.load(f)
-    except FileNotFoundError:
-        print("Error: AST file '/content/output_v5.json' not found.")
-        return
-
-    sim = Simulator(ast)
-    sim.run_from_label('start')
-
-if __name__ == "__main__":
-    main()
+        # Now, run the target label
+        target_node = self.labels[start_label_name]
+        if start_label_name == 'start': # Avoid running 'start' twice
+            # Re-fet
