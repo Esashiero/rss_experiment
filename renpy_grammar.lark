@@ -71,3 +71,7 @@ condition: /[^:]+/
 
 // _INDENT and _DEDENT are special tokens provided by Lark's LALR(1)
 // indentation-aware lexer to mark changes in indentation level.
+
+// Import and ignore comments that start with #
+%import common.SH_COMMENT -> COMMENT
+%ignore COMMENT
