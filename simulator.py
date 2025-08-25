@@ -42,33 +42,36 @@ class Simulator:
         node_type = node.get('type')
         
         # We no longer just print, we process.
-        # print(f"Executing node: {node_type}") # This can be noisy, let's disable it.
+        # print(f"Executing node: {node_type}") 
+
+        # In the Simulator.execute_node method...
 
         if node_type == 'variable_assignment':
-            # NEW LOGIC
-            # The expression from the AST, e.g., "$ score = 100"
+            # NEW, SAFER LOGIC
             expression = node.get('expression', '')
-
-            # Sanitize the expression: remove the '$' and any leading/trailing whitespace.
-            # Ren'py variable names can't have spaces, so we replace them in the expression.
             code_to_execute = expression.lstrip('$').strip()
             
-            # Use exec() to run the Python code. We pass it the game_state.variables
-            # dictionary to act as the "local" variable scope. This is how the script
-            # can modify our game state directly.
+            # Step 1: Create a temporary "scope" dictionary.
+            # We initialize it with a copy of our current game state.
+            scope = self.game_state.variables.copy()
+
             try:
-                exec(code_to_execute, self.game_state.variables)
+                # Step 2: Run exec() using the temporary scope.
+                # Python's built-ins will be added to this 'scope', not our game state.
+                exec(code_to_execute, scope)
+
+                # Step 3: After execution, update our real game state.
+                # We iterate through the 'scope' and copy any new or changed
+                # values back to our official 'game_state.variables', ignoring
+                # the built-in functions that Python adds.
+                for key, value in scope.items():
+                    if key != "__builtins__": # Explicitly ignore the builtins object
+                        self.game_state.variables[key] = value
+                
                 print(f"EXECUTED: {code_to_execute}")
+
             except Exception as e:
                 print(f"ERROR executing expression '{code_to_execute}': {e}")
-            
-        elif node_type == 'if_statement':
-            # TODO: Implement the logic to evaluate the condition and branch.
-            pass
-        elif node_type in ['label', 'choice', 'menu', 'elif_statement', 'else_statement']:
-            for child_node in node.get('children', []):
-                self.execute_node(child_node)
-    # --- ^^^^^^ END OF MAJOR CHANGES ^^^^^^ ---
 
 
     def run_from_label(self, start_label_name):
