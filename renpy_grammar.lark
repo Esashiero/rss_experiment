@@ -1,93 +1,38 @@
-// A Lark grammar for a simplified Ren'py-like scripting language.
-// This grammar is indentation-sensitive.
+?start: _NEWLINE? statement*
 
-// The root of the script is one or more label blocks.
-// We allow newlines between blocks.
-start: _NEWLINE* (label_block | _NEWLINE)+
+?statement: label
+          | command
+          | variable_assignment
+          | dialogue
+          | if_statement
+          | menu
+          | "return" -> return_statement
 
-// A label block is the top-level organizational unit.
-// It consists of the "label" keyword, a name, a colon, and an indented block of statements.
-label_block: "label" ID ":" _NEWLINE _INDENT statement+ _DEDENT
+label: "label" IDENTIFIER ":" block
+block: _NEWLINE _INDENT statement+ _DEDENT
 
-// A statement can either be a simple, single-line command or a block structure
-// like a menu or an if/else block.
-?statement: (simple_statement _NEWLINE) | block_statement
+command: ("scene" | "show" | "hide" | "play" | "stop" | "jump" | "snapshot") (args)? _NEWLINE
+variable_assignment: "$" /(.*)/ _NEWLINE
+dialogue: IDENTIFIER STRING _NEWLINE
+args: /(.*)/
 
-// A list of all possible single-line statements.
-?simple_statement: scene_statement
-                 | assignment_statement
-                 | dialogue_statement
-                 | snapshot_statement
-                 | jump_statement
-                 | return_statement
+menu: "menu" ":" _NEWLINE _INDENT choice+ _DEDENT
+choice: STRING ":" block
 
-// A list of all block-level statements.
-?block_statement: menu_block
-                | if_block
+if_statement: "if" condition ":" block elif_statement* else_statement?
+elif_statement: _NEWLINE? "elif" condition ":" block
+else_statement: _NEWLINE? "else" ":" block
+condition: /(.*)/
 
-// --- Block Definitions ---
-
-// A menu block starts with "menu:" and contains one or more indented choice blocks.
-menu_block: "menu" ":" _NEWLINE _INDENT choice_block+ _DEDENT
-
-// A choice block is a quoted string, a colon, and an indented block of statements.
-choice_block: ESCAPED_STRING ":" _NEWLINE _INDENT statement+ _DEDENT
-
-// An if/else block. It starts with an "if" clause and has an optional "else" clause.
-if_block: "if" condition ":" _NEWLINE _INDENT statement+ _DEDENT [else_block]
-else_block: "else" ":" _NEWLINE _INDENT statement+ _DEDENT
-
-// --- Simple Statement Definitions ---
-
-scene_statement: "scene" ARGS
-assignment_statement: "$" ARGS
-dialogue_statement: ID ESCAPED_STRING
-snapshot_statement: "snapshot" ARGS
-jump_statement: "jump" ID
-return_statement: "return"
-
-// --- Terminal Definitions ---
-
-// An identifier, like a label name or a character name.
-%import common.CNAME -> ID
-
-// A double-quoted string, for dialogue and menu choices.
-%import common.ESCAPED_STRING
-
-// Generic token to capture the rest of the line for commands and assignments.
-ARGS: /.+/
-
-// The condition for an 'if' statement is everything between "if" and the colon.
-condition: /[^:]+/
-
-// --- Whitespace and Indentation Control ---
-// Import NEWLINE for line breaks and WS for whitespace.
-%import common.NEWLINE
-%import common.WS
-
-// Ignore standard whitespace (spaces, tabs) between tokens, but NOT newlines.
-// Newlines and indentation are significant for parsing the block structure.
-%ignore WS
-
-// _INDENT and _DEDENT are special tokens provided by Lark's LALR(1)
-// indentation-aware lexer to mark changes in indentation level
-
-// TERMINALS & IMPORTS
+// Terminals
 _NEWLINE: ( /\r?\n[\t ]*/ )+
-_INDENT: "INDENT"   // <-- ADD THIS LINE
-_DEDENT: "DEDENT"   // <-- ADD THIS LINE
+_INDENT: "INDENT"
+_DEDENT: "DEDENT"
 
-
-// Import common terminals Lark provides. These are essential.
 %import common.CNAME -> IDENTIFIER
 %import common.ESCAPED_STRING -> STRING
-%import common.NUMBER
+%import common.SH_COMMENT -> COMMENT
 %import common.WS_INLINE
 
-// Ignore comments that start with #
-%import common.SH_COMMENT -> COMMENT
 %ignore COMMENT
-
-// Ignore inline whitespace (spaces, tabs) between tokens.
-// The Indenter will handle the newlines.
 %ignore WS_INLINE
