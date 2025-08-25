@@ -34,4 +34,6 @@ label test_logic:
     hide eileen
     stop music
     e "The test is over."
+    snapshot
+    /content/final_state.json
     return
