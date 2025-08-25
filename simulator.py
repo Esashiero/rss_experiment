@@ -67,21 +67,50 @@ class Simulator:
         print(f"Warning: Could not evaluate condition: {condition_str}")
         return False
 
+# ... (in the Simulator class) ...
     def _execute_variable_assignment(self, node):
+        """
+        Manually parses and executes a variable assignment expression.
+        Example: "$ score -= 25"
+        """
         expression = node.get('expression', '').lstrip('$').strip()
+        
         op_key = None
+        # Find the operator used in the expression
         for op in self.operators:
-            if op in expression: op_key = op; break
-        if not op_key: return
+            # We add spaces around the operator to make the search more robust,
+            # but then we also need to handle the no-space case.
+            if f" {op} " in expression:
+                op_key = op
+                break
+            # A simple split might be more robust here.
+            
+        # A simpler and more robust way to find the parts
+        parts = []
+        if op_key:
+             parts = [p.strip() for p in expression.split(op_key, 1)]
+        else: # Try to find the operator without spaces
+            for op in self.operators:
+                if op in expression:
+                    op_key = op
+                    parts = [p.strip() for p in expression.split(op_key, 1)]
+                    break
 
-        parts = [p.strip() for p in expression.split(op_key, 1)]
+        if not op_key or len(parts) != 2:
+            print(f"Warning: Could not parse expression: {expression}")
+            return
+            
         variable_name, value_str = parts[0], parts[1]
         value = self._evaluate_value(value_str)
+
         print(f"EXECUTED: {variable_name} {op_key} {value}")
 
-        if op_key == "=": self.game_state.variables[variable_name] = value
+        if op_key == "=":
+            self.game_state.variables[variable_name] = value
         elif op_key in ["+=", "-="]:
-            if variable_name not in self.game_state.variables: self.game_state.variables[variable_name] = 0
+            if variable_name not in self.game_state.variables:
+                self.game_state.variables[variable_name] = 0
+            
             op_func = self.operators[op_key]
             self.game_state.variables[variable_name] = op_func(self.game_state.variables[variable_name], value)
 
