@@ -72,17 +72,19 @@ condition: /[^:]+/
 // _INDENT and _DEDENT are special tokens provided by Lark's LALR(1)
 // indentation-aware lexer to mark changes in indentation level.
 
-// TERMINALS
+// TERMINALS & IMPORTS
 _NEWLINE: ( /\r?\n[\t ]*/ )+
 
-// Import common terminals Lark provides
-%import common.WS_INLINE
+// Import common terminals Lark provides. These are essential.
 %import common.CNAME -> IDENTIFIER
 %import common.ESCAPED_STRING -> STRING
+%import common.NUMBER
+%import common.WS_INLINE
 
-// Ignore inline whitespace between tokens
-%ignore WS_INLINE
-
-// Import and ignore comments that start with #
+// Ignore comments that start with #
 %import common.SH_COMMENT -> COMMENT
 %ignore COMMENT
+
+// Ignore inline whitespace (spaces, tabs) between tokens.
+// The Indenter will handle the newlines.
+%ignore WS_INLINE
