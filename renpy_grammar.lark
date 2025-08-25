@@ -11,10 +11,13 @@
 label: "label" IDENTIFIER ":" block
 block: _NEWLINE _INDENT statement+ _DEDENT
 
+// The 'args' rule is now optional WITHIN this rule, which is the correct way.
 command: ("scene" | "show" | "hide" | "play" | "stop" | "jump" | "snapshot") (args)? _NEWLINE
-variable_assignment: "$" /(.*)/ _NEWLINE
+variable_assignment: "$" expression _NEWLINE
 dialogue: IDENTIFIER STRING _NEWLINE
-args: /(.*)/
+// 'args', 'expression', and 'condition' now use .+ to require at least one character.
+args: /(.+)/
+expression: /(.+)/
 
 menu: "menu" ":" _NEWLINE _INDENT choice+ _DEDENT
 choice: STRING ":" block
@@ -22,7 +25,7 @@ choice: STRING ":" block
 if_statement: "if" condition ":" block elif_statement* else_statement?
 elif_statement: _NEWLINE? "elif" condition ":" block
 else_statement: _NEWLINE? "else" ":" block
-condition: /(.*)/
+condition: /(.+)/
 
 // Terminals
 _NEWLINE: ( /\r?\n[\t ]*/ )+
