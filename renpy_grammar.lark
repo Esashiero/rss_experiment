@@ -9,7 +9,6 @@
           | "return" -> return_statement
 
 label: "label" IDENTIFIER ":" block
-// FIX THE TYPO ON THE LINE BELOW
 block: _NEWLINE _INDENT statement+ _DEDENT
 
 command: ("scene" | "show" | "hide" | "play" | "stop" | "jump" | "snapshot") (args)?
@@ -18,7 +17,6 @@ dialogue: IDENTIFIER STRING
 args: /(.+)/
 expression: /(.+)/
 
-// FIX THE TYPO ON THE LINE BELOW
 menu: "menu" ":" _NEWLINE _INDENT choice+ _DEDENT
 choice: STRING ":" block
 
