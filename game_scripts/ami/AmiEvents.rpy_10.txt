@@ -1,0 +1,1012 @@
+st because she’s moving in doesn’t mean you don’t need me anymore, does it? Otherwise, you wouldn’t be here. Right?"
+    a "Maya..."
+    a "I think we should sit down and take a break for a little while, okay?"
+
+    play sound "static.mp3"
+    scene amitotherescue9 with flash
+    stop sound
+
+    "So sit they did but break they didn’t! At least not in a bad way. Because breaking can be good sometimes! This doesn’t have to be a sad day!"
+    "Relax and breathe and celebrate! Friendship makes the dream work. Then team work makes the other thing and...something makes the...cream...jerk."
+    "It’s rhyming time! It’s time to rhyme! It’s time to build a fifth ark! The third is full of bullet holes, the fourth is made of pine bark! "
+    "So anyway, just look at this. Lock eyes with screen, put dick in fist. Then squeeze until it’s purple while you wait for them to kiss! "
+    "{s}ABCDEFG, HIJKL. ELLENELEMENOPEE, IT’S HOT DOWN HERE IN HELL. {/s}"
+    "Ami is a good girl and her best friend is a bad one. She’s an uncle-stealing piece of shit who controls what Ami’s dad’s done."
+    "Or does or did-slash-doing, these eyes don’t span for miles. Just escalators, elevators, while Ami sprints for MILES-"
+    "To FIND that fucking BAD GIRL she’s evil evil fuck! I hate her hate her oh my god she really really sucks!"
+    "Ami Ami Ami Ami Ami Ami Ami. Ami Ami, Ami Ami, Ami Ami Ami?"
+    "The needle goes in to suck out the truth."
+
+    a "You’ve always had pretty harsh feelings when it comes to Niki, haven’t you?"
+    m "I don’t know what you’re talking about."
+    a "Oh, come on. I know your feelings toward her and Noriko aren’t just because of a distaste for pink. You don’t like them because of how important they are to Sensei. "
+    a "It’s the same reason you stormed out today. But that’s nothing to be embarrassed about, Maya. I get it. And honestly, it makes me feel a little weird too."
+    m "..."
+    a "You just gonna stay silent until I change topics? Is that what we’re doing?"
+    m "No..."
+    m "I cracked and made how I really feel way too obvious today. I realize there’s no getting out of it now. But..."
+    m "What really confuses me is why you’re treating me like nothing happened instead of ripping my guts out since this is obviously more than a stupid crush."
+
+    scene amitotherescue10
+    with dissolve
+
+    a "If I wanted to rip your guts out, I would have done it one of the other millions of times you’ve lied right to my face. "
+
+    scene amitotherescue11
+    with dissolve2
+
+    a "Do you really think I’m that gullible? That I wouldn’t catch on to my best friend in the whole wide world fucking my uncle {i}while I’m home{/i} sometimes? Do you really think I’m {i}that{/i} dumb? "
+    m "I...am suddenly having second thoughts about the position I chose to have this conversation in."
+    a "..."
+    m "..."
+
+    scene amitotherescue12
+    with dissolve
+
+    a "Pfft!"
+    m "Or...not?"
+
+    scene amitotherescue13
+    with dissolve
+
+    a "Why did you lie to me, Maya? Why don’t you ever tell the truth?"
+    m "What do you mean “why did I lie?” My entire relationship with him was supposed to be confidential. And you were the {i}last{/i} person who was ever supposed to know about it."
+    a "Because I love him more?"
+    m "Because you’re a fucking psychopath who would cut his dick off if it was the only way you knew how to keep him close to you."
+    a "There are other ways to keep him close. And I would never intentionally hurt Sensei like that. He isn’t Sensei without his dick and I think it should stay attached."
+
+    scene amitotherescue14
+    with dissolve
+
+    m "Whatever...it’s not like it even matters anymore now that Niki’s come back into the picture. We’re both fucked. Like, what does either one of {i}us{/i} have that she doesn’t?"
+    a "We’re...closer to Sensei’s preferred age group?"
+    m "Yippee. "
+    a "Are you giving up then?"
+    m "I don’t {i}want{/i} to...but it feels like he’s been trying to {i}get{/i} me to for months now."
+    a "Is that so?"
+    m "All I’ve done lately is chase after him. And it’s made me stop and think about how all of this got started in the first place. "
+    m "In the beginning, all we were doing was just...hiding our pain inside one another. And we worked because {i}that{/i} worked. But if it’s not working anymore..."
+    m "If chasing after him is only going to hurt me when it’s {i}supposed{/i} to be making me feel better...what the fuck am I doing, Ami?"
+    a "Can I let you in on a little secret, Maya?"
+    m "Please don’t tell me who else he’s fucking. I really don’t want to know. "
+    a "I was just going to say that {i}I’m{/i} worried about this Niki thing too."
+    m "Bullshit. There’s no way Sensei would have let her move in without you signing off on it. All you’re doing right now is pitying me."
+    a "No, I’m telling you the truth. Scout’s honor."
+
+    scene amitotherescue15
+    with dissolve
+
+    m "Then how the fuck were you acting so composed around her earlier?"
+    a "I’m not sure if I’ve ever been “composed” a second in my life."
+    m "Well, at least you’re aware of it. But still. The way she spoke to you alone made it feel like you two were mother and daughter. So much so that I was convinced it was just a nightmare at first."
+    a "It really feels that way sometimes, doesn’t it? Like the universe is playing pranks on us...making things harder than they have to be just so somebody looking down on us can have a little fun. "
+    m "Bad news is there’s no one looking down on us ever."
+    a "You don’t know that for sure, Maya. No one does. So it all comes down to faith. Which is why I ask you this-"
+    a "Do you have faith in Sensei? "
+    a "Do you think he’ll find his way back to you?"
+    m "I..."
+    m "I’m not really..."
+    a "Or do you want to {i}drag{/i} him back?"
+
+    stop music fadeout 12.0
+    scene amitotherescue16
+    with dissolve2
+
+    m "D...Drag him?..."
+    a "That’s right..."
+
+    scene amitotherescue17
+    with dissolve2
+
+    a "If you’re tired of chasing after him, all you {i}really{/i} need to do is keep him on a leash. That way, he won’t ever get too far away."
+    a "Wouldn’t that be the answer to all of your problems?..."
+
+    scene amitotherescue18
+    with dissolve2
+
+    a "Or perhaps there’s another answer? One even closer..."
+    m "...Ami?"
+    a "All this time, the three of us could have been having fun together...but you always made me wait outside."
+
+    scene amitotherescue19
+    with dissolve2
+
+    m "W...What?"
+    a "I remember the first time...I didn’t really understand what I was hearing. So I stood there with my ear up against the door for what seemed like an eternity, just...{i}listening.{/i}"
+    a "You sounded so happy...I’d never heard you make noises like that before. It was almost...intoxicating. And I don’t even {i}like{/i} girls. Or at least I didn’t {i}think{/i} I did. But with {i}you...{/i}"
+    a "I don’t know..."
+    m "You..."
+    m "You...{i}listened{/i} to us?..."
+    a "Mhm...But that’s not {i}all{/i} I did."
+
+    scene amitotherescue20
+    with dissolve2
+
+    m "{i}What the fuck?...{/i}"
+    a "Do you have any idea what it feels like to listen to your best friend and your {i}father{/i} fuck each other’s brains out every week for years?"
+    a "Because it’s annoying at first. But you start to look forward to it after a while. And you tell yourself every time, {i}soon.{/i} Soon, they’ll remember me. {i}Soon,{/i} they’ll let me in. Just for a peek. "
+    a "And when that day never comes, you get frustrated. You start pretending you’re in there with them. You time your fingers with the creaking of the bed. Time your {i}orgasm{/i} with theirs."
+    a "You and I have cum together so many times and you didn’t even know it..."
+    a "Isn’t that romantic, Maya?"
+    m "Is..."
+    m "Is this..."
+    a "Another nightmare?..."
+    m "Is this...really happening?..."
+    a "That all depends on whether or not you want it to..."
+
+    play sound "static.mp3"
+    scene amitotherescue21 with flash
+    stop sound
+
+    a "What’s gonna happen if Sensei really does leave you for Niki? How are you going to make yourself feel whole then?"
+    a "Because {i}I{/i} can still listen...but you’ll be all alone."
+    a "Maybe you can still come over...and we can {i}both{/i} play pretend. "
+    a "I’m a good actor, Maya. I can play a very convincing Sensei if I have to."
+    m "..."
+    a "Or..."
+    a "We could do that {i}other{/i} thing I mentioned. "
+    a "We could drag him back..."
+    a "But here’s the catch..."
+    a "If that’s the route you want to take...It will never be {i}only you{/i} again. "
+    a "Not for the rest of our lives. "
+    a "It’ll be all three of us..."
+    a "Because how could anyone ever say no to that?"
+    m "Ami..."
+    a "Maya..."
+
+    scene black
+    with dissolve4
+
+    m "{i}I’m in.{/i}"
+
+    $ renpy.end_replay()
+    $ halloweenami1 = True
+
+    jump halloweenfive4
+
+label amispring2:
+    play sound "static.mp3"
+    scene nakayamaslimotrip1 with flash
+    stop sound
+
+    a "Come to think of it, why is everyone always taking me on trips to bond with me? Can I not be bonded with from the comfort of my own home?"
+    ni "No. Because that is where your father lives. And so long as he is present, you are unbondable."
+    n "Unless it’s bond-{i}age.{/i} I’ve found that that’s {i}best{/i} done from the comfort of one’s own home as it’s an inherently safer environment that’s easier to establish boundaries in."
+    a "See, Aunt Niki? If you want to tie me up and do things to me, at least let me stay in bed for it. How do you expect me to accept you as a mother if you can’t even do that much?"
+
+    scene nakayamaslimotrip2
+    with dissolve
+
+    ni "Thank you, Noriko. Now Ami completely understands what this trip is all about. And here I was worried all the ropes and shackles would intimidate her."
+    a "They might at first, but only because all of my experience with stuff like that is on the opposite end."
+    n "Who was the person you tied up, Ami?"
+    a "Maya. "
+
+    scene nakayamaslimotrip3
+    with dissolve
+
+    n "Lucky! I want to do that! Then she’d be forced to like me or she’d have to stay my prisoner forever."
+    ni "Maya’s that girl who has a crush on Akira, right?"
+    a "You could say that about literally everyone I know and you’d still be correct."
+    ni "No, I mean the one who threw a temper tantrum and stormed out of the house on Halloween. She was dressed up as Haruhi Suzumiya, wasn’t she?"
+
+    play sound "static.mp3"
+    scene nakayamaslimotrip4 with flash
+    stop sound
+
+    a "Oh, yeah. That’s Maya alright. Leave it to her to pick someone as dated as Haruhi Suzumiya. She’s like one Halloween off from going as Kagome or something."
+    ni "Are you {i}trying{/i} to start a fight with me, child?"
+
+    play sound "static.mp3"
+    scene nakayamaslimotrip5 with flash
+    stop sound
+
+    n "Don’t feel bad, Nee-chan! I personally {i}love{/i} how you’re stuck in the era you grew up in. "
+    n "It makes me feel less weird about the dramatic gap in time between the unprotected sex our parents had when they were creating us."
+    ni "Thank you, Noriko. I’m very glad you reminded me of our parents having unprotected sex. Make that {i}two{/i} times today I have had to think of our father in that context now."
+
+    scene nakayamaslimotrip6
+    with dissolve
+
+    n "Well jeez, Nee-chan. I know you love our dad, I just didn’t realize you loved him {i}that{/i} much."
+
+    play sound "static.mp3"
+    scene nakayamaslimotrip7 with flash
+    stop sound
+
+    ni "THAT’S NOT WHAT I MEANT!"
+
+    play sound "static.mp3"
+    scene nakayamaslimotrip8 with flash
+    stop sound
+
+    a "Sex with dads and how okay it is aside, I’m excited for this trip! I had a ton of fun with Sara when I went camping last time, so maybe this’ll be just as good?"
+
+    scene nakayamaslimotrip9
+    with dissolve
+
+    ni "Sara? Who is Sara? What is Sara? {i}Why{/i} is Sara? Why did you go camping with her? "
+    a "A friend’s mom. She’s the one who cut my hair. Super nice lady. Loves my dad maybe just as much as you do, Aunt Niki."
+
+    scene nakayamaslimotrip10
+    with dissolve
+
+    ni "..............Oh! "
+    ni "{size=-15}Well I’m sure she’s a very nice lady.{/size}"
+    n "Ooooh, Nee-chan’s jealous now."
+    a "Really? But why would Niki be jealous of a super nice and motherly woman who has already spent time bonding with me and reminding me of how a mother’s touch feels?"
+
+    scene nakayamaslimotrip11
+    with dissolve
+
+    ni "I’m not jealous at all! I mean...{i}I’m{/i} a famous idol. And she’s your friend’s mother, so of course she’s already spoken for. There’s nothing for me {i}to{/i} be jealous of."
+    a "Actually, Sara’s husband walked out on her a long time ago. She’s single now. And desperately looking for a new man to take care of her daughter. "
+    ni "................Oh!"
+    n "..."
+    a "..."
+    ni "Is she fat?"
+
+    scene nakayamaslimotrip12
+    with dissolve
+
+    n "Nee-chan! That’s mean!"
+    ni "What?! I’m allowed to ask! "
+    a "She’s not! She’s actually really small and {i}super{/i} pretty! She could probably pass as a teenager if she really wanted to."
+
+    scene nakayamaslimotrip13
+    with dissolve
+
+    ni "{b}{size=+5}FUCK!{/size}{/b}"
+    ni "Patrice! Pull over! "
+    pat "I can’t. There’s no shoulder. And I’m not going to just let you go out of the car to throw a tantrum. We’re on a highway. That’s a PR disaster waiting to happen."
+    ni "You’re only saying that because you’ve never been in love, you fucking whore! Drive us off a cliff then! That’ll teach that bastard to bring other moms into the picture!"
+
+    scene black
+    with dissolve2
+
+    n "Uhh...Nee-chan? When you say “other moms,” could it be that you’re forgetting you’re {i}not{/i} one of those? Unless- ah! You’re pregante!"
+    a "Aunt Niki’s prangent?! Since when?!"
+    ni "I am {i}not{/i} pergenat! I’m just leaving open the possibility that one day, I {i}might{/i} be?"
+    pat "Why can’t any of you pronounce the word “pregnant?”"
+    ni "Have you never been on the fucking Internet before, Patrice?! Pull over!"
+    pat "To use the Internet?"
+    ni "No! To throw yourself into the ocean, you slimy cunt!"
+
+    scene sky
+    with dissolve2
+    stop music fadeout 12.0
+
+    "And so the car was ultimately brought to a stop just five minutes from the girls’ final destination."
+    "{size=-2}With her manager hovering over her and shielding her from the passing cars, dashcams, and prying eyes, Niki then proceeded to curse her childhood friend to a lifetime worth of erectile dysfunction whenever she wasn’t around.{/size}"
+    "Of course, this would very much not be the case. And he would proceed to have erections around basically everyone because that’s just the kind of guy he was."
+    "On the inside of the limo, though, an awkward silence took the place of the girl who occupied the middle seat just seconds ago."
+    "Because, while Noriko was brought along to cultivate a more bond-friendly environment, the truth was she still didn’t know how to feel about Ami."
+    "But Ami knew how to feel about her."
+    "And what Noriko did not yet understand is that, for perhaps the first time ever, she’d be on the receiving end of what could only be called “faith.” "
+    "Not faith in a god. Not faith in a friend. Not even faith in what was now essentially family."
+    "Just faith that she’d fulfill the role she needed to fill to keep the wheels of time spinning while everything else has stopped. "
+
+    scene black
+    with dissolve4
+
+    "A pencil in the hand of God is as good as a pen in the hand of the Pope."
+    "But when both of those tools are taken away, only one can write in blood."
+    "The other must simply watch."
+
+    play music "acoustic.mp3" fadein 3.0
+    scene nakayamaslimotrip14
+    with dissolve3
+
+    ni "Having some trouble there, Patrice?"
+    pat "I’m honestly just surprised you only brought one bag."
+    ni "There are ten more in the car."
+    pat "Niki, we’re here for {i}one{/i} weekend..."
+
+    scene nakayamaslimotrip15
+    with dissolve
+
+    ni "I know. I just thought you could use the exercise. Aren’t I the nicest client you’ve ever had?"
+    pat "{i}Hah...{/i}I’ll be back with everything else in a minute. But remember, we have a meeting with the photographer in-"
+    ni "Yeah, yeah. Fuck off. Thanks!"
+
+    scene nakayamaslimotrip16
+    with dissolve
+
+    a "Poor Patrice. What did she ever do to anybody?"
+    ni "Didn’t you threaten to kill her the last time you guys met?"
+
+    scene nakayamaslimotrip17
+    with dissolve
+
+    a "Oh, yeah...I guess I did."
+    n "You have a meeting already, Nee-chan? You don’t even get to settle in first?"
+    ni "It shouldn’t take long. I just have to go sign off on a few swimsuits. Make sure nothing’s {i}too{/u} revealing or we might sell too many calendars and I’ll suddenly be drowning in money."
+
+    scene nakayamaslimotrip18
+    with dissolve
+
+    a "This might be a weird question, but have you ever imagined how much you’d make if you did porn?"
+    ni "Not really. I’m too successful to have ever considered pivoting to that. I’m sure the offers will start rolling in once I’m retired, though."
+    n "I’m already getting them."
+
+    scene nakayamaslimotrip19
+    with dissolve
+
+    ni "What? From {i}who?{/i}"
+    n "Probably a bunch of companies who want to hire you and don’t realize how old I am. Social media’s a cesspool nowadays, Onee-chan."
+    ni "Give me your phone. I don’t want those weirdos contacting you anymore."
+    n "I can’t. There are too many nudes of Kirin in there and I don’t want you seeing them despite how badly she probably wants you to."
+
+    scene nakayamaslimotrip20
+    with fade
+
+    ni "Ugh...fine. Whatever. Just don’t fucking respond to any of those people, okay? I’ll have failed as a sister if you start doing porn. Which isn’t even mentioning how it could impact {i}my{/i} career."
+    n "That was such a good opportunity to remind me how much you love me and you squandered it. Who am I to you, Nee-chan? Patrice?"
+    ni "No. But you {i}are{/i} a babysitter until I get back. Now, watch Ami and make sure she doesn’t contact Akira. "
+
+    play sound "slidedoor.mp3"
+    scene nakayamaslimotrip21
+    with dissolve
+
+    n "Okay!"
+    a "Noriko’s not even that much older than me!"
+    ni "{i}True! But Noriko doesn’t want to fuck her dad, so she’s clearly the more mature out of you! Be back soon!"
+
+    scene nakayamaslimotrip22
+    with dissolve
+
+    a "It’s 2020. How are there still girls out there who {i}don’t{/i} want to fuck their dad?"
+    n "I want to fuck {i}your{/i} dad. Does that count?"
+
+    scene nakayamaslimotrip23
+    with dissolve
+
+    a "Close enough, I guess. I’m sure you will sooner or later too. I’m done trying to stop people from doing it."
+
+    scene nakayamaslimotrip24
+    with dissolve
+
+    n "Wait, you are? Since when? How did that happen? This wasn’t just some extremely long, extremely creepy phase, was it?"
+    a "Of course not. There’s just no way for me to get what I want by interfering anymore. "
+    n "And...{i}what{/i} is it you want, Ami?"
+    a "Well, for one, I’d like Niki to stop trying to be my new mother when I already have a perfectly good one. "
+    n "You mean...Sara? Is {i}that{/i} why you brought her up earlier? Cause it...did seem like you were trying to make her jealous. But I just thought-"
+    a "I’m not talking about Sara. I’m talking about my mom. The same one I’ve always had."
+
+    scene nakayamaslimotrip25
+    with dissolve
+
+    n "..."
+    a "..."
+    n "Uhh...Ami? I don’t know how to break this to you, but-"
+
+    scene nakayamaslimotrip26
+    with dissolve
+
+    a "I know she’s dead, okay? But that doesn’t mean I’m okay with just replacing her. There are things she can still teach me from wherever she is now."
+
+    scene nakayamaslimotrip27
+    with dissolve
+
+    a "She left a lot behind. Myself included, obviously. Someone trying to fill her shoes will only distract me from that."
+    n "Nee-chan would never try to {i}replace{/i} her though, Ami. She-"
+    a "I know. She said that herself. But it still doesn’t change the fact that she’s poking her nose where she shouldn’t. And she keeps trying to {i}change{/i} me when my mom never would."
+    n "I mean...l was still super little when your mom was around, but I’m pretty sure she wouldn’t be okay with her daughter trying to fuck her brother-in-law."
+
+    scene nakayamaslimotrip28
+    with dissolve
+
+    a "She was taken away too soon, so I guess we’ll never really know. But I {i}do{/i} know that the thought alone wouldn’t disturb her the way it does Niki."
+    a "My mom understood the strange, sometimes {i}carnal{/i} bonds two people who don’t belong together can have. {i}She{/i} wouldn’t think I’m broken. Niki does."
+    a "But what Niki doesn’t understand is that being “broken” is just an Arakawa family trait. We’re {i}all{/i} like that. "
+    n "She does understand that, though. That’s why she tries so hard to make things better for you {i}and{/i} Nii-chan."
+    a "But that’s {i}her{/i} idea of better. Not ours. And forcing that on us the way she does isn’t going to do anything but hurt her in the long run."
+    n "..."
+    a "..."
+    n "Is it just me...or are you, like...way smarter all of a sudden?"
+
+    scene nakayamaslimotrip29
+    with dissolve
+
+    a "It’s just you! The only thing inside {i}my{/i} head is spending time with my dad. So of course I’ll sound smarter when the conversation is centered around that."
+    a "I still need Makoto’s help for math and stuff, though. So don’t worry, Noriko! You’re still smarter than me!"
+    n "Hm..."
+
+    scene nakayamaslimotrip30
+    with dissolve
+
+    a "Hm?..."
+    n "Are you...happy, Ami?"
+    a "Sometimes. Sometimes, not. How about you?"
+
+    scene nakayamaslimotrip31
+    with dissolve
+
+    n "Sometimes..."
+    n "I doubt you actually care though...and you’re only just asking {i}me{/i} because I asked {i}you.{/i}"
+    a "Well, on that note, do you actually care about {i}me?{/i}"
+
+    scene nakayamaslimotrip32
+    with dissolve
+
+    a "Or do you only {i}have{/i} to care about me because your “Nii-chan” does?"
+    n "..."
+    a "..."
+    n "I wouldn’t have asked you if you were happy if I didn’t care."
+    n "I do."
+    n "I shouldn’t, but I do."
+
+    scene nakayamaslimotrip33
+    with dissolve
+
+    n "And I want you as a sister just as badly as Nee-chan wants you as a daughter, but I feel like there’s nothing either one of us can do to ever have you let us into your life that way."
+    a "Why...would you want me as a sister? What do I bring to the table besides my dad?"
+    n "Well, for one, it would be nice not secretly thinking you want to disembowel me all the time. But more than that...I don’t know."
+    n "I just feel like we’re supposed to be closer than we are. Like it’s weird that we’re the same age and Akira is the one I’m attached to."
+    n "Like, maybe if we met each other more when we were little, things would be different now? And I wouldn’t be as afraid of you as...as I am."
+    a "..."
+    n "See? That. That...blank stare. I never know what you’re thinking. I never know if things are going well when I talk to you anymore. You’re just...I can’t tell what’s real and what’s not."
+    a "That’s not your fault, Noriko. "
+
+    play sound "slidedoor.mp3"
+
+    a "I’ve just made too many mistakes to ever give away what I’m really feeling anymore. "
+
+    scene nakayamaslimotrip34
+    with dissolve
+
+    a "But I’m glad you- wait."
+    a "Dad?"
+
+    scene nakayamaslimotrip36
+    with fade
+
+    s "Hello."
+    n "..."
+    a "..."
+
+    scene nakayamaslimotrip35
+    with hpunch
+
+    n "N-N-NII-CHAN?!?!?! WHAT ARE YOU DOING HERE?! I TOLD YOU THAT THIS NEEDED TO BE A STEALTH OPERATION AND YOU’RE JUST BARGING IN?!"
+    s "Yeah. I’m not good at stealth."
+    n "SO YOU OPEN UP THE POSSIBILITY FOR ME TO BE SACRIFICED TO A DEMON?!"
+    s "Oh, right. I forgot that was the penalty for this."
+    a "Wait, I’m confused. Noriko, did you invite him? Because {i}I{/i} was going to invite him as soon as I had a chance. But-"
+    ni "{i}I TOLD YOU, PATRICE! NO ICE! THERE’S LESS DRINK IF THERE’S ICE! SERIOUSLY, WHAT ARE YOU EVEN GOOD FOR?!{/i}"
+    n "SAVE YOUR QUESTIONS! IT’S TIME TO HIDE!"
+
+    play sound "doorslam.mp3"
+    scene nakayamaslimotrip37 with flash
+
+    n "AND NOW IT’S TIME TO DESTROY!"
+    a "Yeah! How dare you accept Noriko’s invitation and not the one I wanted to make but haven't had the chance to yet!"
+    a "Now it’s going to look like {i}she’s{/i} the one who wanted you here more and that’s simply not true!"
+    s "Okay, sorry. But do you guys really need to pin me up against the wall to yell at me?"
+    n "Of course we do! There’s no room in here!"
+
+    play sound "static.mp3"
+    scene nakayamaslimotrip38 with flash
+    stop sound
+
+    s "There’s tons of room. Just look. You don’t need to-"
+    a "It’s so cramped in here!"
+    n "Yeah! I can barely move!"
+    s "{i}Seriously?{/i}"
+
+    play sound "static.mp3"
+    scene nakayamaslimotrip39 with flash
+    stop sound
+
+    n "Wait — shh. I don’t know how familiar you are with Nakayama Sister Law. But 19A-B-42L states-"
+    a "Demon sacrifice. I know."
+    n "You’ve been studying. I like it."
+    a "{size=-1}Yeah, no problem. Now, can somebody explain to me what’s going on? Because it’s starting to look like you invited my dad here so you wouldn’t have to be the third wheel while Aunt Niki tries to bond with me.{/size}"
+    n "No! I-"
+
+    scene nakayamaslimotrip40
+    with dissolve
+
+    n "Oh. Actually, yeah. That’s exactly what happened."
+    a "What the heck, Noriko?! There’s no way I’m going to be able to escape from your sister once she gets back! How am I supposed to live knowing my dad is so close but I can’t reach him?!"
+    n "The same way you live knowing he’s boning my sister every night while you do your homework."
+    a "By masturbating and wishing it was me instead?! Also, it's very bold of you to assume I do my homework!"
+
+    scene nakayamaslimotrip41
+    with dissolve
+
+    n "I had to masturbate to them for {i}years,{/i} damn it! Don’t tell me you’re throwing in the towel already, weakling!"
+    a "Aaaaah but it’s so hard! I can’t take it anymore!"
+    n "Well, take it for a little while longer because now is {i}my{/i} time to shine, sister!"
+
+    play sound "knock.mp3"
+    scene nakayamaslimotrip42 with hpunch
+
+    ni "{i}Noriko? Ami? Are you...both in there?{/i}"
+    n "J...Just a second?! "
+    a "Yeah! We’re...almost done!"
+    ni "{i}.............{/i}"
+    ni "{i}With what?{/i}"
+    s "{i}Now look what you two have done.{/i}"
+
+    scene nakayamaslimotrip43
+    with dissolve
+
+    n "{i}Us?! This is all your fault, Nii-chan! If you had only waited another ten minutes, you wouldn’t be getting assaulted right now and I wouldn’t be a sacrifice!{/i}"
+    a "{i}Hah...{/i}I have an idea."
+    a "All I ask..."
+
+    scene black
+    with dissolve2
+
+    a "Is that you do not forget this sacrifice..."
+    n "{i}Ami? Where are you-{/i}"
+    a "The time has come...for Ami Arakawa..."
+    a "To do something {i}good...{/i}"
+
+    $ renpy.end_replay()
+    $ amispring2 = True
+    $ ami_love += 1
+    $ noriko_love += 1
+
+    "........."
+    "......"
+    "..."
+
+    jump norikospring3
+
+label amispring3:
+    $ totaldays += 1
+    $ day = 7
+    hide saturday onlayer date
+    show sunday onlayer date
+
+    scene sky
+    with dissolve3
+    play music "youwerespring.mp3"
+
+    "The next morning, Niki called off her photo-shoot."
+    "The reason she gave to her manager and producers was, of course, something along the lines of just “not feeling well” since a breakup would likely be in violation of her contract."
+    "So it’s rescheduled to next weekend instead now. And it’ll be the last calendar shoot she does before making an announcement that her career is coming to an end."
+    "“Graduating” I think they call it in the idol world. So hey, at least {i}someone{/i} gets to since it’s not like any of the other girls I know will be doing that any time soon."
+    "Ami and Noriko don’t know yet. In fact, I don’t think Noriko’s exchanged a single word with her sister since she walked in on us last night."
+
+    scene amiridehome1
+    with dissolve2
+
+    "Which is probably why the ride back to town is so awkward. And why I’d probably jump out of this moving car right now if it weren’t for the fact that it would further traumatize Ami."
+    "At least {i}she’s{/i} in a good mood. "
+    "Though, I can’t imagine she will be for long as I fully intend to ruin that by pulling her aside once we’re home and asking her why she’d orchestrate such a dramatic takedown of a girl I thought she loved."
+    "I imagine she’ll tell me it was for {i}my{/i} sake. Or that she wasn’t {i}trying{/i} to search for us last night — she just couldn’t come up with an excuse to stop {i}Niki{/i} from doing it."
+    "Whatever the case, I’m mad at {i}her{/i} in addition to myself for playing some sort of role in this."
+    "And, you know what? Fuck it. I’m mad at Niki too because she won’t even {i}look{/i} at me today. Which is entirely fair and {i}I{/i} wouldn’t look at me either, but I’m still mad."
+    "She could at least have the courtesy to tell me to fuck off or something. But instead, the only one here I’m {i}not{/i} mad at is Noriko because {i}she{/i} didn’t do anything wrong."
+    "I just also feel terrible for dragging her into this mess. But I’m sure if you asked her, she wouldn’t tell you she regrets it. Just that she regrets getting caught."
+    "So...like me. Just not nearly as bad for obvious reasons."
+
+    scene amiridehome2
+    with dissolve
+
+    a "So! How about we play a game to make this ride a little less quiet and a lot more fun? Anyone up for Shiritori? I’ll go first! Maguro!"
+    s "Ami-"
+
+    scene amiridehome3
+    with dissolve
+
+    a "Bzzzzzt! You needed to come up with a word that started with “ro,” Dad! Now, you’ve already been eliminated and it’s just us girls left."
+    s "No, Ami. I just don’t think anyone wants to play Shiri-"
+    n "Romaji."
+
+    scene amiridehome4
+    with dissolve
+
+    a "Jitensha! "
+    s "Okay. Fuck me, I guess."
+
+    scene amiridehome5
+    with dissolve
+
+    a "Again? But you guys went at it for so long last night."
+    n "Oh, cool. Ami broke the pattern so I win."
+
+    scene amiridehome6
+    with dissolve
+
+    a "Ah, crap. "
+    a "Way to go, Dad. She beats me in love. She beats me in boobs. And {i}now{/i} she beats me in Shiritori. I have literally nothing left."
+    n "We can play again if you want. Beats sitting in awkward silence. "
+
+    scene amiridehome7
+    with dissolve
+
+    a "Mame."
+    n "Megami."
+    a "Minato."
+    n "Tomato."
+    a "Toma- "
+
+    scene amiridehome8
+    with dissolve
+
+    a "Crap!"
+    n "I think you just suck at this game, Ami. Want to play something else instead?"
+
+    scene amiridehome9
+    with dissolve
+
+    a "Sure! What do you have in mind?"
+    n "Hmm...let’s see...{i}let’s see...{/i}"
+
+    scene black
+    with dissolve2
+
+    n "Oh! I brought Karuta! Nii-chan, can you slide over? I need to get my bag."
+    a "Karuta? I haven’t played that in forever. I’m not even sure I remember how."
+    n "Nee-chan taught me, so I will pass down the mystic art to you! Onii-chan, do you want to-"
+    s "No..."
+    s "But you two have fun..."
+
+    "........."
+    "......"
+    "..."
+
+    scene amiridehome10
+    with dissolve2
+
+    "After what can only be described as the longest drive of my life, we make it back to the house and Niki-"
+
+    ni "I’m taking the bed. Don’t come in."
+
+    scene amiridehome11
+    with dissolve
+
+    "...Avoids me, as expected."
+    "That’s fine, though. I can sleep on the couch instead. And besides, it’s not like I got even a minute of sleep last night, so anywhere is fine right now."
+    "I’ll just...leave her alone."
+    "I can do that, right?"
+
+    n "{i}Yikes...{/i}"
+    s "Yeah. Turns out girls don’t like it very much when you have sex with their sister instead of them."
+
+    play sound "static.mp3"
+    scene amiridehome12 with flash
+    stop sound
+
+    a "I mean, I {i}also{/i} don’t like that you had sex with Noriko. But you don’t see {i}me{/i} avoiding you because of it. Maybe Aunt Niki’s just in a bad mood today?"
+    s "Shut up, Ami. Just...please shut up."
+    a "Wow. Maybe {i}you’re{/i} in a bad mood too, Dad."
+    n "Hahah...hah...I, uhh..."
+
+    scene amiridehome13
+    with dissolve
+
+    n "I should probably {i}go.{/i} I imagine you guys, uhh...want some space today."
+    n "But, uhh...call me? Is it...weird for me to say that now? I am in a...rather unique and new situation all of a sudden."
+    a "Later, Noriko. Thanks for fucking my dad and teaching me how to play Karuta."
+
+    scene amiridehome14
+    with dissolve
+
+    n "Chk, chk! Any time, sis!"
+    a "Okay. Tone it down, please."
+
+    scene amiridehome15
+    with dissolve
+    play sound "dooropen.mp3"
+
+    n "I am so sorry you had to see that."
+    a "It’s okay! Bye, Noriko!"
+    n "Bye, Ami! Bye, Nii-chan! Thanks for...all the sex!"
+
+    play sound "doorslam.mp3"
+    with hpunch
+
+    n "{i}GYAAAAAAAH! WHAT AM I DOING?! BE NORMAL, NORIKO! JUST BE NORMAL!{/i}"
+    a "Hahah! Oh, Noriko. Look at how happy she is now that she’s finally gotten what she-"
+
+    stop music fadeout 10.0
+
+    s "Ami. A word, please? In private."
+
+    scene amiridehome16
+    with dissolve
+
+    a "But we’re already {i}in{/i} private, Dad. This is our house. It’s the only the place in the world where the two of us can-"
+    s "In your room. Now."
+    a "My room? But-"
+    s "Ami...{i}now.{/i}"
+
+    scene black
+    with dissolve2
+
+    a "Jeez, Dad. All you had to do was say “please.” You know I can’t say no to you when you do that."
+
+    play sound "static.mp3"
+    scene amiridehome17 with flash
+    stop sound
+
+    a "Not like I’d ever want to anyway, though. You always know what’s best for me after all! And I mean, of {i}course{/i} that’s the case given how long we-"
+    s "Did you help Niki come find us last night?"
+
+    scene amiridehome18
+    with dissolve
+
+    a "Hm? Yeah. "
+    s "Ami-"
+    a "But {i}she’s{/i} the one who figured out you were there. And I can imagine you saw it coming since I’m clearly not the type to engage in lesbian sex with anyone."
+    a "It was a terrible lie. But I saw it through to the end for your sake, Dad. I could only hold her off for so long."
+    s "But you helped her...You knew I was alone with Noriko, and you helped Niki find us."
+    a "...{i}Right.{/i} But how was {i}I{/i} supposed to know you two were having sex? Wasn’t that the first time?"
+    s "Ami-"
+    a "Sorry, why am {i}I{/i} somehow in trouble for you having sex with your girlfriend’s little sister? Is this some kind of roleplay thing? Did you put your dad-pants on this morning?"
+    s "Why are you not upset?...You {i}see{/i} how much she’s hurting, don’t you? Do you have any idea what this means for me and her? Don’t you {i}like{/i} her?"
+
+    scene amiridehome19
+    with dissolve
+
+    a "Of course I like her, Dad! Aunt Niki’s done so much for both of us. I love her with all of my heart. "
+    a "But at the same time, don’t you guys think you might be overreacting a little bit? Like, is it really so bad that she just saw you being yourself? She was gonna find out eventually."
+    s "Yes, {i}eventually.{/i} Organically. Not at the behest of my jealous daughter and her need to always be involved in every facet of my life."
+
+    scene amiridehome20
+    with dissolve
+
+    if amifingered == True:
+        a "You seem quite mad at me, Father. Perhaps a blowjob is in order?"
+        s "No, Ami. I don’t want a fucking {i}blowjob.{/i} I want you to stay out of my private affairs and-"
+    else:
+        a "You seem quite mad at me, Father. Come closer. I will hug you until you’re feeling better."
+        s "I don’t want a fucking hug, Ami. I want you to stay out of my private affairs and-"
+
+    a "And what? Let you torpedo your life all on your own? Got it. It’s not {i}my{/i} fault you fucked Noriko and broke Niki’s heart. Don’t blame {i}me{/i} for that."
+    s "You {i}helped{/i} her! And I don’t know what you two were talking about before you found us, but something tells me it wasn’t exactly wholesome."
+
+    scene amiridehome21
+    with dissolve
+
+    a "It was {i}very{/i} wholesome, actually. Aunt Niki and I had a really long heart-to-heart in the bath about how much we love you and how we’re both so desperate to make you happy."
+    a "I even got to talk about my mom. "
+    a "And for a second, it almost felt like she was there with us, giving Niki her blessing while patting me on the head and thanking me for taking such good care of you."
+
+    scene amiridehome22
+    with dissolve
+
+    a "Which...makes it so much sadder that Aunt Niki’s going to move out now. I was just starting to really like having her around too. This trip was a turning point for us I think. And now that she’s-"
+    s "Niki isn’t moving out."
+
+    scene amiridehome23
+    $ renpy.pause(5, hard=True)
+
+    s "..."
+    a "What?"
+    s "..."
+
+    scene amiridehome24
+    with dissolve
+
+    a "What do you mean she isn’t moving out?"
+    s "I mean she’s going to stay here. We’re just...not going to be spending much time together."
+    a "Then...why is she staying here?"
+    s "Convenience? Maybe for {i}you?{/i}"
+    a "For me."
+    s "Maybe. She didn’t give me a reason. {i}I{/i} thought she was moving out too. But she told me she was going to stay."
+    a "So..."
+    a "You fuck her little sister right in front of her...for {i}five{/i} hours..."
+    a "And she’s still going to live with us?"
+    s "That’s right...she’s not leaving just yet."
+    a "Is she a fucking idiot?"
+    s "Ami...that’s-"
+
+    scene amiridehome25
+    with dissolve
+
+    a "You FUCK her little sister..."
+
+    scene amiridehome26
+    with dissolve
+
+    a "For FIVE fucking hours..."
+    a "And {i}you’re{/i} telling {i}me{/i} that she’s just going to {i}stay.{/i}"
+    s "Is there a problem with that, Ami?"
+
+    scene amiridehome27
+    with dissolve
+
+    a "Oh, no! Not at all, Dad! "
+    a "In fact, I think it’s {i}great{/i} living under the same roof as someone so open-minded! It makes me so extremely curious about which one of my classmates you’re going to fuck in front of her next!"
+    a "Boy, I sure do hope it’s me!"
+
+    scene black
+    with dissolve2
+    $ renpy.pause(1, hard=True)
+    scene amiridehome28
+    with dissolve2
+
+    s "So {i}that’s{/i} why you were smiling all morning...You thought she was leaving."
+    a "Oh, {i}forgive me{/i} for wanting my life back! {i}You’re{/i} the one who invited her here! Not me!"
+    s "You were smiling when you interrupted Maya and me the other night as well."
+    a "Mhm! I {i}did{/i} offer to watch, though. So it’s not like I’m {i}evil,{/i} is it?"
+    s "..."
+
+    play sound "static.mp3"
+    scene amiridehome29 with flash
+    stop sound
+    play music "itsingsinitssleep.mp3"
+
+    a "{i}Is it?...{/i}"
+
+    "I look down at her, but I do not see my daughter."
+    "I see someone who looks like her...talks like her...smells like her...but {i}my{/i} daughter wishes for nothing but my happiness. "
+    "And this girl wants to hurt me."
+
+    s "..."
+    a "You have no idea how much I do for you...do you, Dad?"
+    s "You’ve always done everything for me, Ami...but that doesn’t give you the right to toy with the people I love and-"
+    a "Oh, no. No, no, no. I’m not talking about cooking...or {i}cleaning...{/i}or filing your fucking {i}taxes.{/i} I am talking about everything {i}else.{/i} The things I do that you don’t see."
+    s "Well, then how the fuck would I know about them, Ami?"
+
+    play sound "static.mp3"
+    scene amiridehome30 with flash
+    stop sound
+
+    a "YOU WOULDN’T! THAT’S THE FUCKING POINT!"
+    a "So when I ask you if you have any idea how much I do for you, the answer is obviously no! “No, Ami! I don’t know what you do! But thank you! I love you! Yours truly, Father!”"
+    s "Fine! Sure! But either way, the fact that you’re running around and praying for the downfall of the people I love-"
+    a "Don’t fucking talk to {i}me{/i} about praying, Dad! Not even as a figure of speech! I will not lose {i}you{/i} to some fucking worthless God as well!"
+
+    play sound "static.mp3"
+    scene amiridehome31 with flash
+    stop sound
+
+    s "What the fuck is {i}that{/i} supposed to mean?! Who else have you lost to-"
+
+    play sound "static.mp3"
+    scene amiridehome32 with flash
+    stop sound
+
+    a "YOU KNOW EXACTLY WHO I LOST! "
+    a "YOU SAW WHAT WAS HAPPENING TO HER AND YOU IGNORED IT! YOU WERE THE ONLY ONE SHE TRUSTED AND YOU DIDN’T FUCKING LISTEN! YOU LET IT CONSUME HER!"
+
+    play sound "static.mp3"
+    scene hydrangeafield2 with flash
+    scene imissyoumore with flash
+    scene amiridehome33 with flash
+    stop sound
+
+    a "POEM AFTER POEM AFTER POEM! VOICES, VOICES, VOICES! IT’S NO WONDER SHE COULDN’T BREATHE WITH A NOOSE LIKE THAT AROUND HER NECK!!"
+    s "Your mom...died in an accident, Ami..."
+    s "She didn’t-"
+
+    play sound "static.mp3"
+    scene amiridehome34 with flash
+    stop sound
+
+    a "I know how she fucking died! But she was {i}practically{/i} dead for a whole fucking year before that while her mind was being overrun by who the fuck {i}knows{/i} what!"
+    a "And {i}you{/i} could have done something! {i}You{/i} could have listened! Because I know you read the poems! But you didn’t understand them! You didn’t believe them! No one did!"
+    s "..............."
+
+    scene amiridehome35
+    with dissolve2
+
+    a "And I...how am I supposed to think you’ll believe {i}me{/i} then? "
+    a "I don’t {i}blame{/i} you for the fact that she’s gone. I just...when I think about how {i}scared{/i} she must have been that last year...I can’t take it..."
+    a "I can’t take it..."
+
+    play sound "static.mp3"
+    scene yourname with flash
+    scene smileex with flash
+    scene anormaldoor with flash
+    scene amiridehome36 with flash
+    stop sound
+
+    a "AAAAAAAAHHHHH! I CAN’T TAKE IT! IT HURTS TOO MUCH! "
+
+    play sound "static.mp3"
+    scene amiridehome37 with flash
+    stop sound
+
+    a "AND NOW YOU HATE ME TOO?! I HAVE NO HAIR LEFT TO CUT OFF! I WAS ONLY DOING WHAT I HAD TO!"
+    s "So what?...You {i}had{/i} to get Niki out of the house? "
+    s "Will {i}that{/i} bring your mom back, Ami? Is {i}that{/i} what you want?"
+
+    play sound "static.mp3"
+    scene amiridehome38 with flash
+    stop sound
+
+    a "Don’t fucking talk to me like that..."
+
+    scene amiridehome39
+    with dissolve
+
+    a "{b}I will NOT let you TALK to me like THAT! Not with everything I have to endure for YOUR SAKE!{/b} "
+    s "Ami..."
+
+    play sound "static.mp3"
+    scene amiridehome40 with flash
+    stop sound
+
+    s "What {i}happened{/i} to you?..."
+    a "What {i}HAPPENED{/i} to me?!"
+
+    play sound "static.mp3"
+    scene amiridehome41 with flash
+    stop sound
+
+    a "{b}{i}YOU{/i} DID! {i}YOU{/i} happened to me! I’m like this because of {i}YOU!{/i}{/b}"
+
+    play sound "static.mp3"
+    scene amiridehome42 with flash
+    stop sound
+
+    a "And you fucking KNOW it because it’s the only GOD DAMN FUCKING REASON you will let me call you “Dad” now!"
+    a "Do you have ANY idea how fucking HARD it is for a seven year old to raise TWO PEOPLE when you’re in your fucking THIRTIES and can’t even raise YOURSELF?!"
+    a "But now I’M the bad guy because you lost something you never deserved and need someone to BLAME?! I DID NOTHING! "
+    s "You wanted her gone..."
+    a "{b}{size=+10}YOU’RE DAMN FUCKING RIGHT I DID!{/size}{/b}"
+    a "BECAUSE DESPITE ALL OF THAT! DESPITE THE PAIN AND TORTURE AND NEVER KNOWING IF YOU WILL EVER TRULY UNDERSTAND THE SHEER GRAVITY OF WHAT I DO FOR YOU..."
+    a "DESPITE KNOWING THAT THE LAST YEAR OF MY MOM’S LIFE IS THE ONE THING YOU’LL NEVER STOP SUPPRESSING..."
+
+    scene amiridehome43
+    with dissolve2
+
+    a "Despite all of that..."
+    a "I have never stopped living for {i}you.{/i}"
+    a "The one thing I have left."
+    a "But sometimes?..."
+    a "I feel like you’d be happier if I died too."
+    s "....................."
+    a "And there’s only one way to find out if that’s true or not."
+    s "Ami-"
+    a "Don’t follow me."
+    a "I want to be alone."
+
+    scene amiridehome44
+    with dissolve
+    play sound "footsteps.mp3"
+
+    s "Can you at least tell me where you’re going?"
+    a "Somewhere I won’t be a fucking {i}burden{/i} anymore!"
+    s "Ami-"
+
+    play sound "doorslam.mp3"
+    scene amiridehome45 with hpunch
+    $ renpy.pause(10, hard=True)
+
+    "I kept thinking to myself — as I stood there in a room a little girl decorated without my help — that there was no way Niki could hear all of this and not come in to tell me things will be okay."
+    "But she didn’t."
+    "So I stood there for the next half hour, wondering how to make love stay. But there was nothing I came up with that didn’t immediately make things worse."
+    "Now she’s gone. And Ami’s gone. And not even the ghost is here to poke fun at how badly I’ve fucked everything up this time."
+    "And sure, there are places for me to go..."
+
+    stop music fadeout 10.0
+
+    "Other people who’d be happy to {i}help{/i} me right now..."
+    "But I’m too scared to call them."
+    "I just miss my daughter."
+    "I miss my childhood friend."
+    "And I’ve only been alone for thirty minutes."
+
+    scene black
+    with dissolve2
+
+    "I lie down in Ami’s bed. And when I close my eyes, I can almost trick myself into believing she’s still here."
+    "But despite having stayed awake all night, I’m unable to fall asleep. I feel like I don’t deserve this bed. "
+    "Or her."
+    "Or any of this."
+    "But there is a closet-"
+    "Propped open by a school bag with a notebook sticking out."
+    "And for some reason-"
+    "I think I’ll be able to sleep in there."
+
+    $ renpy.end_replay()
+    $ amispring3 = True
+    $ amiblock = True
+    $ noriko_love += 1
+
+    "{i}Noriko’s affection has increased to [noriko_love]!{/i}"
+    "{i}Everyone else has abandoned you...{/i}"
+    "........."
+    "......"
+    "..."
+
+    jump yukispring5

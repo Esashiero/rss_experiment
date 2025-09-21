@@ -1,0 +1,1043 @@
+ it. But that still doesn’t mean I’d {i}hurt{/i} anybody. Ayane’s been in love with you forever and I haven’t stabbed her yet."
+    s "Good. Continue not doing that for the rest of forever and we won’t have a problem."
+
+    scene amilockerroom7
+    with dissolve
+
+    a "Hey, is something going on? You seem a little weird today. "
+    s "As the only one fully clothed in this room, I beg to differ."
+
+    scene amilockerroom8
+    with dissolve
+
+    a "Technically, it isn’t weird to be undressed in a locker room. So you can go ahead and get naked too if that makes you feel better, Sensei. It’s only natural."
+    s "I’m good. It’s risky enough being in here like this...and I doubt I’d be able to talk myself out of anyone walking in if I wasn’t wearing anything."
+
+    if amifingered == True:
+        a "So don’t talk your way out of it! No harm in Uta-chan or Osako-chan knowing how much you love your niece."
+        s "There is when the way I love you transcends the way I’m {i}supposed{/i} to."
+        a "Nuh-uh. You love me {i}exactly{/i} how you’re supposed to. And anyone who has a problem with that just doesn’t understand."
+        a "To be honest, if you {i}didn’t{/i} love me the right way after all this time, I’d probably go insane! So be happy that you do!"
+        s "Wow, awesome. That’s so reassuring. Thanks, Ami."
+
+        scene amilockerroom14
+        with dissolve
+
+    else:
+        a "You could always grow a backbone and just have sex with me already. {i}Then{/i} you wouldn’t have anything to hide at all."
+        s "Please don’t do that."
+        a "Do what? Remind you that I want you to fuck my tight, virgin pussy while I wrap my legs around your waist and dig my nails into your back? Doesn’t that sound hot?"
+
+        scene amilockerroom9
+        with dissolve
+
+        s "..."
+        a "Just you and me...and whoever else decides to walk in. But of course, they’d be forced to watch since you’d never even think about giving any of {i}our{/i} DNA to somebody else, right?"
+        s "You need to stop."
+
+        scene amilockerroom10
+        with dissolve
+
+        a "No."
+        s "Ami-"
+        a "Why would I stop? I’m in the midst of puberty and have so many feelings I need help understanding. If only there was {i}someone{/i} who could help me learn."
+        a "Preferably someone who’s familiar with my body so I know I’d be in good hands. And is also related to me and has glasses and is named Sensei. "
+
+        scene amilockerroom11
+        with dissolve
+
+        a "Basically, you should fuck me or I am going to go crazy. Like, for real."
+        s "..."
+        a "Like...{i}for real.{/i}"
+        s "..."
+
+        stop music
+        scene amilockerroom13
+
+        a "Like, for real."
+        a "I’m going fucking insane."
+        s "..."
+        a "..."
+
+        play sound "static.mp3"
+        scene amilockerroom14 with flash
+        stop sound
+        play music "amiamiami.mp3"
+
+    a "Anyway, regardless of how risky you think this is, I don’t see it as a bad idea at all."
+    s "Yeah, of course {i}you{/i} don’t. I’m 99%% sure the only reason you became a maid in the first place was because you knew I had a thing for them."
+    a "Sounds pretty considerate if I do say so myself. Which I do because I am very considerate and am always putting {i}your{/i} needs ahead of mine."
+
+    scene amilockerroom15
+    with dissolve
+
+    a "This really was a nice change, though. "
+    a "I didn’t realize just how much I’d enjoy it until I started working here."
+    a "Now, I don’t know if I’ll ever be able to stop. "
+    a "I might just stay a maid for the rest of eternity."
+    a "Do you think I could live like that, Sensei?"
+    s "I think you might reach a point age-wise where it isn’t really feasible anymore. But hey, follow your dreams and all that. "
+
+    scene amilockerroom16
+    with dissolve
+    play sound "dooropen.mp3"
+
+    s "And if you’re lucky, you might even grow into a new uniform one day."
+    a "Now, that was just plain rude."
+    u "And in here you’ll find-"
+
+    scene amilockerroom17
+    with fade
+
+    u "Something that is...totally not safe for work..."
+    c "Uhh..."
+    a "Oh, hey! Don’t mind me. It was just a little too hot in the uniform, so I decided to take it off for my break since Sensei was cool with it. Right, Sensei?"
+    s "I had nothing to do with this."
+    a "See? This is totally normal for him. It doesn’t even register as inappropriate."
+    a "Anyway, did you guys need something? Because you’re kind of interrupting our conversation right now."
+
+    scene amilockerroom18
+    with dissolve
+
+    c "Uhh...Uta was giving me a tour of the place since I’ve been thinking about coming to work here. "
+    a "You probably shouldn’t bother. It’s a lot of really hard work and we have enough employees already."
+
+    scene amilockerroom19
+    with fade
+
+    c "Yeah, I can decide for myself...but thanks for the heads up."
+    u "So, uhh...this probably wasn’t the most {i}normal{/i} thing to walk into, but I swear that nothing like this has ever happened before and, if it {i}has,{/i} I totally don’t know about it."
+
+    scene amilockerroom20
+    with dissolve
+
+    c "It’s whatever. I’m not even surprised given that she drags him into dressing rooms with her as well. Besides, it’s not like Sensei thinks anything of it. Just look at him."
+    u "I don’t know, Chika. It might not be official, but Ami’s held the number one spot in the Sensei love ranking ever since it was established."
+
+    scene amilockerroom21
+    with dissolve
+
+    c "Wait, {i}Ami{/i} is number one?! And I’m only in the top five?! Are you fucking kidding me?!"
+    u "I...I see you’re already familiar with the ranking! That’s good! "
+    c "How much did she pay you for that spot?! I’ll pay double!"
+    s "Chika, you’re poor. {i}And also shouldn’t be fighting for this right now.{/i}"
+
+    scene amilockerroom22
+    with dissolve
+
+    c "Oh. Uh...yeah. I mean, it’s just a stupid ranking after all. I don’t even need to be on it or whatever. Plus, it’s, like...not even official."
+    u "R...Right! "
+    u "So, umm...anyway, this is the locker room. And when Ami isn’t busy trying to get weird with her uncle, it’s where we stash our stuff and change into our uniforms and whatnot."
+    u "If you {i}do{/i} decide that this might be the place for you, you’ll get a locker along the wall and-"
+
+    scene amilockerroom23
+    with dissolve
+
+    a "And that’s it! Locker room tour over! Bye, guys! Sensei and I were talking about important family business and, I don’t want to be rude, but you’re {i}kind of{/i} still in the way."
+    c "Oh. Sorry, Ami. I’m used to important family conversations being held with clothes {i}on.{/i} I didn’t realize it was different for other families."
+    a "That’s fine. I understand. Bye."
+    u "Huh. My family didn’t have many talks like that, but I’m pretty sure we would’ve kept our clothes on too. But hey, different strokes for different folks, I guess."
+    c "Ugh, whatever. Let’s just go."
+    u "Wait! Don’t you want to try on the uniform first?! I have an extra! And if it sounds like I’m excited to see you in it, it’s probably just because I really like maids!"
+    a "That would be a bad idea since Sensei is in here and it would be like, totally weird for a teenager he’s {i}not{/i} related to to get undressed in front of him."
+    c "Right, yeah. And it’s not weird at all for his niece to do that."
+    a "Exactly."
+    c "Do you seriously just not understand sarcasm at all?"
+    a "Guess not. See you in school, Chika! "
+
+    play sound "dooropen.mp3"
+
+    c "Whatever. Come on, Uta."
+    u "Wait! Noooooo!"
+    s "..."
+    a "The nerve of some people. Not realizing when they should both knock {i}and{/i} mind their own business. We’re {i}clearly{/i} in the middle of something here."
+    s "..."
+
+    scene amilockerroom24
+    with dissolve
+
+    a "..."
+    s "..."
+    a "What? Why are you looking at me like that?"
+    s "There was no reason for you to act that way toward them, Ami. "
+    s "It would be one thing for Uta since the two of you see each other all the time and she can just laugh it off...But Chika doesn’t know you that well. And you don’t want {i}her{/i} to be your enemy."
+    a "Why would she be my enemy? All I did was ask for some alone time with my uncle. If she takes that the wrong way, that’s on her."
+    a "This might be the locker room, but it’s also the {i}break{/i} room. And I’m on break right now, which means I shouldn’t have to worry about work-related stuff."
+    s "You just could have been a little nicer. That’s all I’m saying."
+
+    scene amilockerroom25
+    with dissolve
+
+    a "Mm...you’re right. Maybe I {i}was{/i} a little too pushy just now?..."
+    a "I should probably go and apologize..."
+    s "You should probably get dressed first. Because as happy as the {i}customers{/i} might be to see a maid in her underwear, I can’t imagine your coworkers would feel the same."
+    a "I can’t imagine I’d {i}have{/i} any coworkers after pulling a stunt like that. "
+    a "I’ll just apologize whenever I see Chika next. I don’t have anything against her. In fact, I kinda look up to her in a bunch of ways."
+
+    scene amilockerroom26
+    with dissolve
+
+    a "She’s gorgeous...and cool...and popular...and can pull off, like...any outfit ever. {i}Plus,{/i} she’s smart and has really nice boobs that I am only kind of jealous of. "
+    a "And by “kind of” I mean I want her boobs."
+    a "Or any boobs."
+    a "But alas...Ami is a washboard..."
+    s "I’m not going to weigh in on the whole apologizing thing since this doesn’t {i}really{/i} have to do with me, but I’m glad to hear you’re considering it."
+
+    scene amilockerroom27
+    with dissolve
+
+    a "Of course. I’m one of the good guys. "
+    a "But you’re wrong about this not having anything to do with you. "
+    a "I thought it was pretty clear Chika was jealous back there. And that’s probably why I acted the way I did. I doubt I would have snapped if it was someone who {i}didn’t{/i} like the same person as me."
+    s "Have you ever considered maybe...not caring about how other girls feel about me? People can’t help who they fall for. You shouldn’t resent them for that."
+
+    scene amilockerroom28
+    with dissolve
+
+    a "I don’t resent anybody. Like I said, I admire Chika. "
+    a "I just get a little irked when I think about the two of you together and go into protective mode. But it’s not like that’s a {i}new{/i} thing."
+    a "I just want you to be safe. That’s all."
+    s "And you don’t think I’d be safe with Chika?"
+    a "Right."
+    s "Why?"
+    a "Because she’s a teenager."
+    s "And you’re not?"
+    a "I’m different. I’m your niece. We live together. If you lived with Chika, it would raise some eyebrows."
+    s "So when Chika graduates high school- "
+    s "Actually, when {i}all{/i} of the girls graduate high school, you’ll be okay with me dating them?"
+
+    scene amilockerroom29
+    with dissolve
+
+    a "Hmm..."
+    s "..."
+    a "..."
+    s "Are you actually thinking about it?"
+    a "Of course. You asked me a serious question, so it’s my responsibility to give you a serious answer."
+
+    scene amilockerroom28
+    with dissolve
+
+    a "And that serious answer is no. "
+    a "I won’t ever be okay with you dating anyone other than me because I am the one you love the most and we are meant to be together. The end."
+    a "You almost got me, though. "
+    s "I wasn’t trying to {i}get{/i} you, Ami. I was trying to help you understand that I can be safe with other people. It doesn’t have to be you."
+    a "What are you talking about? Of course it does."
+    s "No, it doesn’t. And to be honest, you’ve been getting way too clingy lately. Which is crazy since you were already clingy to start with."
+
+    scene amilockerroom30
+    with dissolve
+    stop music fadeout 5.0
+
+    a "Huh?..."
+    s "I’m serious. You need to start letting me breathe."
+    s "I love you. But my world doesn’t revolve around you."
+    a "Yes it does..."
+    a "I do everything for you. You’d...be nowhere without me. "
+    a "You’d have no clean clothes and live off of instant noodles. The trash would pile up and the house would start smelling weird."
+    a "You’d have to warm the bath all by yourself and you always complain when you have to do that. And that’s not even counting all of the times you’ve asked for help with-"
+    s "How can I get better at {i}anything{/i} if you’re always just...going to do everything {i}for{/i} me?"
+    a "...What?"
+    a "Why would you need to get better? "
+    a "Who told you that you need to get better?"
+    s "No one. "
+    s "I just...do."
+    a "But...no."
+    a "No."
+    a "You’re already...the best you can be. "
+    a "You don’t need to grow any more."
+    a "You’ve done enough."
+    s "I haven’t."
+    s "And I’d appreciate it if you’d stop suffocating me."
+    a "..."
+    s "..."
+
+    scene amilockerroom31
+    with dissolve
+
+    a "..."
+    s "..."
+    a "..."
+    s "..."
+    a "..."
+    s "..."
+    a "..."
+    s "..."
+    a "..."
+    s "..."
+
+    scene black
+
+    a "No."
+
+    $ renpy.end_replay()
+    $ amimaid50 = True
+    $ ami_love += 1
+
+    "{i}Ami’s affection has increased to [ami_love]!{/i}"
+    "........"
+    "......"
+    "..."
+
+    jump saturdayafternoon
+
+label amiinvite4:
+    stop music
+    play sound "static.mp3"
+    scene happy1 with flash
+    scene happy2 with flash
+    scene happy1 with flash
+    scene happy3 with flash
+    scene happy1 with flash
+    scene happy2 with flash
+    scene amimakesyoudinner1 with flash
+    stop sound
+    play music "comfort.mp3"
+
+    "I love my niece."
+    "She’s the only thing I’ll ever need."
+    "When I’m with her, I feel happy. And when I’m {i}not{/i} with her, I can’t stop thinking about her."
+    "It doesn’t matter if she wants me all to herself. Or that she fights away anyone else who wants to see me."
+    "She’s doing it all for good reason — because she needs me in order to function."
+    "It’s the same way I feel about her."
+    "If that’s not true love, I don’t know what is."
+    "She’s such a good girl."
+    "If she cut her finger slicing carrots, I would put it in my mouth and suck on it until the blood clotted."
+    "If I watched her empty rat poison into my supper, I would still eat it because I know she’d never do anything to hurt me and that it’s probably just for flavor."
+    "You have no idea how much I love my niece."
+    "You have no idea how much she loves me."
+    "No one can and no one ever will."
+    "The Ami scene will begin now."
+
+    a "What do you think you’re doing?! I told you I don’t need any help!"
+    s "Who says I’m helping and not just standing around? This is my house and I’m allowed to stand wherever I want."
+    a "It’s my house too, mister. And if I say you’re getting in the way, it means you’re getting in the way!"
+    s "Are you trying to tell me you don’t care about my company anymore?"
+
+    scene amimakesyoudinner2
+    with dissolve
+
+    a "{i}No.{/i} I’m trying to tell you that tonight’s dinner is a surprise and that you’re going to ruin it if you keep watching me. "
+    s "It’s not much of a surprise if you’re going to be waving the cookbook around in front of my face like that."
+
+    scene amimakesyoudinner3
+    with dissolve
+
+    a "Hey! Stop looking and go sit down! I’m doing this for {i}you,{/i} you big meanie!"
+    s "You’re absolutely {i}sure{/i} you don’t want any help? I know I’m normally useless, but I can at least mix stuff if I try hard enough."
+    s "And surprises aren’t really my thing in general, so if that’s what’s keeping you from-"
+
+    scene amimakesyoudinner4
+    with dissolve
+
+    a "I’m fine. I’m sure you had a long day and that you want to relax now. There’s no need for you to interfere with {i}my{/i} job when I never interfere with yours."
+    s "To be fair, I’m not so sure your intellect would {i}allow{/i} you to effectively interfere with my job. Leave things like that to Makoto."
+
+    scene amimakesyoudinner2
+    with dissolve
+
+    a "You shut your mouth or I really {i}will{/i} pour rat poison into your dinner."
+
+    scene black
+    with dissolve2
+
+    "I love my niece."
+    "She reminds me a lot of someone else I used to know."
+    "It’s someone I try not to think about because it hurts when I do."
+    "But it hurts even more to not think about her."
+    "Damned either way, I blank everything out and take a seat at the living room table."
+    "I eagerly await the dinner my wonderful niece is making me."
+    "I’m sure it will be delicious because she understands the things I like and the textures and the colors and the food and the food and niece and did I mention I love her?"
+    "I love her so much."
+    "My niece, I mean."
+    "Not the other person I mentioned a moment ago because she isn’t real and you can’t love what isn’t real and oh look Ami is back."
+
+    play sound "static.mp3"
+    scene amimakesyoudinner5 with flash
+    stop sound
+
+    s "Curry?"
+    a "And lots of it. Good thing we bought that second rice pot, right?"
+    s "Ami, this is too much food."
+    a "Then we’ll have leftovers. Who cares? Curry is always better on the second day anyway. "
+    s "Fair enough. Is this really so special that I had to step away from the kitchen, though? Anyone can make curry."
+    a "This isn’t just any curry, Sensei. It’s Ami’s special curry — made with real Ami. "
+    s "Real Ami?"
+    a "It’s full of my blood. I used it in place of salt. I hope you like it."
+    s "As long as it’s not rat poison."
+
+    "I spoon a spoonful of curry into my spoon and then spoon it into my mouth. I can’t even taste the blood."
+    "Ami’s special curry is way better than anything you can buy from the store and I’m glad she made it for me tonight."
+
+    s "I love your blood."
+
+    scene amimakesyoudinner6
+    with dissolve
+
+    a "Thanks! I love it too."
+    a "I was just kidding, though. This is normal curry without any Ami in it. But I’m glad to know you would have eaten it if there was!"
+    s "If there is no Ami in the curry how can it be called Ami’s special curry?"
+
+    scene amimakesyoudinner7
+    with dissolve
+
+    a "It’s special because it’s rare! "
+    a "I’ve only made it a few times since I started high school. Which means you should savor it since you have {i}no idea{/i} when the next time you’ll get any is."
+    s "Probably the next time I ask. I can’t imagine a world where you’d ever say no to something I want."
+
+    scene amimakesyoudinner8
+    with dissolve
+
+    a "Nuh-uh. There are plenty of things I’d say no to. You just don’t normally ask for any of them because you love me so much. Right, Sensei?"
+    s "Yes."
+
+    "I love my niece so much that I am not opposed to consuming her bodily fluids when she uses them to cook."
+    "I am also not opposed to consuming her and if she shrunk herself down to the size of a pill I would take her with a glass of water, swallow her, and allow her to expand in size inside of me."
+    "You have no idea how much I love my niece."
+
+    a "Thank you, thank you. "
+    a "It’s always so much fun whenever you think out loud. You don’t share your feelings enough and hearing them straight from the source is like heroin for me!"
+    a "But of course, I say that as a good girl who has never done and never {i}will{/i} do drugs. Because the only drug I need is you."
+
+    "Awwwwww."
+
+    a "Teehee!"
+    a "You’re lucky I don’t take {i}real{/i} advantage of you when you’re like this, Sensei. It would be so easy."
+    s "Like what? What am I doing wrong?"
+
+    scene amimakesyoudinner9
+    with dissolve
+
+    a "You’re not doing anything {i}wrong.{/i} You’re just probably not doing what you think you’re doing."
+    a "There’s a disconnect between your mind and what’s actually happening that makes things seem normal to you when they’re not like, {i}actually{/i} normal."
+    a "It’s a coping thingy."
+    a "For example, you’re totally naked right now and you probably didn’t even realize."
+
+    "I look down and confirm that I am, in fact, naked. "
+    "Whoopsie."
+
+    s "That’s so weird. Most of my thoughts are entirely coherent right now. "
+    s "There have been plenty of times where I’ve blacked out, but this is kind of like a halfway point where I’m still {i}sentient.{/i} "
+    s "How curious."
+    a "It’s probably because of what I mentioned earlier."
+    s "What did you mention earlier?"
+    a "My parents."
+
+    stop music
+    scene amimakesyoudinner10
+    play sound "glass.mp3"
+
+    s "..."
+    a "I said something in passing about how you’ve slipped into the dad role perfectly and I guess your brain just kinda kicked itself into self-defense mode."
+    a "It’s my fault for letting it slip. I understand by now that this can happen since the same thing happens to me sometimes."
+    a "It’s true, though. And there’s no harm in saying that now since you’re already like this."
+    a "I don’t want to say you’re more of a dad to me than my real dad ever was, but I definitely like you more."
+
+    play sound "static.mp3"
+    scene amimakesyoudinner11 with flash
+    stop sound
+    play music "hometown.mp3"
+
+    a "Granted, I was always more of a mama’s girl in the first place. "
+    a "I didn’t {i}dislike{/i} my dad or anything. He was totally...normal. "
+    a "But next to Mom, he just..."
+    s "..."
+    a "..."
+    a "No one could ever look good next to her. It wasn’t his fault."
+    a "She was beautiful. Creative. Funny. Smart. "
+    a "And the way she treated me..."
+    a "It was like nothing else mattered to her."
+    s "..."
+    a "..."
+
+    scene amimakesyoudinner12
+    with dissolve
+
+    a "Sorry. I know I’m getting emotional when we haven’t even started eating yet, but..."
+    a "Honestly, my mind’s been kind of all over the place lately."
+    a "What with those standardized test thingies and...with Maya and Ayane starting to...treat me like I’m some kind of..."
+
+    scene amimakesyoudinner13
+    with dissolve
+
+    a "Never mind. We don’t have to get into that right now. I’m more interested in hearing what {i}you{/i} have to say about my parents."
+    a "You miss them too, right?"
+    s "..."
+    a "..."
+    a "Of course you do...How could you not when you were hit just as hard by their passing as me?"
+    a "But it’s fine. Well...no. It’s not fine. Nothing like that can ever {i}be{/i} fine."
+    a "But they’re in a better place now. Or at least I hope they are."
+    a "I know Mom never believed in God."
+    a "She pretended to around me because it was the “right” thing to do, but even when I was little, I could tell she was just going along with it for my sake."
+    s "..."
+    a "You feel the same as her, don’t you?"
+    a "That there is no afterlife. Or reincarnation. Or...anything at all."
+    s "..."
+    a "I don’t like that."
+    a "I can’t stand the idea of the two of them just...covered in dirt for the rest of forever. "
+    a "I want them to go somewhere else. And I want to go somewhere else when {i}I{/i} die too."
+    s "..."
+    a "..."
+    a "I know you loved her, Sensei."
+
+    scene amimakesyoudinner14
+    with dissolve
+
+    a "And I’m not just saying that because {i}everybody{/i} loved her. I know she was important to you in a way my dad never was."
+    a "And even if you and him never saw eye to eye on stuff, I know you must at least {i}kind of{/i} miss him too."
+    a "But he’d be proud of you if he could see you now. And so would my mom."
+    a "You’re doing an amazing job. We both are."
+
+    scene amimakesyoudinner15
+    with dissolve
+
+    a "Which is why I’m going to try harder to be like her."
+    a "To be someone everyone loves and admires. But, more importantly than that..."
+    a "To be someone {i}you{/i} love and admire. Because what you think matters more to me than every other thought in every other world squished into one giant ball."
+    s "You don’t want that."
+
+    scene amimakesyoudinner16
+    with dissolve
+
+    a "Huh?"
+    s "You don’t..."
+    s "Want...to..."
+    a "..."
+    s "Don’t..."
+    a "Why not? Why would I {i}not{/i} aspire to be someone that important to you? And don’t go saying it’s because you already love me a lot since we both know you can always love me {i}more.{/i}"
+
+    "I reach into the back of my mind, unsure of whether or not I’ll be able to latch onto anything and, if I {i}do{/i}, if Ami will be able to catch a glimpse of it."
+    "She’s seen almost everything so far. The things I thought were private wound up not being private at all. "
+    "I do not know the shape I’m in or the state of my mind. But as someone so accustomed to seeing me this way and at least {i}attempting{/i} to fix me up, I hope she’ll understand."
+    "Goodbye thoughts of blood...dismembered carrots. "
+    "Goodbye colors, textures, wan’dring rabbits."
+    "{size=-3}In this desperate plea for a voice to speak I clap my hands and stomp my feet but it’s not a tantrum I repeat I’m doing this because I’m weak my throat is hoarse from lack of sleep and this run on sentence hurts to read but-{/size}"
+    "I can not punctuate something that is meant to look broken. "
+    "And I can not place a period in a sentence that is never meant to end."
+    "All I can do is split myself open and hope that some of my guts spill onto Ami."
+    "She’s chasing after something she doesn’t want to find."
+    "And should she ever spot a period...or another ending mark-"
+    "I pray she just ignores it."
+    "Thus begins another arc."
+
+    s "She..."
+    a "..."
+    s "You..."
+
+    scene amimakesyoudinner17
+    with dissolve
+
+    a "Uhh...l...let’s move on! "
+    a "We should talk more about how...uhh..."
+
+    scene amimakesyoudinner18
+    with dissolve
+
+    a "Uhh..."
+    a "Um..."
+
+    scene amimakesyoudinner19
+    with dissolve
+
+    a "Right! Maya and Ayane have been really mean to me lately! Do you want to hear more about that?"
+
+    stop music
+    play sound "static.mp3"
+    scene happy1 with flash
+    scene happy2 with flash
+    scene amimakesyoudinner20 with flash
+    stop sound
+    play music "normalday.mp3"
+
+    s "Sure."
+    a "..."
+    s "..."
+    a "..."
+    s "Are you crying?"
+
+    scene amimakesyoudinner21
+    with dissolve
+
+    a "What do you mean “Am I crying?!” Things just got really intense and sad all of a sudden and now you’re just going back to normal?! What the heck?!"
+    s "What are you talking about? And why am I naked?"
+
+    stop music
+    scene amimakesyoudinner22 with hpunch
+    play sound "thump.mp3"
+
+    a "You’re naked because you have a problem! And only I know how to take care of it! Okay?!"
+    s "A problem? Are you talking about-"
+    a "Maya and Ayane are trying to get rid of me!"
+    s "What?"
+    s "What do you mean they’re trying to get rid of you?"
+
+    scene amimakesyoudinner23
+    with dissolve
+    play music "hometown.mp3"
+
+    a "I mean they’ve been hanging out without me and...excluding me from stuff and...it’s kind of like they don’t want to be my friends anymore."
+    a "It’s been really, really hurtful. "
+    a "I’m just happy I have you still...I know you’d never leave me..."
+    s "They’re not trying to get rid of you, Ami. The two of them are just...going through something that you wouldn’t really understand."
+    a "Try me. I’m not as dumb as I look. Or act."
+    s "I’ve been given specific instructions to not do that."
+    a "So it {i}is{/i} a secret after all..."
+    s "I’m sorry. I just can’t-"
+
+    stop music
+
+    a "Does it have something to do with “the end of the world?”"
+    s "..."
+    a "..."
+    s "How do you-"
+    a "Makoto texted me about it."
+    a "Something about the world being a...loopy thing? She used a bunch of big words I didn’t really get."
+    s "I see..."
+
+    "I guess no one told Makoto to keep Ami out of this."
+    "But, then again, I don’t really understand why we were supposed to in the first place, so..."
+
+    a "Would you mind explaining what all of this is about, Sensei?"
+    s "..."
+    a "..."
+    s "Fine."
+
+    scene amimakesyoudinner24
+    with dissolve
+
+    s "Your first year of high school is never going to end."
+    s "You and everyone else are caught in a timeloop that causes it to start over every few months."
+    s "You retain most of your memories and progress in relationships, but certain information is conveniently omitted from what you carry on from one iteration to the next."
+    s "And seeing as you haven’t interjected yet, I should also inform you that if you try to talk about this to anyone else, that they’ll continuously interrupt you until you change topics."
+    s "Also, everybody disappears, the sky turns red, and pregnancy is probably not the cause. "
+    a "..."
+    s "..."
+    a "..."
+    s "..."
+    a "Sensei..."
+    s "...Yeah?"
+
+    scene amimakesyoudinner25
+    with dissolve
+    play music "normalday.mp3"
+
+    a "That is the dumbest thing I have ever heard."
+    s "What?"
+    a "Did you seriously think I was going to fall for that?"
+    s "Ami, it’s not-"
+    a "I know I said I’m not as dumb as I look, but to think you thought I was {i}that{/i} dumb? Come on! That’s insulting!"
+    a "Also, somebody should {i}really{/i} give Makoto the memo that this is all just a prank because it {i}really{/i} seemed like she was taking this seriously. How can she be so smart and yet so gullible?"
+    s "Ami-"
+
+    scene amimakesyoudinner26
+    with dissolve
+
+    a "Just eat your dinner, Sensei. It’s getting cold."
+    a "And stop believing everything Maya tells you. She reads too many weird manga and they’re clearly going to her head."
+    s "It’s not just her. It’s-"
+    a "And stop believing everything Maya tells you. She reads too many weird manga and they’re clearly going to her head."
+    s "Ami, listen...I have seen-"
+    a "And stop believing everything Maya tells you. She reads too many weird manga and they’re clearly going to her head."
+    s "..."
+    a "..."
+
+    scene black
+    with dissolve2
+
+    s "Curry? "
+    s "You never make curry."
+    a "It’s Ami’s special curry! Made with real Ami."
+    s "I’m suddenly not hungry anymore."
+
+    $ renpy.end_replay()
+    $ amiinvite4 = True
+    $ ami_love += 1
+    stop music fadeout 7.0
+
+    "{i}Ami’s affection has increased to [ami_love]!{/i}"
+    "........."
+    "......"
+    "..."
+
+    if day >= 6:
+        jump endofsat
+    else:
+        jump endofweekday
+
+label amispecial50:
+    scene clearnightsky
+    with dissolve2
+
+    if _in_replay:
+        play music "undersea.mp3"
+
+    "I have a history of chasing my tail but a track record clean of having ever caught it."
+    "What this means is that when something larger and scarier than me {i}does{/i} appear and ultimately scoop me up with its endless, half-transparent arms that I will not yet be accustomed to how it feels to be held."
+    "There are many things in life I do not understand."
+    "Like dust particles. Or the romanticization of death. Or even myself at times as this jar I’m trapped inside reflects not the me that {i}I{/i} see but the one that {i}you{/i} do."
+    "Yet, what sleeps inside it is a mystery to all of us."
+    "When I was younger and the ring still fit my ankle, I worried not of what it meant to die but simply that of dying."
+    "But as my bones expanded, my worries flipped and now I think the opposite."
+    "At this stage in my life, it is not the act of dying that keeps me up at night, but the fear of what comes after."
+    "My hands grace the glass of my infinite jar, staring back at someone I can only view as the protagonist of this story while the only thing that {i}truly{/i} matters is the glass itself."
+    "If that shatters, what comes next?"
+    "How will the creature (Me) inside of it (The jar) appear to the untrained eye when filled with shards of my former home and other assorted shrapnel and foreign objects?"
+    "For even if my breathing were to continue after such a tragic event, I’d not be seen as who I am but who I {i}was.{/i}"
+    "There is no moral to this untimely, rhetorical passing- but I don’t think there needs to be."
+    "So long as you can imagine what it feels like walking mile after mile in these shoes filled with tacks, my words will have worked."
+    "So long as you can relate, it will have all been worth it."
+    "That’s likely what I’d think as the light drains from my eyes."
+    "I lied about the lying. Things {i}have{/i} been looking up."
+    "Feelings are good and I am supposed to have them."
+    "There’s nothing I need to fix because the world will fix it for me. All I have to do is live my life and smile and forget but also accept the things I forgot and couldn’t accept but that’s hard when my brain is a brain and-"
+    "Slow down."
+    "Deep breaths."
+    "Expel your worries from the depths of your lungs."
+    "You are you."
+    "I am me."
+    "And neither one of us knows which is which and when."
+    "Warble, warble, warble."
+
+    play sound "phonering.mp3"
+
+    "My phone goes off roughly thirteen feet from the next streetlight."
+    "I make sure to stand beneath it when I answer."
+
+    play sound "phonebeep.wav"
+    stop music
+
+    s "Hel-"
+
+    with hpunch
+
+    a "{size=+20}{b}SENSEI!!!!!!!{/b}{/size}"
+    s "Ami?...What’s wrong?"
+
+    play music "itsingsinitssleep.mp3"
+
+    a "Everything! Everything is wrong!"
+    s "Slow down. Start from the-"
+    a "I don’t know where I am!"
+    s "How can you not know where you are? You weren’t kidnapped, were you?"
+    a "No, you idiot! I came here myself! But I don’t know how to get back and I’m too scared to move!"
+    s "Have you tried your GPS-"
+    a "Of course! Stop thinking I’m such an idiot! It’s just not working and it won’t tell me where I am and I need you to come get me!"
+    s "But how am I supposed to do that if you don’t know where you are? Kumon-mi is huge. I need a hint or...{i}something{/i} at the very least."
+    a "I’m...uhh..."
+    a "I think this is...the old district?"
+    a "No, I’m sure it is. That’s where I am. But I don’t know how to leave and I’m too scared to even walk right now. My legs are shaking so much. Can you please come help me? Please?"
+    s "What are you even doing all the way over there?"
+    a "I don’t know! I was just doing what I was told!"
+    s "By who? Who would ask you to go all the way over there and why would you listen to them in the-"
+    with hpunch
+    a "{size=+15}{b}ARE YOU COMING OR NOT?!{/b}{/size}"
+
+    "Her voice sounds different than normal, and not just because it’s panicked."
+    "It’s like her mouth was stuffed with worms and all of the worms are screaming at the same time but when they open their worm-mouths more worms come out and basically it just sounds like worms."
+    "This is a job for the worm-man."
+
+    s "Yeah, I’ll head over now. Just try and figure out where you are in the meantime, okay?"
+
+    "I’m glad my worms still come out normal despite being the word-man."
+    "Wait, no. I got that backwards."
+    "Hold on. I will fix."
+
+    $ renpy.pause(5, hard=True)
+    play sound "static.mp3"
+    scene happy5 with flash
+    scene happy4 with flash
+    scene happy3 with flash
+    scene amibus1 with flash
+    stop sound
+
+    "The only way to bring life back to normal is with a bus ride backwards."
+    "It’s a poem again, but a lack of rhyming words has forced in blackbirds."
+    "But birds are all I talk about, so let’s try discussing...placards?"
+    "No! That’s not exciting either! Here! Just take the fucking password!"
+
+    play sound "static.mp3"
+    scene lostinaplace1 with flash
+    stop sound
+    $ renpy.pause(5, hard=True)
+    play sound "static.mp3"
+    scene amibus1 with flash
+    stop sound
+
+    a "Do you believe in God?"
+    s "Of course. How else would we have gotten here?"
+    a "How do you think He feels when we defy Him?"
+    s "Technically speaking, God would likely be genderless. God is an entity who exists on a plane so far detached from human life that merely comparing It to us is disrespectful."
+    a "But weren’t we all created in His image?"
+    s "{i}Its{/i} image. And I think not."
+    s "I think God is so wonderful that looking at It would blind us. It is so bright and so powerful that we can not even comprehend It."
+    a "Is Mom with God now?"
+
+    play sound "static.mp3"
+    scene lostinaplace2 with flash
+    stop sound
+
+    "{i}She is.{/i}"
+
+    se "Jeez, you’re really going through it tonight, aren’t you?"
+    se "Any reason why? Something I can help with?"
+    s "Why?..."
+    se "Why what?"
+    s "{i}Why do I keep seeing you?{/i}"
+
+    play sound "static.mp3"
+    scene lostinaplace3 with flash
+    stop sound
+
+    se "Because you’re lucky."
+    se "Not everybody gets regular chances to spend time with their dead girlfriend, you know. You should be savoring moments like these."
+
+    play sound "static.mp3"
+    scene lostinaplace4 with flash
+    stop sound
+
+    s "How could I?!"
+    se "Oh my. You {i}never{/i} raise your voice — especially at {i}me.{/i} You must feel pretty strongly about this."
+
+    play sound "static.mp3"
+    scene lostinaplace5 with flash
+    stop sound
+
+    se "Here, maybe this will cheer you up! You still like costumes, don’t you? There’s no way such a cute-"
+
+    scene lostinaplace6
+    with dissolve
+
+    se "Actually, wait. Isn’t this costume kinda...half-assed?"
+
+    scene lostinaplace7
+    with dissolve
+
+    se "Whatever! Screw it! Come at me with all you’ve got, big guy!"
+    s "Leave..."
+    s "Please..."
+
+    scene lostinaplace8
+    with dissolve
+
+    se "Meow?"
+    s "I don’t...want to see you anymore..."
+
+    scene lostinaplace9
+    with dissolve
+
+    se "{i}Hissssssssssssss...{/i}"
+    s "..."
+    se "..."
+    s "..."
+
+    scene lostinaplace10
+    with dissolve
+
+    se "{i}Hah...{/i}fine. I’ll go back to my never-ending pool of darkness. Left to float there forever and ever and ever and ever, totally unfulfilled. "
+    se "I always knew Heaven was a joke, but it would have been really cool if there was at least {i}something{/i} after death."
+
+    scene lostinaplace11
+    with dissolve
+
+    se "Here’s the thing though, Aki-kun. You can’t just ignore me forever. Especially now that you’re literally {i}seeing{/i} me."
+    se "Does this really look like moving on to you? All you’re doing is making things harder for yourself."
+    s "Well, what else am I supposed to do?!"
+    se "How should I know? I’m a cat. Meow."
+    se "Whatever it is, though, you’re not going to find it here."
+    s "Then where?..."
+    s "Where will I find it?..."
+
+    play sound "static.mp3"
+    scene frown with flash
+    scene anormaldoor with flash
+    stop sound
+    play sound "dooropen.mp3"
+
+    se "{b}I think you already know that.{/b}"
+
+    play sound "static.mp3"
+    scene l with flash
+    scene e with flash
+    scene t with flash
+    scene m with flash
+    scene e with flash
+    scene o with flash
+    scene u with flash
+    scene t with flash
+    scene lostinaplace12 with flash
+    stop sound
+
+    a "Ah..."
+    s "..."
+    a "..."
+
+    scene lostinaplace13
+    with dissolve
+
+    a "You found me..."
+    a "And I didn’t even give you any hints..."
+    s "Ami...what are you doing out here? It’s the middle of the night and we’re miles away from home. You know this place isn’t safe."
+
+    scene lostinaplace14
+    with dissolve
+
+    a "I didn’t come here on my own, though! This wasn’t my idea!"
+    s "Then whose idea was it?"
+    a "Maya and Ayane’s!"
+    s "...What?"
+
+    scene lostinaplace15
+    with dissolve
+
+    a "They asked me to hang out tonight and told me to meet up with them here...but when I showed up, there was no one there."
+
+    scene lostinaplace13
+    with dissolve
+
+    a "So I called them and they didn’t answer...."
+    a "And when I looked at my GPS it wouldn’t work..."
+    a "And I forgot where I was and couldn’t find my way back, so I got even {i}more{/i} lost! And then people were staring at me, so I got scared! And I still don’t know where they are and-"
+    a "And why did they do this to me?! Weren’t they supposed to be my friends?!"
+    s "I’m sure it’s just some sort of misunderstanding."
+    a "It’s not! I tried to tell you the other day, but they’ve been all kinds of mean to me lately! "
+    a "They’re bullying me! Leaving me out of things I’d always be included in! And neither of them is telling me why! So why?! Why are they doing this?!"
+    s "Ami-"
+
+    scene lostinaplace16
+    with dissolve
+
+    a "I just want my friends back!!!!!!!!! Waaaahhhhhhhhahahahh!!!!!!!"
+    s "Give me a minute. I’ll call them and see what’s going on. I’m sure it’s-"
+    s "It’s..."
+
+    scene lostinaplace17
+    with dissolve
+
+    a "What’s wrong?..."
+    s "..."
+    s "My phone’s dead."
+    a "Really?..."
+    s "It was fine when I left Kaori’s apartment. I don’t get how-"
+    a "What were you doing at Kaori’s apartment?"
+    s "Does that really matter right now?"
+    a "Were you having sex with her?"
+    s "What? "
+
+    if amifingered == True:
+        a "Do you and Kaori have sex together? Are you going to leave me for her?"
+        s "I don’t see how that’s relevant at all, but no. We don’t. And I’d appreciate it if you wouldn’t ask me questions like that anymore."
+    else:
+        a "Is that why you won’t have sex with me? Because you’re too busy having sex with Kaori?"
+        a "Did you know she used to post pictures of herself on the Internet? I bet she’s had sex with lots of people. You shouldn’t do that kind of thing with her. It’s not safe."
+        s "Kaori’s an...interesting character. But if you think {i}that’s{/i} the type of person she is, you’re way off."
+        a "Did she tell you that? Is that how she got you to have sex with her?"
+        s "Ami, I’ve never done anything like that with Kaori. And I’d appreciate it if you wouldn’t ask me questions like that anymore."
+
+    a "I only ask things like that because I love you."
+    s "Well, please love me in a less intrusive way."
+    a "Do you think I’m a burden, Sensei?"
+    a "Do you think Maya and Ayane are leaving me behind because I’m slowing them down? Or keeping them from doing the things they like?"
+    a "You’re not going to do that too...are you? You’re not going to leave me?"
+    s "I’m not going to leave you. You’re a part of me."
+    a "Your organs are a part of you. And if one of them stops doing its job, it can kill you."
+    a "So you can either get a new organ to replace the failing one or, in some cases, have it removed altogether."
+    a "Is that what I am to you? An organ you can just give up? A body part you can just {i}cut off?{/i}"
+    s "No...you’re not like that at all."
+    a "So you’re saying you can’t live without me?"
+    s "If that’s what makes you happy, sure."
+    a "Say it."
+    a "Say you can’t live without me."
+    s "..."
+    a "..."
+    s "I can’t live without you."
+
+    scene lostinaplace18
+    with dissolve2
+
+    a "..."
+    s "..."
+    a "Really?..."
+    s "Of course..."
+    a "..."
+    s "..."
+    a "I can’t live without you either."
+    s "Yeah...I can see that."
+    a "I, umm...I know you don’t like when I ask things like this, but...can you maybe...give me a piggyback ride home? I’m not sure how well my legs will work right now."
+    s "You really can’t walk on your own?"
+    a "I probably can, just...it’ll be really slow and I don’t want to annoy you. Plus, having a shoulder to dry my tears on would be a really big help."
+    s "Then...fine. But only because you look pathetic right now and I feel kind of bad for you."
+
+    scene black
+    with dissolve2
+
+    a "I’ll take what I can get..."
+
+    "........."
+    "......"
+    "..."
+
+    scene lostinaplace19
+    with dissolve4
+
+    a "Thank you, Sensei...I know you hate doing stuff like this."
+    a "I hope I’m not too heavy."
+
+    "Ami rests atop my shoulders and, just as the tongue of the accused did mere hours (or less) ago, steals away the unrest that I’ve been feeling."
+    "It’s as if her body is a dam — and all of the worries in all of the world have once again been liquefied only to get caught up behind this brand new barrier."
+    "I wonder if that’s why we’re in here."
+    "Maybe it doesn’t have anything to do with the war at all."
+    "Maybe the walls of Kumon-mi are {i}our{/i} dam, and the world outside of them is simply too full of horrible things to warrant letting any of them in."
+    "While this thought softens the beat of my heart, I know it’s not a good thought to have. And I know it can’t be true."
+    "Things aren’t always exactly as they seem. I’ve lost track of how many times I’ve had to tell you that."
+    "But there are certain things I can’t help but feel like {i}are{/i} exactly as they seem."
+    "The walls."
+    "The sky. The moon. The earth."
+    "But more importantly than all of that-"
+    "How much I love my niece."
+    "Just look at her."
+    "Isn’t she the cutest?"
+    "Isn’t she the cutest?"
+    "Isn’t she the cutest?"
+
+    play sound "static.mp3"
+    scene lostinaplace2 with flash
+    scene lostinaplace19 with flash
+    stop sound
+
+    "{i}She is.{/i}"
+
+    a "Heheh..."
+    a "This reminds me a lot of when I was younger..."
+    s "Did you ride on my shoulders a lot like this back then?"
+    a "Not really. "
+    a "My dad would hold me like this when we were going on walks in the park, but that’s not really something I ever got to experience with you."
+
+    play sound "static.mp3"
+    scene lostinaplace20 with flash
+    stop sound
+
+    a "It would have been nice if I did. But that would also mean my parents would have been taken away earlier than they were and..."
+    a "And..."
+    a "B-But that didn’t mean I never fantasized about it! I always looked forward to seeing you when you came over! And I still think about, like...riding on your shoulders and stuff now."
+    a "We just never had a chance to when we were finally put together."
+
+    play sound "static.mp3"
+    scene lostinaplace21 with flash
+    stop sound
+
+    a "But you’d still hold me tight sometimes..."
+    a "And I’d fall asleep in your arms..."
+
+    play sound "static.mp3"
+    scene lostinaplace20 with flash
+    stop sound
+
+    a "But then it was right back to normal. "
+
+    play sound "static.mp3"
+    scene lostinaplace21 with flash
+    stop sound
+
+    a "But normal was never normal."
+
+    play sou

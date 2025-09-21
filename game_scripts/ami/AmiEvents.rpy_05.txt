@@ -1,0 +1,1028 @@
+ "Hmm hm hmmmm~"
+    s "..."
+
+    "In a strange twist of fate, it looks like Ami lied {i}again{/i} and that the book she’s buying very much has the one thing she told me it {i}didn’t{/i} have."
+
+    scene amianime15
+    with dissolve
+
+    mo "Well I guess that confirms {i}that{/i} suspicion."
+    a "Just liking a certain trope in manga doesn’t mean you like it in real life, Molly. Everybody knows that."
+    a "It normally does, though."
+    mo "..."
+    a "I won’t confirm nor deny anything."
+    mo "I take it that means you two are...on a...{i}date{/i} then?"
+    s "No."
+
+    scene amianime16
+    with dissolve
+
+    a "Mm!"
+    mo "Wait. Now I’m confused. Is this {i}not{/i} a meeting of secret, forbidden love? A taste testing of the most bitter fruit of all?"
+    t "I believe that would be the “bitter melon,” which is famous for its medicinal properties."
+    s "We’re just stopping by on our way back from...a place."
+
+    scene amianime17
+    with dissolve
+
+    mo "That..."
+    mo "You know that makes it sound even sketchier...don’t you, Sir?"
+    s "I don’t know where your depraved mind goes after just hearing the word “place,” but I can assure you it’s not whatever you’re thinking."
+    s "I doubt Ami wants to talk about it, though, so let’s just move on and-"
+    a "I wanted to see my mom."
+
+    scene amianime18
+    with dissolve
+
+    mo "Oh...{i}oh...{/i}"
+    a "I’ve just missed her a lot lately. That’s all."
+    a "Which is why we’re now...counteracting that with some place happy and..."
+    mo "May I hug you?"
+
+    scene amianime19
+    with dissolve
+
+    a "..."
+    a "Yes, please."
+
+    scene black
+    with dissolve2
+
+    "Molly wraps her arms around Ami and pulls her close, pressing their heads together."
+    "They gaze into each other’s eyes and, if this weren’t such a heartfelt moment, I’d probably say something to emphasize just how much I’d appreciate it if the two of them would kiss right now."
+
+    scene amianime20
+    with dissolve2
+
+    "Which is obviously not a thing I’m going to talk about."
+    "I mean, how could anyone think that at a time like this? "
+    "Nope. I don’t want that to happen at all."
+    "Not even a little."
+
+    s "..."
+
+    "Not even a little."
+
+    mo "I lost my mom when I was little, too. I know what it’s like."
+    a "I know...I always wanted to ask you about how you managed to...talk about it so easily, but...it’s hard, you know?"
+    mo "I do. But you know what’s easier? Hugging. So I hereby give you permission to hug me any time you want as a free action."
+
+    scene amianime21
+    with dissolve
+
+    a "Thank you, Molly. I’ll be here for you if you ever need me, too."
+    mo "I’ll remember that. "
+    a "Hey, how come we never do anything with just the two of us?"
+    mo "Probably because you already have Ayane and Maya and I would just be getting in the way."
+    a "Let’s hang out soon. Just us."
+    mo "I’d like that a lot..."
+    s "..."
+
+    "{i}Not even a little.{/i}"
+
+    t "It appears everyone has forgotten that I lack a mother as well."
+
+    scene amianime22
+    with fade
+
+    mo "Ah! I’m sorry, Kendo Princess! I just know that...your affinity for hugs is not as high as mine! And that you wouldn’t want to get involved in something like this..."
+    a "And I just...wasn’t even thinking. Sorry, Tsuneyo."
+    t "Abandoned by my own party members. I truly am an outcast."
+    s "I’ll hug you, Tsuneyo. We don’t need them."
+
+    scene amianime23
+    with dissolve
+
+    t "I would rather die."
+    s "That...seems like an exaggeration."
+    t "It is not."
+    s "Didn’t we hug on Halloween that one time?"
+    t "I have no idea what you are talking about."
+    s "When-"
+    t "I would never hug a man as horrible as you."
+    s "It was after we went outside and-"
+    t "Never."
+    s "And Molly was-"
+    t "It would simply not happen."
+    s "But-"
+    mo "Just give it a rest, Sir. Your charisma isn’t high enough to break through to Tsuneyo yet."
+    s "That’s fine, but..."
+    s "How long are you two going to stay like that for?"
+
+    scene amianime24
+    with dissolve
+
+    mo "..."
+    a "..."
+    mo "Maybe just a little bit longer."
+    t "Ahh, youth..."
+    s "Tsuneyo, you’re the same age as them."
+    t "Then why will no one hug me?"
+    s "I literally just offered-"
+    t "No thank you."
+    mo "..."
+    a "..."
+    a "You smell really nice."
+    mo "I was actually just about to say the same thing to you."
+
+    scene black
+    with dissolve2
+
+    if bonus == True:
+        "I guess Ami winds up mistaking Molly for a relative or something since it seems she has a hard time separating from her, but I’m sure it’s probably closer to the fact that she just has someone she can relate to."
+        "Even if Ayane’s mom isn’t around anymore, I can’t imagine Ami being able to confide in her in the way that she could with someone who’s actually felt the same sort of pain she has."
+        "But pain is not something I intend to dwell on any longer when its abundance is one of many things in this life that neither myself nor anyone else is able to avoid."
+        "I will focus on the brighter things and what it is that illuminates them."
+        "Ami finds her manga (Which may or may not contain [incest], but probably does) and pays for it at the register after separating from the others."
+        "She clutches it to her chest as the two of us exit the store together and make our way out into the street, bustling with foot traffic due to the sudden increase in temperature."
+        "Then, before long, she’s pulling me around once again."
+        "Just..."
+        "Hopefully to somewhere I won’t feel out of place in this time."
+    else:
+        "Not even a little."
+
+    $ renpy.end_replay()
+    $ ami_love += 1
+    $ amidate50p2 = True
+    stop music fadeout 8.0
+
+    "{i}Ami’s affection has increased to [ami_love]!{/i}"
+    "........."
+    "......"
+    "..."
+
+    jump amidate50p3
+
+label amidate50p3:
+    scene amidatecafe1
+    with dissolve2
+    play music "lifeismostlygood.mp3"
+
+    "The portion of the day we spend in the entertainment district is mostly negligible, so I guess I can find solace in the fact that Ami isn’t suddenly lying to me about {i}everything.{/i}"
+    "I can also find solace in the fact that she has offered to pay for me despite me telling her multiple times that it isn’t necessary."
+    "But hey, who am I to refuse free food when it’s so kindly offered up?"
+    "I’ve humored her enough to wind up beside her at some random cafe. Turning down an act of kindness now would make it appear like I have no desire to be here at all."
+    "And, you know what? Now that the sad portion of the day is over, I really don’t hate this."
+    "It’s nice being able to focus on what’s directly in front of me without needing to wrap my mind around any obnoxious subtext or deflect all of the horrible things I’ve done as they’re thrown back at my face."
+
+    a "So...I guess you and Molly made up?"
+
+    "At least I had a decent thirty minutes or so."
+
+    s "Forget what happened between Molly and {i}me.{/i} For a second back there, I thought you two were going to run away together."
+
+    scene amidatecafe2
+    with dissolve
+
+    a "Huh? What gave you that idea?"
+    s "Probably the part where your faces were touching and you were gazing into each other’s eyes."
+
+    scene amidatecafe3
+    with dissolve
+
+    a "Were you even listening to that conversation?! It was really sad! We were just having a cute bonding moment!"
+    s "It would have been cuter if you two kissed."
+    a "You...don’t mean that! And stop deflecting! I still need to know what happened between you two since you never tell me anything anymore!"
+
+    scene amidatecafe4
+    with dissolve
+
+    s "You know I don’t {i}have{/i} to tell you everything, right?"
+    a "Yeah, but I tell {i}you{/i} everything so it only seems fair if you maybe tell me {i}some{/i} things every once in a while."
+    s "Nah. I'm good."
+
+    scene amidatecafe5
+    with dissolve
+
+    a "Fine. I’ll just ask {i}her{/i} then since we’re making plans to hang out soon. {i}She’ll{/i} tell me."
+    s "Just leave it alone, Ami. Please."
+
+    scene amidatecafe6
+    with dissolve
+
+    a "Please? But you never say please. Is it really that serious? Because you made it sound kinda unimportant the last time I asked you about it."
+    s "It’s just a personal matter that the two of us decided to handle on our own instead of enlisting the help of everyone else. "
+
+    scene amidatecafe7
+    with dissolve
+
+    a "Personal?"
+    s "That’s what I said."
+    a "..."
+    s "Now, since we’re done talking about-"
+    a "How personal, Sensei?"
+    s "Excuse me?"
+    a "What do you mean by “personal?” That makes it sound like you two have a relationship deeper than just teacher and student."
+    s "Maybe we do?"
+    a "Are you friends now?"
+    s "Sure. I guess so."
+    a "Then how come you were avoiding her so much when it seemed like she needed you most? That doesn’t sound very friend-like."
+    s "Here’s a better idea- how about we eat and get back to our {i}date?{/i} Doesn’t that sound good, Ami?"
+    a "No. You two stopped talking for two months and are now back to acting like nothing ever happened. I want to know what caused it."
+    s "And I want you to mind your own business."
+    a "But your business {i}is{/i} my business. I can’t make you happy if I don’t know how to get rid of what’s making you sad."
+    s "Molly was never {i}making me sad.{/i} I just...needed time to think about some things."
+    a "..."
+    s "..."
+
+    scene amidatecafe1
+    with dissolve
+
+    a "Molly’s so pretty. Isn’t she, Sensei?"
+    a "Her skin is so pale and soft...and her eyes are so blue that you can get lost in them if you stare for too long."
+    s "What are you getting at?"
+    a "Nothing~ Just thinking about running away with her and stuff."
+    s "Well, make sure to write if you do. I’ll be renting out your room for extra money."
+
+    scene amidatecafe3
+    with dissolve
+
+    a "Just like that?! You’re not even going to try and get me to stay?!"
+    a "Also, never joke about renting out my room! I can hear Ayane unzipping her wallet as we speak!"
+    s "Is it safe to say we’re moving on now? Or are you going to keep trying to ruin the date you literally forced me to come on?"
+
+    scene amidatecafe8
+    with dissolve
+
+    a "We can move on...I don’t want to ruin anything."
+    a "I just get kinda jealous when I’m not in the loop and it feels like there have been a lot more loops than normal lately."
+    a "But you can talk to me about stuff if you ever need advice, Sensei."
+
+    scene amidatecafe9
+    with dissolve
+
+    a "If it’s something involving you, you can pretty much guarantee that I’m the number one person to come to! I’d put more care into advice for you than I would for even myself!"
+    s "That’s bad and you should always prioritize yourself over other people."
+    a "I refuse!"
+    a "You need to be happy or my entire existence is meaningless!"
+    s "I can’t imagine your parents would have been very happy to hear that while you were talking to them earlier."
+
+    scene amidatecafe10
+    with dissolve
+
+    a "Oh. Uhh...Can you maybe...stop joking about them like that?"
+    a "I’m obviously trying to be a little more open about what happened, but...I’d prefer if we could still be kind of sensitive about it."
+    a "Today was a big step for me. And even though you were there to hold my hand, I’m going to keep working at it so I can maybe walk on my own some day."
+    s "Sure. I didn’t really mean it as a joke. I-"
+    a "I know, I know. Sudden mentions of them just throw me off."
+    a "Like, it doesn’t completely register that they’re gone until {i}after{/i} the sentence registers. "
+    a "It’s like there’s another mini accident inside of my mind each time I- nope. Nope. Don’t want to think about this anymore."
+    s "Then think about something else. Like how you haven’t even touched your food yet and I’m already finished eating."
+
+    scene amidatecafe11
+    with dissolve
+
+    a "Oh my God, already? Who are you, Maya?"
+    s "It’s not like we just sat down. We’ve been here for a while. In fact, I wouldn’t be surprised if your food was already cold."
+
+    scene amidatecafe12
+    with dissolve
+
+    a "Has it really been that long?..."
+    a "Sorry, I’m just..."
+    a "I’m a little nervous because there’s something I’ve been wanting to show you...and I don’t think I’m really gonna get a better time than this date to do that."
+
+    "Ami curls her fingers around the base of her ponytail and begins to bob it up and down."
+    "I’ve seen her do this in the past when she gets nervous- which is strange since she’s been twintailed for the majority of the time I’ve spent with her and I’ve never seen her do it then."
+    "Either way, I can tell that she’s being honest again. I just don’t know what it is that she’d get so nervous about telling me when, if anything, she’s one of the most commonly open people I know."
+
+    s "Is the thing you’ve been wanting to show me the next stop on our trip?"
+    a "No...it’s actually...something I have on me now."
+    s "So...a present?"
+    a "Not really...but...also kind of?"
+    a "I don’t know. It’s probably dumb. "
+    s "You’re right. It probably is."
+
+    scene amidatecafe13
+    with dissolve
+
+    a "Hey! "
+    a "You’re supposed to say, “It won’t be dumb if it comes from you, Ami! You’re amazing and pretty!”"
+    s "You’re pretty, yeah. But you’re also kind of an idiot."
+
+    scene amidatecafe14
+    with dissolve
+
+    a "But...I..."
+    s "You’re my idiot, though."
+
+    if bonus == True:
+        s "Which is a weird thing to say since I’m technically claiming ownership of you and I don’t technically enjoy being a legal guardian-"
+        s "But it is what it is."
+
+    scene amidatecafe15
+    with dissolve
+
+    a "How did you manage to turn calling me an idiot into one of the sweetest things you’ve ever said to me?"
+    s "I’ve always had a way with words, I guess."
+    a "Yeah..."
+    a "And that’s exactly why I’m so nervous about this."
+    s "What do you-"
+
+    scene amidatecafe16
+    with dissolve
+
+    "Ami slides a sheet of paper out of the bag she’d been keeping by her feet and holds it out in front of her."
+    "Her eyes scan the page for an excuse to back down, but I guess they aren’t able to uncover any as she remains silent apart from the audible tapping of her feet underneath the table."
+
+    a "So..."
+    a "Believe it or not, I’ve never been very good at expressing my feelings."
+    s "I don’t believe that at all. All you do is express your feelings."
+
+    scene amidatecafe17
+    with dissolve
+
+    a "I know that. But it...never feels like I can properly get everything that I’m trying to say out."
+    a "And I don’t think I will today either, but...I remember you telling me something a long time ago about how poems were how people like that could find a way to survive in this world."
+    a "It didn’t make much sense at the time since I was just a kid...but I think I kind of understand it now."
+    a "So I thought I’d give it a try."
+    a "It’s just kinda nerve wracking since I know you were like...a poetry expert a long time ago."
+    s "You...wrote me a poem?"
+
+    scene amidatecafe18
+    with dissolve
+
+    a "I...tried to."
+    a "I don’t know if it’s any good, though."
+    s "Well, that’s...unexpected."
+    a "How come?"
+    s "You’ve just never seemed like the “writer” type to me."
+    a "Right. I’m the “idiot” type to you."
+    a "But I tried really hard, so..."
+
+    scene amidatecafe19
+    with dissolve
+
+    a "Here goes nothing."
+    s "..."
+    a "..."
+
+    "Ami stops tapping her feet and focuses whatever energy she was using on that to stabilize her hands."
+    "It’s easy to spot her nerves with how much the paper she wrote this on is trembling, and I’m sure she notices this as well as she needs to readjust her fingers a few times just to be able to read it."
+    "I’m not sure what to expect, but I know now that however bad it is, I’m going to have to make sure that she thinks it’s good."
+    "Such is the job of an [uncle]. And such is the job of-"
+
+    a "I named this poem “My Life With You.”"
+    a "..."
+    s "..."
+    a "A room full of sunshine, blacked out by a sheet.\nIt was there you and I were destined to meet."
+    a "Not for the first time, you’ve been there from the start.\nBut that room full of sunshine filled a hole in my heart."
+    a "We both couldn’t see it, but we knew it was there.\nSo with holes in our clothing and knots in our hair-"
+    a "We’d get out of bed for just minutes each day.\nWe didn’t speak much, there was nothing to say."
+    a "But one day that changed and the dark disappeared.\nWe took down that sheet and we faced what we feared."
+    a "You became my world, since the old one was gone.\nThen one day it hit me, like I’d known all along."
+    a "No sheet can contain the light from the sun.\nAnd all darkness must die once daylight’s begun."
+    a "I guess it sounds silly, but I know that it’s true."
+    a "A room full of sunshine- that’s my life with you."
+    s "..."
+    a "..."
+
+    scene amidatecafe20
+    with dissolve
+
+    a "Ta-da. I love you."
+    s "That was..."
+
+    scene amidatecafe21
+    with dissolve
+
+    a "Wait. I don’t know if I’m ready to be made fun of yet. I know it was bad, but I worked really hard and-"
+    s "No, Ami. That was way better than I expected."
+
+    scene amidatecafe22
+    with dissolve
+
+    a "It...was?"
+    a "But you’re only saying that because you expected literally nothing, right? Like I could have said {i}anything{/i} and it would have been better than what you were expecting."
+    s "No, I mean I genuinely liked it and I’m really impressed you were able to write that."
+
+    scene amidatecafe23
+    with dissolve
+
+    "I just wish that I could bask a little longer in the relevancy it has pertaining to my relationship with Ami."
+    "I’m sure that day will come eventually, and I’m sure those memories may find a way to sneak back into my mind."
+    "But for now, I’ll have to take her words for nothing more than their face value and the connotations tied to them."
+    "And even though it all still seems a little surreal-"
+    "I think I better understand why Ami feels the way she does about me now."
+    "It’s just not a very good reason."
+
+    a "You really liked it?! You don’t think I’m a failure and that I should give up on poetry immediately?!"
+    s "I don’t."
+    s "In fact, I think you should write more."
+
+    scene amidatecafe24
+    with dissolve
+
+    a "Oh my God, Sensei...you have no idea how much of a relief it is to hear that."
+    s "Did you really think I was going to just tell you to quit after hearing that?"
+
+    scene amidatecafe25
+    with dissolve
+
+    a "A little..."
+    a "I wrote this a little while ago, but...when I was going through some of Mom’s stuff last night, I found a bunch of her old poetry and remembered how much you liked it."
+    a "I never really understood what the appeal of poems was back then, but reading them now...I think I finally get it."
+    a "She had such an...um...eloquent way of writing? Is eloquent the right word?"
+    s "..."
+
+    scene amidatecafe26
+    with dissolve
+
+    a "You know what? I’ll just read one that I took a picture of and you can let me know if I’m on the right track."
+    a "I’m sure that it’ll make my poem sound like, {i}really{/i} bad since she was basically a pro, but-"
+
+    stop music
+    play sound "static.mp3"
+    scene spiderbug with flash
+    scene amidatecafe27 with flash
+    play sound "glass.mp3"
+
+    a "Ah."
+
+    "Ami drops her phone and it bounces off the table into the side of an empty glass."
+    "The glass once held water, but it will never hold anything again."
+    "I watch the shattering as if my world is plunged into slow motion."
+    "Each shard moves in a different direction, some moving more distance than others without rhyme or reason as to why."
+    "I am sure there is a scientific explanation for it, but I’d prefer to imagine it’s just random chance."
+    "A nearby table joins in on the action and watches on, mesmerized as well."
+    "There is something beautiful about being broken that attracts all sorts of onlookers."
+    "I am glad the glass is what attracted most when there is so much that is broken all around me."
+
+    a "..."
+    s "..."
+    a "..."
+    s "..."
+    a "..."
+    s "..."
+    a "..."
+    s "..."
+    a "..."
+    s "..."
+    a "..."
+    s "..."
+    a "..."
+    s "..."
+
+    scene amidatecafe28
+    play music "lifeismostlygood.mp3"
+
+    a "Huh? What happened to my phone? I was just-"
+
+    scene amidatecafe29
+    with dissolve
+
+    a "Wait, what happened to that glass?! "
+    s "Do you really not remember?"
+
+    scene amidatecafe30
+    with dissolve
+
+    a "Remember what? What are you talking about?"
+    s "You...literally dropped your phone into the glass just a few seconds ago."
+    a "I...did?"
+    s "Yeah...are you feeling okay?"
+
+    scene amidatecafe31
+    with dissolve
+
+    a "Yeah. I feel totally fine. I...I have to clean that up, though. Somebody could get hurt."
+    s "I’ll just flag down our waitress. I’m sure they have someone who-"
+    a "No! That’s not fair to them."
+    a "It’s my fault this happened. Besides, I’ve cleaned up a lot worse than this."
+
+    scene amidatecafe32
+    with dissolve
+
+    a "But I guess I probably don’t have to explain that since my poem probably...reminded you of...anyway, yeah. I’m going to clean up the glass now."
+    a "I’m sorry for causing a scene, Sensei. I know how much you hate being the center of attention."
+    s "It’s fine..."
+    s "Are you really sure you’re okay, though?"
+    a "I’m..."
+    a "I have to clean up the glass."
+
+    scene black
+    stop music
+
+    "Ami bends down and begins to scoop the shards of glass into her hands."
+    "I wonder if she, too, appreciates the beauty in how each and every one of them is unique."
+    "I wonder if she, too, acknowledges how tragic it is that the object is now devoid of all purpose."
+    "She cuts her hands as she cleans up the accident."
+    "It reminds me of something."
+
+    $ renpy.end_replay()
+    $ ami_love += 1
+    $ amidate50p3 = True
+
+    "........."
+    "......"
+    "..."
+
+    jump amidate50p4
+
+label amidate50p4:
+    "..."
+    "......"
+    "........."
+
+    scene tree3
+    play music "newhope.mp3"
+
+    "We board a bus that’s moving backwards and all I can think about is the sound the tires make."
+    "It’s a low pitched hum, not far dissimilar to the sound of a hummingbird’s wings as they defy what we’ve come to expect of some of the creatures living in the same world as us."
+    "Soon, the night will come. "
+    "It will replace the sun and shift the tide, dragging many creatures back into the shallowest parts of the ocean- some willing, some not."
+    "We take a seat in the back and look into each other’s eyes."
+    "I take Ami’s hands in my own and observe the minor gashes she obtained while trying to do something good."
+    "They open back up and leak out the only fluid meant to be kept in."
+    "I press my tongue to them and drink in her existence."
+    "A warmth floods over me like a ray of sunlight made weaker by a bedsheet."
+
+    play sound "static.mp3"
+    scene amibus1
+    with flash
+    stop sound
+
+    a "Do you believe in God, Sensei?"
+    s "Do you?"
+    a "I do."
+    a "Maya makes fun of me for it sometimes, but I think that he’s real."
+    a "I don’t know if he’s watching every second of every day, but I think he’s there."
+    a "And I think that all of the suffering that you and I have endured is just his way of testing us."
+    s "Testing us for what?"
+    a "..."
+    s "Testing us for wh-"
+    a "It is a test to see if we are worthy of Heaven."
+    a "To see if we can endure the harshness of reality and overcome adversity in order to gain one of the many limited seats in the giant sky castle all good boys and girls go to when they die."
+    a "Will you sit with me, Sensei?"
+    a "Will you come to the sky castle with me?"
+
+    play sound "static.mp3"
+    scene amibus2
+    with flash
+    stop sound
+
+    "We talk at length about the afterlife while swapping seats in the classroom."
+    "Ami breathes in a sequence that is easily decoded. She is trying to communicate with me in a secret language we devised when we weren’t as tattered."
+    "One. Two. One. Four. Eight."
+    "The amount of seconds between breaths. It moves from side to side, neglecting all that is in the middle."
+    "It’s like an abacus, in that sense."
+    "I’m like an abacus in that sense."
+    "The parts of me furthest away from the center are the ones that do the most work."
+    "Everything in the middle is just blank."
+
+    a "Do you ever wonder where we go when we die?"
+    s "Is it not the sky castle you were alluding to in the sentences prior to this?"
+    a "Do you ever wonder anything at all?"
+    s "I wonder about all sorts of things."
+    a "Tell me."
+    a "Tell me the things you think about on bus rides backwards."
+
+    "I remove a list from my pocket that I always keep on hand in the event that someone asks me this question."
+    "I begin to read from it."
+
+    s "When I was younger, I used to take the tips of my thumb and my index finger and make a ring out of them. "
+    s "I’d wrap the ring around my ankle and, as the years went by, I stopped being able to fit all of it inside."
+    s "I think it was when I could no longer close the ring anymore that I realized I was unhappy."
+    s "It was good to be growing, but what if I was growing too much?"
+    s "Tell me the things you think about, Ami."
+
+    play sound "static.mp3"
+    scene amibus3
+    with flash
+    stop sound
+
+    a "On bus rides backwards, I like to think about us."
+    s "Us?"
+
+    "I ask her, “Us?”"
+
+    a "Us."
+
+    if amifingered == False:
+        a "Like...“is this really working?”"
+        s "Is what working?"
+        a "You and me at arm’s distance. "
+        a "I’ve done almost all I can and yet you’re still so far away."
+        a "Is that really going to work?"
+        s "Why wouldn’t it?"
+        a "Because neither of us are happy."
+        s "Would changing the proximity of our physical distance truly work in adjusting that?"
+        a "It would bring us closer. Literally."
+        a "We’re not meant to be apart."
+        a "We’re meant to sit in the sky castle together."
+        s "I see."
+
+    else:
+        s "I see."
+
+    "One. Two. One. Four. Eight."
+    "The pattern stays the same."
+    "An onslaught of footsteps approaches from directly behind me, but there’s not enough room in here to move my head."
+    "I also fear that it would fall off of my shoulders if I were to try."
+
+    av "Next stop: Somewhere else."
+
+    play sound "static.mp3"
+    scene amibus4
+    with flash
+    stop sound
+
+    a "If I asked you to start reading me bedtime stories before I go to sleep, would you?"
+    s "Of course."
+    a "Thank you, Sensei."
+    a "The sound of your voice always puts me at ease."
+    a "I particularly enjoy the way you enunciate わ and how it always sounds as if you are breathing a sigh of relief when saying my name."
+    a "Like you are glad that I still exist in a form that you can talk about without slipping your hands into your pockets."
+    a "When you grasp at the fabric inside of them, do you ever find holes? "
+    a "Does anything ever fall through?"
+
+    "The bus ride continues and I watch the clouds through the windows of a well lit church."
+    "I can smell candles scented with something reminiscent of the earliest years of my life, though it could just be dying wax."
+    "Ami’s hands open up again, but she smears the blood onto a pew built of concrete before sending signals to her brain that cause her eyes to tilt in the direction of mine."
+
+    scene amibus5
+    with dissolve2
+
+    a "I can feel it, Sensei."
+    a "I can feel His light."
+    a "And though it isn’t mine to hold, I want nothing more than to wrap my arms around it. I want nothing more than to be swallowed by it."
+    a "I love you so much."
+
+    play sound "static.mp3"
+    scene amibus1 with flash
+    scene amibus5 with flash
+    stop sound
+
+    a "Will you tell me you love me too?"
+    s "Of course. I love you, Ami."
+    a "Thank you, Sensei."
+
+    play sound "static.mp3"
+    scene amibus6 with flash
+    stop sound
+
+    a "Thank you, Sensei."
+    a "That was a really random time to say that, but I love you too."
+    a "Are you feeling any better now?"
+    s "What do you mean?"
+
+    play sound "static.mp3"
+    scene amibus7 with flash
+    stop sound
+
+    a "What do you mean, “What do you mean?”"
+    s "I mean what do you mean?"
+    a "I don’t know what you mean."
+
+    "Ami lovingly caresses a giant chicken as the bus begins to move faster."
+    "It stops at so many different places and I can’t help but applaud the constant advancement in modern transportation technology."
+    "One. Two. One. Four. Eight. Yet the middle parts drop out again as she points me to a chair."
+
+    scene white
+    with flash
+
+    "I sit down on it and can’t help but feel like I’m usurping the role of king from an invisible entity who doesn’t want me to sit here."
+    "Ami brings herself down to her knees and kisses my feet."
+
+    a "This will help you walk."
+
+    "Her tongue slips out like a clam searching for salt."
+
+    play sound "static.mp3"
+    scene amibus8 with flash
+    stop sound
+
+    "She laps up the effort I place into tainting sacred grounds and dirties herself in the process, but at least my feet are clean now."
+    "Her tongue dissolves into a sludge that seeps back into her throat only to ooze out of every pore and, in that moment, looks more beautiful than I have ever seen before."
+
+    play sound "static.mp3"
+    scene amibus9 with flash
+    stop sound
+
+    "The ooze seeps back into her flesh before it seizes the opportunity to drip onto the ground of an area undiscovered before its ultimate absorption provokes the budding of a thousand eyes."
+
+    a "Do you believe in God, Sensei?"
+
+    "She asks again, but the beauty before me eliminates any chance I have to deny it once more."
+    "I am condemned by an entity unseen- the same one who granted her an ever-abundance of vision."
+    "The condemnation carries with it a single letter carved out of wood that fuses to my back the same way my bed in the early morning had been."
+    "I fall as I am unable to bear its weight but encounter a moment of tranquility when my path intertwines with that of a REAL HUMAN FEMALE."
+
+    play sound "static.mp3"
+    scene amibus10 with flash
+    stop sound
+
+
+    saki "Greetings, you who are highly favored! The Lord is with you."
+    s "Where? I can’t see him."
+    saki "Greetings, you who are highly favored! The Lord is with you."
+    saki "Greetings, you who are highly favored! The Lord is with you."
+    saki "Greetings, you who are highly favored! The Lord is with you."
+
+    "The REAL HUMAN FEMALE gets caught on repeat and my journey comes to an untimely demise."
+
+    play sound "static.mp3"
+    scene amibus1 with flash
+    stop sound
+
+    "We board a bus that’s moving backwards and all I can think about is a spot on the window where the guts of a bug we crashed into are smeared."
+    "Dried by the sun and picked partially clean by whatever predators dared to crawl upon an invisible barrier, the spot casts a small shadow upon Ami’s arm."
+    "In between the miniature hair follicles covering it, I imagine the bug springing back to life."
+    "It’s blurred out, however, as I can not imagine what type of insect it was from just a stain alone."
+    "The bus continues on (Or off) and I drift in and out of consciousness at the command of violent glares brought on by the god in the sky."
+    "Oh."
+    "So I do believe after all."
+
+    a "Sometimes, I wish you knew how to drive."
+    a "I think it would be nice to kind of just...drive around with you sometimes. "
+    a "We wouldn’t have to go anywhere. Just being with you and taking in the sights would be enough."
+    a "We could listen to music on the radio and talk about the things we’re afraid of admitting in front of others."
+    a "Sometimes, I wish you knew how to drive."
+    a "Because it would give us something to do when everything else disappears."
+    s "What do you mean, “When everything else disappears?”"
+
+    scene amibus6
+    with dissolve
+
+    a "Hm?"
+    a "Did you just wake up?"
+    s "If you thought I was asleep, who were you talking to just now?"
+
+    scene amibus11
+    with dissolve
+
+    a "Sensei, I haven’t said anything this entire ride. You passed out the second we got on."
+    s "What?"
+    a "It’s obviously my fault for dragging you around all day, so I’m sorry if it was a little too much."
+    s "And your hand?"
+    a "What about it?"
+    s "Is it okay?"
+
+    play sound "static.mp3"
+    scene amibus12 with flash
+    stop sound
+
+    a "It's totally fine!"
+    a "I guess the cuts from the glass weren’t really that deep since you can barely even see them anymore."
+
+    scene amibus6
+    with dissolve
+
+    s "I...see..."
+    a "It still stings a little, but I’m sure I’ll feel totally normal by tomorrow."
+    a "Oh, which reminds me-"
+    s "Ami, I don’t think I have the energy required to go on an outing like this two days in a row."
+    a "{i}Actually{/i}, what I was about to tell you is that I’ll be working all day tomorrow and that you won’t need to put up with me {i}at all.{/i}"
+    s "All day? Did Uta call out or something?"
+
+    scene amibus13
+    with dissolve
+
+    a "That’s the weird part. I got a text from Osako-chan while you were asleep saying that Uta hadn’t answered her phone all day."
+    a "She was supposed to work today, too, but she just kinda...didn’t show up. "
+    a "So if that happens again tomorrow night and nobody is there to cover for her, the cafe will have to close early or something and that would probably be pretty bad for business."
+    a "I really hope she’s okay. She’s never done anything like this before."
+    s "Should we maybe go check on her?"
+
+    scene amibus14
+    with dissolve
+
+    a "If she’s not in school tomorrow, I think you should. I won’t have time, though, since I’ll have to go straight to work."
+    s "It’s fine. I’ll just text Io to- oh."
+    s "I guess I don’t get any service here."
+
+    scene amibus11
+    with dissolve
+
+    a "Io? Since when do you have {i}her{/i} number? I thought she didn’t talk to anybody except Uta?"
+    s "I am one of the very rare exceptions, I guess. But it looks like I’ll have to just ask her when we get home."
+
+    scene amibus1
+    with dissolve
+
+    a "I guess so..."
+    s "..."
+    a "..."
+    a "Sensei. Can I ask you something?"
+    s "Sure. What’s up?"
+    a "..."
+    a "Do you believe in God?"
+
+    scene black
+    with dissolve2
+    stop music fadeout 15.0
+
+    "The bus continues on (Or off) and I drift in and out of consciousness at the command of violent glares brought on by the sky."
+    "Ami does the same, collapsing onto my shoulder at several points following a question that would have been better suited for someone else."
+    "Her skin feels much colder than normal and I wrap my arm around her to distribute some of my warmth."
+    "Her breaths are unsteady. One. Two. One. Four. Eight."
+    "Her lungs can’t seem to decide what it is they should be doing."
+    "And my mind can’t seem to decide where it is that it should wander."
+    "We get off the bus that’s moving backwards."
+
+    stop sound
+
+    "And we bend ourselves until we wind up at our door."
+
+    "///////////////////////USER1 HAS SUCCESSFULLY LOGGED IN"
+
+    $ renpy.end_replay()
+    $ amidate50p4 = True
+    $ ami_love += 1
+
+    "{i}Ami’s affection has increased to [ami_love]!{/i}"
+    "........."
+    "......"
+    "..."
+
+    jump returntosummer1
+
+label aminew1:
+    scene aminewone1
+    with fade
+    play music "10c.mp3"
+
+    a "And that’s exactly why I don’t think we should have gym class anymore."
+    s "This breast envy of yours is really starting to get out of hand if you’re thinking of rebuilding the education system to cope with it."
+
+    scene aminewone2
+    with dissolve
+
+    a "Breast envy is something that millions of girls struggle with every day, Sensei! We all know that it’s not just me who feels this way. Right, Maya?"
+    m "Please refrain from including both me and my breasts in any conversation our teacher is a part of. "
+    m "In fact, please don’t include my breasts in {i}any{/i} conversation. Especially when I don’t feel the same sort of envy you do."
+
+    "I somehow wind up walking  back from school with Ami and two other girls who could probably pass for residents of my home on a census test if things really came down to it."
+    "Why I was forcibly dragged along when the smallest of the bunch seems to almost always stray from anything that I’m a part of, I’m not sure. "
+    "But here we are, talking about breasts or the lack thereof on the way to..."
+    "To..."
+
+    s "Where exactly are we going again?"
+
+    scene aminewone3
+    with dissolve
+
+    ay "Excellent question, future husband! We’re on our way to a cafe not far from here so we can take advantage of the couple’s discount they’re offering."
+    a "We tried going as a trio last time but...things didn’t really work out the way I expected them to. "
+
+    scene aminewone4
+    with dissolve
+
+    ay "It’s not a {i}trio,{/i} Ami. It’s called a {i}throuple.{/i} And the fact that the cafe would not offer us a discount proves that they are bad people who don’t care about inclusivity."
+    a "Then...why are we going back exactly?"
+
+    scene aminewone5
+    with dissolve
+
+    ay "Because we’re hungry and you kept looking at pictures of the parfaits they’ve been posting on Instagram all day saying, “Wow. I want to go there.”"
+    ay "Oh. And we also have four people now."
+    s "So, which one of you am I dating today?"
+    ay "All of us. We are a quadrouple- a real type of thing that actually exists. And if the cafe doesn’t like that, they will be met with destruction."
+
+    "As you can see, it’s a pretty normal day for me. "
+    "I’m not sure how I’m going to deal with walking into a cafe for a couple’s discount with three girls who could pass for my daughters but I guess that’s a problem I’ll have to figure out how to handle later."
+    "And, as much as I’d like to say that the cafe will probably just assume I’m their teacher, I can’t really see how that would be any better than a parent."
+    "In fact, that would probably be even worse."
+    "Honestly, I think I’m kind of screwed either way. But at least I also get to screw three girls in the process."
+    "Just in the less fun way."
+
+    scene aminewone6
+    with dissolve
+
+    a "Are you sure you’re okay with tagging along, Sensei? You...didn’t have anything else to do tonight?"
+    s "Since when do you care about whether or not I’m free? Isn’t wanting to be with me every waking hour of the day like, half of your personality?"
+
+    scene aminewone7
+    with dissolve
+
+    a "Is the other half being lovable and fun and nice and cute and kind and cute? And also cute?"
+    s "No. It’s being annoying."
+
+    scene aminewone8
+    with dissolve
+
+    a "Mm!"
+    ay "Don’t worry, Ami! I think you’re all of those things. But I think you may have forgotten to mention your best quality which is, in my opinion, how cute you are."
+
+    scene aminewone9
+    with dissolve
+
+    a "How come you can’t be more like Ayane?"
+    s "I don’t really have the self-confidence to be hitting on myself all day long."
+    a "Not that part. The part with how much she appreciates me and how she calls me cute even when I don’t have to tell her to."
+    s "Probably because walking around school and talking to people about how cute my niece is would likely put me on some sort of list somewhere."
+    m "I think that might be the most reasonable thing I’ve ever heard you say."
+    ay "I’m not related to you, Sensei. You can call me cute as many times as you want and you won’t even have to worry about any lists since I am rich and can get you out of trouble if I have to."
+    s "Is {i}that{/i} really what you want me to be, Ami? Are you sure?"
+    ay "You’d think I’d be offended by getting called {i}that,{/i} but it really just made me super excited instead."
+
+    scene aminewone10
+    with dissolve
+
+    m "Ew."
+    a "Okay, so maybe {i}don’t{/i} be more like Ayane. But you are allowed to dote on me {i}a little{/i} bit, you know."
+    a "Everybody already knows we’re close, so no one is going to put you on any list if you just remind them every once in a while that I am your entire world and that you are mine."
+    ay "Ami’s right, Sensei. You should really cherish her more."
+    a "See what I mean? If-"
+    ay "Especially since you’ll be running away with me and never looking back as soon as I graduate. If you’re not nice to Ami now, how will she remember you when that happens?"
+
+    scene aminewone11
+    with dissolve
+
+    a "Just go home if you’re going to say things like that, damn it!"
+
+    scene black
+    with dissolve2
+
+    "Of course, Ayane doesn’t wind up going home since she is apparently the only one who remembers how to get to the cafe."
+    "I highly doubt Ami is being serious when she says things like that anyway, though."
+    "Even with how relentless Ayane’s flirting can be, it’s clear that she and Ami are extremely close and that it’s {i}probably{/i} just all in good fun."
+    "Do I think Ami would cause physical harm to {i}someone else{/i} for doing what Ayane does? Absolutely."
+    "At the bare minimum, I think she’d try."
+    "But I think that, for whatever reason, Ayane gets a free pass."
+
+    scene aminewone12
+    with dissolve2
+
+    "Eventually, we make it to what seems like less of a cafe and more of a hole in the wall that just happens to have a dessert menu."
+    "It must be relatively new since there are still barely any decorations on the walls and the entire back half of the store is blocked off for some reason."
+    "I can’t say I’m really looking forward to spending my night here on account of the entire menu being full of things I wouldn’t typically consume, but..."
+    "At the very least, I have enabled the couple’s discount the girls were after."
+    "Unless Ayane proceeds to ruin everything again by saying that we are a “quadrouple.”"
+
+    barista "Welcome in! Table for four?"
+    ay "Two tables for two, actually! We’re here for the couple’s discount."
+    barista "Oh, sure! I take it you two girls are a couple then?"
+    ay "We are!"
+    m "I have never seen this girl in my life."
+
+    scene aminewone13
+    with dissolve
+
+    ay "{i}Maya, what are you doing?{/i}"
+    m "What? It’s only a 10%% discount. I’m going to be spending basically the same amount of money either way."
+    ay "{i}Okay, but that’s not why we’re doing this, remember?{/i}"
+    m "..."
+    barista "Um..."
+    ay "Just go along with it and {i}I’ll{/i} pay for you, okay?"
+
+    scene aminewone14
+    with dissolve
+
+    m "I am in love with this woman."
+    ay "Hahah...hah..."
+    barista "Oh! Well...that would certainly make the two of you a couple then."
+    barista "Follow me right this way. I’ll take you to a table in the back where you two won’t be interrupted."
+    m "Good. I would not want someone to overhear me talking about all of the love that I have for this person."
+
+    scene aminewone15
+    with dissolve
+
+    barista "And you two near the door, will you also be-"
+    barista "Wait...I’m sorry, Sir. But you seem a little too old to be-"
+    a "I consent to a romantic relationship with this man and am not being taken here against my will."
+    s "..."
+    barista "..."
+    a "..."
+    s "I’m her uncle and we don’t need the discount."
+
+    scene aminewone16
+    with dissolve
+
+    a "Sensei, what the heck?! We were so close."
+    s "It’s fine. I’m going to be paying anyway and a 10%% discount is not worth what little pride I have left."
+    s "If it were 20%%, that would be a different story."
+    barista "A...table near the window it is, then."
+    barista "Please wait one moment."
+
+    scene black
+    with dissolve2
+
+    "Ayane and Maya are taken to a table in the back to make out or something while Ami and I wait near the door for the barista-slash-waitress or whatever she is to return."
+    "We’re seated shortly after and Ami, who apparently does not care at all about how much money I am willing to spend today, orders way too much food."
+    "Surprisingly, it’s all taken over to us within five minutes- along with a complimentary pot of hot tea that I {i}will{/i} consume, unlike all of the other brightly colored desserts that have now joined us at the table."
+
+    scene aminewone17
+    with dissolve2
+
+    a "You know, Sensei...I really wouldn’t have minded if you just decided to go along with the couples thing."
+    a "I have done my research and know what I have to say to avoid getting you into trouble with anyone who does not understand the way we feel about one another."
+    s "What way? We’re literally just related and haven’t done anything romantic together."
+    a "Right, yeah. I obviously know that. But what I’m saying is that we {i}could{/i} and it would be okay because I’ve done my research."
+    s "Is there something you’d like to admit to me, Ami? Like...perhaps something about your feelings for me?"
+
+    scene aminewone18
+    with dissolve
+
+    a "Boy! This cake sure looks good, doesn’t it?!"
+    s "..."
+    a "I’m so glad that my uncle, who I’m not romantically involved with, is buying it for me today on this totally normal day of no importance whatsoever!"
+    s "You should be glad. I’m spending probably an entire day’s worth of pay at this place for you."
+
+    scene aminewone19
+    with dissolve
+
+    a "Yeah, but that’s your fault. You could have afforded another parfait if you just swallowed {i}what little is left of your pride{/i} and pretended to be in love with me."
+    s "I’m not even going to eat {i}this{/i} parfait. Parfaits are not currency and mean nothing to me."
+    a "Why would you even order it then?"
+    s "Because the alternative would have been sitting here without any food. And there is nothing more disconcerting than an older man bringing a young girl to a cafe and just...watching her eat."

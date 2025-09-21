@@ -1,0 +1,2156 @@
+otting touch.”"
+
+    scene beachdnd54
+    with dissolve
+    play sound "dice.wav"
+
+    mo "Does a...13 hit?"
+    sa "No. My AC is a little higher than that."
+    mo "Wow. All that drama for nothing then."
+    mo "I guess this brings us to Nithhala's redemption turn."
+
+    scene beachdnd55
+    with dissolve
+
+    r "Excellent. You said the first mushroom was looking a little worse-for-wear, right?"
+    mo "Correct. It’s also crying now as well."
+
+    scene beachdnd56
+    with dissolve
+
+    r "Heh...Perfect. Then this is really the only roll that matters at the end of the day."
+    r "Nithhala lifts her finger and points at the remaining monster. Her eyes narrow as she focuses everything she has on eliminating it."
+    r "Then, after taking a deep breath, her eyes widen and she casts Eldritch Blast."
+
+    play sound "dice.wav"
+
+    r "..."
+
+    scene beachdnd57
+    with dissolve
+
+    r "Oh, you’ve gotta be kidding me."
+    r "A 6 doesn’t hit does it?"
+    mo "Actually, it does."
+
+    scene beachdnd58
+    with dissolve
+
+    r "Really?! Then-"
+    mo "BUT-"
+    r "...But what?"
+    mo "Isn’t the attack modifier for Eldritch Blast a plus five? That would mean you rolled a natural-1."
+    r "..."
+    mo "..."
+
+    scene beachdnd59
+    with dissolve
+
+    r "Don’t do this to me."
+    mo "Your Eldritch Blast misses the mushroom and connects with a tree ten feet to the side of it."
+
+    scene beachdnd60
+    with dissolve
+
+    r "This is still a victory in my book..."
+
+    scene black
+    with dissolve2
+
+    "The battle ends on the next turn as Ayane’s character manages to slice the mushroom monster in half."
+    "Shortly after that, the party reconciles and comes to the conclusion that all of them have been summoned here from different worlds."
+    "Not knowing what else to do or where else to go, they decide to band together. "
+    "But it’s around that time that I decide to leave. "
+    "It’s clear that this sort of thing just...isn’t for me."
+    "But then again, it doesn’t seem like many things are."
+    "I’ll just focus on getting a good night’s sleep and wake up tomorrow feeling refreshed and ready to go."
+
+    scene nightsky
+    with dissolve
+
+    "I think it’s pretty safe to say that this was a mostly-successful first day of vacation."
+    "Sure, there were a few parts of it that went a little different than I expected-"
+    "But overall, it was a great experience."
+    "And I’m hoping that tomorrow, something even greater happens."
+
+    $ renpy.end_replay()
+    $ beachvacation8 = True
+    $ ami_love += 1
+    $ maya_love += 1
+    $ ayane_love += 1
+    $ sana_love += 1
+    $ rin_love += 1
+    $ molly_love += 1
+    $ tsuneyo_love += 1
+    stop music fadeout 5.0
+
+    "{i}Your affection with Ami, Maya, Ayane, Sana, Rin, Molly, and Tsuneyo has increased by 1 point each!{/i}"
+
+    "........."
+    "......"
+    "..."
+
+label beachvacation9:
+    "I tried to sleep that night but couldn’t."
+    "Something about the crashing of the waves as they attacked the coast tore me from my rest. "
+    "The bed became a ship."
+    "And I became lost at sea."
+    "So I did what all good captains do-"
+    "Abandoned ship and got the Hell out of there."
+
+    scene nightsky
+    with dissolve
+    play music "thesleepingcity.mp3"
+
+    "That whole thing about “going down with the ship” never made any sense to me."
+    "I mean, who wants to die for a boat?"
+    "If you’re going to die, do it for something wonderful. "
+    "Like a girl you love or an idea you believe in."
+    "Dying for a boat is just a waste of a life."
+    "But I guess there’s no harm in thinning out the crowd if some people are naive enough to believe that there is honor in a death at sea."
+    "Honor has no value in the real world."
+    "Nothing has value in the real world."
+    "But that’s because there is no real world."
+    "There’s only this place, whatever this may be."
+    "Wherever this may be."
+    "Which is likely somewhere at the edge of the world."
+
+    scene sanaatnight1
+    with dissolve2
+
+    "I come across a small girl as I make my way down the beach, still fighting away the idea that I should be in bed right now."
+    "It’s roughly 3 AM. The girls have probably been long-done with their game at this point."
+    "I figured Sana would be in bed, but..."
+    "Well, you can clearly see that isn’t the case."
+    "The ocean is gentle tonight."
+    "Every so often, I watch the tide tickle her feet before running away again."
+    "I wonder if the water is cold?"
+    "..."
+    "It probably is."
+    "There has to be {i}something{/i} cold in this burning world."
+
+    scene sanaatnight2
+    with dissolve
+
+    sa "Huh?..."
+
+    "Oh."
+    "She’s spotted me."
+
+    if bonus == True:
+        "I guess my game of “Spy on the loli” is coming to an end."
+
+    "That’s fine, though."
+    "It’s been a little while since Sana and I were alone together."
+    "This is a good chance to figure out what it is that brought her out here this late."
+    "I hope, if only for a moment, that it’s not to go down with the ship."
+
+    sa "What...are you doing here?"
+    sa "I thought you went to sleep."
+    s "I did."
+    s "Well, I tried to at least. The water kept me up."
+
+    scene sanaatnight3
+    with dissolve
+
+    sa "Me too. "
+
+    if ayanesleepover == True:
+        sa "It feels a little weird sleeping in an unfamiliar bed, doesn’t it?"
+
+        if bonus == True:
+            s "...Yeah."
+
+            "I hope she’s not talking about the night I slept in Ayane’s bed..."
+            "I still don’t really know the best way to talk about that."
+        else:
+            s "If I don't have my trusty pillow and blanky, it's virtually impossible for me to fall asleep."
+
+    else:
+        sa "I kind of...need things to be really quiet in order to fall asleep..."
+        sa "I always have."
+
+    s "Mind if I stay here and talk to you for a bit? Not like there’s anything else to do right now."
+    sa "Yeah...that’s fine. "
+
+    scene sanaatnight4
+    with dissolve
+
+    sa "And sorry for not...asking for permission to go out at night like this."
+    sa "Even if you’re going to say something like “Do whatever you want” or “I don’t really care.”"
+    s "Wow, that’s exactly what I was going to say."
+    sa "I figured..."
+
+    scene sanaatnight3
+    with dissolve
+
+    sa "My mom is the same way."
+    sa "She lets me do pretty much anything I want."
+    s "Yeah, that sounds about right. Sara seems like a pretty lenient mother."
+
+    scene sanaatnight5
+    with dissolve
+
+    sa "She is."
+    sa "There was...this one time I got lost in a grocery store when I was little..."
+    sa "And I was crying and looking around for her and..."
+    sa "Well, I didn’t find her until almost thirty minutes later because she went home without me."
+    s "That’s not lenient, that’s just negligent."
+
+    scene sanaatnight6
+    with dissolve
+
+    sa "Yeah...it sounds a lot worse now that I say it out loud..."
+
+    scene sanaatnight5
+    with dissolve
+
+    sa "She was really upset about it, though."
+    sa "I remember her crying and...saying how sorry she was for pretty much the rest of the day after that..."
+
+    scene sanaatnight3
+    with dissolve
+
+    sa "But...I was really little back then, so...it doesn’t really matter anymore."
+    sa "At the very least...I don’t think I’ll be getting lost in a grocery store again any time soon."
+    s "It would be concerning if you still got lost in grocery stores at your age."
+
+    scene sanaatnight6
+    with dissolve
+
+    sa "I’m glad you think so, but there are plenty of people who still think I’m a lot younger than I actually am."
+    s "I mean, can you really blame them, though? You’re what, like 4’11?"
+    sa "Even shorter...I’m 4’10."
+    s "{s}Jesus Christ.{/s}"
+    sa "Don’t remind me..."
+    s "Where do you even buy your clothes?"
+    sa "I just asked you to not remind me and now you’re...asking me where I buy my clothes?"
+    s "...Maybe I just want to get you a present?"
+    sa "I’m kind of worried about what a present from you would be like..."
+    s "Rude. I’m a perfectly wholesome adult male, I’ll have you know."
+
+    scene sanaatnight3
+    with dissolve
+
+    if bonus == True:
+        sa "You say that now...but I’m pretty sure I’m catching onto what you’re really like, Sensei..."
+
+        "I really hope that isn’t true."
+
+        sa "Besides...I hear a lot about you from Ayane."
+
+        "I really hope that isn't true either."
+
+        sa "It’s like you’re a different person when you’re with her than you are with me..."
+        sa "Is it...okay if I ask you why?"
+    else:
+        sa "And I...am a health inspector."
+        sa "You know the truth about me, Sensei...so it's only fair that you...stop changing who you are when you're with me..."
+        sa "The same way I've stopped hiding the real me when you're around..."
+
+    "She’s absolutely correct."
+    "I {i}am{/i} a different person when I’m with her."
+    "Just like I’m a different person with everyone else."
+    "There isn’t a single person in this world who acts the same with everyone they meet."
+    "You adapt."
+    "You change yourself to fit better into whatever situation you throw yourself into."
+    "Such is the way of the chameleon, and such is the way of me."
+
+    s "There are a few reasons for that."
+    s "You and Ayane are completely different people. I’ve also known her a lot longer."
+    s "So Ayane and I are obviously going to act a little closer. Just like how I am with Ami."
+    s "Ayane’s basically a member of the family at this point."
+    sa "I see..."
+    sa "I think...she’d be really happy to hear that."
+
+    scene sanaatnight7
+    with dissolve
+
+    sa "She’s...almost like...family for me as well."
+    sa "I met her during a...really bad part of my life..."
+
+    scene sanaatnight3
+    with dissolve
+
+    sa "I wasn’t always this quiet, you know."
+    sa "I was actually really talkative when I was little."
+    sa "I used to get my mom into a lot of trouble."
+
+    scene sanaatnight6
+    with dissolve
+
+    sa "Which is probably another reason the grocery store fiasco was so scary...I thought she was just giving me away for being too rowdy..."
+    sa "Actually, I’m going to stop bringing that up now because I feel even dumber every time I add on to it."
+    s "I’ll be sure to ask Sara about it the next time I see her, just in case you’re leaving anything out."
+
+    scene sanaatnight8
+    with dissolve
+
+    sa "P-Please don’t! She hasn’t brought it up in years and I’m...hoping she forgot about it!"
+    s "Do you really think a mother would forget about something like almost losing her daughter?"
+    sa "N-No! But I can still hope!"
+    s "Okay, okay. I won’t bring it up. But if she ever does, I’m not stopping her."
+
+    if saradate1 == True:
+        scene sanaatnight4
+        with dissolve
+
+        sa "Oh yeah...You and her are...friends, now...right?"
+        s "Is that weird for you?"
+        sa "Um...A little bit. I won’t lie."
+        sa "She...hasn’t had any male friends for a long time...so seeing her get close to you is kind of...concerning."
+        s "What, are you worried we’re going to start dating or something?"
+
+        scene sanaatnight9
+        with dissolve
+
+        sa "Yeah."
+
+        "I meant that in a joking sort of way but it seems like Sana took it seriously."
+        "I’m surprised she answered so honestly, though."
+        "Is she already comfortable enough to share her actual feelings with me?"
+
+        sa "It would be...really weird if you two started dating."
+
+        if bonus == True:
+            s "Why do you say that?"
+
+            scene sanaatnight10
+            with dissolve
+
+            sa "Well cause...you know...you’d be doing stuff that couples do..."
+            sa "And not only would it be with my mom, I’d have to figure out what to say to Ayane as well..."
+            sa "She really likes you and I think...she’d be really scared if you ever dated someone your age."
+            s "So...she’d be okay with me dating someone her age?"
+
+            scene sanaatnight6
+            with dissolve
+
+            sa "Weirdly enough, I think she’d be more okay with that..."
+            sa "Because to her, it would mean she still has a chance."
+            sa "I think what she’s most afraid of is you just...forgetting about her."
+            sa "But I know you wouldn’t do that..."
+            sa "You’re kinder than that, whether you believe it or not."
+
+            "No I’m not, Sana."
+            "You don’t know half of it."
+            "It doesn’t matter how nice you are to someone if your end goal is to sleep with them."
+            "But of course-"
+            "I won’t fault you for not realizing that yet."
+            "I’ll be here for you until my veins run dry."
+        else:
+            s "Well, I have no intention of ever starting that sort of relationship with her, so you don't have to worry."
+
+    else:
+        scene sanaatnight6
+        with dissolve
+
+        sa "Please...don’t do that either..."
+        sa "I think it would be best if everyone just...forgot all about grocery stores...forever."
+        s "But then where would we buy our groceries?"
+        sa "We wouldn’t. We’d all just die."
+        s "Are you really that embarrassed by that story?"
+        sa "I swear it didn’t sound even half as stupid in my head...it was actually a really sad memory."
+
+    "A gust of wind sweeps across the beach and, for a brief moment in time, I’m able to see both of Sana’s eyes."
+    "They reflect the moonlight back into the sky, but not before giving me chills."
+    "Though, that could just be the wind."
+    "I didn’t catch much of her face, but I did spot a tiny glimpse of...emptiness?"
+    "Longing?"
+    "There’s something she wants, but can’t have."
+    "I wonder what it is?"
+
+    scene sanaatnight7
+    with dissolve
+
+    sa "Can you feel that, Sensei?"
+    s "Yeah, it’s called wind."
+
+    scene sanaatnight6
+    with dissolve
+
+    sa "That’s not what I meant..."
+    sa "I meant the temperature."
+    sa "It's finally starting to get colder."
+
+    scene sanaatnight7
+    with dissolve
+
+    sa "Summer is leaving us."
+    sa "Pretty soon, we'll even have snow."
+    sa "I wonder what else this winter will have in store for all of us?"
+    s "Do you like the winter, Sana?"
+    sa "I do...I was born in winter. It brings back good memories."
+    sa "I also don’t like the heat."
+    s "Neither do I. Here’s hoping that the two of us can manage to stay sane until-"
+    s "Wait, don’t we have to deal with Fall before we get to winter? That didn’t even occur to me."
+
+    scene sanaatnight3
+    with dissolve
+
+    sa "There is no Fall in Kumon-mi."
+    sa "Just like there is no Spring."
+    sa "All we have are summer and winter."
+    sa "I’m...surprised you haven’t realized that until now."
+
+    "I know it’s been scorching hot ever since I was reborn here but...I never realized that was due to it being a six month Summer."
+    "How does that even work?"
+
+    if ayanesleepover == True:
+        s "Do you mind if I say something relatively corny right now?"
+        sa "Go ahead...I’m listening."
+        s "Have you ever realized that you and Ayane are kind of like summer and winter?"
+
+        scene sanaatnight11
+        with dissolve
+
+        sa "Pfft! What the heck?"
+        sa "I knew something corny was coming but...that sounds like a line from a movie."
+
+        scene sanaatnight12
+        with dissolve
+
+        sa "I...I know what you mean, though."
+        sa "Ayane is hyper and outdoorsy and loves adventure and I’m..."
+        sa "Well, I’m Sana Sakakibara."
+        sa "The quiet girl who doesn’t talk to anyone and spends all of her free time playing video games and eating melon bread."
+        sa "So I...can see why you’d think of us like the seasons."
+
+        scene sanaatnight7
+        with dissolve
+
+        sa "Since you had your turn, I’ll say something corny now too..."
+        sa "Summer and winter...kind of need each other, don’t they?"
+        sa "Without one, the other basically wouldn’t exist."
+        sa "The only reason we look forward to seasons changing is because we get tired of the one we have now."
+        sa "So..."
+
+        scene sanaatnight12
+        with dissolve
+
+        sa "So even if you like the Summer right now, you’ll look forward to me eventually, right?"
+        s "..."
+        sa "..."
+
+        scene sanaatnight13
+        with dissolve
+
+        sa "Oh God! That probably sounded really weird, didn’t it?"
+        s "Was that a confession, Sana?"
+        sa "No! I just meant that I...I don’t know!"
+        sa "It just sort of came out! I’m obviously really bad at being corny!"
+
+        scene sanaatnight14
+        with dissolve
+
+        "I take a seat next to Sana and move closer to her."
+        "She doesn’t try to get away."
+        "Months ago, I feel like even coming within a few inches of her would have sent her sprinting down the beach."
+        "But now-"
+        "All she does is turn her head to the side and let out cute noises of embarrassment."
+
+        sa "Ngh..."
+        sa "I...can’t believe I said something that stupid..."
+        s "It wasn’t stupid. It was cute."
+        sa "No, it was very stupid. Very, very stupid."
+        sa "You should forget you ever heard it."
+        s "I don’t know if I’ll be able to do that."
+        sa "Please do that. Or, at the very least, never repeat it to Ayane."
+        sa "She’d think I was trying to...win you over...or something..."
+        s "Weren’t you?"
+        sa "No. You’re my teacher. That’s weird."
+
+        if bonus == True:
+            s "I don’t think it’s that weird."
+            sa "Of course you don’t. You...sleep in girls’ beds with them and stuff..."
+            s "..."
+            sa "..."
+
+            scene sanaatnight15
+            with dissolve
+
+            s "Is that a thing we need to talk about?"
+            sa "Is...that a thing you {i}want{/i} to talk about?"
+            s "It sounds like it’s bothering you a little."
+            sa "Of course it’s...bothering me a little."
+            sa "I spent the whole night expecting you to...come visit me at the bar and..."
+            sa "I come home to find you cuddling with Ayane..."
+            sa "It was...really weird..."
+            s "Would it have been better if I just let her stay by herself and cry her eyes out?"
+
+            scene sanaatnight14
+            with dissolve
+
+            sa "Of course not...You...You did the right thing."
+            sa "But that doesn’t make it...not weird for me..."
+            sa "It would be the same thing if I...found you in bed with my mom or something..."
+            s "If you ever find me in bed with your mom, I want you to know it’s probably her fault and not mine."
+
+            scene sanaatnight16
+            with dissolve
+
+            sa "Yeah...it probably would be..."
+            sa "But...still..."
+            sa "I thought I was okay with it, but for some reason, I just can’t...stop thinking about it..."
+            sa "It’s probably because I know how much she likes you and..."
+            sa "Well, I don’t really know how {i}you{/i} feel, but I can’t imagine it’s...easy for a boy to turn down a girl like her if she’s...you know..."
+            s "Didn’t I tell you nothing happened that night?"
+
+            scene sanaatnight15
+            with dissolve
+
+            sa "Mhm...but..."
+            sa "You never said anything about other nights."
+            sa "And I don’t even want to ask because...I feel like it’s just better if I stay in the dark..."
+
+            "I feel that way too..."
+        else:
+            s "You're right. It would be weird."
+            s "In fact, even mentioning it is making me want to throw up in my mouth."
+            sa "..."
+            s "Don't ever flirt with me, Sana."
+
+        scene sanaatnight14
+        with dissolve
+
+        sa "..."
+        s "..."
+        sa "I’m sorry...I didn’t mean to start complaining..."
+        sa "We’re on vacation...so we should be talking about happier things..."
+        sa "Or just...not talking about anything and...watching the stars together..."
+        sa "That would be nice...wouldn’t it?"
+        s "..."
+        sa "..."
+        s "Yeah."
+        s "We can just watch the stars together."
+
+        scene sanaatnight17
+        with dissolve
+
+        "And so we watched the stars, like any two people awake at 3 AM would."
+        "We sat there in silence, letting the cicadas off in the distance fill in the silent spaces that conversation would normally take up."
+        "And somehow or another, it felt like we were bonding."
+        "I’m glad Sana was able to look past the situation with Ayane and get over it so easily."
+        "She handled everything maturely and responsibly-"
+        "Without even shedding a tear."
+
+        scene nightsky
+        with dissolve2
+
+        "Sana and I get up off of the ground almost 30 minutes later and head back to the inn together."
+        "I always forget how much taller I am than her until I see her right next to me."
+
+        if bonus == True:
+            "But that’s part of what makes me so attracted to her."
+            "Call me a creep or whatever, but it makes sense in my eyes."
+            "Even if I’m not devoted entirely to her, I’m happy that we can spend so much time together."
+        else:
+            "I am such a big boy now."
+
+        sa "Um...S-Sensei?"
+        s "Yeah?"
+        sa "You..."
+        sa "You didn’t hear anything while we were watching...the stars...did you?"
+        s "All I heard were the cicadas."
+        sa "Okay...good."
+        s "...?"
+        sa "Let’s...um-"
+        sa "Never mind..."
+        sa "I’ll...do my best to...try and forget..."
+
+        scene black
+        with dissolve2
+
+        "O world."
+        "In our final moments-"
+        "Please remind us how it feels to be wanted without another unwanted in return."
+        "And when we sleep-"
+        "Gift us happy dreams."
+        "Of places where nothing bad can ever happen."
+        "And of a love so pure-"
+        "It destroys the world."
+
+        $ renpy.end_replay()
+        $ beachvacation9 = True
+        $ sana_love += 1
+        stop music fadeout 5.0
+
+        "{i}Sana’s affection still manages to rise to [sana_love] despite spending the night worrying about what you do to her best friend while she is away!{/i}"
+        "{i}Oh, the tricks our hearts manage to play on us!{/i}"
+        "........."
+        "......"
+        "..."
+
+    else:
+        s "Well, either way, I’m glad we won’t have to deal with this heat anymore."
+
+        scene sanaatnight3
+        with dissolve
+
+        sa "Me too...I’m excited to wear sweaters and hide under blankets and stuff."
+        s "Yeah, those sound like two very 'Sana' activities."
+        sa "You think you know me so well..."
+        s "Nah. You just have a certain air to you. That’s all."
+        sa "Well I hope it’s a chilly one...cause if one more hot breeze comes to get me and blows sand into my eyes I’m...taking the first bus out of here."
+
+        scene nightsky
+        with dissolve
+
+        "Sana and I get up off the ground a few minutes later and head back to the inn together."
+        "I always forget how much taller I am than her until I see her right next to me."
+        "But that’s part of what makes me so attracted to her."
+        "Call me a creep or whatever, but it makes sense in my eyes."
+        "I feel a certain obligation to protect her from anything that would hurt her...Even if those things would make my life easier or better in the long run."
+
+        sa "Um...S-Sensei?"
+        s "Yeah?"
+        sa "I...Umm..."
+        sa "I’m glad you couldn’t sleep tonight."
+        s "..."
+
+        scene black
+        with dissolve2
+
+        s "Me too."
+
+        $ renpy.end_replay()
+        $ beachvacation9 = True
+        $ sana_love += 1
+        stop music fadeout 5.0
+
+        "{i}Sana’s affection has increased to [sana_love]!{/i}"
+        "........."
+        "......"
+        "..."
+
+label endofbeachvac9:
+    $ totaldays += 1
+    $ day += 1
+    if day == 7:
+        hide saturday onlayer date
+        show sunday onlayer date
+    else:
+        "ERROR"
+
+    "{i}[totaldays] days have passed...{/i}"
+
+    if ami_lust >= 10:
+        jump amilust10
+    else:
+        jump amilust10skip
+
+label amilust10:
+    scene amibeachlust1
+    with dissolve2
+
+    "{i}The next morning...{/i}"
+
+    play sound "slidedoor.mp3"
+
+    a "Ugh...Is he really going to spend the entire morning sleeping?"
+    a "Sensei! Are you up?"
+    s "..."
+    a "Senseiiiii~"
+
+    play sound "slidedoor.mp3"
+    scene amibeachlust2
+    with dissolve
+
+    a "Sensei. It’s almost 10 AM. That means it’s time to..."
+
+    if bonus == True:
+        jump amilust10x
+    else:
+        a "..."
+        a "Eh. Nevermind."
+
+        scene black
+        with dissolve
+
+        "Ami leaves the room without doing anything because this is a family friendly game."
+
+        $ renpy.end_replay()
+        $ ami_lust += 1
+        $ amilust10 = True
+
+        "{i}Ami’s lust has increased to [ami_lust]!{/i}"
+        "........."
+        "......"
+        "..."
+
+label amilust10skip:
+    scene amibeachlust1
+    with dissolve2
+
+    "{i}The next morning...{/i}"
+
+    play sound "slidedoor.mp3"
+
+    a "Ugh...Is he really going to spend the entire morning sleeping?"
+    a "Sensei! Are you up?"
+    s "..."
+    a "Senseiiiii~"
+
+    play sound "slidedoor.mp3"
+    scene amibeachlust2
+    with dissolve
+
+    a "Sensei. It’s almost 10 AM. That means it’s time to..."
+
+    if bonus == True:
+        jump amilust10skipx
+    else:
+        a "..."
+        a "Eh. Nevermind."
+
+        scene black
+        with dissolve
+
+        "Ami leaves the room without doing anything because this is a family friendly game."
+
+        $ renpy.end_replay()
+
+        "........."
+        "......"
+        "..."
+
+label beachvacation10:
+    if _in_replay:
+        play music "normalday.mp3"
+
+    scene beachbreakfast1
+    with dissolve
+
+    ay "...And so I say to the guy, “You {i}can’t{/i} kick me out! My father owns the place!”"
+    ay "And so he’s all like, “Miss, that doesn’t mean you’re allowed to just free all of the animals! That will put them in danger!”"
+    ay "So I grab him by the collar of his stupid shirt and I look him in the eyes and say..."
+
+    scene beachbreakfast2
+    with dissolve
+
+    ay "My middle name is danger...and if you’ve got a problem with me freeing a few puppies, {i}I’ve got the nerve to show you why{/i}."
+
+    scene beachbreakfast3
+    with dissolve
+
+    mak "But...that’s not your middle name. You don’t even have a middle name. You’re Japanese."
+    mi "Hold the phone. Why would anyone get into trouble over freein’ some puppies? Puppies are supposed to be free! "
+
+    scene beachbreakfast4
+    with dissolve
+
+    mak "I don’t think there’s anywhere in the world, let alone Japan, where puppies are {i}supposed{/i} to roam free."
+    mak "The vast majority of dogs, other than wild ones like wolves I mean, are domesticated. "
+    mak "So the chances of a normal puppy surviving alone in the wilderness is significantly lower than it would be should that puppy be in the care of a human."
+    mi "...Why do ya gotta be so {i}real{/i} all the time?"
+    mi "Why can’t ya just let my innocent heart think about some happy puppies floodin’ the streets of Kumon-mi?"
+    mak "Because that would cause a multitude of problems that-"
+
+    scene beachbreakfast5
+    with dissolve
+
+    ay "So anyway, how was your night, Karin? You went out jogging, didn’t you?"
+    ay "I think most of us were probably asleep by the time you got back, right?"
+    ka "Oh, uhh, yeah. It was nice. I kind of forgot how much harder it is to run in the sand, so that was a little bit of a wake up call."
+    ay "You were able to find a spot in the room, though, right? I know it was kinda cramped in there. Especially with Molly sprawling out all over the place."
+    ka "Yeah...I felt really bad for the one girl...Rin, I think?"
+    ka "She was basically hugging her the entire night."
+
+    scene beachbreakfast6
+    with dissolve
+
+    mi "Rin?! Imagine how I feel! I barely even know the girl and she was all up on me like I was her friggin’ body pillow!"
+    mi "I felt like I was two steps away from gettin’ married with how close we were!"
+    ki "You should have come slept next to me like I told you to in the first place."
+
+    scene beachbreakfast7
+    with dissolve
+
+    mi "What, you mean right in front of the bathroom? Wouldn’t it be annoying havin’ people step over you to get in all night?"
+    ki "I don’t even think I woke up at all. But I’m kind of a heavy sleeper so...yeah."
+
+    scene beachbreakfast8
+    with dissolve
+
+    ka "I’m really thankful for that, by the way. Because I totally kicked you when I went in there to get dressed last night and you didn’t even move."
+    ki "Gee. Thank you, beloved sister, for abusing me in my sleep. I’ll be sure to return the favor tonight."
+    ka "I’ll be sure to not go to sleep until really late then."
+
+    scene beachbreakfast9
+    with dissolve
+
+    mak "Oh, I've been meaning to ask...What’s it like having a little sister, Karin? "
+    mak "I’ve always wanted one myself but my parents have always been pretty adamant about only having one child."
+    ki "Yeah, Karin. What’s it like? Answer very carefully."
+
+    scene beachbreakfast10
+    with dissolve
+
+    ka "Well..."
+    ka "That’s kind of a hard question."
+    ki "{i}Very carefully...{/i}"
+    ka "Kirin and I don’t always get along. In fact, she was pretty unbearable when the two of us were little."
+    ka "Being taller and older than her meant that she got a lot of my old clothes as I grew out of them, but that never stopped her from taking the ones I still used either..."
+
+    scene beachbreakfast11
+    with dissolve
+
+    ka "Plus, I can’t even remember how many fights we’ve gotten into over other stupid stuff like where to go out to eat or what to name our cat."
+    ki "I won the cat battle, in case anyone is wondering."
+    ki "I’m clearly the superior sister."
+    ka "Is that really what you think? That you won?"
+
+    scene beachbreakfast12
+    with dissolve
+
+    ki "Uhh...well we went with the name {i}I{/i} chose, so yeah. That counts as a victory for me."
+    ka "We went with {i}a{/i} name that you {i}agreed{/i} to. And you chose it out of a hat."
+    ki "Whatever, still my name. You weren’t allowed to put anything in the hat anyway."
+    ka "That’s just what Mom told you."
+    ka "The {i}real{/i} truth is that I made up all of the names in the hat and just let you pick whichever one because I liked them all."
+
+    scene beachbreakfast13
+    with dissolve
+
+    ki "You bitch!"
+    ki "You two have been lying to me for years and letting me think I named the cat, when it’s really just been one long prank?!"
+    ki "I don’t even want the cat anymore! Take it back to the pet store!"
+
+    scene beachbreakfast14
+    with dissolve
+
+    ka "That pet store closed down like six years ago..."
+    ka "And besides, you love Pancake. I don’t believe for a split second that you’d give him up that easily."
+
+    scene beachbreakfast15
+    with dissolve
+
+    ki "Yeah well...fuck you, Karin."
+    ka "I love you too!"
+    mak "Your relationship seems a little more...complicated than I imagined it would be based on how often you two are together. "
+    mak "I always figured having a little sister would be like always having someone to look after and...train, I guess."
+    mak "Kind of like a mini-version of myself."
+
+    scene beachbreakfast16
+    with dissolve
+
+    mi "Oh, heck no! I can barely deal with one of you!"
+    mi "Ya have any idea how hard my life would be with {i}two{/i} Makoto’s? I’d never have time for soccer anymore."
+    mak "True, but at least you’d be passing math."
+    mi "What even is math?!"
+    mak "It’s the subject with all of the numbers."
+    mi "I know what it is! But like, what the heck {i}is{/i} it?! You know?!"
+    mak "..."
+    mak "No."
+
+    scene beachbreakfast17
+    with dissolve
+
+    ka "Well, at the end of the day, I think it’s pretty safe to say that Kirin isn’t anything like me."
+    ki "You’ve got that right..."
+    ka "But honestly, I can’t imagine what life would be like without her."
+    ka "Even if we fight all of the time and even if she stole like half of my clothes when we were growing up, thinking about doing all of that without her just seems pointless."
+    ka "It sounds dumb, I’m sure, but I love her a lot. She means the world to me and, as her big sister, I’ll always have her back no matter what."
+
+    scene beachbreakfast18
+    with dissolve
+
+    ki "Sis, what the fuck?! Why are you getting all sappy all of a sudden?!"
+    ki "I haven’t even had breakfast yet! I don’t want to hear that!"
+    ka "Don’t want to hear what? That I love you?"
+    ki "Yes! You can’t just...say stuff like that in public! It’s embarrassing!"
+    ka "I love you, Kirin!"
+    ki "Ahhhhhhh!"
+
+    scene beachbreakfast19
+    with dissolve
+
+    ay "Hey, Tsuneyo. Whatcha thinkin’ about over there?"
+    ay "You’ve been pretty quiet all morning and I just want to make sure you’re not feeling left out or anything."
+    ka "Yeah. We’re all friends here. Tell us what’s on your mind."
+    t "..."
+    ka "..."
+    ay "..."
+
+    if bonus == True:
+        t "Masturbation."
+    else:
+        t "The Gaelic language."
+
+    ka "..."
+    ay "..."
+
+    scene beachbreakfast20
+    with dissolve
+
+    ki "..."
+    mi "..."
+    mak "..."
+
+    scene beachbreakfast21
+    with dissolve
+
+    t "Did I say something wrong?"
+    ay "Well...no!"
+    ay "I mean, I’m sure we all...everyone once in a while, but..."
+    ay "Breakfast isn’t really the...best time to bring something like that up."
+    t "It’s not?"
+    ay "No...it’s just like..."
+    ay "You know what? Maybe you should just go back to the inn alone for a little while if you really need to...do that."
+    t "Do what?"
+    ay "..."
+    ay "Masturbate, obviously."
+    t "But I don’t know how."
+    ay "..."
+    t "..."
+
+    scene beachbreakfast22
+    with dissolve
+
+    ay "What?..."
+
+    if bonus == True:
+        t "I don’t know what masturbation is."
+        t "I heard our teacher use the word yesterday and he told me it would be best to ask all of you about it."
+    else:
+        t "But I do not see what that has to do with Gaelic."
+        t "Please teach me immediately, as the teacher refused to do so."
+
+    scene beachbreakfast23
+    with dissolve
+
+    ki "Pfft..."
+    mak "That son of a bitch."
+
+    scene beachbreakfast24
+    with dissolve
+
+    ay "Would you...maybe mind explaining why Sensei would have told you to ask us about something like that?"
+    t "He said that it was something that he probably shouldn’t teach me about and that one of you would show me."
+
+    scene beachbreakfast23
+    with dissolve
+
+    mak "That son of a bitch..."
+    ki "HAHAHAH! OH MY GOD!"
+
+    scene beachbreakfast24
+    with dissolve
+
+    if bonus == True:
+        ay "Well, uhh...I guess the easiest way to explain it would be that it’s like...sex that you do to yourself."
+        ay "With like, your fingers or...toys or...the corner of the boy you admire’s desk."
+        ay "Pretty much anything can get the job done if you try hard enough."
+    else:
+        ay "Well, uhh...I know it was brought over to Scotland from Ireland, but...my knowledge kind of stops there..."
+        ay "Why not just ask Molly? I'm pretty sure she can speak it."
+
+    ka "Is...anyone else getting dizzy?"
+    t "I see."
+
+    if bonus == True:
+        t "So it is sex that you do to yourself."
+    else:
+        t "So the only way to find out is to go to one of the sources."
+
+    ay "Exactly."
+    t "Okay."
+    ay "Great, so I guess we can just-"
+
+    if bonus == True:
+        t "What is sex?"
+    else:
+        t "But what if Scott does not want me on his land?"
+
+    ay "..."
+    t "..."
+
+    play sound "thump.mp3"
+    scene beachbreakfast25
+    with hpunch
+
+    ki "HAHAHAHAHAHAHAH!!!! AHHHHHH!!!!"
+    mi "Ahh! Karin died! Someone call an ambulance!"
+    mak "She’s not dead, Miku. She just...needs a minute to recover, I think."
+    t "Is the tall girl with the beautiful abs going to be okay?"
+    ay "Yeah...She’ll be fine. "
+    ay "You’re the one I’m worried about."
+
+    scene beachbreakfast26
+    with dissolve
+
+    t "I don’t understand."
+    ay "I know you don’t..."
+    ay "How about the two of us have a conversation in private later, okay?"
+
+    if bonus == True:
+        t "Are you going to teach me how to sex?"
+        ay "Let’s just..."
+        ay "Sure. Yeah. I’ll teach you how to sex."
+    else:
+        t "Do you know Scott?"
+        ay "Sure. Yeah. I know Scott..."
+
+    scene sky
+    with dissolve2
+
+    "..."
+
+    s "So, what are you planning on doing today, Ami?"
+    a "Me? I don’t know. More vacation stuff probably. "
+    a "I know Ayane and some of the other girls are eating breakfast right now, but I can’t imagine they’re talking about anything exciting."
+    s "Well let’s hope you didn’t miss anything fun."
+
+    "Ami and I make it to the beach a short while later to find Karin passed out on her plate of breakfast."
+    "I guess she must have had a long night."
+
+    scene black
+    with dissolve
+    stop music fadeout 7.0
+
+    "I decide to get some food from a nearby stall and scarf down an omelette before setting off to find something else to do this morning."
+
+    $ renpy.end_replay()
+    $ beachvacation10 = True
+
+    "........."
+    "......"
+    "..."
+
+label beachvacation11:
+    scene mollymaya1
+    with dissolve
+    play music "justbehappy.mp3" fadein 4.0
+
+    mo "Well, well, well! Glad you decided to join us, Sir!"
+    m "Yes. Very glad. Hooray."
+
+    "I find Molly and Maya hiding from the sun under a slew of parasols on my way down the beach."
+
+    s "When you said you were bringing multiple umbrellas, I didn’t really believe you. "
+
+    scene mollymaya2
+    with dissolve
+
+    mo "Well, you should have! Without constant protection from the sun, I’m as good as dead. "
+    mo "I don’t know how you Japanese people handle these harsh Summers so well. I feel like I’m being tossed into the depths of Orodruin every time I step outside."
+    s "I have no idea what that is."
+    mo "Then you have much to learn! Perhaps the two of us should retreat back to the inn and have ourselves a Lord of the Rings marathon? Aye, Supreme Overlord?"
+    s "You’re just trying to escape from the outdoors again, aren’t you?"
+
+    scene mollymaya3
+    with dissolve
+
+    mo "Guh...I had no idea you could read minds as well..."
+    mo "This is concerning for a number of reasons."
+    s "That aside...how are you, Maya? I didn’t really see you at all yesterday once we got to the beach."
+    m "Correct. I was beginning to think my plan of avoiding you was going to keep up for the full 48 hours."
+    m "I regret to see that this is very much not the case."
+    s "Thanks. I missed you too."
+    m "Please go away."
+
+    scene mollymaya4
+    with dissolve
+
+    mo "Are you two like arch nemeses or something? I haven’t really been around long but every interaction you’ve had together since I joined the class has been pretty toxic."
+    mo "Even thought about reporting you to the GMs on one or more occasions for gameplay sabotage."
+    m "This isn’t a game. This is real life."
+
+    scene mollymaya5
+    with dissolve
+
+    mo "What do you know, Maya?!"
+    m "A little too much, I’m afraid."
+    mo "Well, it’s a game to me. And it’s a game to the Supreme Overlord as well."
+    s "I don’t even know what we’re talking about right now."
+
+    scene mollymaya6
+    with dissolve
+
+    m "Strange. It appears as if we might actually be on the same page for once. "
+    m "Though, I suppose that makes sense given that Molly is perhaps the only person I know who is more delusional than you."
+
+    scene mollymaya1
+    with dissolve
+
+    mo "Did ya hear that, Sir? We’re brothers in arms. Fellow degenerates."
+    mo "Who cares if the world doesn’t understand how you and I look at it? As long as we’re leveling up our stats with everybody, I’m sure we’ll survive."
+    s "Molly, why did you come here again? You’re really not suited for the outdoor world."
+
+    scene mollymaya7
+    with dissolve
+
+    mo "Well, it was to play D&D. But now that that’s over I’m kinda just floatin’ out in the Twisting Nether until the next time we all meet up."
+    s "Oh, are you guys not playing again tonight?"
+    m "We are not. "
+    m "Ayane’s character died so she needs time to prepare a new one."
+    mo "There’s the issue with Futaba as well."
+    mo "She wasn’t able to play last night and I heard that she went back to the dorm this morning."
+    s "Wait, really? How come?"
+    m "She said she wasn’t feeling well. "
+    m "I imagine it’s because of the heat."
+    m "It won’t be an issue soon, though. "
+
+    scene mollymaya8
+    with dissolve
+
+    mo "That’s right, Sir. {i}Winter is coming{/i}."
+    s "Why did you say that so menacingly?"
+
+    scene mollymaya9
+    with dissolve
+
+    mo "Oh my God! You really don’t know anything, do you? What do you even do for fun?!"
+
+    if bonus == True:
+        m "He peeks on [young_girls] while they’re getting changed."
+        mo "I mean, so do I, but it’s normally in the form of a game. You know there are much easier ways to do that, don’t you?"
+    else:
+        m "He used to hang out with me."
+        s "I did?"
+        m "Yes. I mean whoops. Who said that?"
+        mo "If that's true, it sure beats romancing virtual girls in virtual spaces like I do all day."
+        mo "Thankfully, I am not alone and there are many others just like me."
+
+    s "Oh please. As if anyone would be attracted to girls in a video game. That just doesn’t even make sense."
+
+    scene mollymaya3
+    with dissolve
+
+    mo "I’m just going to pretend I didn’t hear that...You two carry on with your normie conversation while I lay here and innervate myself."
+    s "Try to do things like that in private, Molly."
+
+    scene mollymaya10
+    with dissolve
+
+    mo "It‘s a spell to restore my mana and it’s very wholesome!"
+    mo "I might be a degenerate but even I wouldn’t stoop to doing {i}that{/i} surrounded by a crowd of my friends!"
+    mo "My lust level is nowhere near high enough!"
+
+    scene mollymaya13
+    with dissolve
+
+    mo "Now if you’ll excuse me-"
+    mo "Bzzzzzzzzzzz..."
+    m "... "
+    s "..."
+    s "What is she doing?"
+    m "Innervating."
+    s "Does she really need to make those noises, though?"
+    m "Does she really need to do 90%% of the things that she does?"
+    s "Good point."
+
+    "I take a few steps toward the towel the two of them are sitting on and begin to crouch down."
+
+    s "Can I take a seat? I’m getting a little tired of-"
+
+    scene mollymaya11
+    with dissolve
+
+    m "No thank you."
+    s "But there’s plenty of room."
+    m "I said no thank you."
+    m "I’m afraid you might accidentally touch me. "
+    s "Would that really be so bad?"
+
+    scene mollymaya12
+    with dissolve
+
+    if bonus == True:
+        m "I fear that my skin would melt off if you even thought about touching me."
+        s "Your skin would have probably melted off by now because it’s pretty unfeasible to think that I haven’t imagined touching you at some point."
+    else:
+        m "I'm afraid it might cause me to fall in love with you all over again."
+        s "????????????"
+        m "Oh. Crap. I have to keep up the facade."
+
+    scene mollymaya13
+    with dissolve
+
+    m "You’re disgusting."
+    s "How many times is that now? Four? Five?"
+    m "Not enough to get the point across, apparently."
+    m "Why are you even here?"
+    m "And where is Ami?"
+
+    if bonus == True:
+        m "She seemed to take her time waking you up this morning, so I can only imagine what that must mean."
+
+        if amilust10 == True:
+            s "..."
+            m "..."
+
+            "Wait..."
+            "Does Maya know about {i}that{/i}?"
+            "I know her and Ami are best friends, but I didn’t think she’d go as far as telling her friend that she’s engaged in [incest] with her [uncle]."
+            "That just seems like a horrible idea in every sense of the word."
+            "But...then again...Maya has been known to understand a little more than she’s supposed to at times."
+            "This is incredibly worrying."
+
+            s "I have no idea what you’re talking about."
+            m "Apologies. Of course you don’t."
+
+        else:
+            s "I have no idea what you’re talking about. All she did was wake me up and walk down here with me."
+            m "Really?"
+            s "Really."
+            m "..."
+            m "Interesting."
+    else:
+        s "I think I saw her floating away earlier."
+
+    scene mollymaya14
+    with dissolve
+
+    mo "Oooookay. I’m tired of not being involved anymore. Molly MacCormack has joined the battle."
+    s "Welcome back Molly. How was your intervention?"
+    mo "{i}Innervation{/i}, Sir. You need to memorize your spells or you’ll never make it into the raid group."
+    s "Is that a thing I even want to be a part of?"
+
+    scene mollymaya16
+    with dissolve
+
+    mo "Of course! It’s only the peak of the endgame experience!"
+
+    if bonus == True:
+        mo "The only thing better than getting a well-rounded raid group is checking the tags and not seeing anything about vore."
+        s "How do you know all of these strange words?"
+        s "Am I really getting that old?"
+    else:
+        mo "The only thing better than getting a well-rounded raid group is a balanced breakfast."
+        s "I agree, Molly. But I'm basically an old man now and my taste buds are slowly beginning to dwindle."
+
+    scene mollymaya17
+    with dissolve
+
+    m "Yes. I’ve been telling you that since you first showed up at the shrine."
+
+    if bonus == True:
+        m "You’re disturbingly old. So much so that I don’t understand how you haven’t been arrested for hanging around us in public yet."
+    else:
+        m "You need to get a new tongue."
+        m "Here, borrow mine."
+
+    s "Wow, you’re really firing on all cylinders today. Aren’t you, Maya?"
+    m "You’re ruining my vacation."
+    s "All you’re doing is sitting on a towel. That’s not really high quality vacation material."
+    m "And sleeping until almost noon and having your [niece] come to wake you up is?"
+
+    scene mollymaya18
+    with dissolve
+
+    if bonus == True:
+        mo "That doesn’t sound all that bad to me. I’m sure I’ve even read through a few pretty...{i}interesting{/i} scenes that have started that way."
+    else:
+        mo "You know, I really just don't see the point of accountants when we'll all be using Dogecoin in a few years."
+
+    m "Why do girls like you exist?"
+
+    scene mollymaya19
+    with dissolve
+
+    mo "Why do {i}any{/i} of us exist, Maya?"
+    mo "What is life if not an excuse to feel pain? To grow old and die. "
+    mo "It’s how the universe was designed. We’re all creatures just struggling to find our purpose before our time runs out."
+    m "..."
+    mo "..."
+    m "Is that supposed to be me?"
+    s "It was pretty spot on, to tell you the truth."
+    m "It was not. She didn’t even get my face right."
+
+    scene mollymaya20
+    with dissolve
+
+    mo "Please leave me alone, Sensei. I can not enjoy my vacation with you standing so close to me."
+    mo "Make yourself useful and fetch me a drink before I fade away into nothingness."
+
+    scene mollymaya21
+    with dissolve
+
+    m "This isn’t funny."
+    mo "Like my Maya impression, Sensei? It’s pretty good, right?"
+    mo "That was my first time tryin’ the whole ‘expressionless’ face thing. Did it look okay?"
+    s "It was perfect. I actually thought you {i}were{/i} Maya for a second."
+
+    scene mollymaya22
+    with dissolve
+
+    m "You’re not funny either. "
+    m "That impression was nothing like me."
+    s "Why don’t you give us your best Molly impression then, Maya?"
+    m "I’d rather die."
+    mo "Urrheak here is just jealous that my personality can’t be so easily mimicked. "
+
+    scene mollymaya23
+    with dissolve
+
+    m "Your personality can be mimicked by any prepubescent boy in Japan. You aren’t as unique as you think."
+    mo "Do you hear something, Sir? The wind is certainly loud today."
+    m "It’s not even windy."
+    s "I don’t hear anything at all. "
+    s "In fact, have you seen Maya around? I’m starting to worry that she might have gotten lost or something."
+
+    scene mollymaya24
+    with dissolve
+
+    mo "Maya?"
+    mo "I’ve..."
+    mo "I’ve never even heard that name before..."
+    s "Wait a minute...neither have I."
+    m "This isn’t funny."
+    m "You’re disgusting {i}and{/i} immature."
+
+    scene mollymaya25
+    with dissolve
+
+    m "In fact, it’s almost unnerving how-"
+
+    scene mollymaya26
+    with dissolve
+
+    m "Wait..."
+    m "What are they doing over there?"
+
+    "Something off in the distance catches Maya’s attention."
+    "Molly and I both follow her gaze to figure out what it might be..."
+
+    scene mollymaya27
+    with dissolve
+
+    ka "Hah..."
+    a "You can do it, Karin! We believe in you!"
+    mi "Yeah! You show that melon who’s boss! "
+    ka "Okay but...I don’t really know how hard to swing the bat..."
+    ka "Don’t we have anything a little less...well, hard?"
+    mi "If it ain’t hard there’s no way you’ll kill the melon!"
+    mi "Just give it a good ole whack and show it that you’re co-captain of the soccer team for a reason!"
+    a "Yeah! Even though you don’t really need a bat for soccer and...being the co-captain isn’t really based on strength!"
+    mi "Yeah! What Ami said!"
+    ka "Okay...but I doubt I’ll get it on the first try."
+
+    scene mollymaya28
+    with dissolve
+
+    m "Oh no...No..."
+    m "This can’t be happening."
+    m "I have to go!"
+
+    scene mollymaya29
+    with dissolve
+
+    "Maya suddenly takes off toward Karin and Molly is left with an expectedly confused look on her face."
+
+    mo "The Hell was that about, Sir?"
+    s "I guess you don’t know."
+    mo "Know what? What’s going on?"
+    s "Maya has a...unique affinity for watermelons."
+    s "It’s actually kind of strange. It’s not even that good of a fruit."
+    mo "It’s really not. It just tastes like...water. And melon."
+    s "I agree. But, well-"
+    s "Well I guess you’ll see for yourself."
+
+    scene mollymaya30
+    with dissolve
+
+    a "Oh, crap! I forgot all about Maya!"
+    a "Karin! Abort mission! Don’t kill the watermelon!"
+
+    scene mollymaya31
+    with dissolve
+
+    ka "Thank you for the concern, Ami. But it’s really okay. I’ll figure out a way to make the bat work."
+    ka "Sure, I would have preferred maybe a large stick or something like that but...this will do."
+    ka "This will do nicely."
+    ka "This melon will die."
+
+    scene mollymaya32
+    with dissolve
+
+    a "No, you don’t understand! If you blow up the watermelon, Maya will get really upset!"
+    a "They need to be cut into perfect wedges or else she gets super cranky."
+    mi "Wow. Maya’s actually kinda fast. "
+    mi "Think she’ll make it in time?"
+
+    scene mollymaya33
+    with dissolve
+
+    a "Of course she’ll make it in time! A melon is involved!"
+    ka "Okay! Here I go!"
+
+    scene mollymaya34
+    with dissolve
+
+    a "AHHHH! I CAN’T WATCH!"
+
+    scene mollymaya35
+    with fade
+
+    ka "The melon is here. I can sense it."
+
+    "Karin miraculously makes her way over to the watermelon and kneels down in front of it."
+    "Maya gets closer with each passing second, but who’s to say if she’ll make it in time?"
+    "Karin could strike at any moment."
+    "And with a figure like that I can imagine it would send the watermelon flying into a million tiny bits."
+
+    a "KARIN! YOU DON’T HAVE TO DO THIS!"
+    ka "It’s okay Ami...Everything is going to be okay..."
+    a "NO, LIKE, YOU LITERALLY DON’T HAVE TO DO THIS. WE CAN JUST EAT IT LIKE NORMAL."
+    ka "A mission is a mission..."
+
+    scene mollymaya36
+    with dissolve
+
+    ka "God...forgive me!"
+
+    scene black
+    with dissolve
+
+    "In the very last second-"
+    "Just before the watermelon’s demise."
+    "An angel appears."
+    "..."
+    "And the bat immediately connects with her."
+
+    scene mollymaya37
+    with dissolve
+
+    ka "Ahhh! Oh my God! I-I’m so sorry! I had no idea you were there!"
+    a "THAT’S WHAT I WAS TRYING TO TELL YOU!"
+    m "I...regret nothing..."
+    m "Let this...be a lesson...on the..."
+    m "Hah..."
+    ka "On the what?! Tell me your dying wish and I’ll devote my life to making it come true!"
+    m "Let this be a lesson on the..."
+
+    scene mollymaya38
+    with dissolve
+
+    m "The proper treatment...of watermelons..."
+
+    scene black
+    with dissolve2
+
+    "They were strange dying words, but they did their job."
+    "Karin spent the rest of her life wandering the world and educating youths in urban areas about how to properly treat watermelons."
+    "She continuously had to relocate, though, because local law enforcement kept putting out bulletins about a deranged woman entering[school]s and lecturing students about fruit."
+    "Maya died shortly after the incident."
+    "We spread her ashes over her favorite melon farm."
+
+    scene sky
+    with dissolve
+
+    "And me?"
+    "I bet you’re wondering what I did."
+    "But this isn’t my story."
+    "It’s yours."
+    "So what will you do?"
+    "Will you die for what you believe in?"
+    "Or will you be the one bearing the {s}baseball bat{/s} axe?"
+
+    $ renpy.end_replay()
+    $ beachvacation11 = True
+    $ maya_love += 1
+    $ molly_love += 1
+    stop music fadeout 5.0
+
+    "{i}Maya’s affection has increased to [maya_love]!{/i}"
+    "{i}Molly’s affection has increased to [molly_love]!{/i}"
+    "........."
+    "......"
+    "..."
+
+label beachvacation12:
+    scene sunbathing1
+    with dissolve
+    play music "normalday.mp3"
+
+    s "Hello, ladies."
+    mi "You sound kinda creepy when ya just walk up to a group of half-naked girls and say “Hey, ladies,” Sensei."
+
+    if bonus == True:
+        s "Not being creepy isn’t really a strong suit of mine."
+        c "Aww, come on. You’re not that bad."
+
+        "I stumble upon Chika, Tsuneyo, and Miku laying out on a blanket once the afternoon rolls around."
+        "And, in case you were wondering, no. Maya didn’t actually die during the watermelon incident."
+        "Thankfully, Karin was able to hold back and only used a fraction of her true power. "
+        "So Maya got off without any internal bleeding whatsoever."
+        "What a joyous occasion. "
+    else:
+        s "Yeah. That was not my best greeting. I apologize."
+
+    t "You."
+    s "Hi, Tsuneyo."
+
+    scene sunbathing2
+    with dissolve
+
+    t "Ah-"
+
+    scene sunbathing1
+    with dissolve
+
+    t "Wait, no. Stop that."
+    t "I am mad at you."
+    s "Why? I haven’t even really seen you since yesterday and-"
+    s "Oh. "
+    s "Yeah, I probably know what this is about."
+
+    scene sunbathing3
+    with dissolve
+
+    mi "Sneaky move havin’ us girls do yer’ dirty work for ya. Karin almost died."
+    s "Is {i}that{/i} why she was passed out in her breakfast when I made it to the beach this morning?"
+    mi "Yup! Ruined a perfectly good dish and Ayane had to go buy her another one."
+    s "Oh. Well then no one lost except for Ayane’s dad. This seems fine to me."
+
+    scene sunbathing4
+    with dissolve
+
+    t "Wrong. I lost."
+    t "I learned things today that I was not ready to learn."
+    s "To be fair, these are things you probably should have learned about a while ago."
+    t "Fuck you."
+    c "Yeah...Think I’m gonna go out on a limb and side with Tsuneyo here, Sensei. "
+
+    if bonus == True:
+        c "It’s probably for the best if you just...don’t talk about masturbation or sex or anything like that with her. "
+        c "I don’t think she’s prepared for that kinda stuff yet."
+
+        scene sunbathing5
+        with dissolve
+
+        mi "Yeah. Not everyone here’s as mature as Chika and me, Sensei. Some people just take a little longer to develop. Like noodle-girl!"
+        s "Wow, Miku. I had no idea you were ready to talk about stuff like that."
+        mi "Whaddya mean? I’m ready to talk about anythin’ ya throw at me. Just name it."
+        s "Any thoughts on reverse cowgirl?"
+    else:
+        c "There's a time and a place to teach language arts and the beach really isn't one of those places."
+        s "Can I at least ask her if she's more interested in learning about it now that she's beginning to understand the basics?"
+
+    scene sunbathing6
+    with dissolve
+
+    c "Sensei! What do you think you’re asking her?!"
+
+    if bonus == True:
+        jump cowboyx
+    else:
+        s "If she's more interested in learning about it now that she's beginning to understand the basics."
+        t "Perhaps it is for the best if you just leave now."
+        s "You know, I really think it might be all of you who are overreacting this time and that I didn't really do anything wrong."
+        s "I understand that the point of vacation is to get {i}away{/i} from learning for a moment, but-"
+        mi "You heard the woman, Sensei! Be gone!"
+        mi "And take yer friggin' textbooks and ancient languages with ya when ya go!"
+
+        scene black
+        with dissolve2
+
+        s "I understand. I am very sorry for doing something that was apparently so wrong."
+        s "I will use this opportunity to {i}not{/i} study where this disconnect comes from and simply employ better common sense to ensure that it does not happen again in the future."
+        t "And stay out, peasant."
+
+        $ renpy.end_replay()
+        $ beachvacation12 = True
+        $ chika_love += 1
+        $ tsuneyo_love += 1
+        $ miku_love += 1
+        stop music fadeout 5.0
+
+        "{i}Your affection with Chika, Tsuneyo, and Miku has increased by 1!{/i}"
+        "........."
+        "......"
+        "..."
+
+        if ayane_lust >= 10:
+            jump ayanelust10
+        else:
+            jump ayanelust10skip
+
+label ayanelust10:
+    ay "Well, well, well...If it isn’t good ole’ [ayanemaster]..."
+
+    scene whatwelove1
+    with dissolve
+    play music "acoustic.mp3"
+
+    s "If it isn’t Ayane Amamiya, heiress to the Amamiya fortune."
+
+    scene whatwelove2
+    with dissolve
+
+    ay "In the flesh."
+    s "What are you up to?"
+    ay "Hmmm..."
+    ay "Will you think I’m creepy if I say I’ve been waiting here for you to walk by?"
+    s "A little, yeah. But I already think you’re kind of creepy so just say whatever."
+    ay "I see. Then I just so happen to be passing by."
+    s "You’re not passing anything. You’re just standing there leaning against a wall."
+
+    scene whatwelove3
+    with dissolve
+
+    ay "Ugh...Would it kill you to just play along for once?"
+    ay "I’ve barely got to spend any time with you since we got here and...I miss you and stuff."
+    s "I can tell by the fact that you’ve been literally waiting for me to walk past you."
+
+    scene whatwelove2
+    with dissolve
+
+    ay "On the bright side, I haven’t been waiting very long!"
+    ay "It’s only been maybe...twenty minutes or so? I figured you’d need to pass by eventually."
+    s "That’s still a decently long time to be doing literally nothing for."
+
+    scene whatwelove4
+    with dissolve
+
+    ay "But it’s all worth it because I got to see you!"
+    ay "So, mission accomplished! Ayane wins!"
+
+    "Ayane lets out what sounds like a mixture between a sigh of relief and a childish laugh."
+    "Despite how creepy it definitely is to stand there waiting for twenty minutes, I really don’t mind."
+    "Things like this are commonplace for a girl like her."
+    "A girl who wants to be noticed."
+    "Who wants to be loved."
+
+    if bonus == True:
+        "And-"
+        "One that is inexplicably horny at all times of the day."
+        "What more could you ask for?"
+
+    scene whatwelove5
+    with dissolve
+
+    ay "Is it okay if the two of us hang out for a little while? I freed up my afternoon so I’d be able to spend as much time with you as possible."
+    s "Well when you put it like that, there’s not really any way I can refuse."
+    ay "Then I’m glad I put it like that!"
+
+    scene whatwelove6
+    with dissolve
+
+    ay "Let it be true! For the next two or so hours, I will be your prisoner!"
+    s "Wouldn't I be {i}your{/i} prisoner in this case? You’re the one who ambushed me."
+    ay "I ambushed no one. I just happened to be standing here while you passed by."
+    s "But you said-"
+
+    scene whatwelove7
+    with dissolve
+
+    ay "Shh...No words. I’ve accepted my fate and am ready to take any punishment you are willing to give me."
+
+    if bonus == True:
+        jump prisonerx
+    else:
+        scene black with dissolve
+
+        "I decide to punish Ayane by forcing her to build one hundred sand castles."
+        "However, just as she finishes the ninety-nineth, Kirin shows up and kicks all of them down."
+        "It causes a rift in their friendship and the two of them immediately sever all ties."
+        "I'm pretty sure Kirin just wanted a hug, though."
+        "Either way, there are easier ways to hug people. And I do not endorse destroying someone's hard work as a means of bringing yourself closer to your goal."
+
+        $ renpy.end_replay()
+        $ ayanelust10 = True
+        $ ayane_lust += 1
+        stop music fadeout 5.0
+
+        "{i}Ayane’s lust has increased to [ayane_lust]!{/i}"
+        "........."
+        "......"
+        "..."
+
+        jump beachvacation13
+
+label ayanelust10skip:
+    "I fall asleep, but do not dream."
+    "Everything is black."
+    "And nothing falls but me."
+
+    "........."
+    "......"
+    "..."
+
+    jump beachvacation13
+
+label beachvacation13:
+    q "...sei?"
+
+    "I feel a light tapping on my shoulder. Like someone is trying to wake me up but is a little worried about doing so."
+
+    q "Can we...talk for a little while?..."
+    s "..."
+
+    scene rinintheinn1
+    with dissolve
+    play music "lastdailysong.mp3"
+
+    s "...Rin?"
+    r "I’m sorry to wake you up..."
+    r "I just...wanted to come see you for a little while..."
+
+    scene rinintheinn2
+    with dissolve
+
+    "I come to my senses to find a teary-eyed Rin near the side of the bed, nervously tugging on the sheets and glancing around the room."
+
+    s "Is something going on?"
+
+    scene rinintheinn3
+    with dissolve
+
+    r "Maybe..."
+    r "I don’t know."
+    r "I mean, technically, nothing has happened yet."
+    r "But a thing might happen and I’m nervous and I’m panicking and I kind of just wandered in here hoping you’d be around."
+    s "Well I’m definitely around."
+
+    scene rinintheinn2
+    with dissolve
+
+    r "Yeah. You are."
+
+    scene rinintheinn3
+    with dissolve
+
+    r "So uhh...did you hear that me and Chika are hanging out tonight?"
+    s "I did. And I’m imagining that’s a big part of why you’re on the verge of tears."
+    s "Are you thinking of telling her?"
+
+    scene rinintheinn4
+    with dissolve
+
+    r "Thinking...yeah. Actually doing it is a whole other thing."
+    r "I don’t want it to seem like I’m just getting swept up in the momentum of vacation and stuff."
+    r "And I’ve never confessed to anyone before so I don’t even know what I would do."
+    s "Isn’t it as simple as just...telling her how you feel?"
+    s "I’m not really the best when it comes to any sort of feelings, so sorry if it’s more complicated than that."
+
+    scene rinintheinn3
+    with dissolve
+
+    r "It’s definitely more complicated than that..."
+    r "Especially considering that we’re both girls."
+
+    scene rinintheinn6
+    with dissolve
+
+    r "Chika’s popular and...even if in some crazy reality she were to accept my confession, doing that would probably make a lot of her friends look at her differently."
+    s "..."
+
+    "Has Rin already decided that she’s going to be rejected?..."
+
+    s "What’s this about a ‘crazy reality?’ You’re making it sound like you’ve already given up."
+
+    scene rinintheinn7
+    with dissolve
+
+    r "There’s a big difference between giving up and accepting how things are."
+    r "When she and I were talking last night...I figured out that there’s basically no chance of this working out in my favor."
+    r "She definitely has feelings for somebody. But it’s a million-percent not me."
+    s "..."
+    r "..."
+
+    scene rinintheinn9
+    with dissolve
+
+    r "Do you know who it {i}is{/i}, though?"
+    r "Because I’m pretty sure I do."
+    r "And I've gotta say, it's pretty surprising to me."
+
+    scene rinintheinn8
+    with dissolve
+
+    r "But it’s fine...We can’t help who we fall in love with."
+    r "I mean, maybe I’m supposed to be rejected?"
+    r "Maybe that’s just...what needs to happen in order for me to move on?"
+    r "What do you think, Sensei?"
+    r "We’re good friends now..."
+    r "Tell me how you feel."
+    s "Why does how I feel matter at all?"
+    r "Why wouldn’t it?"
+    s "Because this isn’t about me."
+
+    scene rinintheinn7
+    with dissolve
+
+    r "Heh...Yeah."
+    r "You’re right."
+    r "You’ve helped me enough as is. I shouldn’t be pushing any more problems onto you."
+    r "It’s not fair."
+    s "..."
+
+    "{i}Not fair.{/i}"
+    "What is fair, exactly?"
+    "And what's all of this about pushing her problems onto me?"
+    "If anything, Rin has been keeping her problems {i}away{/i} from me."
+
+    s "Is that why you didn’t tell me you started hurting yourself again? You're afraid of getting me more involved?"
+
+    scene rinintheinn10
+    with dissolve
+
+    r "Huh?"
+    r "What are you talking about?"
+    s "One of your friends recently opened up to me about how worried they are about you."
+    r "What? Why?"
+    s "She saw your arm."
+    r "When would anyone have even-"
+
+    scene rinintheinn11
+    with dissolve
+
+    r "..."
+    r "It was Molly, wasn’t it?"
+    s "You really think I’d tell you-"
+
+    scene rinintheinn12
+    with dissolve
+
+    r "Definitely Molly."
+    r "Listen...it isn’t what it sounds like."
+    r "I promise that I haven’t done anything like that since you caught me."
+    r "She probably just saw some of my old scars since I didn’t put any concealer on them that day."
+    r "Do you want to check? There’s nothing there. I promise."
+    s "...It’s fine."
+    s "I don’t need to check."
+    s "I’m supposed to trust you."
+    r "Mhm...And I’m supposed to trust you too."
+    r "..."
+    s "..."
+    r "Do you mind if I sit on the bed?"
+    r "I’m starting to feel this weird power dynamic just kneeling at your side."
+    s "Of course..."
+
+    scene black
+    with dissolve
+
+    "Rin pulls herself off of the ground and moves closer to me. "
+    "The two of us back against the headboard, but she doesn’t look at me for some reason."
+    "She’s not normally the type to stray from eye contact when she isn’t in depression-mode, so it makes me a little uncomfortable."
+    "But I suck it up and deal with it for the time being."
+    "This is her time to vent."
+    "And I told her I’d be there for her if anything like that happened over the weekend."
+
+    scene rinintheinn13
+    with dissolve
+
+    s "..."
+    r "You’re not wearing a shirt."
+    s "Are you just now realizing this?"
+    r "I was a little distracted by my own feelings before, but now that we’re on the bed together I’ve become increasingly aware of it."
+    s "Should I put one on?"
+    r "Nah...It’s okay. "
+    r "Everyone else is doing stuff right now anyway. No one will see us and get the wrong idea or anything."
+    s "I see."
+
+    scene rinintheinn14
+    with dissolve
+
+    r "So do you...have any advice for a girl on her deathbed?"
+    s "You’re not on your deathbed, Rin. "
+    r "Mental death bed."
+    r "I’m probably gonna...shut down for a little bit after tonight."
+    r "I don’t think I’ll be able to prevent it even with you there."
+    s "But what if in that “crazy reality” of yours, Chika says yes to you?"
+
+    scene rinintheinn15
+    with dissolve
+
+    r "Then I’d shut down out of joy. It would be a horrible first impression as a girlfriend."
+    s "Yeah, I think that would be a turn-off for me too."
+    r "Really? So you don’t think I’m girlfriend material, Sensei?"
+
+    if bonus == True:
+        s "Well...I never said that."
+        r "What am I then? The mistress? The friend with benefits?"
+        s "I haven’t even received any benefits yet."
+        r "What are you talking about? I showed you my boobs once, didn’t I?"
+        r "Not calling them a benefit is pretty rude."
+        s "Well it's not like you showed me them under the best conditions."
+        r "Wanna see them again now?"
+        s "These aren’t really the best conditions either."
+        s "I will patiently await the day that you flash me without tears in your eyes."
+    else:
+        s "I do not think any of you are girlfriend material, for you are my students."
+        s "But if I were to date any of you, it would likely be Futaba as she is the best at handling eggs."
+
+    scene rinintheinn16
+    with dissolve
+
+    r "Hahahah! This is exactly why you and I have gotten so close."
+    r "But there’s one thing that confuses me about all of it."
+    s "And what’s that?"
+
+    scene rinintheinn17
+    with dissolve
+
+    if bonus == True:
+        r "You’ve had plenty of opportunities to push me into being more than just a buddy, but you’ve never really taken advantage of any of them."
+        r "Is that really because you’re trying to protect me? Or is it something else?"
+        s "What else would it be?"
+        r "Don't know. Maybe you don’t think I’m pretty."
+        r "Or maybe I'm just too damaged or something like that."
+        s "Are you asking me to try and push things further?"
+        r "Absolutely not. I’m thankful that you’ve been the way you’ve been. It’s just a little weird when I think about some of the stuff you say."
+    else:
+        r "Well...you've never really seen {i}me{/i} handle any eggs. So how do you know that Futaba is so much better at it?"
+        s "Because I know about your secret omelette club."
+        r "...how did you find out?"
+        s "..."
+        r "..."
+
+    scene rinintheinn18
+    with dissolve
+
+    if bonus == True:
+        r "You’re kind of a pervert, aren’t you, Sensei?"
+        s "Why would you willingly climb into bed with me if you think that?"
+        r "Because of my anti-pervert barrier. You won’t touch me as long as I’m crying."
+        r "Which is exactly why I want you to let me sleep here tonight."
+        s "..."
+        r "..."
+        s "I’m sorry, what?"
+    else:
+        r "You know what? Forget it."
+        r "I'm just gonna cut to the chase and ask you if you'll let me stay here tonight."
+        s "Absolutely not, Rin. Just sleep with the rest of the girls."
+
+    scene rinintheinn19
+    with dissolve
+
+    r "You really think I’ll be able to sleep in the same room as Chika immediately after she rejects me? "
+    r "Come on. You know me better than that."
+    r "I want to sleep next to you."
+    r "And I want you to rub my head and tell me everything will be okay."
+    r "And I want to pass out knowing that someone is there to protect me."
+
+    scene rinintheinn13
+    with dissolve
+
+    r "And also...I won’t really be able to do anything stupid as long as you’re here with me."
+    r "So if I try to get up or something, just squeeze me really tight and don’t let me go."
+
+    if bonus == True:
+        s "You’re giving your shirtless teacher permission to squeeze you and not let you leave the bed in the middle of the night?"
+        r "That is correct."
+        s "And you’re calling {i}me{/i} the pervert?"
+    else:
+        s "I said no and that is final."
+
+    scene rinintheinn20
+    with dissolve
+
+    r "Is there a problem with that?"
+
+    if bonus == True:
+        s "Not really. Just pointing out the flaws in your logic."
+        r "Logic doesn’t apply to a maiden in love. "
+        r "My mind is Chika and nothing but Chika."
+        r "And some really depressing stuff, too, I guess. But mostly Chika."
+    else:
+        s "Yes. Why doesn't anyone ever listen to me?"
+
+    "A moment of silence passes by as Rin makes more room in her mind for unrequited love."
+    "There’s no telling how the night will go for her, but if it’s anything like I expect it to be, I’m not sure if tragedy is enough to even describe it."
+
+    scene rinintheinn21
+    with dissolve
+
+    r "Do you think I’m just being impulsive right now? In regard to confessing, I mean."
+    r "Should I maybe...wait a little longer?"
+    s "{i}Can{/i} you wait a little longer?"
+    r "I don’t know. Probably not. "
+    r "I can barely even look at her, dude. And each time our eyes meet I just instantly go red."
+    r "I keep thinking to myself, “There’s no way she doesn’t notice.”"
+
+    if chikadorm20 == True:
+        r "But then she goes and accuses me of liking {i}you{/i} and I’m just like...how would she even get that idea?"
+        s "I don’t like the way you said ‘you’ there, but I get it."
+
+    else:
+        r "But then she goes and asks if {i}Molly{/i} is the one I’m into."
+        s "You mean, {i}Molly{/i} Molly?"
+        r "Yes. {i}Molly{/i} Molly."
+
+    scene rinintheinn22
+    with dissolve
+
+    r "Girls are dumb. I don’t know how you put up with us all the time."
+    s "It definitely helps that you’re all cute."
+
+    scene rinintheinn23
+    with dissolve
+
+    r "Can I be really real for a second?"
+
+    if bonus == True:
+        s "Of course. But like I said, if you’re going to flash me, please wait until you’re not crying anymore."
+
+        scene rinintheinn24
+        with dissolve
+
+        r "I’m not gonna flash you, idiot."
+        r "I just want to know..."
+
+    scene rinintheinn23
+    with dissolve
+
+    r "If..."
+    r "If there’s anything...going on between you and Chika."
+    s "..."
+
+    if chikadorm20 == True:
+        "I knew this question was coming."
+        "In fact, I’m guessing that was probably the reason for this entire visit."
+        "I’m not sure how the conversation between those two went last night, but Chika clearly gave Rin the idea that something was happening between us."
+        "And frankly, it’s not her fault."
+        "It’s my fault for doing exactly what Rin didn’t want me to do."
+        "I pursued a relationship with the girl she claims to love."
+        "And I did it all while calling the one sitting next me, the one doing her absolute best to hold back her tears-"
+        "A friend."
+
+        r "Tell me the truth..."
+        r "I’ve seen the way you look at her."
+        r "I've seen how she looks at you."
+        r "How..."
+        r "How far has it gone?"
+        s "..."
+
+        scene rinintheinn25
+        with dissolve
+
+        r "Have you kissed her, Sensei?..."
+
+        if bonus == True:
+            r "Have you...put your fingers inside of her?..."
+            r "Did she suck your dick?..."
+            r "How far has it gone?..."
+            r "And why haven’t you told me about it?"
+            r "We’re supposed to be friends."
+            r "You’re supposed to tell me things."
+            r "Just like I’ve told you everything about me."
+
+            scene rinintheinn26
+            with dissolve
+
+            r "But...you went and did this..."
+            r "And now you’re not even saying anything..."
+            r "I won’t get mad...I just want to hear it from you."
+            r "I want to know what’s making her smile so brightly when it’s clearly not me."
+        else:
+            r "Or...even worse..."
+            r "Have you two..."
+            r "Hugged?..."
+            s "..."
+            r "..."
+            r "Come on..."
+
+        scene rinintheinn27
+        with dissolve
+
+        r "At least...give me that..."
+
+        "I can’t hide the truth from her any longer."
+        "Rin deserves to know what’s been happening."
+        "That way, she can confess with a clear conscience."
+        "If she even wants to confess after hearing it straight from my mouth."
+
+        if bonus == True:
+            s "We’ve...done some things..."
+
+            scene rinintheinn28
+            with dissolve
+
+            r "What kind of things, Sensei?..."
+            r "Things you’re embarrassed to talk about?"
+            s "Things I don’t think you need to hear."
+            r "Even though I’ll never be able to do them with her?"
+            s "...You don’t know that."
+            r "Of course I do...she loves you..."
+            r "And whatever you’re doing seems to be working based on how excited she gets whenever you come up..."
+            s "..."
+
+            scene rinintheinn29
+            with dissolve
+
+            r "How pretty was she when you touched her?..."
+            r "What was she wearing?"
+
+            scene rinintheinn30
+            with dissolve
+
+            r "I...I want..."
+            r "I want to know..."
+        else:
+            s "Rin..."
+            s "I am bad, bad boy..."
+            r "How bad, Sensei?"
+            s "..."
+            r "Tell me how bad you are."
+            s "..."
+            s "I hugged her."
+            r "Sensei...why?"
+            s "Because I am the huggy boy."
+            s "Hugging is what I do."
+            s "I am so sorry."
+
+        scene rinintheinn31
+        with dissolve
+
+        r "Sensei..."
+        r "It hurts."
+        r "It hurts so bad."
+        s "..."
+        s "I know it does. "
+        s "But it will go away."
+        r "Will it?"
+        s "It will. "
+        r "I...still...trust you..."
+        r "Even though you..."
+        r "..."
+        r "Please...just...hold me for a little while..."
+        r "I need to...feel something..."
+
+        scene rinintheinn32
+        with dissolve
+
+        "With no words, I pull Rin closer to me and she instantly breaks into tears."
+        "Before the end of the day, this girl will likely experience heartbreak a second time."
+        "The first was at the hands of me."
+        "A man who broke the one and only promise she ever asked him to make."
+        "And the second will be at the hands of the opposite end of that promise."
+        "The world is filled with horrible things-"
+        "And I am among them."
+
+        if bonus == True:
+            "But this is something I’ve known all along."
+            "What more are relationships than tools to use to your advantage?"
+            "Rin knows this. "
+            "She has to."
+            "It’s why she doesn’t blame me for fingering the girl she loves."
+            "It’s why she needs {i}my{/i} shoulder to cry on right now."
+            "Because we’re all dependent on one another."
+            "Just some for different reasons than others."
+            "And that’s not to say I’m not sorry."
+            "I am."
+            "I never wanted her to cry like this."
+            "But at the same time-"
+            "I was never going to reject Chika."
+            "I only said I would."
+
+        scene black
+        with dissolve2
+
+        if bonus == True:
+            "We can’t help who we fall in love with."
+            "But we can help falling in love."
+            "And love is such a confusing word."
+            "The worst word that doesn’t begin with the letter T."
+        else:
+            "I am the huggy boy."
+            "I am the one who hugs."
+
+        "{i}A heart snapped like a twig and crushed underfoot.{/i}"
+        "{i}Directly above the place where dreams become reality.{/i}"
+        "{i}Where all sins are forgiven. Where all bonds are temporary.{/i}"
+        "{i}Thus is the fleeti

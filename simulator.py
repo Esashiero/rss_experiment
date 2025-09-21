@@ -5,188 +5,180 @@ import copy
 import os
 
 class GameState:
-    """Manages the state of all variables in the game."""
-    def __init__(self):
-        self.variables = {}
-
-    def __str__(self):
-        return json.dumps(self.variables, indent=2)
+    def __init__(self): self.variables = {}
+    def __str__(self): return json.dumps(self.variables, indent=2)
 
 class EventAnalysisPacket:
-    """A structured container for all data related to a single game event (label)."""
-    def __init__(self, label_name, initial_state, event_id):
+    def __init__(self, label_name, event_id):
         self.event_id = event_id
         self.label_name = label_name
-        self.initial_state = copy.deepcopy(initial_state)
-        self.final_state = None
+        self.initial_state = {}
+        self.final_state = {}
         self.dialogue_log = []
         self.state_changes = {}
 
-    def add_dialogue(self, character, text):
-        self.dialogue_log.append({"character": character, "text": text})
-
+    def set_initial_state(self, state): self.initial_state = copy.deepcopy(state)
+    def add_dialogue(self, char, txt): self.dialogue_log.append({"character": char, "text": txt})
     def finalize(self, final_state):
         self.final_state = copy.deepcopy(final_state)
         self._calculate_deltas()
 
     def _calculate_deltas(self):
-        """Compares initial and final state to find what changed."""
         delta = {}
         all_keys = set(self.initial_state.keys()) | set(self.final_state.keys())
         for key in all_keys:
-            initial_value = self.initial_state.get(key)
-            final_value = self.final_state.get(key)
-            if initial_value != final_value:
-                delta[key] = {"from": initial_value, "to": final_value}
+            init_val, final_val = self.initial_state.get(key), self.final_state.get(key)
+            if init_val != final_val: delta[key] = {"from": init_val, "to": final_val}
         self.state_changes = delta
     
     def to_dict(self):
-        return {
-            "event_id": self.event_id,
-            "event_label": self.label_name,
-            "dialogue": self.dialogue_log,
-            "state_changes": self.state_changes
-        }
+        return {"event_id": self.event_id, "event_label": self.label_name, "dialogue": self.dialogue_log, "state_changes": self.state_changes}
 
 class Simulator:
-    """
-    Executes an AST, captures event data, and hands it off for cognitive analysis.
-    """
     def __init__(self, ast, output_dir="event_archive"):
         self.ast = ast
         self.game_state = GameState()
-        self.labels = self._find_all_labels()
+        self.labels = {n['name']: n for n in ast.get('children', []) if n.get('type') == 'label'}
         self.output_dir = output_dir
-        if not os.path.exists(self.output_dir):
-            os.makedirs(self.output_dir)
+        if not os.path.exists(output_dir): os.makedirs(output_dir)
         
         self.operators = {"=": operator.setitem, "+=": operator.iadd, "-=": operator.isub}
         self.comparisons = {">": operator.gt, "<": operator.lt, "==": operator.eq, "!=": operator.ne, ">=": operator.ge, "<=": operator.le}
         
-        print("Simulator (V8 - Production) initialized.")
-        self._initialize_game_state()
+        # --- CALL STACK IMPLEMENTATION ---
+        # A list to keep track of where to return to after a 'call'
+        self.call_stack = []
 
-    def _find_all_labels(self):
-        return {node['name']: node for node in self.ast.get('children', []) if node.get('type') == 'label'}
+        print(f"Simulator (V9 - Global) initialized. Found {len(self.labels)} labels.")
+        self._initialize_game_state()
 
     def _initialize_game_state(self):
         print("--- Initializing Game State ---")
         init_blocks = sorted([n for n in self.ast.get('children', []) if n.get('type') == 'init_block'], key=lambda x: x.get('priority', 0))
-        for block in init_blocks:
-            self.execute_node_list(block.get('children', []), None)
+        for block in init_blocks: self.execute_node_list(block.get('children', []), None)
         print("--- Game State Initialized ---")
 
-    def _evaluate_value(self, value_str):
-        value_str = str(value_str).strip()
-        if value_str == 'True': return True
-        if value_str == 'False': return False
-        if value_str.startswith('"') and value_str.endswith('"'): return value_str[1:-1]
-        try: return int(value_str)
+    def _evaluate_value(self, val_str):
+        val_str = str(val_str).strip()
+        if val_str == 'True': return True
+        if val_str == 'False': return False
+        if val_str.startswith('"') and val_str.endswith('"'): return val_str[1:-1]
+        try: return int(val_str)
         except (ValueError, TypeError): pass
-        try: return float(value_str)
+        try: return float(val_str)
         except (ValueError, TypeError): pass
-        return self.game_state.variables.get(value_str)
+        return self.game_state.variables.get(val_str)
 
-    def _evaluate_condition(self, condition_str):
-        for op_key, op_func in self.comparisons.items():
-            if op_key in condition_str:
-                parts = [p.strip() for p in condition_str.split(op_key, 1)]
-                left_val, right_val = self._evaluate_value(parts[0]), self._evaluate_value(parts[1])
-                if left_val is None or right_val is None: return False
-                return op_func(left_val, right_val)
-        bool_val = self._evaluate_value(condition_str)
+    def _evaluate_condition(self, cond_str):
+        for op, func in self.comparisons.items():
+            if op in cond_str:
+                parts = [p.strip() for p in cond_str.split(op, 1)]
+                left, right = self._evaluate_value(parts[0]), self._evaluate_value(parts[1])
+                if left is None or right is None: return False
+                return func(left, right)
+        bool_val = self._evaluate_value(cond_str)
         return bool_val if isinstance(bool_val, bool) else False
 
     def _execute_variable_assignment(self, node):
-        expression = node.get('expression', '').lstrip('$').strip()
-        op_key = next((op for op in self.operators if op in expression), None)
-        if not op_key: return
-        parts = [p.strip() for p in expression.split(op_key, 1)]
-        variable_name, value_str = parts[0], parts[1]
-        value = self._evaluate_value(value_str)
-        if value is None: return
-        if op_key == "=": self.game_state.variables[variable_name] = value
-        elif op_key in ["+=", "-="]:
-            current_val = self.game_state.variables.get(variable_name, 0)
-            self.game_state.variables[variable_name] = self.operators[op_key](current_val, value)
+        expr = node.get('expression', '').lstrip('$').strip()
+        op = next((o for o in self.operators if o in expr), None)
+        if not op: return
+        var, val_str = [p.strip() for p in expr.split(op, 1)]
+        val = self._evaluate_value(val_str)
+        if val is None: return
+        if op == "=": self.game_state.variables[var] = val
+        else: self.game_state.variables[var] = self.operators[op](self.game_state.variables.get(var, 0), val)
 
-    def execute_node(self, node, current_packet):
-        node_type = node.get('type')
-        if node_type == 'dialogue':
-            if current_packet: current_packet.add_dialogue(node.get('character', 'narrator'), node.get('text'))
-        elif node_type == 'variable_assignment': self._execute_variable_assignment(node)
-        elif node_type == 'if_statement': return self.execute_node_list(self._get_if_branch(node), current_packet)
-        elif node_type == 'menu':
-            first_choice = node.get('children', [{}])[0]
-            if first_choice and current_packet:
-                current_packet.add_dialogue("player_choice", first_choice.get('text', 'Unknown Choice'))
-            return self.execute_node_list(first_choice.get('children', []), current_packet)
-        elif node_type == 'command':
-            keyword = node.get('keyword')
-            if keyword == 'jump': return ('jump', node.get('args'))
+    def execute_node(self, node, packet):
+        ntype = node.get('type')
+        if ntype == 'dialogue':
+            if packet: packet.add_dialogue(node.get('character', 'narrator'), node.get('text'))
+        elif ntype == 'variable_assignment': self._execute_variable_assignment(node)
+        elif ntype == 'if_statement':
+            if self._evaluate_condition(node.get('condition', 'False')):
+                return self.execute_node_list(node.get('children', []), packet)
+        elif ntype == 'elif_statement':
+            if self._evaluate_condition(node.get('condition', 'False')):
+                return self.execute_node_list(node.get('children', []), packet)
+        elif ntype == 'else_statement':
+             return self.execute_node_list(node.get('children', []), packet)
+        elif ntype == 'menu':
+            # Default strategy: Pick first available choice
+            for choice in node.get('children', []):
+                return self.execute_node_list(choice.get('children', []), packet)
+        elif ntype == 'command':
+            keyword, args = node.get('keyword'), node.get('args')
+            if keyword == 'jump': return ('jump', args)
             if keyword == 'return': return ('return', None)
+            # --- HANDLE CALL COMMAND ---
+            if keyword == 'call':
+                # The 'from' argument tells renpy where to store the return location
+                # We can simplify by just using our own stack
+                self.call_stack.append(None) # Placeholder for current label, more advanced version could store it
+                return ('jump', args)
         return None
 
-    def _get_if_branch(self, if_node):
-        if self._evaluate_condition(if_node.get('condition', 'False')): return if_node.get('children', [])
-        for elif_block in if_node.get('elif_blocks', []):
-            if self._evaluate_condition(elif_block.get('condition', 'False')): return elif_block.get('children', [])
-        return if_node.get('else_block', {}).get('children', [])
-
-    def execute_node_list(self, nodes, current_packet):
+    def execute_node_list(self, nodes, packet):
         for node in nodes:
-            control_signal = self.execute_node(node, current_packet)
-            if control_signal: return control_signal
+            signal = self.execute_node(node, packet)
+            if signal: return signal
         return None
 
-    def send_to_event_analyst(self, packet):
-        """
-        Placeholder for handing off the event packet to the Cognitive Core.
-        Currently saves the packet to a local directory.
-        """
+    def _handle_ai_handoff(self, packet):
         filename = f"{str(packet.event_id).zfill(4)}_{packet.label_name}.json"
         filepath = os.path.join(self.output_dir, filename)
         with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(packet.to_dict(), f, indent=2)
         print(f"--> Event packet saved to {filepath}")
 
-    def run_from_label(self, start_label_name):
-        current_label_name = start_label_name
-        event_counter = 0
+    def run_from_label(self, start_label):
+        current_label = start_label
+        event_count = 0
+        visited_labels = set()
 
-        while current_label_name and current_label_name in self.labels:
-            event_counter += 1
+        while current_label and current_label in self.labels:
+            if current_label in visited_labels and not self.call_stack:
+                print(f"Warning: Detected potential loop at '{current_label}'. Halting simulation.")
+                break
+            visited_labels.add(current_label)
             
-            # --- Event Capture ---
-            print(f"\n[EVENT {event_counter}: Executing '{current_label_name}']")
-            event_packet = EventAnalysisPacket(current_label_name, self.game_state.variables, event_counter)
+            event_count += 1
+            print(f"\n[EVENT {event_count}: Executing '{current_label}']")
             
-            label_node = self.labels[current_label_name]
-            control_signal = self.execute_node_list(label_node.get('children', []), event_packet)
+            packet = EventAnalysisPacket(current_label, event_count)
+            packet.set_initial_state(self.game_state.variables)
             
-            event_packet.finalize(self.game_state.variables)
-            # --- Handoff ---
-            self.send_to_event_analyst(event_packet)
+            signal = self.execute_node_list(self.labels[current_label].get('children', []), packet)
+            
+            packet.finalize(self.game_state.variables)
+            self._handle_ai_handoff(packet)
 
             next_label = None
-            if control_signal:
-                signal_type, signal_value = control_signal
-                if signal_type == 'jump': next_label = signal_value
-                else: break
+            if signal:
+                stype, sval = signal
+                if stype == 'jump': next_label = sval
+                elif stype == 'return':
+                    if self.call_stack:
+                        # In a real engine, you'd return to the statement after 'call'.
+                        # For our purpose, we just stop this branch.
+                        # A more complex implementation would pop a return label from the stack.
+                        self.call_stack.pop()
+                        break 
+                    else: break # End of simulation path
             
-            current_label_name = next_label
+            current_label = next_label
         
-        print(f"\n--- Simulation finished after {event_counter} events. ---")
+        print(f"\n--- Simulation finished after {event_count} events. ---")
 
 def main():
     if len(sys.argv) != 2:
-        print(f"Usage: python {sys.argv[0]} <path_to_ast_json_file>", file=sys.stderr)
+        print(f"Usage: python {sys.argv[0]} <path_to_global_ast.json>", file=sys.stderr)
         sys.exit(1)
-    ast_file_path = sys.argv[1]
+    ast_path = sys.argv[1]
     try:
-        with open(ast_file_path, 'r') as f: ast = json.load(f)
-    except (FileNotFoundError, json.JSONDecodeError) as e:
-        print(f"Error: Could not load AST file '{ast_file_path}'. {e}", file=sys.stderr)
+        with open(ast_path, 'r') as f: ast = json.load(f)
+    except Exception as e:
+        print(f"Error loading AST file: {e}", file=sys.stderr)
         return
 
     sim = Simulator(ast)

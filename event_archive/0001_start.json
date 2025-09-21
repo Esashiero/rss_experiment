@@ -265,10 +265,6 @@
     {
       "character": "narrator",
       "text": "Are you ready?"
-    },
-    {
-      "character": "player_choice",
-      "text": "Yes"
     }
   ],
   "state_changes": {}

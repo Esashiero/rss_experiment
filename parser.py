@@ -3,33 +3,52 @@
 import sys
 import json
 import re
+import os
+
+def _extract_character_map(combined_content):
+    """
+    Scans the script content for character definitions and creates a mapping.
+    e.g., 'define a = Character("Ami", ...)' -> {"a": "Ami"}
+    """
+    char_map = {}
+    # Regex to find character definitions
+    char_regex = re.compile(r'define\s+([a-zA-Z0-9_]+)\s*=\s*Character\s*\(\s*"([^"]+)"')
+    
+    for line in combined_content.splitlines():
+        match = char_regex.search(line)
+        if match:
+            var, name = match.groups()
+            char_map[var] = name
+            print(f"Found character: {var} -> {name}", file=sys.stderr)
+            
+    return char_map
 
 def parse_rpy_to_ast(script_content):
+    """Parses a combined string of all game scripts into a single AST."""
+    
+    # First, build the character map from the entire script
+    character_map = _extract_character_map(script_content)
+
     root = {"ast_type": "root", "children": []}
     parent_stack = [(-1, root)]
     lines = script_content.splitlines()
 
-    KNOWN_COMMANDS = ["scene", "show", "hide", "play", "stop", "jump", "return", "snapshot"]
-
+    KNOWN_COMMANDS = ["scene", "show", "hide", "play", "stop", "jump", "return", "call", "snapshot"]
+    
     skipping_block = False
     skip_indent = -1
 
     for line in lines:
         stripped_line = line.strip()
 
-        if skipping_block:
-            if not stripped_line:
-                continue
+        if skipping_block: # Handles skipping python blocks
+            if not stripped_line: continue
             current_indent = len(line) - len(line.lstrip(' '))
-            if current_indent > skip_indent:
-                continue
-            else:
-                skipping_block = False
+            if current_indent > skip_indent: continue
+            else: skipping_block = False
 
         content = stripped_line.split('#', 1)[0].strip()
-
-        if not content:
-            continue
+        if not content: continue
 
         indentation = len(line) - len(line.lstrip(' '))
 
@@ -48,12 +67,11 @@ def parse_rpy_to_ast(script_content):
         keyword = content.split(' ', 1)[0]
 
         if keyword == "with":
-            last_node = parent_node["children"][-1] if parent_node["children"] else None
-            if last_node and last_node.get("type") in ["command", "dialogue"]:
-                last_node["transition"] = content.split(' ', 1)[1] if ' ' in content else ""
+            # Attach transition to the last node
+            if parent_node["children"]:
+                parent_node["children"][-1]["transition"] = content.split(' ', 1)[1] if ' ' in content else ""
             continue
         
-        # FINAL FIX: Simplified and corrected init block handling.
         if keyword == "init" or (keyword.startswith("init") and content.endswith(":")):
             priority_match = re.search(r'init\s+(-?\d+)', content)
             priority = int(priority_match.group(1)) if priority_match else 0
@@ -70,10 +88,7 @@ def parse_rpy_to_ast(script_content):
             parent_node["children"].append(new_node)
             is_block_starter = True
         elif content.startswith('menu') and content.endswith(':'):
-            menu_name = content[4:-1].strip() if len(content) > 5 else None
             new_node = {"type": "menu", "children": []}
-            if menu_name:
-                new_node["name"] = menu_name
             parent_node["children"].append(new_node)
             is_block_starter = True
         elif content.startswith('"') and content.endswith('":'):
@@ -87,38 +102,33 @@ def parse_rpy_to_ast(script_content):
             new_node = {"type": "if_statement", "condition": condition, "children": []}
             parent_node["children"].append(new_node)
             is_block_starter = True
+        # Simplified elif/else handling, assuming they are direct children for parsing
         elif content.startswith('elif ') and content.endswith(':'):
             condition = content[5:-1].strip()
             new_node = {"type": "elif_statement", "condition": condition, "children": []}
-            last_sibling = parent_node["children"][-1] if parent_node["children"] else None
-            if last_sibling and last_sibling.get("type") == "if_statement":
-                if "elif_blocks" not in last_sibling:
-                    last_sibling["elif_blocks"] = []
-                last_sibling["elif_blocks"].append(new_node)
+            parent_node["children"].append(new_node)
             is_block_starter = True
         elif content == 'else:':
             new_node = {"type": "else_statement", "children": []}
-            last_sibling = parent_node["children"][-1] if parent_node["children"] else None
-            if last_sibling and last_sibling.get("type") == "if_statement":
-                last_sibling["else_block"] = new_node
+            parent_node["children"].append(new_node)
             is_block_starter = True
         elif content.startswith('$'):
-            if '(' in content and ')' in content:
-                new_node = {"type": "python_expression", "expression": content}
-            else:
-                new_node = {"type": "variable_assignment", "expression": content}
+            new_node = {"type": "variable_assignment", "expression": content}
             parent_node["children"].append(new_node)
         elif (match := re.match(r'^([\w."]+)\s+"(.*)"$', content)):
-            character, text = match.groups()
-            new_node = {"type": "dialogue", "character": character, "text": text}
+            char_var, text = match.groups()
+            # --- CHARACTER NAME RESOLUTION ---
+            # Use the character_map to get the full name
+            character_name = character_map.get(char_var, char_var)
+            new_node = {"type": "dialogue", "character": character_name, "text": text}
             parent_node["children"].append(new_node)
         elif content.startswith('"') and content.endswith('"'):
             text = content[1:-1]
             new_node = {"type": "dialogue", "character": "narrator", "text": text}
             parent_node["children"].append(new_node)
         else:
-            if not content.startswith('define '):
-                print(f"Warning: Unrecognized line format: {content}", file=sys.stderr)
+            if not content.startswith(('define', 'image')):
+                pass # Silently ignore unrecognized lines like definitions
 
         if is_block_starter and new_node:
             parent_stack.append((indentation, new_node))
@@ -127,17 +137,32 @@ def parse_rpy_to_ast(script_content):
 
 def main():
     if len(sys.argv) != 2:
-        print(f"Usage: python {sys.argv[0]} <path_to_rpy_file>", file=sys.stderr)
+        print(f"Usage: python {sys.argv[0]} <path_to_game_directory>", file=sys.stderr)
         sys.exit(1)
-    input_file_path = sys.argv[1]
-    try:
-        with open(input_file_path, 'r', encoding='utf-8-sig') as f:
-            script_content = f.read()
-    except FileNotFoundError:
-        print(f"Error: File not found at '{input_file_path}'", file=sys.stderr)
+        
+    game_directory = sys.argv[1]
+    if not os.path.isdir(game_directory):
+        print(f"Error: Path '{game_directory}' is not a valid directory.", file=sys.stderr)
         sys.exit(1)
 
-    ast = parse_rpy_to_ast(script_content)
+    combined_script_content = ""
+    print("--- Reading all .rpy files from directory ---", file=sys.stderr)
+    for root, _, files in os.walk(game_directory):
+        for file in files:
+            if file.endswith(".rpy"):
+                file_path = os.path.join(root, file)
+                print(f"Reading: {file_path}", file=sys.stderr)
+                try:
+                    with open(file_path, 'r', encoding='utf-8-sig') as f:
+                        combined_script_content += f.read() + "\n"
+                except Exception as e:
+                    print(f"Warning: Could not read file {file_path}. Error: {e}", file=sys.stderr)
+
+    if not combined_script_content:
+        print("Error: No .rpy files found or read from the directory.", file=sys.stderr)
+        sys.exit(1)
+
+    ast = parse_rpy_to_ast(combined_script_content)
     print(json.dumps(ast, indent=2))
 
 if __name__ == "__main__":

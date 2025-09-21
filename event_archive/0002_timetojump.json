@@ -45,10 +45,6 @@
     {
       "character": "narrator",
       "text": "{i}What do I want to do?{/i}"
-    },
-    {
-      "character": "player_choice",
-      "text": "Jump"
     }
   ],
   "state_changes": {}
