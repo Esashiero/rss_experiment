@@ -1,0 +1,1007 @@
+nd "static.mp3"
+    scene lostinaplace20 with flash
+    stop sound
+
+    a "And it isn’t normal today either."
+
+    play sound "static.mp3"
+    scene lostinaplace22 with flash
+    stop sound
+
+    a "I tried to change things sometimes."
+    a "I thought I knew what you wanted."
+
+    play sound "static.mp3"
+    scene lostinaplace20 with flash
+    stop sound
+
+    a "But I was a stupid little girl."
+
+    play sound "static.mp3"
+    scene lostinaplace21 with flash
+    stop sound
+
+    a "I didn’t understand what you wanted at all."
+
+    play sound "static.mp3"
+    scene lostinaplace19 with flash
+    stop sound
+
+    a "But now I do."
+    a "Now, I know that all you really want is to feel safe."
+    a "So I built a world where you could."
+    a "I made our house into a home. I filled it to the brim with your favorite foods and activities. And all I’ve ever asked for in exchange for all of that is your attention."
+    a "And I know it might seem like I ask for a little {i}too{/i} much attention sometimes. And I’m sorry for that. "
+    a "I’m a very needy girl."
+    a "And that’s why I’m so scared now. Because, sometimes...it feels like you’re trying to run away."
+    a "How come?"
+    a "Did what you want change?"
+    a "Do I not understand you as much as I used to?"
+    a "If there’s something I’m missing, tell me."
+    a "I’d do anything for you, Sensei."
+    a "And I mean {i}anything.{/i}"
+    s "You do more than enough, Ami."
+    s "But for now, I want to go home and sleep. So just stay put and try not to move around too much. It makes walking hard."
+    a "Okay...I’m tired too."
+    a "Besides, who needs friends anyway? All I’ve ever {i}really{/i} needed is you."
+    a "And I’m sure you feel the same about me. Don’t you, Sensei?"
+    s "Yeah, sure. Whatever."
+    a "Say it with a little more sincerity, please. Repeat after me, “Ami is the ultimate niece-“"
+    s "Ami is the ultimate niece..."
+    a "“And the only one I’ll ever love.”"
+    s "And...the only one I’ll ever love."
+
+    play sound "static.mp3"
+    scene lostinaplace23 with flash
+    stop sound
+
+    a "Heh..."
+
+    scene lostinaplace24
+    with dissolve2
+
+    a "Heheheh..."
+
+    scene lostinaplace25
+    with dissolve2
+
+    a "Hahah! Hahahahahaha! Hahaha!"
+    s "What are you cracking up about up there?"
+
+    play sound "static.mp3"
+    scene clearnightsky with flash
+    stop sound
+
+    a "Hahahahahah! "
+    a "It’s just...hahahahahahah! It's just so crazy how much I love you!"
+    a "How are you {i}not{/i} laughing?! I’m so obsessed it’s kind of hilarious!"
+    s "Yeah, well..."
+    s "It’s a little {i}less{/i} funny when you’re the one being obsessed over..."
+    a "Heheh...heh..."
+    a "I don’t know about that, Sensei..."
+
+    $ renpy.end_replay()
+    $ amispecial50 = True
+    $ ami_love += 1
+
+    jump amispecial50mainp1
+
+label amilust50intro:
+    play sound "static.mp3"
+    scene karaokeami1 with flash
+    stop sound
+
+    a "Actually! Never mind! I don’t feel like singing right now!"
+
+    "My feelings are cut short when my amazing, beautiful, wonderful, loving, kind niece approaches me."
+
+    a "Hey, Sensei! Since {i}I{/i} don’t feel like singing and {i}you{/i} don’t feel like talking, would you want to come with me for a minute and help me carry some stuff?"
+
+    if ami_lust >= 50:
+        "My lust level with Ami is high enough to trigger this event, so I take it upon myself to telepathically communicate to her that I am willing to proceed."
+    else:
+        "My lust level with Ami isn’t high enough to trigger this event, so I decide to just sit still and platonically stare at her gorgeous face instead. "
+
+    ay "Hey, Ami! This was supposed to be a duet!"
+    m "I wouldn’t mind helping you if-"
+    a "That’s not necessary, Maya. I want Sensei to help me. His arms are bigger and stronger and he can hold more things than you."
+
+    "It’s true. My arms are very big and strong. I bet I could break Ami’s legs if I tried hard enough, but there is no reason for me to do that so I won’t."
+
+    a "So, what do you say? Will you come with me? "
+    s "What do you need help carrying?"
+    sa "Ah...he speaks..."
+    a "I don’t know yet! But I guess we’ll find out soon!"
+    a "Actually, come to think of it, maybe I don’t need to carry anything at all? Maybe I just want to speak to you in private for a minute about personal, {i}family{/i} matters!"
+    m "You should have just opened with that."
+    ay "Ami, you’re disrespecting your queen! Return to the microphone!"
+    a "I’m not disrespecting her at all. I love Niki. So much that I think we should invite her into the Love Squad as well! Especially if we’re taking in people like Sana now. No offense, Sana."
+    sa "Um...that’s...okay..."
+    a "Sensei? A word? In {i}private?{/i}"
+
+    menu:
+        "Go with Ami" if ami_lust >= 50:
+            s "Anything for you, Ami."
+
+            scene karaokeami2
+            with dissolve
+
+            a "Yay! You must love me {i}so{/i} much! Way more than anyone else in this room!"
+            ay "I would take offense to that if I was not already busy singing your parts!"
+            s "You’re the best niece a man could ever want."
+            m "Sensei-"
+
+            scene karaokeami3
+            with dissolve
+
+            a "He already made a choice, Maya. What more could you possibly add to this? "
+            m "Relax. I just wanted him to get me a drink."
+
+            scene karaokeami2
+            with dissolve
+
+            a "Okay! I’ll make sure he does that! Just don’t come looking for us if we take a little too long, okay?!"
+
+            "I crack my knuckles."
+            "It’s time to put these strong, man arms to good use."
+
+            jump amilust50
+
+        "Stay here and party":
+            s "I think I’d rather just stay here and party. I like this song and it’s nice and toasty in this room."
+
+            play sound "static.mp3"
+            scene karaokeami4 with flash
+            stop sound
+
+            a "And {i}I{/i} think that’s the wrong idea! You’re going to come with me whether you like it or not because, if you {i}don’t,{/i} you’re going to regret it for the rest of your life!"
+            sa "That sounds...kind of serious for..."
+            a "Shut your {i}fucking{/i} mouth, Sana. I know what you’re doing. You’re trying to take Sensei away from me. You’re just like everybody else. But Sensei is going to choose me. He always chooses me. Right, Sensei?"
+            s "I don’t see you that way, Ami."
+            a "Wrong answer again! Hahah!"
+            ay "Ami! Apologize to Sana right now!"
+            a "Sure! Right after she apologizes for seducing my uncle while I wasn’t around to gorge myself on the hot cum she squeezed out of his massive adult cock!"
+
+            play sound "static.mp3"
+            scene karaokeami5 with flash
+            stop sound
+
+            sa "Huh?!"
+            a "Oh, don’t pretend you don’t know what I’m talking about. You’ve been in heat all summer long. It was only a matter of time until you couldn’t hold it in anymore, thirsty bitch."
+            sa "I...um..."
+            ay "Sana? That’s not true, is it?"
+            sa "I...uhh..."
+
+            scene karaokeami6
+            with dissolve
+
+            sa "Would you be willing to share?"
+
+            $ renpy.end_replay()
+            $ amilust50skip = True
+
+            stop music
+            scene colorbars
+            play sound "colortone.mp3"
+            $ renpy.pause(5, hard=True)
+            jump halloweenfour15
+
+label amilust50:
+    stop music
+    play sound "static.mp3"
+    scene karaokeami7 with flash
+    stop sound
+    play sound "doorslam.mp3"
+    with hpunch
+
+    s "Hey, this looks just like the other room we were just in. And there are already a few songs queued up."
+    s "Grab a mic, Ami. Let’s get this bread."
+    a "I can smell her on you."
+
+    play music "asobeatsexdark.mp3"
+
+    s "What?"
+    a "Sana."
+    a "What did she do?"
+    s "..."
+    a "Did she {i}touch{/i} you?"
+    s "..."
+    a "How do you feel right now, Sensei?"
+    a "Are you still “out of it?” "
+    a "Are you still confusing girls for {i}other{/i} girls? "
+    s "..."
+    a "Did you mistakenly believe she was me? Is that what happened?"
+    s "..."
+    a "You know I’m the only girl who can take care of you, right?"
+    a "You know we’re meant to be together, right?"
+    a "You know I love you, right?"
+    s "Of course."
+    a "Then why do you keep letting others in? Is what I have not enough anymore? "
+    a "Do I need to try something {i}different?{/i}"
+    s "Different?"
+    a "Look at me."
+    s "..."
+    a "Now."
+
+    play sound "static.mp3"
+    scene karaokeami8 with flash
+    stop sound
+
+    m "You’re seriously disgusting, you know. Men like you would be better off locking themselves in their rooms for the rest of their lives so that the rest of us can breathe a little easier."
+    m "I swear, you’re like some sort of...pollutant. Something that makes the air toxic just by setting foot outside. It’s a miracle you can sleep at night knowing this."
+    s "..."
+
+    play sound "static.mp3"
+    scene karaokeami9 with flash
+    stop sound
+
+    a "I wonder what that makes me, then?"
+    a "An accomplice? Melatonin? The girl who needs to bear your burden so no one else has to? "
+
+    scene karaokeami10
+    with dissolve
+
+    a "Or perhaps I’m just unlucky?"
+
+    play sound "static.mp3"
+    scene karaokeami11 with flash
+    stop sound
+
+    m "Perhaps I’m the most unlucky girl in the entire world...because I wound up falling for {i}you.{/i}"
+    s "..."
+    m "This is what you want to hear, right? For me to say those words to you after all this time? Did that make your heart skip a beat? Because it should, you know. I’m kind of a catch."
+    s "What are you doing?..."
+
+    play sound "static.mp3"
+    scene karaokeami12 with flash
+    stop sound
+
+    a "Flirting, I think?"
+    a "It’s been so long that I’ve kind of forgotten how. Though, I suppose there’s never been any need for me to learn as you’ve always just come to {i}me.{/i} Regardless of whether I want you to or not."
+    a "Which I usually don’t. But it is what it is. "
+    a "Fate can be so unkind at times, don’t you think? If only we were somewhere else. And if only there wasn’t a gap in our ages so large that you could pass as my grandfather."
+    s "Ami-"
+
+    play sound "static.mp3"
+    scene karaokeami13 with flash
+    stop sound
+
+    m "{i}Ami?{/i} Are you seriously thinking about your {i}niece{/i} at a time like this? Just how despicable are you? "
+    s "You’re not...this...this isn’t..."
+    m "Isn’t what? Spit it out already. I don’t have all day to listen to you whine about your uncontrollable erection."
+    s "..."
+
+    scene karaokeami14
+    with dissolve
+
+    m "{i}Hah...{/i}Are we going to do this or not? Because if you absolutely {i}need{/i} to sneak away from the others to fuck me, I’d prefer you do it quickly. "
+    m "Getting caught with {i}you{/i} is the last thing I’d ever want. For more than just the obvious reasons, of course. "
+
+    "I no longer care who is real and who is make-believe."
+    "All I want is a pair of arms to throw myself into."
+    "And a tight hole in which I can ejaculate."
+
+    play sound "static.mp3"
+    scene karaokeami15 with flash
+    stop sound
+
+    m "Go on then. "
+    m "Take it out."
+    m "You don’t need me to get you started, do you? Because if you had the gall to throw me into this room before even {i}getting{/i} hard, I’m going to be both shocked and impressed at the same time."
+    s "..."
+    m "Pathetic. "
+    m "Making me do all the work {i}again.{/i}"
+
+    scene black
+    with dissolve2
+
+    m "I guess it can’t be helped, though..."
+    m "Lay down, Sensei..."
+    m "I’ll take good care of you."
+
+    "........."
+    "......"
+    "..."
+
+    scene karaokeami16
+    with dissolve4
+
+    a "Look at you — lost in ecstasy while a teenage girl plays with your cock. How cute."
+    s "It’s...because it’s you..."
+    a "Pfft, as if you actually expect me to believe that. We both know you’d do this with anyone that gives you the time of day. Pervert."
+    s "I’m gonna cum...I’m gonna cum..."
+    a "Already? Are you serious? I’ve barely even touched you. I told you to be quick, not {i}embarrassing.{/i} Bite your tongue or something. That’s supposed to help, isn’t it?"
+    s "I...I don’t..."
+    a "Want {i}me{/i} to bite it for you? "
+
+    scene karaokeami17
+    with dissolve
+
+    a "Or would you rather shut my mouth in a {i}different{/i} way? Because I’m sure you’re tired of hearing me speak by now, aren’t you? "
+    a "Unless you {i}enjoy{/i} being ridiculed by little girls, that is. Which, by the looks of it, you might. Disgusting."
+    s "You’re disgusting too, Maya..."
+
+    scene karaokeami18
+    with dissolve
+
+    a "Am I?"
+    s "Your friends are...one room over...and you’re doing {i}this...{/i}"
+    a "Only because I {i}have{/i} to. I was more than capable of waiting until we’re alone. But I was beginning to feel bad for you since I knew you wanted it so bad."
+    s "You want it too...don’t lie to me..."
+    a "Maybe I do. Maybe I don’t. Not like you have any chance of finding out so long as my pants are on."
+    s "Take them off..."
+    a "Then what? Let you cum inside of me the second you put it in? Not worth the effort, to be honest. Just finish here so we can go back to barely knowing each other."
+    s "Maya...please..."
+    a "Please what?"
+
+    "She begins to speed up."
+
+    s "Let me fuck you..."
+    a "I love that look of {i}desperation{/i} you get in your eyes whenever I hold something you want over your head. It’s probably the only time you look attractive, if I’m being honest."
+    s "I can’t...hold out much longer..."
+
+    scene karaokeami19
+    with dissolve
+
+    a "Good. This angle is hurting my wrist and being this close to you for this long as is more draining than you think."
+    s "Is that why...you’re crying?..."
+
+    scene karaokeami20
+    with dissolve
+
+    a "I’m not crying."
+    s "But-"
+    a "Just fucking cum already. Jesus."
+
+    "Her eyes lock onto mine and, for a brief moment, I imagine her as someone else."
+    "But this is Maya. "
+    "This is how we are. "
+    "This is what we do."
+
+    scene karaokeami21
+    with dissolve
+
+    a "Ahh...finally...here it comes...I can feel it..."
+    s "Ah......hah......"
+    a "Are you gonna cum for me?...Yeah?...How much?..."
+    a "Do it...do it, do it, do it...{i}do it...{/i}"
+
+    with sexfade
+    with sexfade
+    scene karaokeami22 with dissolve2
+
+    a "Ah..."
+
+    scene black
+    with dissolve2
+
+    a "That was barely anything..."
+    a "How pathetic."
+    s "Maya..."
+    a "Shh..."
+    a "That just means I know you have some more..."
+
+    scene karaokeami23
+    with dissolve2
+
+    a "Hah! Hah! Hah! Nngh...fuck! I hate how...good you are at this...you fucking pervert!...Why can’t you...be useful for anything else?..."
+    s "You...wanted it...Don’t lie..."
+    a "Of course I...hah...wanted it, you...fucking idiot...I have...needs...just like you and...as much as I hate to admit it...your cock...can’t be beaten..."
+
+    scene karaokeami24
+    with dissolve
+
+    a "Guess I should be thankful I...met somebody as...disgusting as you...shouldn’t I?...What a waste you’d be on...anyone else when...you’re the perfect fit for {i}me...{/i}"
+    s "It...barely fits at all..."
+    a "Just how...you like it...right?...Creep..."
+    s "Maya...you’re amazing...you’re so amazing..."
+
+    scene karaokeami25
+    with dissolve2
+
+    a "Hah...ahh...I know...I know I am...and...you’re not so...bad yourself when...aah...you’re not being...so gross...hah!"
+    s "Quiet down...someone will hear you next door..."
+    a "Hah!...Ngah! It’s...okay! They’re...too busy...singing! No one...will hear us! Just...keep fucking me!"
+    s "And to think...a few minutes ago...you were saying this wasn’t worth the effort..."
+    a "That was...aah...before you...came the first time! I think...ngah! It’s...pretty obvious...how much I want it now!"
+
+    "My grip is tight around Maya’s waist, and she doesn’t even attempt to resist as I repeatedly push and pull at her body."
+    "I can feel her juices trickling down my leg as her pussy clamps down on the first few inches of my cock. But I’m careful not to push any further as I don’t want to break her. "
+    "It’s difficult holding myself back, but I’ve gotten used to it over the years."
+    "I have plenty of practice by now."
+    "So much, in fact, that I can already tell she’s about to cum."
+
+    a "Aaah! Hah!...Aaah! Fuck! Like that! Just...like that!"
+    s "Does that feel good, Maya?..."
+
+    scene karaokeami26
+    with fade
+
+    a "So good...Sensei! So good! I feel like...I could die! I love your cock...so much! So much! Mess me up! Cum inside me!"
+    s "Your voice...be careful..."
+
+    scene karaokeami27
+    with dissolve
+
+    a "I already told you...no one’s going to hear us! And I...can’t help it! Aah! Sensei! You feel so good!"
+    s "You’re a lot...cuter when...you’re submitting, you know..."
+
+    scene karaokeami28
+    with dissolve
+
+    a "What was that, Sensei? I couldn’t hear you. Could you say it again please?"
+
+    play sound "static.mp3"
+    scene karaokeami29 with flash
+    stop sound
+
+    s "I said...you’re a lot cuter...when you’re submitting..."
+    a "Ngh...mmf...I bet! It probably gets...really exhausting...hearing me {i}bitch{/i} all the time...doesn’t it? I bet that just...makes you want to fuck me...ten times harder...huh?"
+    s "It sure does..."
+
+    scene karaokeami30
+    with dissolve
+    play sound "dosex.mp3"
+
+    a "Ah! Ah! Ah! Ah! Ah! Ah! Ah!"
+
+    "I ramp up the pace and begin to catch up to Maya at the finish line. "
+    "It’s been a long time since the two of us have raced, but it’s heartwarming to see she’s still willing to wait up for me when I want her to. And I didn’t even have to say anything."
+    "That’s just what love is like, I guess."
+    "You don’t always need to {i}do{/i} what the other person wants, so long as you understand one another and are willing to back each other up when push comes to shove."
+    "Right now, this is one of those moments — and it’s not an unfamiliar one. Just partially chewed-up and slightly forgotten."
+    "But that will all change soon. For this may be the last time I ever have sexual intercourse with {i}anyone-{/i} not just my niece’s best friend."
+
+    scene black
+    with dissolve2
+
+    "In the disappearing of my dilapidated psyche, a final thought rushes in."
+    "It’s that Maya smells a lot like Ami today."
+    "She feels like her too."
+    "And she sounds like her and breathes like her and-"
+
+    a "Aah! [amimaster]! Aaah! Yes! Cum inside me! Cum inside me!"
+
+    "And it happened again."
+
+    stop music
+
+    "I did a bad thing."
+
+    $ renpy.end_replay()
+    $ amilust50 = True
+    $ ami_lust += 1
+
+    "{i}Ami’s lust has increased to [ami_lust]!{/i}"
+    "........."
+    "......"
+    "..."
+
+    jump halloweenfour15
+
+label amilust60intro:
+    play sound "dooropen.mp3"
+    scene anothercollector1
+    with dissolve2
+
+    a "Hi! Sorry I disappeared for so long, Sensei. A few of the girls decided to show up unannounced and I had to make sure they weren’t here to hurt you. "
+    a "But, on the bright side, Niki and Noriko dropped by as well! And they left you a bunch of presents on the dining room table!"
+
+    scene anothercollector2
+    with dissolve
+
+    a "I had to go through them to make sure there wasn’t anything dangerous inside, but I re-wrapped them pretty perfectly if I do say so myself. And I can help you open them later once we’re done with your checkup."
+
+    scene anothercollector3
+    with dissolve
+    play music "painisreal.mp3"
+
+    a "Oh! And since you haven’t been able to visit the maid cafe in so long, I decided to make you my famous omurice! Complete with my own brand of flavor beam that I can guarantee you is better than Uta’s!"
+    a "Don’t worry, though! I’m sure you’ll be strong enough to leave the house and go visit there soon if you keep improving at the rate you {i}have{/i} been! "
+    a "Not that there’s any reason you’d {i}want{/i} to leave, though. Right, Sensei?"
+    s "..."
+    a "..."
+
+    scene anothercollector4
+    with dissolve
+
+    a "Exactly!"
+    a "Things are so simple and easy when it’s just the two of us! I’m really happy you think the same way as me!"
+    a "Because, between the way everyone keeps trying to harass me to get inside your room and the fact that they all think I’m not doing this for your sake, I’ve been starting to feel a little depressed lately."
+    a "You don’t have to worry about me, though. I’m not letting it get in the way of your care. And I’ll continue doing everything I can to make sure you stay 100%% healthy, okay?"
+
+    if ami_lust >= 60:
+        jump amilust60
+    else:
+        scene black
+        with dissolve2
+        stop music fadeout 15.0
+
+        a "Now, show me how you say “Aaaaah!” "
+        a "Here comes the airplane, Sensei! "
+        a "Ah! Oh no! It looks like some of the ketchup spilled on your chest! Ami to the rescue!"
+        a "{i}Ahm...mn...{/i}"
+        a "Mmm! That was delicious! "
+        a "I think some of your flavor might have gotten mixed in with it on accident. Do you mind if I have a little more? I put so much love into this dish that I’m feeling a little lethargic all of a sudden! Hahah!"
+        s "..."
+        a "..."
+        a "Oh yeah?..."
+        a "Then I guess I’ll just have to wait until {i}after{/i} dinner to get a second taste..."
+
+        $ renpy.end_replay()
+        $ ami_love += 10
+        $ amilust60skip = True
+
+        "{i}Ami’s affection has increased to [ami_love]!{/i}"
+        "........."
+        "......"
+        "..."
+
+        jump springtime6
+
+label amilust60:
+    if _in_replay:
+        scene anothercollector4
+        with dissolve
+        play music "painisreal.mp3"
+
+    s "..."
+    a "..."
+
+    scene anothercollector5
+    with dissolve
+
+    a "Of course, you silly goose! Everything I do is for your own good! It’s just an added benefit that it’s been so enjoyable for the two of us."
+
+    scene anothercollector6
+    with dissolve
+
+    a "You’ve gotta make sure you eat the entire omelet though, got it? Broccoli too, mister. Don’t think for a second that I haven’t been keeping track of your fiber intake!"
+    s "..."
+    a "..."
+
+    scene anothercollector7
+    with dissolve
+
+    a "Really? {i}Now?{/i}"
+    a "But Sensei, your food will get cold. And I heard on TV that microwaves cause cancer, so I wouldn’t recommend reheating it and I’d probably just have to make your dinner all over again."
+    s "..."
+    a "..."
+
+    scene anothercollector8
+    with dissolve
+
+    a "Hmm...if that really {i}is{/i} the case...then I guess it can’t be helped. "
+    a "But this is the {i}last{/i} time I give you your check-up {i}before{/i} you eat dinner, okay? No exceptions!"
+
+    scene black
+    with dissolve2
+
+    "Ami Arakawa places the omelet on the shelf next to the EnviroKids Organic Gorilla Munch Cereal before sanitizing her hands and climbing onto the bed beside her uncle."
+
+    scene anothercollector9
+    with dissolve2
+
+    "He was a kind uncle. And it was unfortunate that he had come down with such a serious illness out of nowhere. "
+    "But there was no illness too serious for Ami Arakawa. And she was determined to exorcise her uncle’s demons before they ever got the best of him."
+    "She’d been making excellent progress so far. This was evidenced by the amount of semen she was able to extract from him on a daily basis."
+    "Not extracting this semen would result in her uncle’s penis exploding — a tragedy that would likely result in his death. And so she was doing both him {i}and{/i} the world a favor by routinely milking him."
+    "It was a lot of work. Especially since her hands were so small and his phallus was so large. But again, there was nothing Ami Arakawa couldn’t handle."
+    "And so she curled her fingers around his member, tugging gently while gazing into his eyes, glazed over from the illness."
+    "The air conditioner hummed in the background, still left on from the season that had just passed, making his nipples hard and leaving goosebumps all over his body."
+    "Ami Arakawa was cold too. But she was not about to let her weakness show when it was pivotal for her to remain calm and composed during the milking process."
+    "The slightest hiccup could result in his penis becoming soft, which would disrupt her healing practices and leave the demons trapped inside of her uncle to further corrupt him."
+    "This would be bad for many reasons, but the most important of all of them would be that it could result in his death."
+    "Having already lost the rest of her family, this was not something Ami Arakawa wanted to happen. It would be the worst possible outcome."
+    "She steels her gaze, piercing further through the gloss in her uncle’s diseased eyes, and hones in on the shine in his pupils."
+    "Within them, she sees a future with a swollen belly and a creature taking residence in her uterus. {i}His{/i} creature. And it would grow and grow until she was able to puke it out of her beautiful vagina."
+    "It was so beautiful. It was a perfect vagina. It was the envy of Kumon-mi."
+    "And only he and his preconceived creature were allowed to feast their eyes upon it."
+
+    a "Does that feel good, [amimaster]?"
+    s "..."
+    a "..."
+    a "All day? Really? "
+    a "Then I’m sorry I kept you waiting just now. But you can go ahead and blame it on everybody else if it keeps me brighter in those pretty doe-eyes of yours."
+    a "Is there anything in particular you want me doing to help you cum today? Any costume or role you want me to play? A certain speed or sensation you’re thirsting for?"
+    s "..."
+    a "..."
+    a "But I don’t {i}have{/i} anything I want to do. I’m happy enough just getting to spend time with you."
+    a "Just being allowed to pleasure you like this is more than I ever thought I’d get. And I thought of that {i}a lot,{/i} you know. Since long before you ever wanted to touch me."
+
+    scene anothercollector10
+    with dissolve
+
+    a "Or maybe you always {i}did{/i} want to touch me. But you were just holding yourself back because I was too little...or because you just felt like you should have been “looking out for me” instead. "
+    a "You were so silly back then, [amimaster]. And you’re silly now too. But “looking out for me?” That’s just crazy talk."
+
+    scene anothercollector11
+    with dissolve
+
+    a "I’m way stronger than you give me credit for. And the mere {i}idea{/i} of needing somebody to look after me makes me chuckle. It’s {i}me{/i} who is the caretaker. It’s {i}me{/i} who lives to serve."
+    a "All you need to do is lay there and let me do what I was born to do, okay? I’ll jerk those demons out of you in no time at all."
+
+    play sound "static.mp3"
+    scene anothercollector12 with flash
+    stop sound
+
+    "And so Ami Arakawa proceeded to milk her uncle, stopping every several minutes to dry his drool with her sleeve. "
+    "It was a kind gesture — both the milking and the drying of the drool. And it was further evidence to reestablish the fact that she was perfect for this role."
+    "She really {i}was{/i} “The Caretaker.” And anyone else who laid claim to the title only did so because they did not understand her worth. "
+    "These good deeds of hers, hidden behind closed doors, would only be witnessed through the eyes of her uncle and the gods that watched over the Wishing Well."
+    "Throughout the course of this story, you have decided who some of those gods are. But you have made those decisions based on what you believe you know rather than what is actually true."
+    "In a place far from here, the Xoanon plucks a body from the water, drying it off with a towel made of sheepskin, before scribbling something down in a notebook."
+    "It writes the following-"
+    "“Blessed be those who live to protect. Who live selflessly, helplessly, and full of regret.”"
+    "“What is it they long for? Why can’t they forget?”"
+    "Then it puts its pen down and awaits the next reset."
+
+    a "You’re getting close, [amimaster]. I can feel it throbbing in my hand. "
+    a "Do you want me to slow down a little so you can savor the moment some more? Or should I work harder and help you finish up so you can eat?"
+    s "..."
+    a "..."
+
+    scene anothercollector13
+    with dissolve
+
+    a "Nuh-uh. Edging isn’t good for your health. And while it may help you exercise your penis so you can last longer in bed, it does evil things to your mind. And your mind is what I love the most about you!"
+    a "It really just comes down to what type of orgasm feels best for you, [amimaster]. Do you want a slow, sensual one? Or do you want a fast, aggressive one? Just tell me and I’ll make it happen."
+    s "..."
+    a "..."
+    a "Really? You’ll let me choose {i}again?{/i} "
+    a "What did I do to deserve such kindness today?"
+    s "..."
+    a "..."
+
+    scene anothercollector14
+    with dissolve
+
+    a "Aww! That’s so sweet of you, [amimaster]! Thank you so much for recognizing how hard I’ve been working these last few weeks."
+    a "And don’t worry about “Christmas being ruined” because I can promise you it’s not. Just knowing we can celebrate it together is the best gift I could ever-"
+    s "e"
+
+    scene anothercollector15
+    with dissolve
+
+    a "Ah! You’re about to cum, aren’t you?"
+    s "..."
+    a "That’s okay, [amimaster]. Just hold it in for one more second while I get the jar."
+
+    scene black
+    with dissolve2
+
+    "Ami Arakawa dashes to the shelf she previously placed her famous omurice on and begins to frantically search for the second object she entered the room with."
+
+    play sound "static.mp3"
+    scene anothercollector16 with flash
+    stop sound
+
+    "It was a mason jar. But it wasn’t just {i}any{/i} mason jar. It was a {i}special{/i} mason jar. "
+    "You see, Ami Arakawa had been collecting her uncle’s semen in jars just like this one since he was hospitalized on the night of November 1st."
+    "This was the third jar. There were two more, half-full or half-empty, inside the freezer and beside the carrots. "
+    "She was saving them for a special occasion and had the intent to use their contents for various purposes ranging from baking to recreation on days where she didn’t have much going on."
+    "There were several more important reasons to keep such a specific item in her freezer, but Ami Arakawa has requested that they not be included in dialogue constructed by “AUTO-PILOT.”"
+    "She gripped her uncle’s penis harder than before, aiming it at the upper section of the glass as she was amused by the way his semen looked when it shot out and made contact with it."
+    "The way it dripped down to the lower section always made her giggle, but it was less because of the visual aspect and more because it elicited a sense of satisfaction over a job well done."
+    "These jars, in addition to their more practical uses, served as trophies. And she hoped to collect so many that she’d have to either eat those frozen carrots or let them thaw and rot out on the kitchen counter."
+    "Her butt swayed in front of her uncle’s face, but she knew better than to expect his tongue to exit his mouth and make contact with her in any form. "
+    "Regardless, such a desire did not matter."
+    "Ami Arakawa was the caretaker — and she was here to perfectly perform her role in the grand scheme of the universe."
+    "She was here to milk her family."
+
+    a "Come on, [amimaster]. Let it all out. "
+    s "..."
+    a "..."
+    a "I know the jar is cold, I’m sorry. You’re just so big that it’s hard to keep everything straight without having you brush up against it every once in a while."
+    a "I’d get a bigger jar, but I’m not sure if I’d be able to fit it inside the-"
+
+    with sexfade
+    with sexfade
+    scene anothercollector17 with cumflash
+    with hpunch
+
+    a "Ah! There you go!"
+
+    scene anothercollector18
+    with dissolve
+
+    a "Good boy, [amimaster]! You let out a whole lot today! "
+    a "Maybe I’ll have to start milking you even {i}more{/i} often if your body is producing this much? How does that sound? Good?"
+    s "..."
+    a "..."
+    a "Good!"
+
+    scene black
+    with dissolve2
+
+    a "I’ll go put this on ice so it doesn’t go bad and I’ll be {i}right{/i} back to clean you up, okay?"
+    a "Then, after that, I’ll remake your dinner and we can take a bath and watch Christmas movies! Yay!"
+    s "..."
+    a "I love you too, [amimaster]! Be back soon!"
+
+    "Ami Arakawa leaves the room."
+
+    stop music
+
+    "The music stops."
+    "And her uncle, Akira, remains on the bed having just been milked to completion."
+    "His phallus twitches as his nipples harden once more from the cool air of the forgotten machine in the corner of the room."
+    "The door of the freezer is opened."
+    "The carrots are left out to thaw."
+
+    $ renpy.end_replay()
+    $ amilust60 = True
+    $ ami_lust += 1
+
+    "{i}Ami’s lust has increased to [ami_lust]!{/i}"
+    "........."
+    "......"
+    "..."
+
+    jump springtime6
+
+label amispring1:
+    play sound "static.mp3"
+    scene amihair1 with flash
+    stop sound
+    play music "isingforyou.mp3"
+    $ renpy.pause(20, hard=True)
+
+    "The average human body’s chest cavity can withstand a little over 400 lbs of weight before being crushed, but there are several factors that could cause this number to fluctuate."
+    "On September 18th of 1692, a man by the name of Giles Corey was executed by Captain John Gardner of Nantucket after being accused of and charged with witchcraft."
+    "But what various historical texts and the acclaimed play adaptation “The Crucible” will not tell you is that there is a very specific reason Mr. Corey was able to withstand a number likely larger than 400 lbs."
+    "Inside his chest cavity was a special worm."
+    "The worm did not have a name, but it fed on the residue that seeped through Giles’ body until, after consuming enough, it began to grow teeth."
+    "Giles Corey was an old man. An old man with a young worm. And the young worm wanted to be old one day."
+    "So, while Mr. Corey was being pressed to death, it came up with a plan."
+    "The worm hardened its body with the help of God as it had been saving up the religious power inadvertently stored by Giles Corey each time he prayed at night."
+    "And while this allowed the young worm and the old man to survive slightly longer, it meant nothing in the face of the determined Captain John Gardner of Nantucket."
+    "Eventually, the worm and Giles Corey would be crushed to death. And their bodies, still conjoined, would be dumped into a nearby river when their skin refused to burn."
+    "But that isn’t the end of the story."
+    "In fact, the story is still going on right now."
+    "Because when the body of Giles Corey decomposed, so did the worm. And the leftover power of God that allowed the worm to harden its body was dispersed throughout the water."
+    "By the time we found out, it was already too late."
+    "We have all drunk from the water."
+    "Now, we all have worms inside of us."
+    "And every time we talk to God, we’re only making them stronger."
+    "{i}- The true story of how we came to be{/i}"
+
+    play sound "dooropen.mp3"
+    scene amihair2
+
+    s "..."
+
+    "I am house."
+
+    a "{i}Daaaaisy, Daaaaisy, give me your answer doooooooo~{/i}"
+    a "{i}I’m haaaaalf craaaaazy, all for the love of youuuuuuu~{/i}"
+
+    scene amihair3
+    with dissolve
+
+    s "?..."
+    a "{i}It won’t be a styyyylish marriage~{/i}"
+    a "{i}I caaaan’t affoooord a carriage~{/i}"
+    a "{i}But youuuu’ll look sweet upoooon the seat of a bicycle built for twoooooo~{/i}"
+
+    scene amihair4
+    with dissolve
+
+    s "..."
+    a "{i}Daaaaisy, Daaaaisy, give me your answer doooooooo~{/i}"
+    a "{i}I’m haaaaalf craaaaazy, all for the love of youuuuuuu~{/i}"
+    a "{i}It won’t be a styyyylish marriage~{/i}"
+    a "{i}I caaaan’t affoooord a carriage~{/i}"
+    a "{i}But youuuu’ll look sweet upoooon the seat of a bicycle built for twoooooo~{/i}"
+    s "Ami?"
+
+    stop music
+
+    a "_"
+    s "What..."
+    s "What are you doing?..."
+    a "_"
+    s "..."
+
+    play music "isingforyou.mp3"
+
+    a "{i}Daaaaisy, Daaaaisy, give me your answer doooooooo~{/i}"
+
+    "Ami only looks at me for a moment before going back to singing her wretched song."
+
+    a "{i}I’m haaaaalf craaaaazy, all for the love of youuuuuuu~{/i}"
+
+    "Her voice has never been polished, and she’s no stranger to slowly navigating away from the proper key-"
+
+    a "{i}It won’t be a styyyylish marriage~{/i}"
+    a "{i}I caaaan’t affoooord a carriage~{/i}"
+
+    "But she sounds much worse than normal right now."
+
+    a "{i}But youuuu’ll look sweet upoooon the seat of a bicycle built for twoooooo~{/i}"
+
+    "And she looks even worse."
+
+    stop music
+    play sound "static.mp3"
+    scene amihair5 with flash
+    stop sound
+
+    a "{i}Daaaaisy, Daaaaisy, give me your answer doooooooo~{/i}"
+    a "{i}I’m haaaaalf craaaaazy, all for the love of youuuuuuu~{/i}"
+    s "Ami..."
+    s "What have you done?..."
+    a "Cut it off and sold it."
+    s "What?..."
+    a "Don’t you like me now? "
+    a "I’m me, Jim."
+    s "..."
+    a "It’s sold, I tell you— sold and gone, too. It’s the night before Christmas, boy. Be good to me, because I sold it for you."
+    s "..."
+
+    play sound "static.mp3"
+    scene amihair6 with flash
+    stop sound
+    play music "glasswalker.mp3"
+
+    a "My hair will grow again. You won’t care, will you? My hair grows very fast. "
+    a "It’s Christmas, Jim. Let’s be happy. You don’t know what a nice—what a beautiful nice gift I got for you."
+
+    "Locks of thick, red hair cover the floor like the blood of a lamb who’d just been slaughtered. And in this dark room, where the only light we have is what bleeds through black curtains, I can tell you I’m scared."
+    "It’ll be our little secret. And I’ll become a butcher myself if you give in and let it out."
+    "But in the meantime, I will present myself to my caretaker so that she may hoist me up and attach me to a cold metal device that will hang me upside down- so she can drain the juice from my neck and drink it."
+
+    a "Don’t you like me now? "
+    a "I’m me, Jim."
+    s "Ami...put the scissors down."
+    a "About time! Do you have any idea how much trouble you'd get into if the principal showed up and caught you sleeping right now?"
+    s "What?..."
+    a "Class ended ten minutes ago. It's time to get up."
+    s "Ami, listen to me...you’re not thinking clearly. And I have no idea what’s going on, but I’m here for you now. So give me the scissors and-"
+
+    play sound "static.mp3"
+    scene amihair7 with flash
+    stop sound
+
+    a "Allow me to {i}re-{/i}introduce you to Kumon-mi! A super normal town just outside of Tokyo."
+    a "Rule number one is keep your hands off all of your students! But that should probably be a rule that goes without saying since...you know."
+    a "That's the part where you were supposed to say, “You're the only girl for me, Ami! I don't care about any of the other ones!”"
+    a "Enough about that, how 'bout we get back to some of those rules you were just talking about?"
+    a "Rule number one is keep your hands off all of your students!"
+    a "Rule number two is keep your hands off all of your students!"
+    a "Rules number three and four and five and six are keep your hands off all of your students BUT YOU DIDN’T FOLLOW THE RULES, JIM! {size=+7}YOU NEVER FOLLOW THE RULES!{/size}"
+    s "I know. I’m very bad at that, and I’m {i}sorry.{/i} Now, {i}please{/i} give me the scissors before you wind up hurting yourself."
+    a "やだ。"
+    s "Ami, please."
+    a "やだやだやだやだやだやだやだやだやだやだやだやだやだやだ。"
+    s "Then...what do you want me to do? What {i}can{/i} I do?"
+
+    play sound "static.mp3"
+    scene amihair8 with flash
+    stop sound
+
+    a "{b}YOU COULD HAVE LISTENED!{/b}"
+    a "YOU COULD HAVE FOLLOWED ME LIKE YOU SAID YOU WOULD! COULD HAVE LOVED ME! BUT YOU DON’T LOVE ME AT ALL, JIM! YOU DON’T CARE THAT I SOLD MY HAIR!"
+
+    play sound "static.mp3"
+    scene amihair9 with flash
+    stop sound
+
+    a "It’s so pretty, isn’t it? I’ve been growing it forever. You always said you liked twintails. And my hair looks just like mom’s. "
+    a "You loved her hair too. Loved it a lot. You picked some off a piece of her scalp when it was all we had left. You tasted it. You chewed on the little bits of dead flesh. You wanted to feed your worm. "
+    s "Give me...the scissors..."
+
+    play sound "static.mp3"
+    scene amihair8 with flash
+    stop sound
+
+    a "{b}{size=+15}I HAVE ALREADY GIVEN YOU EVERYTHING!{/b}{/size}"
+    a "WHAT HAVE I GOTTEN IN RETURN, JIM?! THERE IS NOTHING LEFT! YOU’VE TAKEN ALL OF ME! "
+
+    if amifingered == False:
+        a "ALL OF ME BUT THE ONE THING I WANT YOU TO HAVE! WHAT ARE YOU SO AFRAID OF?!"
+    else:
+        a "MY INNOCENCE! MY PURITY! MY BLOOD! MY BLOOD AND SWEAT AND BLOOD! "
+
+    scene amihair9
+    with dissolve
+
+    a "Oh!"
+    a "I know."
+    a "It’s the worm, isn’t it? The worm is making you do the things you do, so I just have to get it out of you! If I get it out of you, you’ll go back to normal!"
+    s "What worm?! What are you talking about?!"
+    a "The one inside you who blocks the path between you and God! The one that kept Giles Corey alive when Captain John Gardner kept increasing the weight! You know the worm I’m talking about! "
+    s "I have no idea what you’re talking about because nothing you’re saying makes any sense!"
+
+    play sound "static.mp3"
+    scene amihair8 with flash
+    stop sound
+
+    a "{b}NOTHING MAKES SENSE HERE! IT’S NOT SUPPOSED TO!{/b}"
+    a "{b}YOU’RE SUPPOSED TO TREAT THIS LIKE A GAME! YOU’RE SUPPOSED TO GET ME PREGNANT! YOU’RE SUPPOSED TO REACH THE EPILOGUE!{/b}"
+
+    scene amihair11
+    with dissolve
+
+    a "But all you ever do is lie. You hide the truth because the truth would hurt me. And Ami is fragile! Ami can’t handle it! Ami’s a joke! Ami’s too clingy! Ami is a bad girl!"
+
+    scene amihair12
+    with dissolve
+
+    a "{b}AMI’S NOT A BAD GIRL! AMI’S A GOOD GIRL! AMI’S THE ULTIMATE NIECE! AMI IS CUTE! LOVE AMI MORE! LOVE LOVE LOVE LOVE LOVE LOVE AMI!{/b}"
+
+    play sound "static.mp3"
+    scene aminewfirstevent2 with flash
+    scene amiani12 with flash
+    scene amibus12 with flash
+    scene amidatecafe6 with flash
+    scene amidormten9 with flash
+    scene amihair13 with flash
+    stop sound
+
+    s "I do love you!"
+    a "{size=+15}{b}LIAR!{/size}{/b}"
+    a "I called you over and over and over and over and over and over and you never answered! You left me alone! I was worried about you! I thought someone raped and murdered you! You don’t love me at all! "
+    a "You think Ami is a bad girl! But you’re wrong! Wrong wrong wrong wrong wrong! Ami is good! I cut off my hair and sold it! I did it for you!"
+    s "You didn’t sell anything, Ami. It’s all over the ground. It’s {i}everywhere.{/i} And I’m sorry I didn’t pick up the phone, I just...didn’t know how to handle this. I was...scared."
+
+    scene amihair14
+    with dissolve
+
+    a "Scared?..."
+    s "Yeah..."
+    s "I don’t know what to do for you. I don’t know how to help you the way you help me. And you’ve been acting so strangely the last couple days, that I...ran away. Because I always run away."
+    s "But I’m here now. And I’m going to help you. "
+    a "Ami doesn’t need help. Ami is normal. She’s a good niece who can do everything you need her to. "
+    s "Then I need you to stop going crazy and give me the scissors. You’ve already ruined your hair. I don’t want you...ruining your face as well."
+    a "It’s the worm, Jim. The worm is making me do things. I can feel it squirming around in there. I can feel its teeth."
+
+    scene amihair15
+    with dissolve
+
+    s "Give-"
+    a "{b}{size=+15}I’M NOT DONE YET! YOU CAN’T HAVE THEM!{/b}{/size}"
+    s "I will take them if I have to, Ami. I’m much stronger than you are."
+    a "You’re {i}weak!{/i} A crybaby! You tear up when I read you bedtime stories! Your eyes glaze over in sakura season! You are {i}nothing{/i} without me! Nothing!"
+
+    scene amihair16
+    with dissolve
+
+    s "You think I don’t know that?! You really think I don’t understand everything you’ve done for me?!"
+    a "Get away from me! You’re a fake! A liar! A half-eaten replica! You just want to feed the worm!"
+    s "Give me the fucking-"
+
+    play sound "stab.mp3"
+    scene amihair17
+    with hpunch
+
+    s "Ngh!"
+    a "LET GO LET GO LET GO LET GO LET GO LET GO LET GO I NEED TO CUT THE WORM OUT LET GO LET GO I NEED TO KILL IT LET GO NEED TO KILL THE WORM LET GO LET GO I HAVE TO SAVE MY INSIDES LET GO!"
+
+    "Twin blades sink into the sensitive flesh of my palm as I pull Ami’s hand closer. "
+    "She struggles, as I expect her to, causing the scissors to dig deeper into my skin as I frantically attempt to figure out what I’m going to do when I have {i}control{/i} of them."
+    "She’s a danger to herself and anyone she encounters in this state. And while that’s not something I’m prepared to handle, I knew it was only a matter of time until something like this happened."
+    "But why now? "
+    "What about waking up from my two months of “rest” ignited this wildfire within her mind? And why does {i}her{/i} shattering coincide with mine when {i}I’m{/i} the one who lost something?"
+    "Does she really think she’s losing me?"
+    "Is going through my phone and exposing the truth all it took to break her?"
+
+    scene amihair18
+    with dissolve2
+
+    a "..."
+    a "Huh?"
+    s "Let...go..."
+
+    play sound "static.mp3"
+    scene amihair19 with flash
+    stop sound
+
+    a "Huh? What? How? Huh? Why? Why? How? What?"
+    a "Did I...no no no no no no. No! No, it wasn’t me! I wouldn’t do that! It was the worm! The worm did it!"
+    a "Sensei, it was the worm! It wasn’t me! I’m a good girl! Ami is a good girl!"
+
+    "Somehow, this feels familiar. "
+    "There was someone just like her who used to lick my wounds."
+    "She would dress them before dressing me, and she would numb the pain of existing with her hands and her mouth."
+    "But in hindsight, I sometimes believe she only did t

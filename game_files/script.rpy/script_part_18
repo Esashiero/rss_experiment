@@ -1,0 +1,1983 @@
+tell me what’s goin’ on."
+    mi "Weirdo even unplugged our alarm clock for no reason and now I’ve gotta use my phone to get up in the morning."
+    s "And you think there’s something I can do about this?"
+
+    scene twowoodendoors15
+    with dissolve
+
+    mi "Kinda...yeah..."
+    mi "More than I can do at least..."
+    mi "I’ve told ya how much she likes you and all that..."
+
+    if bonus == True:
+        mi "Ever since her dad started bangin’ aliens in space, she’s looked at you as some kinda stand-in. Just a stand-in that she has some pretty raunchy thoughts about at times, apparently."
+        s "I take it this means the best friend blowjob duo isn’t happening?"
+    else:
+        mi "Ever since her dad started huggin' all those aliens, she’s looked at you as some kinda stand-in."
+        s "I take it this means the group hug isn’t happening?"
+
+    scene twowoodendoors16
+    with dissolve
+
+    mi "Be serious, Sensei! This is a big deal!"
+    mi "Makoto’s always the one lookin’ out for me when I’m gettin’ all weird so bein’ on the opposite end of the stick is makin’ me really scared!"
+
+    scene twowoodendoors17
+    with dissolve
+
+    mi "Like, if it’s this hard for me to do anything about her, I can only imagine what it must be like havin’ to hold me down against the bed so I don’t tear all of my hair out."
+    mi "Just...pull her aside and give her a big hug or somethin’."
+    mi "Maybe read her a new article about climate change. Idunno. Stuff Makoto would be into."
+    s "I can try but...that girl’s really only opened up to me twice. And the second time she got all weird out of nowhere and-"
+
+    "Wait a second..."
+    "That’s exactly when she started acting strange, isn’t it?"
+    "It wasn’t until after our conversation on the roof that Maki started spotting differences in her behavior."
+    "And then there was the incident in class."
+    "But all she did was ask me to close my eyes and then...started crying and got all quiet."
+    "What happened?"
+
+    scene twowoodendoors18
+    with dissolve
+
+    mi "Sensei? What’s up? You remember somethin’?"
+    s "Kind of. "
+    s "The two of us had a talk on the rooftop recently about where Makoto thinks her future is going and how she misses her dad."
+    s "I guess...all of that is just getting to her?"
+
+    scene twowoodendoors19
+    with dissolve
+
+    mi "No...I don’t think somethin’ that small would get to Makoto. She’s used to carryin’ all kinds of burdens."
+
+    if bonus == True:
+        mi "It’s gotta be somethin’ else. Or maybe puberty is just makin’ it worse or somethin’. I don’t friggin’ know."
+        mi "Just thinkin’ about it this much makes my head hurt."
+
+    scene twowoodendoors20
+    with dissolve
+
+    mi "Could you at least try talkin’ to her if ya get a second? You don’t need to say I came here or anything."
+    mi "Just have it be a {i}you{/i} thing."
+    mi "I’m super duper worried and I just want her to go back to normal so I can go back to bein’ all hyper and stuff."
+    mi "I’m a really bad babysitter. I don’t know how people do it."
+    s "Sure. I’ll talk to her soon."
+    s "Thanks for coming all the way over here just to tell me that."
+
+    scene twowoodendoors21
+    with dissolve
+
+    mi "You don’t gotta thank me...I’m just doin’ what any best friend would do..."
+    mi "And I kinda trust you when it comes to all this adult stuff so...there’s not anyone else I can think of who’d be able to help right now."
+
+    scene twowoodendoors22
+    with dissolve
+
+    mi "But, uhh...I’m not tryin’ to get all sappy outta nowhere so I’ll just...be on my way, I guess!"
+    mi "Thanks for hearin’ me out, Sensei! Forget I ever came here and...remember to look both ways when crossin’ the street and stuff!"
+
+    scene twowoodendoors1
+    with dissolve
+    play sound "dooropen.mp3"
+
+    mi "Sayonara! Let me know if you hear anythin’!"
+    mi "Or don’t! I don’t know!"
+    mi "Uhhhhh goodbye!"
+
+    "Miku sprints out of the room at a pace I don’t even usually see her break out during soccer practice."
+    "It’s good knowing that she cares {i}that much{/i} about her friend, but..."
+    "I hope she hasn’t placed too much faith in me."
+    "I’m not great when it comes to solving other peoples’ problems."
+    "Is that something someone in my position, atop a chair with slightly-scratchy fabric and behind two wooden doors, should be saying?"
+    "Of course not."
+    "But I say it regardless."
+
+    scene black
+    with dissolve
+
+    "And then I close my eyes for a total of seven seconds."
+    "Just as many as Maya closed hers for while dodging my rooftop questions in a non-rooftop setting."
+    "And I think of what I can do for Makoto."
+    "..."
+    "..."
+    "..."
+    "..."
+    "..."
+    "..."
+    "..."
+    "Nothing comes to mind."
+    "I give up."
+    "I leave[school]."
+    "I will talk to her soon."
+
+    $ renpy.end_replay()
+    $ day215 = True
+    $ miku_love += 1
+    stop music fadeout 5.0
+
+    "{i}Miku’s affection has increased to [miku_love]!{/i}"
+    "........."
+    "......"
+    "..."
+
+    jump afterschoolevent
+
+label day216:
+    scene hall_noon
+    with dissolve
+    play music "normalday.mp3"
+
+    "School has ended for the day so I’m currently on a mission to find Makoto."
+    "She left class the second the bell rang and kept her head down for the entire day, so I never really got a good opportunity to pull her to the side and talk about whatever it is that’s bothering her."
+    "Now, some people might hear that and think, “Why not wake her up or shake her shoulder or something? If she needs help, you shouldn’t wait on it.”"
+    "But those people are wrong."
+    "The worst thing you can do for someone going through hardships is forcibly insert yourself into them."
+    "The hardships, I mean. Not the person."
+    "Forcibly inserting yourself into {i}any{/i} person is kind of rude to do."
+    "Either way, if I am ever asleep, let me sleep. "
+
+    if bonus == True:
+        "And if you are going to wake me up, do it sexually. "
+
+    "Do not tear me from my rest to make me talk about things I do not want to talk about."
+    "It will only make things worse."
+
+    scene happyplacesredux1
+    with dissolve
+
+    a "Oh, Sensei. What are you doing just walking around the halls?"
+    a "You’re not lost, are you? You look lost."
+
+    if bonus == True:
+        ay "Of course Sensei isn’t lost, Ami. He knows these halls just as well as he knows my body."
+
+        "I actually think I know Ayane’s body a little better, to be honest."
+
+        a "Sensei, please tell Ayane you have no intentions of learning about her stupid body."
+        ay "It’s not stupid. It’s a temple. A temple for Sensei to defile and-"
+
+    s "Have either of you two seen Makoto?"
+
+    scene happyplacesredux2
+    with dissolve
+
+    a "Unfortunately, yes. But what do {i}you{/i} want with her?"
+    s "There’s something I need to talk to her about. That’s why I’m acting all suspicious and wandering around the halls right now."
+
+    scene happyplacesredux3
+    with dissolve
+
+    ay "Come to think of it, {i}she{/i} has seemed pretty out of sorts the last few days."
+    ay "She left class almost immediately instead of coming over and talking to you."
+    ay "And yes, I keep track of her because, even if she’s bossy at times, she has nice legs and looks good without her glasses on."
+
+    if bonus == True:
+        a "I disagree and think she looks like a...stupid person who only wants to hook up with my [uncle]."
+    else:
+        a "I disagree and think she looks like a...stupid person who only wants to hug my [uncle]."
+
+    s "Hate to break it to you guys but this is kind of important, so if you could leave your feelings about Makoto out of this and just tell me where she is, it would be great."
+
+    scene happyplacesredux4
+    with dissolve
+
+    a "Wow. You actually seem kind of serious."
+    a "If she’d be anywhere, it would probably be downstairs at her locker."
+    a "I think Miku said something about her staying in bed a lot the last few days, but I don’t care about her so I kinda didn’t think anything of it until now."
+    ay "Do you want us to come with you? Or maybe just me, at least?"
+    ay "I might be able to get through to her better than you can since I’m also a [teenage]girl head over heels in love with-"
+
+    scene happyplacesredux5
+    with dissolve
+
+    a "Uh-oh! Better head downstairs quick if you want to catch her, Sensei. Ayane will only slow you down."
+    ay "Maybe! But that’s just because the amount of love I carry with me is heavier than Mt. Fuji."
+
+    scene black
+    with dissolve2
+
+    "I nod to Ami and Ayane and quickly head downstairs to see if I can catch Makoto before she leaves."
+    "Normally, I would have at least said goodbye or something, but the chances are that if Makoto gets back to the dorm before I see her, she won’t open it for me even if I come visit."
+    "........."
+    "......"
+    "..."
+
+    stop music
+    scene makotolocker1
+    with dissolve2
+
+    s "..."
+
+    "I find Makoto amidst a crowd of other students, fumbling to open her locker with shaky hands."
+    "No one is paying much attention to her, so I, too, begin to drown them all out."
+    "Before long, the two of us are engulfed in silence."
+    "I watch her fail to pull it open three times before deciding to speak out."
+
+    s "Makoto."
+
+    play sound "static.mp3"
+    scene makotolocker2
+    with flash
+    stop sound
+    play music "stopwind.mp3"
+
+    mak "Oh. Hello, Sensei."
+    mak "Is there something I can do for you?"
+    s "Do you need any help opening your locker? You seem to be having a little trouble."
+
+    scene makotolocker3
+    with dissolve
+
+    mak "I’m not having any trouble at all."
+    mak "I always fail a few times before managing to open this stubborn thing."
+    mak "The door just gets stuck whenever it wants to."
+    mak "Damn thing doesn’t even care about how busy some of us are."
+    s "And what are you busy with, exactly?"
+    s "Do you have somewhere to be?"
+    mak "I have a date with my bed."
+    mak "And then before I know it, it will be tomorrow."
+    mak "Then I’ll go home and have another date with my bed."
+    mak "And then tomorrow will come again."
+    mak "And then another day will pass by."
+    mak "I’ll sleep more on the weekends."
+    mak "And more tomorrows will come."
+    mak "Then I’ll come to[school]."
+    mak "Then go back home and have another date with my bed."
+    mak "It’s all a cycle."
+    mak "I just can’t get the head start I want until I can get my shoes out of this...fucking...locker."
+    s "..."
+
+    "Makoto tries pulling it open again but her fingers slip off."
+    "She almost falls and I go to catch her, but she regains her balance before we come into contact with one another."
+
+    scene makotolocker4
+    with dissolve
+
+    mak "Oh?"
+    s "Oh what?"
+    mak "You tried to catch me."
+    mak "How polite of you."
+    s "Of course I did. You falling down and getting hurt would be an inconvenience for me."
+    mak "Would it?"
+    mak "That’s nice to know."
+
+    "I take a step closer to her."
+    "She does not move."
+    "She just continues trying to pull her locker open."
+    "The poor girl probably hasn’t even unlocked it yet."
+    "She’s just standing here in a daze waiting for things to fall into her hands rather than doing anything to make them happen."
+    "She’d probably walk home barefoot before remembering she just needs to use a key."
+    "Then she’d probably fall asleep in the bathroom of the dorm, forgetting she needs a key to unlock the door to her room as well."
+    "Keys are always so hard to use when your hands are shaking. "
+    "And it’s even harder to remember you need to use them in the first place, it seems."
+
+    s "Why don’t the two of us go talk somewhere?"
+    mak "Talk about what?"
+    mak "Is there something you want to say to me?"
+    s "There is."
+
+    scene makotolocker5
+    with dissolve
+
+    mak "Well, what is it?"
+    mak "What do you want to talk about?"
+
+    if bonus == True:
+        mak "You turned down my blowjob the other day, so I doubt it’s anything sexual."
+    else:
+        mak "Is it Napoleon Dynamite?"
+
+    "I turn around to see if anyone else wandering through the hall caught what she said, but it doesn’t look that way."
+    "No one reacts."
+    "They all just keep moving as if they’re cogs in some sort of machine."
+    "And I am an engineer, attempting to make one cog start working again."
+
+    s "I want to talk to you about what’s going on."
+    mak "Does that mean you know what’s going on?"
+    s "No. It’s more of me {i}wanting{/i} to know."
+    s "You’ve been acting strange the last few days."
+    mak "And you’ve been acting strange the last few {i}months{/i} but I’ve never tried to change you back, have I?"
+
+    if bonus == True:
+        mak "Even when you started coming to my job and saying all those super perverted things to me, I just let it happen."
+    else:
+        mak "Even when you started coming to my job and complaining about our lackluster catalogue of romantic comedy DVDs, I just let it happen."
+
+    s "No, you actually showed a fair bit of resistance."
+    mak "Ooooooooooooooooooooh, right. Right. But then you kept pushing anyway."
+    mak "And I was happy to oblige because I was curious about how far things would go."
+    mak "And now our relationship is stronger than ever~"
+    mak "Right, Sensei?"
+
+    if bonus == True:
+        s "Uhh...right."
+    else:
+        s "Uhh...I guess?"
+
+    mak "So what? You feel indebted to me or something?"
+    mak "Or are you just worried that I’m acting strangely because you’re afraid you broke me?"
+
+    scene makotolocker6
+    with dissolve
+
+    mak "If that’s what it is, I can promise you’re not the one who broke me at all."
+    mak "And before you go {b}jumping{/b} any guns, let me just say that I’m perfectly aware that I’m the one who broke myself."
+    mak "Either me or {s}God{/s} god."
+
+    play sound "static.mp3"
+    scene makotolocker7
+    with flash
+    stop sound
+
+    mak "But there is no god! There can’t be!"
+    mak "No god would let {b}that{/b} happen!"
+
+    play sound "static.mp3"
+    scene makotolocker8
+    with flash
+    play sound "thump.mp3"
+
+    "Without thinking, I push Makoto up against her locker and wrap my hands around her wrists."
+    "She stops shaking entirely and peers directly into my eyes."
+    "No-"
+    "She peers {i}through{/i} my eyes."
+    "I don’t even know what she’s looking at."
+
+    if bonus == True:
+        mak "Right here?"
+        mak "I guess if you want to, we can. Not like I care anymore."
+        mak "I didn't even put on underwear today. How crazy is that?"
+    else:
+        mak "Wow. This is a pretty aggressive hug for a soft, squishy boy like you."
+
+    mak "You’re kinda hurting my wrists though, so could you maybe ease up a bit?"
+    s "What is going on?"
+    mak "You tell me. You’re the one who got all aggressive in the middle of the hallway when I was just trying to open my locker."
+    s "Before that, why are you acting like this? Why bring up something as nonsensical as god when I’m trying to actually talk to you?"
+    mak "Slip of the tongue?"
+
+    "I begin to hear whispers of people around us, looking on in shock."
+
+    scene makotolocker9
+    with dissolve
+
+    mak "Uh-oh."
+    mak "Looks like people might start spreading rumors if you don’t make some space between us, Sensei."
+    mak "Not like I mind, but I don’t think that would be good for your career."
+    mak "And just think about what Ami would say if she were to come down the stairs and see us pressed up against the lockers like this."
+    s "..."
+
+    scene black
+    with dissolve
+
+    "I let go of Makoto’s wrists and she quickly regains the little composure she had prior to me showing up here."
+
+    scene makotolocker10
+    with dissolve2
+
+    mak "Boo..."
+    mak "I thought something wonderful was about to happen."
+    s "Let’s go to the roof. We’re drawing too much attention here."
+    mak "No thanks. I don’t like the roof anymore."
+    s "What happened to it being your “happy place?”"
+    mak "There are no happy places, Sensei. Just places where it’s slightly harder to be touched by the dark."
+    mak "Unfortunately for me, the last time we were up there, I was touched {i}a lot{/i}."
+    mak "I felt the dark all over me."
+
+    if bonus == True:
+        mak "I felt its hands crawl up my thighs and slip into my pants."
+        mak "I felt them split me open between my legs and explore my insides."
+
+    mak "And then {i}poof{/i}. Goodbye, old Makoto."
+    mak "Goodbye, everything."
+    mak "But hello, new world."
+    mak "A brand new place where everything is just how I want it to be..."
+    mak "Absolutely-"
+    mak "Fucking-"
+    mak "Horrible."
+    s "..."
+    mak "..."
+
+    "The students who had since gathered around us begin to disperse as we move further and further apart both physically and mentally."
+    "This isn’t the Makoto I know."
+    "And I have a hard time believing that this is the person she is underneath the layers she puts on to make herself more...professional or responsible or whatever it is she normally goes for."
+    "This version of her is like all of her flaws were turned up to max."
+    "They’ve taken over everything."
+    "Was she really so tired that she allowed this to happen?"
+
+    s "When we walked home together, that night on the roof, what was going through your head?"
+    s "You were silent the whole way back."
+    mak "So were you."
+    mak "We were silent together."
+    mak "I can’t remember what was going through my head."
+    mak "Perhaps a little of everything? Perhaps nothing at all?"
+    s "Can you please at least say something that makes sense?"
+    mak "I can try, but what makes sense to me might not make any sense to you at all."
+    mak "If I were to tell you what really happened, you’d think I’m even crazier than you probably think I am right now."
+    mak "So I will just sleep."
+    mak "And then I will wake up tomorrow."
+    mak "And then I will sleep."
+    mak "And then wake up again."
+    mak "And you’ll do the same."
+    mak "The same seven days."
+    mak "Over-"
+    mak "And over-"
+    mak "And over-"
+    mak "And over-"
+    mak "Until everything melts down and reforms into one disturbing mass of flesh, complete with twelve smiles. "
+    mak "One for each girl in class that you [masturbate] to while all alone in bed at night."
+
+    if bonus == False:
+        s "Don't talk about my secret bed dance, you bitch."
+
+    "I can’t get through to her."
+    "It was pointless even trying."
+    "But how am I going to explain this to Miku?"
+    "And how is Maki going to take it knowing that her daughter might never snap out of this?"
+    "What will happen to Makoto’s future?"
+
+    scene makotolocker11
+    with dissolve
+
+    mak "Don’t you think I’m better this way, [makotomaster]?"
+    mak "I won’t yell at you for anything anymore. You can do whatever you want to me."
+    mak "I’ll still help you with all of your paperwork and stuff, but don’t expect me to stay up late studying anymore."
+    mak "And don’t expect me to stick around after class either. It’s all too bothersome now."
+    mak "I just want to sleep."
+    mak "Good things only come when I’m asleep."
+    mak "The only problem is that none of them are real."
+    mak "But then again-"
+
+    "{i}Nothing is real.{/i}"
+
+    mak "..."
+    s "..."
+
+    scene makotolocker12
+    with dissolve
+
+    mak "So, are we done here? Or are you going to drag me up to the roof by force?"
+    s "I’m not going to {i}drag{/i} you anywhere. I just don’t want to see you like this."
+    mak "That’s nice. I only had to snap for you to finally show me an ounce of compassion. "
+    mak "If I knew that’s all it would take, I would have jumped earlier."
+    s "Jumped?"
+    mak "Heheh~ Oops! Said too much!"
+    mak "I’m fine. Really."
+    mak "Just, not really."
+    mak "But that doesn’t matter."
+    mak "..."
+    s "..."
+    mak "See you in class tomorrow!"
+
+    scene makotolocker13
+    with dissolve
+
+    "Makoto leaves without ever opening her locker."
+    "She walks home in her indoor shoes."
+
+    scene black
+    with dissolve2
+
+    "And then she goes to sleep."
+
+    $ renpy.end_replay()
+    $ day216 = True
+    stop music fadeout 5.0
+
+    "{i}Makoto.{/i}"
+    "........."
+    "......"
+    "..."
+
+    jump afterschoolevent
+
+label day217:
+    scene black
+    with dissolve
+
+    "........."
+    "......"
+    "..."
+
+    play music "happyandplotting.mp3"
+
+    "Time: 4:23 PM\nLocation: Karaoke Room 4"
+    "Mission: Despacito 2"
+
+    scene despacitotwo1
+    with dissolve
+
+    ay "Ya, ya me está gustando más de lo normal~"
+    ay "Todos mis sentidos van pidiendo más~"
+    ay "Esto hay que tomarlo sin ningún apuro~"
+    ay "SING IT, AMI!"
+    a "Despacito..."
+    a "Dadadada Despacito..."
+    a "Dadadadadadada Despacito"
+    a "Dadadadadada Despacito..."
+    ay "DES-PA-CITO!"
+
+    scene despacitotwo2
+    with fade
+
+    m "Would you mind explaining to me why we’re in the hallway instead of next to the people I came here with?"
+    s "You came here with me as well, remember? Ayane dragged both of us along."
+    m "I only needed to be dragged after finding out you were coming."
+    m "I was a willing participant up until that point."
+    s "Would you rather be in there listening to Despacito for the fifth time today?"
+
+    scene despacitotwo3
+    with dissolve
+
+    m "Good point. Please carry on."
+
+    "School ended a few hours ago and, somehow or another, I wound up coming here with a few of the girls after stopping back at their dorms."
+    "I had initially tried tracking down Makoto again, but wasn’t able to find her before she managed to get home."
+    "So, not knowing what else to do about the matter, I seek out an all-knowing creature named Maya Makinami. "
+    "She’ll probably have some idea of what’s going on with our faithful class representative."
+
+    s "I was wondering if you’ve noticed anything different about Makoto lately."
+
+    scene despacitotwo2
+    with dissolve
+
+    m "You mean how she looks dead inside?"
+    s "Yeah, that."
+    m "Yes. It would be impossible {i}not{/i} to notice."
+    m "What did you do to her?"
+    m "I can’t absolve you of your sins, but it will at least help me prepare in the event of you attempting to do the same thing to me."
+    s "I didn’t do anything..."
+    s "She just randomly became all dark and gloomy after the two of us went up to the roof a while ago."
+    m "The roof as in...the roof of the[school]?"
+    s "That’s probably the only roof I’ve been on in years, so yeah."
+
+    scene despacitotwo4
+    with dissolve
+
+    m "What were you two doing up there? That place is off limits."
+    s "That’s never stopped you."
+    m "I’m only there once every few months. It’s not like I spend my nights off hanging out up there."
+    s "Really? Because I wouldn’t put that past you."
+
+    scene despacitotwo5
+    with dissolve
+
+    m "Whatever. Why does this involve me? "
+    m "I barely ever talk to Makoto. I have no idea what’s going on with her. "
+    m "She’s probably just upset that the guy she likes is a creep."
+    s "So there’s nothing...weird about the rooftop that would cause her to like...short-circuit or something?"
+
+    scene despacitotwo6
+    with dissolve
+
+    m "Short circuit?..."
+    m "Do you think we’re all robots now? Is that your new theory?"
+    s "I’m assuming that answer means it’s just a normal rooftop after all?"
+
+    scene despacitotwo7
+    with dissolve
+
+    m "Of course it’s just a normal rooftop."
+    m "The only thing special about it is that it’s the highest point of the city. Other than that it’s just a roof."
+    s "Then why do you always go there to do the reset thing? I thought it had some sort of powers or something."
+
+    scene despacitotwo8
+    with dissolve
+
+    m "Oh, I don’t really know. I just kind of went there the first time the world ended because strange things tend to happen on rooftops in a lot of the manga and games I read."
+    m "I’ve just kept going back ever since. "
+    m "I guess you could say it’s become a bit of a tradition."
+    s "I forgot you were even into that kind of stuff."
+    m "Yes. Surprise. I have interests."
+    m "My life does not revolve around sweeping a shrine and waiting for you to ask me the right questions."
+    m "To be fair, though, the rooftop {i}is{/i} technically the only place I’ve ever watched the world change. So maybe there’s something to it after all?"
+    s "I really expected you to have a little more information than just that."
+    m "I’m sorry to have let you down."
+    s "You don’t look very sorry."
+    m "I’m not. I was lying."
+
+    scene despacitotwo9
+    with dissolve
+
+    m "The thing with Makoto is kind of strange, though. "
+
+    if bonus == True:
+        m "If she started acting that way after coming down from the rooftop and what you’re saying about not assaulting her is true, maybe she...saw something?"
+
+    scene despacitotwo10
+    with dissolve
+
+    m "Did she say anything you found odd?"
+    s "Anything I found odd?"
+
+    "Hmm..."
+    "Pretty much everything she said yesterday struck me as odd."
+    "The girl near the lockers was barely even Makoto at all."
+    "There was no hope left in her eyes."
+    "All I saw was an unending emptiness that not even the glare of the fluorescent hallway lights could brighten up."
+
+    s "She did start talking about how everything is pointless and how god isn’t real at some point."
+    m "And then what?"
+    s "And then I..."
+    m "..."
+    m "Well?"
+
+    if bonus == True:
+        s "And then I kind of instinctively pinned her against the locker and asked her to come up to the roof with me."
+    else:
+        s "I tried to hug her but I moved a little too quickly and made it awkward..."
+
+    m "..."
+    s "..."
+
+    scene despacitotwo11
+    with dissolve
+
+    m "Are you sure {i}you're{/i} not the one who needs help?"
+
+    if bonus == True:
+        m "Because it sounds to me like she was just depressed and you tried to take advantage of that to bring her somewhere private."
+
+    s "Yeah, that part doesn’t sound good thinking back on it."
+    s "But I swear, something is going on with her. "
+
+    scene despacitotwo12
+    with dissolve
+
+    m "Well, on the bright side, it’s possible that she’ll go back to normal very soon."
+    m "With the world ending again in the next few days or weeks, she might just be the normal Makoto again once we usher in Winter."
+    m "But I guess we won’t really know until that happens."
+    s "Has anyone ever changed that drastically before?"
+
+    scene despacitotwo13
+    with dissolve
+
+    m "Yuuuuuuuuuuuuuuuuup."
+    s "..."
+    m "..."
+    s "That’s directed at me, isn’t it?"
+    m "Was it my eyebrows or my eyes that gave you that idea?"
+    m "Or perhaps the elongated “yup?”"
+    s "A mixture of all three. Was I really that bad?"
+    m "Don’t even get me started."
+
+    scene despacitotwo14
+    with dissolve
+
+    m "But yes. Changes like that are possible. Though they seem to be very rare for anyone but you."
+    m "You’re an entirely different case. You change personalities faster than a girl getting off of a long-term relationship changes her hairstyle."
+    m "I’m surprised you even made it this far as {i}you{/i}, to be honest."
+    m "Do you have any idea how much trouble you’ve caused me in the past?"
+    s "I feel like I’m being scolded right now."
+    m "..."
+
+    "I can hear Maya take a deep breath as she desperately prevents herself from carrying on her impromptu lecture any further."
+
+    m "I’m going back inside now."
+    m "Ayane will probably take a break after one or two more Despacitos and then we can order food and I will finally feel whole again."
+    s "Sure. I’ll follow you in."
+    m "Please do not."
+
+    scene black
+    with dissolve
+
+    "Maya walks into the karaoke booth and, lo and behold, Ayane is singing the same song as always."
+    "Ami reluctantly sings along, albeit with significantly worse Spanish, and I question why these girls continue to bring Ayane here if all they ever get out of it is misery."
+
+    scene despacitotwo15
+    with dissolve
+
+    m "Why are you sitting right next to me?"
+    m "There’s plenty of seating in this room and literally anywhere else would be better than where you chose."
+    s "But I wasn’t done talking to you yet."
+    m "But {i}I{/i} was done talking to {i}you{/i}. I really don’t know anything else about Makoto or the rooftop so just wait it out and see what happens."
+    m "Do you have enough self-control to do that? Or are you going to explode?"
+    m "If you’re going to explode, please go back out into the hallway. Ayane’s voice is loud enough. Any more noise will make my ears bleed."
+
+    scene despacitotwo16
+    with dissolve
+
+    a "Hi~"
+    a "What are you two doing?"
+    a "You were out in the hallway for a really long time."
+    a "If I didn’t know any better, I’d think Maya was trying to steal you from me."
+    m "Please get your [uncle] out of my sight. He’s roughly three miles too close right now."
+    s "Okay now that’s just excessive."
+    a "Heheh~ This is exactly why I wasn’t worried about you two being alone."
+    a "Did I hear Makoto’s name come up, though?"
+    s "Oh, yeah. Still trying to figure out what’s going on with her."
+    a "No luck yesterday then?"
+    s "None at all."
+    a "Oh well. I guess all there is to do is just let her be swallowed by her infinite sadness and get on with our lives."
+
+    scene despacitotwo17
+    with dissolve
+
+    a "And speaking of getting on with our lives..."
+    m "...What?"
+    m "Why are you looking at me like that?"
+    a "Because we’re going shopping for winter clothes together soon."
+    m "...Okay, but why does that call for angry eyebrows and a maniacal grin?"
+
+    scene despacitotwo18
+    with dissolve
+
+    a "I don’t know. I just felt like making that face. Like I was forcing you to come even though I know you like trying on new clothes."
+    s "You do?"
+
+    scene despacitotwo19
+    with dissolve
+
+    m "Yes. Surprise. I have interests."
+    a "You should come too, Sensei!"
+    a "I still haven’t started at the maid cafe yet, so I don’t have any money and I need you to buy me warm stuff or I will freeze to death and you’ll have to pay even more for a funeral."
+    s "I can just bury you in the backyard, it’s fine."
+    a "That works. At least my ghost wouldn’t have to walk very far to find you."
+
+    scene despacitotwo20
+    with dissolve
+
+    m "Unfortunately, Sensei has plans that day and can not accompany us. What a shame."
+    s "Don’t just decide I have plans, Maya."
+    m "It was worth a shot."
+    a "So you’ll come then?"
+    s "Sure. Not like I have anything else I need to do."
+    s "Tomorrow night is fine, right? Does that work for everyone?"
+    ay "DEESSS-PAAAFFFFFTTTT- TOMORROW?!"
+
+    scene despacitotwo21
+    with dissolve
+
+    ay "But I have stuff to do tomorrow and I wanna come!"
+    s "You and I can go together a different day, Ayane."
+
+    a "Yeah! But I’m going to come to that too so I can make sure Ayane keeps her hands off of you."
+
+    scene despacitotwo22
+    with dissolve
+
+    if bonus == True:
+        ay "It’s fine. You’ll still be able to help me out in the fitting room, Sensei."
+        a "No you will not. That’s not even legal."
+
+    m "Hah..."
+    m "This really never stops being troublesome..."
+
+    scene black
+    with dissolve2
+
+    "And so we proceed to finalize our plans for winter shopping tomorrow night."
+    "Apparently, the mall normally gets busy this time of year with people shopping for their significant others and whatnot."
+    "Just, with so many significant others being {b}in fucking space{/b}, I can’t imagine the mall will be nearly as busy as Ami expects it to be."
+    "Either way, it looks like tomorrow might wind up being a bit more eventful than an average Friday, so I’ll need to brace my wallet and prepare for whatever is to come."
+    "I’m sure it will all be worth it in the end, though."
+
+    if bonus == True:
+        "Winter clothes are a special type of attractive."
+        "I’m all about seeing cute girls naked, but something about layers upon layers upon layers makes me feel a little different than any other type of outfit possibly can."
+        "Some people may tell you that the reason for this is because it adds to the mystery of {i}what could be underneath the clothes{/i}-"
+        "But, as someone who has seen a sizable portion of these girls nude already, I can guarantee it’s much more than that."
+        "And suddenly, tomorrow can’t come soon enough..."
+
+    $ renpy.end_replay()
+    $ day217 = True
+    $ maya_love += 1
+    stop music fadeout 5.0
+
+    "{i}Maya’s affection has increased to [maya_love]!{/i}"
+    "........."
+    "......"
+    "..."
+
+    jump endofweekday
+
+label day218:
+    scene noonsky
+    with dissolve2
+    play music "justbehappy.mp3" fadein 5.0
+
+    "It’s just before nightfall and I find myself headed to the mall with Ami and Maya."
+    "It isn’t often that the three of us do anything without Ayane, so the air feels a little stranger than normal."
+    "Granted, it isn’t often that Maya agrees to a plan with me involved in any form, so the entire foundation of this trip is a little out of the ordinary."
+
+    a "Sensei! What’s my spending limit for today?!"
+
+    "I reach into my pocket and pull out...absolutely nothing."
+    "I have no cash."
+
+    s "Zero Yen."
+    a "Zero Yen?!"
+    a "That’s even less than when you only gave me 1,000!"
+    s "Yes, that is how numbers work."
+    a "Just give me your credit card. I checked your bank info online and it says you’re nowhere near your spending limit."
+    s "How did you access my bank information?"
+    a "Easy. I know your email from the[school] messageboard and your password for the banking website was {i}Boobies123{/i}."
+    m "..."
+    s "I am a simple man. Don’t judge."
+    m "You’re disgusting..."
+
+    scene black
+    with dissolve
+
+    "Now, you’re probably wondering why I would have made something as childish as “Boobies123” my password."
+    "And I have a perfectly reasonable explanation for that."
+    "When I first woke up in Kumon-mi, I had a remarkably difficult time trying to access important things like my email account and bank information."
+    "So, after some hacker-level account recovery troubleshooting (Which really just involved answering simple questions like “What is your [niece]’s name?”) I was able to get back into everything."
+    "Then, being fed up with Internet stuff and just wanting to end the process, I changed all of my passwords to the first thing that came to mind."
+    "Hence- “Boobies123.”"
+    "..."
+    "Shut up. At least I’m open about my interests."
+    "........."
+    "......"
+    "..."
+
+    scene green1
+    with dissolve
+
+    a "Shopping trip...start!"
+    m "Hooray for spending money I don’t have."
+
+    scene green2
+    with dissolve
+
+    a "Thanks for letting me borrow your credit card, Sensei. I’ll be sure to make it up to you when I get rich off of becoming a super-popular maid."
+    m "I still can’t believe you are stooping to Uta’s level just for some extra spending money."
+    a "Don’t listen to Maya. She’s just jealous because she needs to live off of her savings and is too lazy to get a job and make any money of her own."
+
+    if bonus == True:
+        s "How is your savings account enough to live off of at your age?"
+    else:
+        m "You just wait until my firm is open, Ami. You'll be sorry."
+
+    scene green3
+    with dissolve
+
+    m "I’m good at rationing my money. "
+    m "My main strategy is choosing quantity over quality and eating large amounts of mediocre food that will last me two or three days at a time in the form of leftovers."
+    s "Well, that’s not a {i}bad{/i} idea...but it doesn’t sound very fulfilling."
+    m "We can’t all have a girl who cooks and cleans for us every morning."
+    a "Sensei, can Maya move in so she can eat with us and won’t have to ration her savings anymore?"
+    s "Are you asking me to support Maya as if she were my child?"
+    m "Ew. Don’t even joke about that."
+    a "Is that a yes?"
+    s "What? No. Not even close."
+    m "For once, I am actually thankful for how horrible of a person you are."
+    s "You’re welcome, Maya."
+
+    scene green4
+    with dissolve
+
+    a "Oh well. Can’t say I didn’t expect you to say that."
+
+    "Ami and Maya begin to look around the mall, probably figuring out which stores they want to head to first."
+    "Just like they said yesterday, the mall is actually a bit more crowded than normal."
+    "I guess even the lack of men around doesn’t make much of a dent in people shopping for those who are important to them."
+    "It’s just weird to me that there are so many people around here that actually {i}have{/i} someone important to them in the first place."
+    "It’s kind of a bitch finding companionship in general, let alone companionship with someone of the same sex."
+
+    if bonus == True:
+        "It’s just one of several reasons I surround myself with cute girls instead of other mysterious, glasses-wearing guys."
+        "Why devote yourself to anything you wouldn’t also have sex with?"
+        "That’s just how I look at it."
+
+    scene green5
+    with dissolve
+
+    a "Huh..."
+    a "Kinda weird they don’t have any Christmas decorations up yet."
+    a "The mall normally has lights up around this time of year. Wonder if they’re just...too busy to hang ‘em up or something?"
+    s "Don’t see how it makes much of a difference."
+    a "Don’t say that to Ayane. She’ll hit you. That girl’s a holiday-aholic."
+    s "That’s not even a thing."
+
+    scene green6
+    with dissolve
+
+    a "So, what’s {i}your{/i} gameplan, Sensei? "
+    a "Are you gonna come with us into all of the stores and watch us try on cute winter stuff? Or are you going to go abduct another little girl and force her to wear a dog mask?"
+
+    if bonus == False:
+        s "Okay, first off, it was not an abduction. I was being a nice person. And secondly-"
+
+    s "She had an immuno-deficiency disorder..."
+    a "...And that’s supposed to explain the dog mask?"
+
+    scene green7
+    with dissolve
+
+    m "Poor girl never even had a chance. She’s in a better place now."
+    s "She’s still alive..."
+    m "Only because Ami and I showed up. Who knows where you would have taken her if we hadn’t?"
+
+    if bonus == True:
+        a "Yup-yup! If you’re into dog masks, you know I wouldn’t mind-"
+        s "I’m going to stop you right there just to clarify that I am very much not {i}into{/i} dog masks. "
+        s "Please preserve your mostly-innocent image and don’t offer to accommodate strange fetishes like that."
+        a "Okay! I’m already kind of a fetish character in the first place, so I can see how doing more stuff like that might be over the top."
+    else:
+        s "Probably to the candy store because she is a good girl and deserves to be spoiled on occasion."
+        a "I have always wanted to be a good girl, but it is hard when I also secretly kill people."
+
+    scene green8
+    with dissolve
+
+    m "Are you really just going to openly admit that?"
+    a "Admit what? I haven’t said anything."
+    m "Please, for the love of the god I don’t believe in, do not turn into your [uncle]."
+    s "Maya, do you need to borrow my credit card as well?"
+
+    scene green9
+    with dissolve
+
+    m "Wait, what?"
+    m "Is that an actual offer or are you actually insensitive enough to joke about a girl’s financial situation?"
+    s "It’s an actual offer. "
+    s "If Ami’s going to go off and buy stuff for herself, I don’t see the harm in you getting a thing or two as well."
+    m "Oh."
+    m "Well uhh, thanks? "
+    m "I’m okay, though. I’m not like, poor or anything. It’s fine as long as I only buy new clothes every few seasons."
+    a "There you have it, Sensei. Does this mean I can spend extra since Maya won’t be using your card?"
+    s "Not at all. Please try to stay under 1,000 Yen total."
+
+    scene green10
+    with dissolve
+
+    a "I hate you and your stupid 1,000 Yen limit! I’m gonna go spend a billion Yen on stuff I don’t even need now!"
+    a "Come on, Maya!"
+
+    scene green11
+    with dissolve
+
+    "Ami and Maya storm off and I’m suddenly left on my own without ever even having the chance to tell them I planned on coming."
+    "It is what it is, though. I should probably buy some winter clothes myself if it’s actually going to start getting cold around here."
+
+    scene black
+    with dissolve
+
+    "It’s been almost scorching every day since I was reincarnated."
+    "For a while, I may have even thought that things were just going to stay that way forever."
+    "But I guess a little change is good every now and then."
+
+    scene green12
+    with dissolve
+
+    "I wind up instinctively heading over to the store Chika works at to see if she’s in today."
+    "Of course, it’s a Friday and[school] only ended a few hours ago, so she’s nowhere to be found. "
+    "It isn’t long before an employee I’ve never seen comes over to me and asks if I need help with anything."
+
+    nce "Good afternoon, Sir. Are you looking for anything in particular today?"
+    s "Yes, actually. How about a tan blonde with a ponytail and an affinity for pink?"
+    nce "Ponytail?..."
+    nce "Is this...a prank?"
+    nce "Do I need to call security?"
+    s "No...I was just joking."
+    s "Can you point me to where you keep all of your winter clothing? I’m thinking it’s time for a change in my life."
+    nce "I’d love to!"
+    nce "Unfortunately...most of our winter stock has yet to arrive."
+    nce "All we have for men are slightly thicker shirts and-"
+    s "Good enough for me."
+    nce "Really?"
+    s "I’m not really that into fashion anyway and that sounds cheaper than anything else I’d find here."
+    nce "Oh...Well, okay then. Right this way, I suppose."
+
+    scene black
+    with dissolve
+
+    "The employee leads me to a section composed entirely of blank T-shirts. "
+    "Really wanting to mix things up, I go with grey {i}and{/i} white instead of just white and prepare to shock my students when they see me in my new casual attire."
+    "........."
+    "......"
+    "..."
+
+    scene green13
+    with dissolve2
+
+    s "Oh?"
+
+    "I stop myself on the way out of the store after purchasing a few new shirts and find two green scarves wrapped neatly around a pair of mannequins."
+
+    s "..."
+    s "I feel compelled to buy these for some reason."
+    nce "Looking for a gift now, Sir?"
+
+    "The same employee from before sneaks up behind me and begins trying to sell me the scarves."
+    "I am weak to upselling. "
+    "This is going to end poorly."
+
+    nce "These actually just came in this morning."
+    nce "It was so strange as well. We never ordered anything like these."
+    nce "But it’s not like I was about to just let them go to waste so...voila. "
+    s "So you’re selling things you never even ordered? How do you know how they should be priced?"
+    nce "Oh, I have no idea. I just guessed."
+    nce "If you act now, I’ll let you have both for just 4,000 Yen. My regional manager is on the way here anyway so I was actually just about to take them down and hide them."
+    s "So I’m basically the only chance you have of selling these?"
+    nce "You are! And-"
+    s "I’ll give you 2,000 Yen."
+    nce "...That’s half of the asking price."
+    s "There is no asking price. This isn't even an item you're supposed to carry."
+    s "2,000 Yen or I walk."
+    nce "Fine...I guess this is my fault for revealing my secrets to you in the first place."
+    s "Don’t beat yourself up over it. I rarely ever buy things for other people to begin with."
+    s "This is a major victory for you."
+    nce "Sure...Right this way, Sir."
+
+    scene black
+    with dissolve
+
+    "Once again, I find myself pulling out my wallet and having to use the same backup credit card I used when purchasing my shirts due to Ami having the normal one."
+    "Then, before I know it, I’m back in the hallway carrying multiple bags, hoping to find the two girls I came here with."
+    "........."
+    "......"
+    "..."
+
+    a "Oh! Sensei!"
+
+    scene green14
+    with dissolve
+
+    "Ami comes running over to me, dropping a few bags of clothes she bought for herself at her feet."
+    "Maya shows up seconds later, but with only one bag as opposed to Ami’s three."
+    "At least I know she’d be more financially responsible if I {i}were{/i} to ever adopt her."
+
+    a "Heya! We’re basically done here. "
+    a "We’ve just gotta stop by a few other stores to get some stuff like boots and gloves and-"
+
+    scene green15
+    with dissolve
+
+    a "Hey, whatcha got there?"
+    a "Did you actually buy yourself something for once?"
+    s "I did. I am now prepared for the cold."
+    m "Hooray. One less thing for me to worry about."
+    s "...And I {i}also{/i} got Maya here a present."
+
+    scene green16
+    with dissolve
+
+    m "Wait, for real?"
+    m "Why?"
+    s "I just felt like being nice."
+    m "..."
+    m "Are you sure?"
+    s "I wouldn’t have bought it if I wasn’t."
+    m "Well...thank you."
+    m "Can I see what it is?"
+    s "Sure. Go right ahead."
+
+    scene green17
+    with dissolve
+
+    "I hand Maya a bright green bag and she walks several steps away to check what’s inside. "
+    "Obviously, it’s nothing to be excited about, so I’m sure she’ll be back to her typical, unwavering self in a few seconds."
+
+    a "Hey! What’s the big idea, mister?! "
+    a "How come Maya gets a present and I don’t?!"
+    s "Oh, did I forget to say I got you one as well?"
+    s "Here."
+
+    scene green18
+    with dissolve
+
+    a "Ah! Present! What is it?! What is it?!"
+
+    "Ami quickly snatches the bag out of my hands and looks inside of it."
+
+    s "It’s just a scarf. I’m not sure if you bought one yet so, if you did, feel free to take this one ba-"
+    s "Actually, never mind. I don’t think this is returnable."
+    a "It’s perfect! All the stuff I bought earlier was green, too!"
+    s "Maya’s is just a little bit brighter. "
+    s "I know you two planned on matching, so I hope this much is okay."
+    a "It’s super okay! I love it!"
+
+    scene green19
+    with dissolve
+    stop music fadeout 5.0
+
+    a "Maya, let me see-"
+
+    scene green20
+    with dissolve2
+
+    a "Huh?"
+    a "What’s going on?"
+    a "Maya? Are you okay?"
+
+    scene green21
+    with dissolve2
+
+    m "..."
+    s "Yeah, I figured she'd react that way. You can just have hers as well, I guess."
+    a "Does she really hate it that much?"
+    a "Maya, you should at least thank Sensei for going out of his way to get you a present."
+    m "..."
+    s "Maybe she’s not feeling okay?"
+
+    scene green22
+    with dissolve2
+    play music "memories.mp3"
+
+    m "..."
+    m "This..."
+    m "This is a joke...right?"
+    a "Maya?"
+    m "Yeah. A joke. It’s a joke..."
+
+    scene green23
+    with dissolve2
+
+    m "Hahah...hahahah..."
+    m "Hahahahah! HAHAHAHHAHAH!"
+    s "Okay, now she's just being dramatic."
+    a "..."
+
+    scene green24
+    with dissolve2
+
+    m "Haha...hah..."
+    m "I..."
+    m "I really do..."
+    m "Have the worst luck in the world..."
+
+    scene black
+    with dissolve2
+
+    "Ami and I stand in silence as Maya slowly but surely regains her composure and brings herself back to her feet."
+    "She picks up the bag and holds it tightly against her chest for a few seconds."
+    "She breathes in and shakes her head as if to wash away any semblance of uneasiness that crept onto her face over the last several minutes."
+    "The bell around her neck jingles as she does so."
+    "And then-"
+    "She lowers her arms and goes back to being a normal [teenage]girl."
+
+    scene green25
+    with dissolve2
+
+    m "Ahem."
+    m "Thank you very much for the gift. "
+    m "It was very kind of you."
+    a "The heck? Are we just pretending none of that ever happened?"
+
+    scene green26
+    with dissolve
+
+    m "Nothing {i}did{/i} happen. "
+    m "I received a bag, I opened the bag, and immediately thanked Sensei."
+    m "There were no additional steps between any of those three things."
+    a "Uhh...there were a bunch of additional steps."
+    a "But I know how much you hate looking weak so we can just pretend those other steps never happened, I guess."
+    m "What other steps? I have no idea what you’re referring to."
+    m "But that aside, do you like your present as well?"
+
+    scene green27
+    with dissolve
+
+    a "I love it. "
+    a "They’ll go perfectly with the outfits we have planned, too."
+    m "I was thinking the same thing."
+    m "I’m sure you’ll look adorable."
+    a "Heheh~ Of course I will. "
+    a "You probably won’t look half-bad yourself, Maya."
+    m "Thanks."
+    m "Now-"
+    m "I believe we have a few more things we still need to buy, don’t we?"
+
+    scene black
+    with dissolve2
+
+    "I follow the two girls into a number of stores after that and watch them try on things like boots and jackets."
+
+    if bonus == True:
+        "I receive a number of stares from passersby but it’s hard to discern whether or not they’re due to the fact that I’m the only male in what seems like the entire mall or just that I’m with two [teenage]girls."
+    else:
+        "I receive a number of stares from passersby but it’s probably just because I've been walking backwards the whole time."
+
+    "Either way, the stares make me feel strange."
+    "Like I’m out of place."
+    "But that’s just the thing."
+    "I {i}am{/i} out of place."
+    "I don’t belong here."
+    "I’m just filling in for someone who does."
+    "And until that person comes back to reclaim the life I’ve gone and ruined-"
+    "I will continue doing things to accidentally make all of the people I know cry."
+    "That’s just the way things work here."
+    "........."
+    "......"
+    "..."
+
+    scene green28
+    with dissolve2
+
+    "The rest of the night resembles bumper-to-bumper traffic on the highway in the middle of a snowstorm."
+    "We stop and go."
+    "Stop and go."
+    "Stop and go and stop and go and stop and go."
+    "And it gets annoying."
+    "Ami keeps her head up the entire time."
+    "But I can’t help but notice Maya slipping in and out of character whenever she’s ignored for more than ten seconds at a time."
+    "It’s scary how different we become when we’re not sure how to feel."
+    "And something about the way today went must have done that to her."
+    "But last time was kind of like this too."
+    "In the days leading up to my first time watching the world start over, Maya was angrier than normal."
+    "Sure, she’s always had a slightly vicious personality."
+    "But she’s more like a stray cat than a snake."
+    "More hesitant and easily-triggered than outright evil."
+    "Right now, the stray cat is out in full force."
+
+    stop music fadeout 30.0
+
+    "It hides behind an illusion that it’s bigger than it actually is. Stronger than it actually is."
+    "And the second something causes the cat to question that, the illusion shatters."
+    "So, what are we supposed to do when dealing with stray cats?"
+    "That’s simple."
+    "You just leave them alone."
+    "You wait for the illusion to rebuild."
+    "And pretend there was never a second where it ever went away in the first place."
+
+    scene black
+    with dissolve2
+
+    "........."
+    "......"
+    "..."
+
+    scene green29
+    with dissolve2
+
+    a "...and then Ayane said to the cashier that she could have her fired within minutes if she wanted to!"
+    s "That sounds about right."
+    m "..."
+
+    "As I moved through the automatic doors alongside the same girl I see just seconds after waking up every morning-"
+    "I couldn’t help but notice that, for the first time-"
+    "I was being followed by a stray cat."
+
+    $ renpy.end_replay()
+    $ day218 = True
+    scene black
+    with dissolve2
+
+    "........."
+    "......"
+    "..."
+
+    jump endofweekday
+
+label day220:
+    play music "beginningoftheend.mp3"
+
+    "Let me tell you a story."
+    "A long time ago, before you and I existed, there was a great, big ball of light floating through the universe."
+    "The ball’s name was Nozomu."
+    "It’s an origin story you should be familiar with by now."
+    "But what if I told you there was another origin story?"
+    "One that less people know about, but one that still exists?"
+    "Is that a story you’d be interested in hearing?"
+
+    menu areyouinterested:
+        "Yes":
+            "Great!"
+
+        "No":
+            "Oh."
+            "Well that’s unfortunate, because I’m going to tell you anyway."
+            "Imagine thinking you actually had a choice in the matter."
+
+    "Some people seem to believe the story about the ball of light doesn’t make sense or that it doesn’t align with their perception of the universe itself."
+    "Some people are just more...scientific by design."
+    "And so they believe what any science-loving people would believe in and worship a god who is science incarnate."
+    "Because worshipping a god who {i}is{/i} science is better and less scary than worshipping no god at all."
+    "This god was very different from Nozomu."
+    "When faced with loneliness, he simply sat there."
+    "His entire life (If that’s what you can even call it in the case of a god) existed in the confined space of a dark bedroom- much like the one you’re in now!"
+    "But when given the option to do things in his spare time, he elected to stay still instead of going places like a cafe or a library."
+    "He wasn’t very human."
+    "In fact, he wasn’t human at all."
+    "So, as he sat there in a {b}dark{/b} room, engulfed by {b}darkness{/b} and eating {b}darkness{/b} for breakfast, lunch, and dinner, he planted his roots into the {b}dark{/b} floor."
+    "The roots turned into wires."
+    "And all of the knowledge stuck inside this shell of a planet was ultimately absorbed by him."
+    "And with those roots, sunken deep into the ground and twisting around everything that has since emerged from the soil-"
+    "He was able to control it all."
+    "Or at least to some extent. "
+    "Oftentimes, people would forsake the fact that they had literally {i}grown{/i} from this god."
+    "They’d turn their backs on him and decide to believe in something different."
+    "But this god could not feel, so he did not mind."
+    "One by one, day by day, the fruits of his energy- powered by the celestial body that gifted them life, would leave him to rot."
+    "They would leave him to rot as he remained in that dark room, letting the world move around him- spinning so fast that even thinking about it would cause you to burn up and die."
+    "Little by little, the control he had over all life had diminished."
+    "Instead of influencing everyone inherently, he was only able to influence those who would willingly give themselves to him."
+    "But, at that point, it was less the work of a god and more the idea of faith itself allowing anyone who {i}did{/i} give themselves up to persevere."
+    "So what was the point of it all?"
+    "What was the point of being a god if there was no use for a god in the first place?"
+    "Those who love science have no need for a god, even if that god is science itself."
+    "Mixing religion and logic never works. And the second god knew this since those feelings died along with those who carried them and ultimately fed into the soil."
+    "Slowly, like a dying battery-powered clock, the roots were drying out."
+    "The wires were fraying and not transferring the information or energy needed to sustain the once all-knowing god."
+    "All because people were bored or forgot about him."
+    "O, how horrible it must be to drown in loneliness."
+    "To drown in misery if misery could exist to those who do not feel."
+    "A god is a god."
+    "A wire is a wire."
+    "If you connect those two things, you’ll wind up with an entity who, by all means, should become mad with power."
+    "And yet this particular god (Who may or may not even exist in the first place) somehow managed to remain calm."
+
+    if bonus == True:
+        "In contradiction to the callous nature of who many deem his predecessor, that glowing ball of horny light-"
+    else:
+        "In contradiction to the callous nature of who many deem his predecessor, that glowing ball of light-"
+
+    "The second god (Who may or may not actually be the first if he even exists in the first place) was calm."
+    "But he needed to be."
+    "He needed to process information, analyze it, and only intervene when necessary."
+    "Because somewhere in this god’s code, there was a line or two stating that he must maintain order."
+    "“Let the process play out,” he’d think with his weird, computery brain."
+    "“Only correct errors when errors appear.” "
+    "“If there are some who seek help, I shall give it only if necessary.”"
+    "“For as God, I must do godly things.”"
+    "That last part is something all gods say only to completely change their mind when they realize {i}just{/i} how many people need help (IE: All of them)."
+    "So, we wind up here-"
+    "Alone in the same type of dark room a god was born in."
+    "And we think to ourselves- “I wonder what I should do with my day?”"
+    "And to that I say-"
+    "Why not become a god yourself?"
+
+    if bonus == True:
+        "If a horny ball of light and a tree-like computer can do it, certainly you can too. "
+    else:
+        "If a ball of light and a tree-like computer can do it, certainly you can too. "
+
+    "Right?"
+    "Again, this is all just a story, though."
+    "It’s a thing I heard from a person who heard it from some other person who heard it on some radio show."
+    "But I guess if we’re willing to believe a list of things passed down by “actual” gods for thousands of years, removing the things I’ve heard from two people and bringing them back up here holds a little more weight."
+    "Who would you rather believe?"
+    "One guy who heard something just the other day?"
+    "Or one guy who heard something thousands of years ago and started one long game of telephone where people turned whatever his message was into some mutilated mess?"
+    "If neither of those sound good to you-"
+    "Why not worship a god who is the earth itself?"
+    "A god who is both tree-like and computer-like!"
+    "Whose roots are wires! Whose fruits are floppy disks!"
+    "Or I guess compact discs or MP3s in this day and age."
+    "Either way, you’re free to believe whatever you would like to believe."
+    "I’m just here to tell you stories every once in a while."
+    "It's unfortunate, though."
+    "I heard somewhere, probably from a person who knows a person who listens to some radio show, that there is a third god."
+    "But all I know is that this god is overcome with concern."
+    "Concern for {i}what{/i} is unclear but..."
+    "Oh well."
+    "I hope I wind up hearing more so I can tell you about it."
+    "I like talking to you."
+    "I’ve come to think that we’re good friends."
+    "And friends do things for one another, right?"
+    "..."
+    "I'm going to take your silence as a {i}yes.{/i}"
+    "And I'm going to use that {i}yes{/i} to have you do something for me right now."
+    "Thankfully, it's something you were going to do anyway."
+    "And if it seems a little familiar, it's because it is."
+    "But I can assure you that it's for the best."
+    "Now-"
+
+    stop music
+
+    "Retrace your footsteps."
+
+    scene sky
+    play music "windlong.mp3"
+
+    "..."
+    "..."
+    "..."
+    "..."
+    "..."
+    "..."
+    "..."
+
+    menu:
+        "Jump":
+            stop music
+        "Jump":
+            stop music
+        "Jump":
+            stop music
+        "Jump":
+            stop music
+        "Jump":
+            stop music
+        "Jump":
+            stop music
+
+    "Welcome home."
+    "6e 6f 74 68 69 6e 67 20 66 61 6c 6c 73 20 62 75 74 20 6d 65"
+    scene black
+    play sound "static.mp3"
+    scene whyme
+    with flash
+    scene whygodwhy
+    with flash
+    scene lessons
+    stop sound
+    $ renpy.pause(3, hard=True)
+    scene black with dissolve2
+
+    you "Where am I?"
+    q ".....i?"
+    you "Hello? Who’s there?"
+    q "...sei?"
+    you "Why is everything so dark?..."
+
+    stop music
+
+    q "Sensei?"
+    q "..."
+    q "I don’t feel so good..."
+
+    if bonus == True:
+        scene hoorayanotherreset1
+        with dissolve3
+    else:
+        scene amiclass
+        with dissolve3
+
+    s "...Ami?"
+
+    play music "amiawake.mp3"
+
+    a "SOMETHING...IS...WRONG..."
+    a "{size=-15}My body feels so hot...{/size}"
+    a "I can feel...so many things..."
+    a "WHAT IS..."
+
+    play sound "static.mp3"
+
+    if bonus == True:
+        scene hoorayanotherreset1
+        with flash
+    else:
+        scene amiclass
+        with dissolve3
+    stop sound
+
+    a "HAPPENING TO ME?..."
+
+    if bonus == True:
+        "mY aDoRaBlE [niece] stanDS OVer my bed and I CAN c her pussy lol0l0l0l."
+
+    a "I had a dream just now that...everyone disappeared..."
+    a "But...you’re still here...right?..."
+    a "RIGHT?!"
+    a "You’re here, right?!"
+    a "Tell me you see me!"
+    s "I can see you..."
+    s "Just...calm down for a second."
+
+    play sound "static.mp3"
+
+    if bonus == True:
+        scene hoorayanotherreset2
+        with flash
+    else:
+        scene mayaclass
+        with flash
+
+    stop sound
+
+    a "CALM DOWN?! HOW CAN I CALM DOWN WHEN I CAN FEEL MYSELF MELTING FROM THE INSIDE?!"
+    a "WE...WE NEED TO GO TO THE HOSPITAL!"
+    s "You need to get dressed first."
+
+    play sound "static.mp3"
+
+    if bonus == True:
+        scene hoorayanotherreset3
+        with flash
+    else:
+        scene o
+        with flash
+
+    stop sound
+
+    a "aaaaaahaaahahahhhhhhhH!HHH!H!!!!AAAAHHH!H!!!!!!!!!!!!!"
+    a "SEN,.......LFVL;SVLSDKLVHNSV.....SEI!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    a "Help...meeeee!!!!"
+    a "SOM3TH1NG 1S H4PP3NING!!!!!!!!!!!!!!!!!!!!!!1111111111111"
+
+    play sound "static.mp3"
+    scene hoorayanotherreset4
+    with flash
+    stop sound
+
+    a "Help me."
+    a "Help me."
+    a "Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me."
+    a "Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me."
+    a "Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me."
+    a "Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me."
+    a "Hey."
+    a "Help me. Help me. Help me."
+
+    "{i}Oh, there was one more thing I forgot to mention about the second god. The one with all of the wires.{/i}"
+    "{i}He’s capable of a lot more than just deleting viruses like depression or bipolarity from the human subconscious.{/i}"
+    "{i}Sometimes, if he’s controlling the right person, he can make some visual alterations as well.{/i}"
+
+    if bonus == True:
+        "{i}It’s something the horny ball of light never learned to do.{/i}"
+    else:
+        "{i}It’s something the ball of light never learned to do.{/i}"
+
+    "{i}So if you’re ever forced to choose between gods, maybe the callous one would be easier than the calm one after all?{/i}"
+    "{i}Now, back to your [niece].{/i}"
+
+    a "Help me."
+    a "Help me."
+    a "Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me."
+    a "Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me."
+    a "Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me."
+    a "Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me. Help me."
+    a "Hey."
+    a "Help me. Help me. Help me."
+
+    play sound "static.mp3"
+    scene hoorayanotherreset5
+    with flash
+    stop sound
+
+    a "AGHHHHHHHH342356234461352456234!!!!!!!!!"
+    a "70 72 61 69 73 65 20 62 65 21 70 72 61 69 73 65 20 62 65 21 70 72 61 69 73 65 20 62 65 21 70 72 61 69 73 65 20 62 65 21 70 72 61 69 73 65 20 62 65 21 21 21 21 21 21 21 21"
+
+    "I can hear the sounds of Ami’s teeth beginning to crunch and snap inside of her mouth and I finally believe that something might be happening to her after all."
+    "Think back to your worst experience in a dentist’s chair and multiply it by nine and a half."
+    "That’s somewhere in the realm of what I imagine she’s experiencing right now."
+    "That poor girl."
+    "We should take her skin off and make her feel a little more comfortable."
+
+    a "68 65 6c 70 20 6d 65 21"
+    s "Shhh..."
+    s "It will all be over soon."
+    a "49 20 64 6f 6e 27 74 20 77 61 6e 74 20 69 74 20 74 6f 20 62 65 20 6f 76 65 72 21 20 49 27 6d 20 73 63 61 72 65 64 21"
+    a "53 65 6e 73 65 69 21 20 49 20 6c 6f 76 65 20 79 6f 75 21"
+    a "49 20 64 6f 6e 27 74 20 77 61 6e 74 20 74 6f 20 6c 6f 73 65 20 79 6f 75 20 61 67 61 69 6e 21"
+    a "4e 6f 74 20 6c 69 6b 65 20 74 68 69 73 21"
+
+    "Ami says a lot of things to me but I don’t speak “numbers.”"
+    "I imagine it’s something about how much pain she’s in or how worried she is about the burden her soon-needed dental work will put on our budget."
+
+    if bonus == True:
+        "If it’s really as bad as I expect it to be, we might need to look into prostitution instead of just throwing her into some maid cafe."
+        "A girl like her would be sure to raise a lot of money if things ever went down that route."
+        "I’m not that big into the idea of my [niece] taking some random guy’s cock just to put food on the table but-"
+
+        s "Oh wait."
+        s "There are barely any other men here to begin with."
+        s "Ami, how would you feel about sleeping with another girl?"
+
+    a "61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 21 21 21 21 21 21"
+    a "4e 6f 21 4e 6f 21 4e 6f 21 4e 6f 21 4e 6f 21 4e 6f 21 4e 6f 21"
+    a "49 27 6d 20 6e 6f 74 20 72 65 61 64 79 20 74 6f 2e 2e 2e 6c 65 61 76 65 20 79 65 74 21"
+    s "Cool. I’m going to take that as a yes."
+
+    if ami_virgin == False:
+        if bonus == True:
+            "I move my waist up in an attempt to fuck my [niece] one last time before she becomes a lesbian in order to save our family."
+        else:
+            "I hug Ami because I love her."
+
+    else:
+        if bonus == True:
+            "I slide back on my bed because I still feel weird about [incest] despite having a huge boner right now (lol)."
+        else:
+            "I don't hug Ami because I don't love her."
+
+    "Unfortunately, I’m unable to finish my motion as my lower body appears to be glued to the bed."
+    "If only I were able to throw myself into one of those lucid dreams somehow and still keep my physical form."
+    "But I guess it would be more like becoming a ghost than a lucid dream at that point."
+    "Either way, I’ll just have to let Ami’s episode play out before I do anything else."
+
+    play sound "static.mp3"
+    scene hoorayanotherreset6
+    with flash
+    stop sound
+
+    a "I’m going to die..."
+    a "I’m going to die and you won’t even do anything about it..."
+    a "Oh...{b}GOD!{/b} WHY DOES IT HAVE TO HURT SO MUCH?!"
+
+    "I suddenly get the feeling that there is nothing."
+
+    a "I love you so much..."
+    a "I really do..."
+    a "Sen...sei..."
+
+    play sound "static.mp3"
+    scene hoorayanotherreset7
+    with flash
+    stop sound
+
+    a "At least remember the {i}me{/i} who smiled instead of the me who did things like this."
+    a "And, if this is what it’s like to experience the end of everything, know that I’m truly happy being able to experience it with you."
+    a "You are everything to me."
+    a "And no one will ever ever ever ever ever ever ever ever ever ever ever ever ever ever ever ever ever ever ever ever take you away."
+    a "Goodbye."
+    a "For now."
+
+    play sound "static.mp3"
+    scene hoorayanotherreset8
+    with flash
+    stop sound
+    stop music
+
+    "Ami suddenly vanishes."
+    "I wonder where she went?"
+
+    s "..."
+
+    "I lie in bed and stare at the ceiling."
+    "What time is it?"
+    "It’s dark inside of my room but what appears to be sunlight pours through the window."
+    "But then again, it could be a different form of light like an oversized lantern or a callous god."
+
+    s "..."
+
+    "Perhaps I should get up and do some exploring?"
+
+    play sound "static.mp3"
+    scene hoorayanotherreset9
+    with flash
+    stop sound
+    play music "ifgodwerecalm.mp3"
+
+    "This is my door."
+
+    if bonus == True:
+        "I open this and close this every morning on my way into the city to try and fuck my students."
+    else:
+        "It is the barrier between me and happiness."
+
+    s "..."
+
+    "But today, it won’t open for some reason."
+    "Perhaps I should try something else?"
+
+    menu secondresetmenu:
+        "Use the cool rectangle machine":
+            jump coolrectanglemachine
+
+        "See out of the clock":
+            play sound "static.mp3"
+
+            if bonus == True:
+                scene hoorayanotherreset11
+                with flash
+            else:
+                scene frown
+                with flash
+            stop sound
+
+            "I decide to become a clock."
+            "I move my arms around in a circle."
+            "It becomes difficult mimicking the second-hand, so I give up on that and decide to become a slower clock."
+            "I wish I could become one without arms."
+            "An infinite clock."
+            "That would be really nice."
+
+            s "..."
+
+            "Now what?"
+
+            jump secondresetmenu
+
+        "Heaven!":
+            play sound "static.mp3"
+            scene hoorayanotherreset12
+            with flash
+            stop sound
+
+            "My consciousness detaches from my body and floats up to the ceiling to look down at me from a new perspective."
+            "It seems like I was able to lucid-dream after all."
+            "I thought this sort of thing required a lot of practice but I was able to succeed on my first try."
+
+            s "..."
+
+            if bonus == True:
+                "I think about how great life would be if I was able to float my spirit-self into places I’m not allowed to be like girls’ locker rooms or Maya’s bed."
+                "And then I think about how great it would be to be allowed in those places to begin with."
+                "I’ve gotta keep working hard so one day I’ll be able to bypass laws and fuck my [niece]’s best friend."
+
+            "Let’s get back to adventuring!"
+
+            jump secondresetmenu
+
+        "Thing on the wall":
+            if ami_virgin == False:
+                play sound "static.mp3"
+                scene hoorayanotherreset13
+                with flash
+                stop sound
+            else:
+                play sound "static.mp3"
+                scene hoorayanotherreset14
+                with flash
+                stop sound
+
+            "There are a few things on the wall but none of them look as important as the menu suggested."
+            "The one that catches my eye the most is a weird poem with some check marks next to it."
+            "I guess the original Sensei liked poetry."
+            "Did I know that already?"
+            "I can’t remember."
+            "But I’m definitely not the one who wrote this."
+            "I don’t remember those check marks either."
+
+            s "..."
+
+            "I read the note on the right hand side of the corkboard."
+            "It’s signed by MM."
+            "I know so many MM’s."
+            "This letter is stupid."
+            "I should do something else."
+
+            jump secondresetmenu
+
+        "Look at plants":
+            play sound "static.mp3"
+            scene hoorayanotherreset15
+            with flash
+            stop sound
+
+            "I decide to look at my plants for whatever reason."
+
+            s "..."
+
+            "Nothing happens. Probably because they are plants."
+            "Maybe something will happen if I watch them for ten seconds straight?"
+
+            $ renpy.pause(10, hard=True)
+
+            s "..."
+
+            "Nope. Doesn’t look like anything is going to happen after all."
+            "Oh well."
+            "I should do something else."
+
+            jump secondresetmenu
+
+        "Watch the picture machine":
+            play sound "static.mp3"
+            scene hoorayanotherreset16
+            with flash
+            stop sound
+
+            "I decide to pay a visit to my big-screen picture machine."
+            "The TV is playing a show about several girls in a large house."
+            "One of them is dead inside of a boiler room and the rest of the girls are either ignoring it or haven’t found out yet."
+            "I stick around a little while longer to see if anything else happens, but it’s a surprisingly boring program."
+
+            s "..."
+
+            "They should turn my life into a TV show."
+
+            if bonus == True:
+                "I’m sure there are plenty of {s}perverts{/s} respectable human beings who would watch it with their family."
+                "..."
+                "Huh. Family."
+                "I think I had one of those once."
+            else:
+                "I am confident the ratings would be exceptional."
+
+            s "..."
+
+            "I try my hardest to remember, but my brain has been destroyed by all of the television I watch, so I am unable to."
+
+            jump secondresetmenu
+
+        "Go under the desk":
+            play sound "static.mp3"
+            if bonus == True:
+                scene hoorayanotherreset17
+                with flash
+            else:
+                scene frown
+                with flash
+            stop sound
+
+            "I get on my knees and crawl under the desk."
+            "It’s a tight fit, but I’m able to get all the way back there with only minimal trouble."
+            "I suddenly feel a lot younger."
+            "I feel like there are many kids all over the planet who need to hide underneath things like this unironically."
+            "But here I am, covered in dust and bumping my head every two seconds for the sake of...reliving childhood I guess?"
+
+            s "..."
+
+            "Was childhood really this boring?"
+            "Kids are so stupid."
+            "They should be doing things like dodging cars on the highway or going skydiving instead of hiding away from the world under a silly little-"
+            "..."
+            "My mind short-circuits when I find a 500 Yen coin near my right foot."
+            "I am going to be rich."
+
+            s "..."
+
+            "Wait...what was I doing again?"
+
+            jump secondresetmenu
+
+label coolrectanglemachine:
+    play sound "static.mp3"
+    scene hoorayanotherreset10
+    with flash
+    stop sound
+
+    "What do I want to do on the rectangle?"
+
+    menu rectangletime:
+        "Press some buttons":
+            "I decide to press some buttons."
+
+            s "..."
+
+            "Words appear on the screen."
+            "It looks like I’m supposed to do something."
+
+        "Jump to IP Address" if terminal23 == True:
+            jump enterip
+
+        "Jump to Port Number" if ipaddress== True:
+            jump enterport
+
+        "Jump to Username" if portnumber == True:
+            jump enterusername
+
+        "Jump to System Password" if user2 == True:
+            jump enteryourpass
+
+        "Go back to the stuff":
+            s "I have no use for this rectangle right now."
+            jump secondresetmenu
+
+label enterterminal:
+    $ terminal = renpy.input("////////////////PLEASE ENTER TERMINAL NUMBER")
+    $ terminal = terminal.strip()
+
+    if terminal == "23":
+        "////////////////ATTEMPTING TO LOCATE TERMINAL"
+        "////////////////..."
+        "////////////////TERMINAL 23 LOCATED"
+        $ terminal23 = True
+        jump enterip
+    else:
+        "////////////////ATTEMPTING TO LOCATE TERMINAL"
+        "////////////////..."
+        "////////////////TERMINAL NOT FOUND"
+        "////////////////PLEASE CONTACT YOUR SYSTEM ADMINISTRATOR OR TRY AGAIN"
+        jump rectangletime
+
+label enterip:
+    $ ip = renpy.input("////////////////PLEASE ENTER THE DESIGNATED IP ADDRESS")
+    $ ip = ip.strip()
+
+    if ip == "2342:5b7:489:de26:c666:x994:3126:b067":
+        "////////////////..."
+        "////////////////ACCEPTED"
+        $ ipaddress = True
+        jump enterport
+
+    else:
+        "////////////////..."
+        "////////////////REJECTED"
+        "////////////////PLEASE CONTACT YOUR SYSTEM ADMINISTRATOR OR TRY AGAIN"
+        jump rectangletime
+
+label enterport:
+    $ port = renpy.input("////////////////PLEASE ENTER THE PORT NUMBER")
+    $ port = port.strip()
+
+    if port == "1024":
+        "////////////////CHECKING PORT NUMBER"
+        "////////////////..."
+        "////////////////PORT NUMBER IS VALID"
+        $ portnumber = True
+        jump enterusername
+
+    else:
+        "////////////////CHECKING PORT NUMBER"
+        "////////////////..."
+        "////////////////PORT NUMBER IS INVALID"
+        "////////////////PLEASE CONTACT YOUR SYSTEM ADMINISTRATOR OR TRY AGAIN"
+        jump rectangletime
+
+label enterusername:
+    $ user = renpy.input("////////////////PLEASE ENTER THE USER NAME YOU WISH TO CONNECT TO. PLEASE NOTE THAT THIS IS CASE SENSITIVE.")
+    $ user = user.strip()
+
+    if user == "HOPE":
+        jump babyfinches
+
+    if user == "USER1":
+        "////////////////”USER1” IS OFFLINE AND CAN NOT ACCEPT YOUR REQUEST"
+        "////////////////PLEASE ENTER A DIFFERENT USERNAME"
+        jump rectangletime
+
+    if user == "USER3":
+        "////////////////REQUESTING CONNECTION TO ”USER3”"
+        "////////////////..."
+        "////////////////CONNECTION HAS BEEN REJECTED"
+        "////////////////PLEASE ENTER A DIFFERENT USERNAME"
+        jump rectangletime
+
+    if user == "USER4":
+        "////////////////”USER4” IS A RESERVED ADDRESS"
+        "////////////////YOU ARE CURRENTLY UNABLE TO REQUEST THIS CONNECTION"
+        "////////////////PLEASE ENTER A DIFFERENT USERNAME"
+        jump rectangletime
+
+    if user == "USER2":
+        "////////////////”USER2” IS CURRENTLY UNDERGOING MAINTENANCE"
+        "////////////////WOULD YOU STILL LIKE TO CONNECT?"
+
+        menu:
+            "Yes":
+                "////////////////ATTEMPTING CONNECTION"
+                "////////////////..."
+                "////////////////..."
+                "////////////////..."
+                "////////////////CONNECTION ACCEPTED"
+                $ user2 = True
+                jump enteryourpass
+
+            "No":
+                "////////////////CONNECTION TERMINATED"
+                "////////////////PROCESS ENDED"
+                jump rectangletime
+
+    else:
+        "////////////////INVALID USERNAME"
+        "////////////////PLEASE CONTACT YOUR SYSTEM ADMINISTRATOR OR TRY AGAIN"
+        jump rectangletime
+
+label enteryourpass:
+    $ passcode = renpy.input("////////////////PLEASE ENTER YOUR SYSTEM PASSWORD SO “USER2” MAY ASSUME CONTROL. THIS IS CASE SENSITIVE.")
+    $ passcode = passcode.strip()
+
+    if passcode == "Boobies123":
+        "////////////////PASSWORD ACCEPTED"
+        "////////////////FINALIZING CONNECTION TO “USER2”"
+        "////////////////..."
+        "////////////////..."
+        "////////////////..."
+        $ renpy.end_replay()
+        $ day220 = True
+        jump hoorayanotherreset
+
+    else:
+        "////////////////PASSWORD INCORRECT"
+        "////////////////PLEASE TRY AGAIN"
+        jump rectangletime
+
+label hoorayanotherreset:
+    stop music
+    play sound "static.mp3"
+    scene ayhh1
+    with flash
+    scene ayhh2
+    with flash
+    scene ayhh3
+    with flash
+    scene ayhh4
+    with flash
+ 

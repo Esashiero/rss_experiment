@@ -1,0 +1,92 @@
+{
+  "event_id": 3,
+  "event_label": "start2",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "Welcome home."
+    },
+    {
+      "character": "narrator",
+      "text": "6e 6f 74 68 69 6e 67 20 66 61 6c 6c 73 20 62 75 74 20 6d 65"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "q",
+      "text": ".....i?"
+    },
+    {
+      "character": "narrator",
+      "text": "What?..."
+    },
+    {
+      "character": "q",
+      "text": "...sei?"
+    },
+    {
+      "character": "narrator",
+      "text": "I..."
+    },
+    {
+      "character": "narrator",
+      "text": "I can hear something..."
+    },
+    {
+      "character": "q",
+      "text": "Sensei..."
+    },
+    {
+      "character": "narrator",
+      "text": "I can-"
+    },
+    {
+      "character": "q",
+      "text": "Sensei! Wake up already!"
+    },
+    {
+      "character": "q",
+      "text": "About time! Do you have any idea how much trouble you'd get into if the principal showed up and caught you sleeping right now?"
+    },
+    {
+      "character": "s",
+      "text": "Huh?..."
+    },
+    {
+      "character": "q",
+      "text": "Class ended ten minutes ago. It's time to get up."
+    },
+    {
+      "character": "s",
+      "text": "What? What class?"
+    },
+    {
+      "character": "s",
+      "text": "Where am I?"
+    },
+    {
+      "character": "s",
+      "text": "And...what did you call me just now?"
+    }
+  ],
+  "state_changes": {
+    "day +": {
+      "from": null,
+      "to": 4
+    },
+    "totaldays +": {
+      "from": null,
+      "to": 1
+    }
+  }
+}

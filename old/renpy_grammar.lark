@@ -1,0 +1,40 @@
+?start: statement*
+
+?statement: label
+          | command
+          | variable_assignment
+          | dialogue
+          | if_statement
+          | menu
+          | "return" -> return_statement
+
+label: "label" IDENTIFIER ":" block
+block: _NEWLINE _INDENT statement+ _DEDENT
+
+command: ("scene" | "show" | "hide" | "play" | "stop" | "jump" | "snapshot") (args)?
+variable_assignment: "$" expression
+dialogue: IDENTIFIER STRING
+args: /(.+)/
+expression: /(.+)/
+
+menu: "menu" ":" _NEWLINE _INDENT choice+ _DEDENT
+choice: STRING ":" block
+
+if_statement: "if" condition ":" block elif_statement* else_statement?
+elif_statement: "elif" condition ":" block
+else_statement: "else" ":" block
+condition: /(.+)/
+
+// Terminals
+_NEWLINE: ( /\r?\n[\t ]*/ )+
+_INDENT: "INDENT"
+_DEDENT: "DEDENT"
+
+%import common.CNAME -> IDENTIFIER
+%import common.ESCAPED_STRING -> STRING
+%import common.SH_COMMENT -> COMMENT
+%import common.WS_INLINE
+
+%ignore COMMENT
+%ignore WS_INLINE
+%ignore _NEWLINE

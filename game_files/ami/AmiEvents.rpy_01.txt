@@ -1,0 +1,1143 @@
+label amisroom:
+    if ami_love >= 0 and firsttimeamisroom == False:
+        jump firsttimeamisroom
+    if ami_love >= 5 and amisroom5 == False:
+        jump amisroom5
+    if ami_love >= 10 and amisroom10 == False:
+        jump amisroom10
+    if ami_love >= 15 and amidorm15 == True and amisroom15 == False:
+        jump amisroom15
+    if ami_love >= 20 and beachvacation16 == True and mayadorm25 == True and amisroom20 == False:
+        jump amisroom20
+    if ami_love >= 25 and ami_virgin == False and amidorm20 == True and amisroom25 == False:
+        jump amisroom25
+    else:
+        jump amisroom3to4
+
+label amiinvite:
+    if amiblock == True:
+        "I don't think Ami wants to see me right now..."
+        jump callnight
+    if amiinvite1 == False:
+        jump amiinvite1
+    if amiinvite1 == True and amiinvite2 == False and amiinvite2miss == False:
+        jump amiinvite2
+    if amiinvite3 == False and shrine35 == True:
+        jump amiinvite3
+    if ami_love >= 50 and kaorispecial40 == True and amimaid50 == True and amiinvite4 == False:
+        jump amiinvite4
+    else:
+        jump amiinvitegen
+
+label amiinvitegen:
+    play sound "phonebeep.wav"
+
+    "I tap on Ami's name in my phone and wait for her to answer."
+    "........."
+    "......"
+
+    play sound "phonebeep.wav"
+
+    a "Hey, [amimaster]! I was just thinking about you."
+    s "You're literally always thinking about me, though."
+    a "I see no problem with this."
+    a "What's up?"
+    a "Gonna invite me to my own house again?"
+    s "Yes. Would you like to come hang out at the place you are inside of right now?"
+    a "I was gonna go hang out with Maya, but I can stay here as long as you're coming home~"
+    s "In that case, I'll be there shortly."
+    a "Yay!"
+    a "I'll see you soon, [amimaster]!"
+
+    scene black
+    with dissolve
+
+    "........."
+    "......"
+    "..."
+
+    if halloweenfive17 == False:
+        scene amiinvitehub
+        with dissolve
+    else:
+        scene amiinvitehub2
+        with dissolve
+
+    play music "acoustic.mp3" fadein 3.0
+
+    a "So, what did you want to do today?"
+
+    "How should I spend my time with Ami?"
+    menu amiinvmenu:
+        "Hang Out (Raise Affection)":
+            jump amiinviteaff
+        "Thighjob (Raise Lust)" if amiinvite2 == True and bonus == True:
+            jump amiinvitethighjob
+        "Reverse Cowgirl (Raise Lust)" if ami_virgin == False and bonus == True:
+            jump amiinvitereverse
+        "Hug (Raise Lust)" if amiinvite2 == True and bonus == False:
+            jump amiinvitethighjob
+        "Hold Hands (Raise Lust)" if ami_virgin == False and bonus == False:
+            jump amiinvitereverse
+        "Headpat" if ami_virgin == False and bonus == True:
+            jump amiheadpat
+
+label amiinviteaff:
+    if halloweenfive17 == False:
+        scene amiinvitegen
+        with dissolve
+    else:
+        scene amiinvitegen2
+        with dissolve
+
+    "I decide to spend the night hanging out in my room with Ami."
+    "No matter what I suggest doing, she playfully refuses and beckons me into the bed to lie with her and hold her hand."
+    "The next few hours pass by with her reciting memories that I wish I could have inherited when I arrived here."
+    "Unfortunately, her relationship with me is much more than mine will ever be with her."
+    "And all of those memories that mean all of those things are more like anecdotes or poems."
+    "One thing that means the world to one person might make absolutely no sense to someone else."
+    "I'm caught somewhere in between."
+    "I absorb the things she tells me, racking my brain and trying to connect any dots that someone else may have left behind."
+    "But I come up with nothing."
+    "I think Ami notices this at some point since she carefully tiptoes away from anything involving the past and makes her way into the present."
+    "We talk about[school]. We talk about the dorms."
+    "We talk about everything up until our eyes close."
+
+    scene black
+    with dissolve
+
+    "Ami falls asleep before I do- the same way she always does when the two of us are in this position."
+    "I stare at her face as she sleeps on my shoulder, her mouth slightly drooped open and exerting soft, sweet breaths."
+    "She doesn't talk in her sleep, but she doesn't need to."
+    "I can understand everything she's thinking and everything she's feeling just by keeping my eyes on her."
+    "And so I do that until I, too, pass out..."
+
+    $ ami_love += 3
+    stop music fadeout 5.0
+
+    "{i}Ami's affection has increased to [ami_love]!{/i}"
+
+    if chap4active == True:
+        if day >= 6:
+            jump endofsatch4
+        else:
+            jump endofweekdaych4
+    else:
+        if day < 6:
+            jump endofweekday
+        else:
+            jump endofsat
+
+label amiinvitethighjob:
+    scene black
+    with dissolve
+
+    "........."
+    "......"
+    "..."
+
+    if bonus == True:
+        jump amiinvitethighjobx
+    else:
+        $ ami_lust += 3
+        stop music fadeout 5.0
+
+        "{i}Ami's lust has increased to [ami_lust]!{/i}"
+
+        if day < 6:
+            jump endofweekday
+        else:
+            jump endofsat
+
+label amiinvitereverse:
+    scene black
+    with dissolve
+
+    "........."
+    "......"
+    "..."
+
+    if bonus == True:
+        jump amiinvitereversex
+    else:
+        $ ami_lust += 3
+        stop music fadeout 5.0
+
+        "{i}Ami's lust has increased to [ami_lust]!{/i}"
+
+        if day < 6:
+            jump endofweekday
+        else:
+            jump endofsat
+
+label amimaidhub:
+    if ami_love >= 30 and utadorm10 == True and bar35 == True and amimaid30 == False:
+        jump amimaid30
+    if ami_love >= 50 and treasureisland == True and makotodorm55p2 == True and norikoinvite3 == True and amimaid50 == False:
+        jump amimaid50
+    if chap4active == True:
+        jump amispringmaidgen
+    if chapthreeactive == True:
+        jump amisummer2maidgen
+    else:
+        jump amimaidgen
+
+label callamimorning:
+    if amiblock == True:
+        "Ami isn't going to answer her phone right now..."
+        jump callmorning
+    if christmas7 == False:
+        "There's no point in calling Ami when I can just go to her room."
+    else:
+        "Ami should be at work right now. If I want to see her, I should visit the maid cafe."
+    jump callmorning
+
+label callamiafternoon:
+    if amiblock == True:
+        "Ami isn't going to answer her phone right now..."
+        jump callafternoon
+    if ami_love >= 35 and amimaid30 == True and shrine35 == True and amidate35 == False:
+        jump amidate35
+    if chap4active == True:
+        jump amispringnoongen
+    if chapthreeactive == True:
+        jump amisummer2noongen
+    else:
+        play sound "phonebeep.wav"
+
+        "I tap on Ami's name in my phone and wait for her to answer."
+
+        "........."
+        "......"
+
+        play sound "phonebeep.wav"
+
+        a "[amimaster]? What's up?"
+        s "Hey. What are you doing right now?"
+
+        if bonus == True:
+            a "Right now? I'm reading some romance manga about two characters who totally aren't related to one another."
+        else:
+            a "Oh, you know. Just...accountant stuff."
+
+        s "That's...Well, okay then."
+        a "Mhm! Did you want to maybe come hang out with me instead?"
+
+        menu:
+            "Spend time with Ami":
+                s "Sure. Are you at home?"
+                a "Yup yup!"
+                s "Gotcha. I'll come over there now."
+                a "Yay! I'll see you soon then~"
+                s "Yup. See you soon."
+
+                play sound "phonebeep.wav"
+
+                "I hang up the phone and begin to make my way over."
+
+                scene black
+                with dissolve
+
+                "........."
+                "......"
+                "..."
+
+                jump amigenafternoon
+
+            "Call someone else":
+                s "Actually, on second thought, I think I'm going to go do something else."
+                a "Wait, what the heck is this? Did you call me just to get my hopes up?"
+                s "Of course not."
+                a "I don't believe you. That sounds exactly like what's-"
+
+                play sound "phonebeep.wav"
+
+                "I hang up the phone and decide to call someone else."
+                jump callafternoon
+
+label callaminight:
+    if amiblock == True:
+        "Ami isn't going to answer her phone right now..."
+        jump callnight
+    if chap4active == True:
+        jump amispringnightgen
+    if chapthreeactive == True:
+        jump amisummer2nightgen
+    else:
+        play sound "phonebeep.wav"
+
+        "I tap on Ami's name in my phone and wait for her to answer."
+
+        "........."
+        "......"
+
+        play sound "phonebeep.wav"
+
+        a "[amimaster]? What's up?"
+        s "Hey. What are you doing right now?"
+        a "Me? I'm cooking dinner. Are you coming home early?"
+        a "Did you want me to make you something?"
+        s "Hmm..."
+
+        menu:
+            "Spend time with Ami":
+                s "Yeah. I'll be right there."
+                a "Okay! I'll see you soon~"
+
+                play sound "phonebeep.wav"
+
+                "I hang up the phone and begin to make my way back home."
+                "........."
+                "......"
+                "..."
+
+                stop music fadeout 3.0
+
+                if christmas7 == False:
+                    jump amigennight
+                else:
+                    jump amigennight2
+
+            "Call someone else":
+                s "Actually, on second thought, I think I'm going to go do something else tonight."
+                a "Whaaaat? No fair! You can't just get my hopes up like that! I'll have you know I-"
+
+                play sound "phonebeep.wav"
+
+                "I hang up the phone and decide to call someone else."
+                jump callnight
+
+label amimaidgen:
+    scene amimorninggen2
+    with fade
+    play music "normalday.mp3"
+
+    "I arrive at the maid cafe and am promptly greeted by my [niece], who also happens to be the only maid working right now."
+    "And while this should probably worry me since she hasn't been doing this as long as someone like Uta, her confidence (And the fact that no one else is around) puts me at ease."
+    "Not having anything else to do at the moment, Ami stays at the table with me and talks a bit about how work has been going."
+    "Apparently, she's only had a few male customers so far and every single one of them has shown more interest in Uta-chan than her, so of course I have to deal with those complaints for a little while."
+    "How a maid cafe manages to stay open with predominantly female customers, I don't know. But it's nice knowing that no one's tried to take advantage of her."
+    "In fact, with the way she talks about it, I think she might even genuinely like this place."
+    "Other than the whole {i}being apart from me{/i} thing, that is."
+    "But hey, she had to leave the nest sometime. And now she's even making money by doing it."
+
+    scene black
+    with dissolve
+
+    "I decide to call it quits before I wind up spending all of my money."
+    "As it turns out, I am not only weak to Uta-chan, but to all maids in general."
+    "Ami was right. I may have an addiction."
+    "How did I make it this far into life without realizing that?"
+    "Before I'm able to make it out of the door, Ami hugs me from behind and tells me to come back soon-"
+    "Which would have been very cute if it weren't for the fact that she immediately followed that up with asking me to spend more money on her."
+
+    $ ami_love += 1
+    stop music fadeout 5.0
+
+    "{i}Ami's affection has increased to [ami_love]!{/i}"
+    "........."
+    "......"
+    "..."
+
+    jump saturdayafternoon
+
+label amigenafternoon:
+    scene amiafternoongen
+    with dissolve
+    play music "normalday.mp3"
+
+    "I decide to spend the afternoon with Ami."
+    "The two of us hang out in her bedroom and she proceeds to rant about the drop rates in some video game she's playing for the next half hour."
+    "Knowing absolutely nothing about whatever she's saying, I simply nod my head and try to appease her."
+    "Eventually, she realizes that I'm not exactly interested and winds up giving me a shoulder massage instead."
+    "If you don't have a [niece], I highly recommend that you somehow procure one."
+    "I can't guarantee she'll be as good as Ami...but if she's even anywhere {i}close{/i}, I can guarantee that your life will never be the same..."
+
+    scene black
+    with dissolve
+
+    "Ami winds up cutting our hang-out session short when she realizes she still has to go run some errands."
+    "Not knowing what else to do, I decide to head back out and walk around for a few hours..."
+
+    $ ami_love += 1
+    stop music fadeout 5.0
+
+    "{i}Ami's affection has increased to [ami_love]{/i}!"
+    "........."
+    "......"
+    "..."
+
+    jump saturdaynight
+
+label amigennight2:
+    scene aminightgen2
+    with dissolve
+    play music "love.mp3"
+
+    "I head home early to spend some time with Ami."
+    "She's already in her pajamas by the time I get back and immediately summons me into her room to lie on the bed with her."
+    "We don't talk much but instead just lie there looking at the ceiling for an uncomfortable amount of time."
+    "Frankly, I think it's a little boring. But each time I go to strike up a conversation and notice her happily smiling to herself with her eyes closed-"
+    "Well, I kind of forget that I was ever bored to begin with and instead just...continue to lie there."
+    "Doing nothing. Saying nothing."
+    "But it's the most comfortable form of nothingness I've ever felt."
+
+    scene black
+    with dissolve
+
+    "The two of us eventually pass out, but I wake up several hours later and decide to get back into my own bed."
+    "I always hate sleeping in unfamiliar beds."
+    "Before I leave, I make sure Ami is tucked into her blanket and that her alarm is turned on so she can wake up on time and, you know, make me breakfast and whatnot."
+    "I guess that all it takes for me to be a little considerate is knowing I'll get something out of it."
+    "Thank you for the breakfast, Future-Ami."
+
+    $ ami_love += 1
+    stop music fadeout 5.0
+
+    "{i}Ami's affection has increased to [ami_love]{/i}!"
+    "........."
+    "......"
+    "..."
+
+    if day < 6:
+        jump endofweekday
+    else:
+        jump endofsat
+
+label amigennight:
+    scene aminightgen
+    with dissolve
+    play music "love.mp3"
+
+    "I head home early to spend some time with Ami."
+    "She's already in her pajamas when I get back, so the two of us spend the night eating pizza and watching movies on the couch."
+    "And when I say 'watching movies,' I really mean that {i}I{/i} am the one watching movies. Or trying to, at least."
+    "Ami sits there and playfully squeezes my arm, trying to get me to pay attention to her the entire time."
+    "Having a weakness for cute girls, I obviously wind up focusing on her instead and completely neglect whatever movie we were 'watching' in the first place."
+
+    scene black
+    with dissolve
+
+    "Ami eventually falls asleep on my shoulder and I have to carry her to her bedroom."
+    "As I lay her down and begin to walk away, she unconsciously reaches out and grabs my hand to prevent me from leaving."
+    "After a while, she becomes too tired to hang on and I'm left with no other option but to call it a night..."
+
+    $ ami_love += 1
+    stop music fadeout 5.0
+
+    "{i}Ami's affection has increased to [ami_love]{/i}!"
+    "........."
+    "......"
+    "..."
+
+    if day < 6:
+        jump endofweekday
+    else:
+        jump endofsat
+
+
+label firsttimeamisroom:
+    scene lr_day
+    with dissolve
+    play music "normalday.mp3"
+
+    "I step out into a living room that I’ve yet to fully familiarize myself with and think for a moment about who I am and why I am here."
+    "But then I remember that there is a cute girl sleeping in the room right next to mine and that any thought I could possibly have apart from that is essentially pointless."
+    "I still don’t know much about Kumon-mi...but what’s even more bizarre is that, somehow, I know even less about the girl who’s been guiding me through it thus far."
+    "Well, I guess {i}guiding{/i} might be a bit too generous of a word when all she’s really done is provide baseline hints and...vaguely generic information I would have likely figured out on my own."
+    "But I guess now is as good a time as any to try and change that."
+
+    play sound "knock.mp3"
+
+    "I knock on Ami’s door, hoping that she hasn’t gone out for the morning as that would leave me alone with nothing but my thoughts- and my thoughts have been rather...intense these last few nights."
+    "In a good way, of course. But it’s kind of hard to {i}not{/i} have thoughts like that when you wake up in what I’m pretty sure is the early stages of a harem."
+
+    a "Come in, Sensei! The door is open."
+
+    scene black
+    with dissolve
+    play sound "dooropen.mp3"
+
+    "Good. It looks like my unofficial tour guide and slightly-official niece hasn’t gone out yet."
+    "Now, all I have to do is figure out how to talk to her without sounding like a complete creep. And how hard could that possibly be?"
+
+    scene aminewfirstevent1
+    with dissolve2
+
+    s "Good morning, Ami. You smell nice."
+
+    "Fuck."
+
+    a "Oh! Umm...thank you! "
+    a "Are you sure it’s me and not my room, though? Because I was doing some cleaning a little earlier and sprayed way too much Cleaning Juice all over the place."
+    s "Please don’t call it cleaning juice. I don’t like that at all."
+    a "Hm? That’s just the name of the brand. It’s some kind of deodorizer or something...Which isn’t me saying that my room normally smells bad. I just...want it to smell better?"
+    a "Anyway, if you’re wondering why there’s still stuff all over the place, I’m just taking a little break before I get back to business. I promise it’ll all be gone soon."
+    s "Oh, I don’t really care. You can leave your room a mess indefinitely and it really won’t make much of a difference to me."
+
+    scene aminewfirstevent2
+    with dissolve
+
+    a "Well, it will make a difference to me since keeping things clean is a good quality and I want you to love me even more than you already do. "
+
+    "Any amount of love at all would be more than what I currently have for this girl..."
+    "But I will keep that to myself for the time being as it’s still way too early for me to do something with the potential to ruin this prospective harem."
+
+    scene aminewfirstevent3
+    with dissolve
+
+    a "But yeah...I should be done with my room by the afternoon. And I handled the living room and the bathroom yesterday, so that really just leaves the attic after this."
+    s "So is cleaning just...what you do as a hobby or something? "
+
+    scene aminewfirstevent4
+    with dissolve
+
+    a "Wait a second...is your memory still all weird from when I woke you up from your nap the other day?"
+    s "...Yes. That is what is happening."
+    a "Should we maybe take you to the doctor or something? Because if you’re still feeling weird all this time later, you might be, like...really really sick or something."
+    s "I’m sure I’ll be fine. I just need to get my bearings a little."
+
+    scene aminewfirstevent5
+    with dissolve
+
+    a "Never worry, Sensei. Your beloved niece and favorite girl in the entire world, Ami Arakawa, can help you with that."
+    a "To start off...no. Cleaning isn’t a {i}hobby{/i} of mine. It’s just something I do because I know you never will."
+
+    "Well, at least that’s one thing the original Sensei and I have in common."
+
+    a "In fact, I handle basically all the chores around here so you can relax to your heart’s content. It’s the least I can do after all you’ve done for me."
+    s "I see. So...there’s nothing I need to do to like, repay you for all of your work around here? "
+    a "Sensei, all you need to do is repay me with love."
+    s "Is there anything {i}else{/i} I can repay you with?"
+
+    scene aminewfirstevent6
+    with dissolve
+
+    a "Love is like the easiest thing I could have possibly asked for! Can you at least go back in time to when you remembered you cared about me?!"
+    s "Yeah, I don’t really think time works like that. But I do thank you for...all of the work that you apparently do around here while I..."
+    s "I..."
+
+    scene aminewfirstevent7
+    with dissolve
+
+    a "You can’t even remember what to do with your free time?"
+    s "Honestly, it would probably be easier for both of us if you just pretend I know literally nothing about this place."
+    a "Hah...I’m starting to feel like one of those NPCs that guides the protagonist in the beginning of an RPG."
+    s "I think I know what those acronyms mean, but I’m not sure. So I’m just going to nod in agreement and hope you tell me more about how to live my life."
+
+    scene aminewfirstevent1
+    with dissolve
+
+    a "Of course. But only because I’m so used to helping you out when you’re at your lowest point."
+    a "Now, I don’t know {i}exactly{/i} how you spend every day...but I do know that you normally try to ration your time so you’re not spending all of it on just one person. {size=15}But if you do, that person should be me.{/size}"
+
+    scene aminewfirstevent8
+    with dissolve
+
+    a "Now, let’s see...What are some things to do in the morning?"
+    a "Oh. There’s a place called Koi Cafe just a few miles away from here that opened up a couple months ago that you might like."
+    a "And the school library is also open on weekends if you ever want to go check out a book or something, so...there’s always that!"
+    a "Also, I’m pretty sure the soccer team is looking for a coach as well. But you’ve never really been into sports so I can’t really see you ever going there."
+    s "And what about things to do in the afternoon? Anything notable? Or..."
+
+    scene aminewfirstevent1
+    with dissolve
+
+    a "Well...there’s the shrine or the dojo, but...again, I have no idea why you’d go to either one of those places."
+    a "There’s the mall as well, but..."
+    s "I’m going to take a wild guess here and say that you’re assuming I wouldn’t like hanging out in a place like that."
+
+    scene aminewfirstevent9
+    with dissolve
+
+    a "Yeah. That’s exactly what I was assuming."
+    a "You’re not a very exciting person, Sensei."
+
+    "It’s true that none of those options sound particularly appealing to me...but I am not about to allow myself to be ridiculed by a pubescent redhead in bunny pajamas."
+    "But I am also not about to fight back because Ami really is going out on a limb for me here and I don’t want to risk her just...not cooking or cleaning anymore."
+
+    s "There has to be {i}something{/i} else for me to do around noon, right?"
+    a "You...could always just walk around and look for something to do, I guess? Most people are busy in the afternoon, so I have no idea if you’ll find anything you’re interested in, though."
+
+    scene aminewfirstevent10
+    with dissolve
+
+    a "Oh! You could always come hang out with me! I-"
+    s "And what about night? What are some things to do around then?"
+    a "..."
+    s "..."
+
+    scene aminewfirstevent11
+    with dissolve
+
+    a "I’m not sure if I want to tell you anymore if you’re just going to be mean and neglect me."
+    s "I’m not neglecting you at all. I came to you first thing in the morning, didn’t I?"
+    a "You did...but I’m starting to think you would have just left if I kept a pile of travel brochures near the door."
+    s "Hey, if you want to run a travel agency out of your bedroom, that’s fine by me. I’ll be your first customer and everything."
+    a "..."
+    s "..."
+
+    scene aminewfirstevent12
+    with dissolve
+
+    a "Hah...I really hope your memories come back soon, Sensei. I’m kind of tempted to feed you false information just to confuse you at this point."
+    s "Please don’t. You’re all I have right now."
+
+    scene aminewfirstevent2
+    with dissolve
+
+    a "I’m all you’ll ever have because I’m also all you’ll ever need."
+
+    scene aminewfirstevent1
+    with dissolve
+
+    a "But, when it comes to night time...all I can really think of is the school dorms."
+    a "Pretty much all of us gather there so, if you’re ever looking to kill some time or come see your adorable niece, that’s where you should go."
+    a "I’m sure there’s also some {i}nightlife{/i} stuff you can find if you really want to..."
+
+    scene aminewfirstevent13
+    with dissolve
+
+    a "But I’d really prefer you didn’t! "
+    s "What? Why not?"
+    a "Because that’s where I imagine older girls would be. And if you ever get a girlfriend, I will burn this house to the ground."
+    s "..."
+    a "..."
+
+    "Okay. I’m beginning to think that Ami may like her uncle a little too much."
+
+    scene aminewfirstevent14
+    with dissolve
+
+    a "Did you hear me, Sensei? I said I would-"
+    s "Burn this house to the ground. I know. Which, by the way, is completely irrational."
+    a "You would think it’s rational if you understood how much I love you."
+    s "I can’t imagine that’s true. But I doubt you’d have to worry about something like that in the first place since...relationships aren’t really my type of thing."
+    s "Besides, I already have ten girls I need to worry about on a daily basis. I don’t have time for romance."
+
+    "Seduction, however, is another story entirely. But I’m fine with keeping that contained to my students for the time being."
+
+    scene aminewfirstevent1
+    with dissolve
+
+    a "This is the best news I have ever heard."
+    s "Because you’re not going to be abandoned?"
+    a "If you abandoned me, what would happen if I needed to get something off of the top shelf? "
+    s "What would happen if you needed to pay rent? Or...the mortgage? "
+    s "You don’t happen to know how all of the bills here are handled, do you?"
+
+    scene aminewfirstevent15
+    with dissolve
+
+    a "I’m pretty sure that all of our bills are automated since I’ve only seen you use your checkbook like one or two times."
+    a "Either that or we’re way behind on every bill we have and will have to go live in an Internet cafe soon."
+    s "I’d like to avoid that if at all possible, so I guess I’ll just...look into it on my own or something."
+    a "Okay. And I’ll go back to being a teenage girl who doesn’t fully understand what a mortgage is yet."
+    s "Sounds good. And thanks for all your help today, Ami."
+
+    scene aminewfirstevent5
+    with dissolve
+
+    a "You don’t have to thank me, Sensei. I do this because I love you. Even {i}if{/i} you’d rather spend your free time aimlessly wandering around Kumon-mi instead of calling me pretty and buying me clothes."
+    s "Sorry. I’d offer to take you to the mall but, like you implied, that’s just not really a place that a guy like me would hang out at."
+
+    scene aminewfirstevent11
+    with dissolve
+
+    a "How the heck did you manage to forget literally everything except how to be sarcastic?"
+    s "Luck maybe? I’m not really sure."
+    s "But I should probably be heading out. There are a series of places I wouldn’t normally go to calling my name right now, and you need to get back to cleaning anyway."
+
+    scene aminewfirstevent7
+    with dissolve
+
+    a "Yeah...I guess I should probably finish up as soon as possible if I’m going to make it back to the dorm by dinner time."
+    a "And I haven’t even {i}looked{/i} at the attic yet, so I have no idea how long that’s going to take."
+    s "Well...good luck, I guess. "
+
+    scene aminewfirstevent1
+    with dissolve
+
+    a "Thanks, Sensei. Have fun taking advantage of your free time and remember to text me every thirty minutes so I know you’re okay."
+    s "No."
+
+    scene black
+    with dissolve
+    play sound "dooropen.mp3"
+
+    a "At least pretend that you’re going to! I deserve at least that much!"
+
+    "I exit Ami’s room and make my way to the front door to see what else this city has to offer."
+    "And while I didn’t learn much about my niece herself (Apart from her...extreme affinity for “me”), I do feel a little more at home now."
+    "I’m still a fish out of water at the end of the day- but I’m one of those fish that can breathe on land for an extended period of time and won’t just flat out die within the first few minutes."
+    "Either way, I’m glad Ami is as helpful and reliable as she’s been so far."
+    "I can’t see any way at all that the two of us don’t wind up even closer."
+    "It’s just {i}how{/i} close that remains to be seen."
+
+    $ renpy.end_replay()
+    $ firsttimeamisroom = True
+    $ ami_love += 1
+
+    "{i}Ami’s affection has increased to [ami_love]!{/i}"
+
+    stop music fadeout 3.0
+
+    "........."
+    "......"
+    "..."
+    jump saturdayafternoon
+
+label amisroom3to4:
+    play music "Normalday.mp3" fadein 2.0
+    scene amiroom_day
+    with dissolve
+
+    "I decide to spend the morning hanging out with Ami."
+    "She tells me a little about some Korean drama show she’s been watching
+    while the two of us make breakfast together."
+    "It feels strange being involved in a relationship like this out of virtually nowhere, but I'm getting used to it."
+    "She seems rather comfortable with me as well..."
+
+    $ ami_love += 1
+
+    "{i}Ami’s affection has increased to [ami_love]!{/i}"
+
+    scene black
+    with dissolve
+    stop music fadeout 3.0
+
+    "........."
+    "......"
+    "..."
+    jump saturdayafternoon
+
+label amisroom5:
+    scene black
+    with dissolve
+    play sound "dooropen.mp3"
+    play music "normalday.mp3"
+
+    "I guess I’ll see if Ami has any plans today."
+    "I woke up feeling a lot more exhausted than normal for some reason, so the idea of going anywhere right now sounds like nothing more than...unnecessary pain."
+    "Combine that with the fact that all I'd be doing is searching for another cute girl to hang out with and there's really no reason for me to ever leave at all."
+    "Everything I could ever want is right here at home."
+    "........"
+    "......"
+    "..."
+
+    scene amidineredux1
+    with dissolve2
+
+    a "Oh, Sensei! Good morning. I was just going to come wake you up and see if you wanted to go out."
+
+    "God damn it."
+
+    s "Nope. I'll just stay here and be miserable."
+    a "You're not allowed to be miserable while I'm here. That's one of our house rules, remember?"
+    s "I remember no such thing. Where could you possibly want to go this early in the morning?"
+
+    scene amidineredux2
+    with dissolve
+
+    a "Some new diner thingy just opened up the other day and I figured the two of us could go together since going to a diner by myself would make me look really lame."
+    s "Are Ayane and Maya busy today or something?"
+
+    scene amidineredux3
+    with dissolve
+
+    a "I don't think they're {i}busy...{/i}but chances are that both of them are still sleeping."
+    s "You...don't want to call them and find out?"
+
+    scene amidineredux4
+    with dissolve
+
+    a "Sensei...can you look down, please?"
+    s "What? Why?"
+    a "It's just that I've dropped so many hints about {i}wanting to do this alone with you{/i} over the last two minutes that they are now making the house look messy."
+    s "Don't drop hints. It's best to just speak your mind, Ami."
+
+    scene amidineredux5
+    with dissolve
+
+    a "I literally did that and you just said you'd stay here and be miserable!"
+    a "Prove that you love me and come have breakfast at the new diner with me or I will throw myself off a bridge and leave a note saying you made me do it!"
+    s "It was nice knowing you, Ami."
+    a "Sensei!"
+    s "I'm obviously kidding. I'll come. Just...give me a minute to get dressed since I was really planning on spending the whole morning here."
+
+    scene amidineredux6
+    with dissolve
+
+    a "Really?! You'll go on a date with me?!"
+    s "I'll come to the diner with you. I don't think I'm allowed to date my niece."
+    a "Says who? There's no rule like that {i}I've{/i} ever heard about before."
+    s "Then you haven't been paying much attention to societal norms or values. This place isn't far, is it?"
+
+    scene amidineredux2
+    with dissolve
+
+    a "Not super far. Maybe like...a mile or two?"
+    s "You're really going to make me walk a whole mile as soon as I wake up?..."
+    a "You walk to other places all the time. What's the harm in walking somewhere with a cute relative at your side?"
+    a "Besides, the two of us could use a little exercise, don't you think?"
+    a "Unless there's some {i}other{/i} sort of physical activity that the two of us could do together in the comfort and privacy of our own home."
+    s "Isn't that being a little too suggestive this early in the morning?"
+
+    scene amidineredux3
+    with dissolve
+
+    a "I have no idea what you're talking about. I just want to spend some quality time with my uncle."
+    s "I am sure you do..."
+
+    scene black
+    with dissolve2
+
+    "I head back to the bedroom and change my clothes, wondering how serious Ami was about the whole {i}physical activities{/i} thing and...whether or not {i}I'd{/i} be serious about that as well."
+    "But seeing as I don't want to walk one or two miles with an erection pressing up against the inside of my jeans, I decide to abandon the thought and simply think of nothing instead."
+    "........."
+    "......"
+    "..."
+
+    scene amidiner1
+    with dissolve2
+
+    "After a decently long walk, we make our way into a relatively old-fashioned, American style diner."
+    "The air conditioner in here is turned on full-blast, making it an extremely welcome escape from the sweltering summer heat we were forced to battle on the way over."
+    "For being what Ami claims is a new business, the diner is surprisingly empty."
+    "Only a few tables are occupied by customers while a single waitress makes her way around the room, checking on each and every table while Ami and I figure out what we want to eat."
+
+    a "Sensei, do you know what you’re gonna get yet?"
+    s "I have no clue."
+    a "Do you want something sweet? Or do you want something savory? Because I heard online that the doughnuts here are crazy good."
+    a "But also, you shouldn't get the doughnuts because that's what I'm getting."
+    a "You know what? I'll just choose for you. Get something savory and we can share with each other if it really comes down to it."
+    s "Well, that certainly makes things easier for me."
+    s "A little more freedom would be nice, though."
+
+    scene amidiner2
+    with dissolve
+
+    a "You're free to do whatever you want! As long as what you want to do is love me."
+    s "..."
+
+    scene amidiner3
+    with dissolve
+
+    a "Kidding."
+    a "Maybe."
+
+    "I think my niece might be obsessed with me."
+
+    scene amidiner4
+    with dissolve
+
+    wa "Hello, humans! And welcome to food! My name is Kaori Kadowaki and I will now write down the objects you wish to consume on this rectangular book of slaughtered trees."
+
+    if day65 == True:
+        "Isn't this the same girl that was working at the bistro where I met up with Sara and Haruka?"
+        "Isn't she a little young to be working multiple jobs?"
+
+    scene amidiner5
+    with dissolve
+
+    a "That's funny. I don't remember seeing anything online about this diner being themed."
+    k "Yes! Themed! The theme here is hunger! And the characters are you and the large, intimidating man with circles of glass in front of his vision balls."
+    a "You...said your name was Kaori?"
+    k "Yes! That is what I am called. But you may also address me as the Mistress of the Dark or the Queen of Spiders. All of these things are true! I think!"
+
+    scene amidiner7
+    with dissolve
+
+    k "Have you been inside of this building before?"
+    a "Not yet. I've seen a lot of people talking about it online, though."
+    k "On which line?"
+    a "The...The Internet?"
+
+    scene amidiner8
+    with dissolve
+
+    k "Did you also bring a net? Or did your girlfriend just require moral support for all of the flavors she is going to catch?"
+
+    scene amidiner9
+    with dissolve
+
+    a "G-G-G-G-G-Girlfriend?! Is that who you think I am?! Does it really look that way?!"
+    k "Was my assumption incorrect? I smelt a heavy dose of romantic pheromones shortly after the two of you entered the store."
+    a "Pheromones?!"
+    k "So strong that they are almost pulsating! I can feel them surrounding my body and squeezing me the way I long to squeeze small dogs."
+
+    scene amidiner11
+    with dissolve
+
+    k "Treat her well or face the consequences."
+    s "..."
+
+    scene amidiner9
+    with dissolve
+
+    k "What would you like to eat, small girl?"
+    a "I-"
+
+    scene amidiner11
+    with dissolve
+
+    k "I am serious. Protect this tiny human."
+
+    "Am I wrong for feeling mildly intimidated right now?"
+
+    scene amidiner9
+    with dissolve
+
+    k "What is your name and how many muffins have you eaten in your life?"
+    k "Please also inform me on the object on our menu that you most want to put inside of your mouth."
+
+    scene amidiner12
+    with dissolve
+
+    a "Well, umm..."
+    a "My name is Ami..."
+    k "An adorable name for an adorable girl. Tell me what your desired food is called, Ami."
+    a "Uhh...there's a...doughnut platter thingy, right?"
+    k "That is a thing that exists. Yes."
+
+    scene amidiner13
+    with dissolve
+
+    k "And for you, mystery man? Please list the objects you are most interested in at this very moment."
+
+    "I'm beginning to think that Ami is right in assuming that this is some sort of themed diner, but...I can't really tell what the theme is by the way the waitress is speaking."
+
+    s "I’ll just have a burger. Thanks."
+    k "I understand. One order of fried zeros and a hot meat sandwich coming right up for the cute Ami and her human boyfriend."
+    k "Please remain at this specific rectangle and I will return right away."
+
+    scene amidiner15
+    with dissolve
+
+    "Kaori or...the mistress of whatever disappears from the table, prompting Ami and I to awkwardly resume where we left off moments ago."
+
+    a "She’s...umm..."
+    a "A little-"
+
+    scene amidiner16
+    with hpunch
+    play sound "thump.mp3"
+
+    k "I have returned with the things you wanted!"
+    s "How the hell did you do that so quickly?"
+    k "Do not ask questions that you are not yet prepared to hear the answers to!"
+    k "For there is one nickname I did not mention when I first introduced myself..."
+
+    scene amidiner17
+    with dissolve
+
+    k "You see before you, Kaori...the Goddess of Gluttony...the world’s greatest waitress..."
+    a "How...what?..."
+    s "If anything, I’m more impressed with the cooks. All you really did was carry everything over."
+    s "And we didn’t even order the coffee you gave to Ami."
+
+    scene amidiner18
+    with dissolve
+
+    k "The Ami needs the hot bean water to grow strong and develop larger bones!"
+    s "I think there might be some misunderstanding on your end about the nutritional value of coffee."
+    k "Do not tempt me to return your meat to the cooking zone! I will do it!"
+
+    "Kaori quickly snatches back the burger she had placed in front of me before I’m even able to take a bite."
+
+    s "I am so confused."
+
+    scene amidiner19
+    with dissolve
+
+    k "You will eat when I deem you worthy."
+
+    scene amidiner20
+    with dissolve
+
+    a "Umm...Miss Kaori?"
+
+    scene amidiner21
+    with dissolve
+
+    k "What is wrong? Will your tiny body reject the strength of the hot bean water?"
+    a "No, I just...was wondering if that spider on your chest was a real tattoo or not?"
+    k "It is. Would you like to touch it?"
+    a "I...don't know if I should with where it's located."
+    k "I understand. Human customs say that a spider on one's body must not be touched until the seventh date."
+    s "I didn’t realize there was a custom for something that specific."
+    k "May I ask you a question now, Ami?"
+    a "Of course. What do you want to know?"
+    k "What is your favorite animal?"
+    a "..."
+    a "Is that...really what you want to ask?"
+    k "Do you not have one?"
+    a "Um...I guess...I think cats are really cute?"
+    k "I see, I see."
+    k "I will remember this."
+    a "Okay...umm..."
+    a "Thank you?"
+    k "You are very welcome."
+
+    scene amidiner22
+    with dissolve
+
+    k "As for you..."
+    s "What did {i}I{/i} do?"
+    k "I will allow you to eat this hot meat sandwich under one condition."
+    s "And what condition would that be?"
+    k "You must say one nice thing about me."
+    s "What? Why?"
+    k "Because you have jammed an invisible knife into my feelings and they are now deflating."
+    k "Please patch me up immediately."
+    s "Uhh..."
+    s "You're...really attractive?"
+
+    scene amidiner26
+    with dissolve
+
+    k "GUH!"
+    k "That...That is not the type of nice thing I thought you would say, boyfriend-man!"
+    a "Yeah...me neither."
+
+    scene amidiner27
+    with dissolve
+
+    a "And I'm extra annoyed because I actually agree."
+    a "You look kinda like a...rock idol or something. And you're super cool and now I'm jealous."
+    k "The Ami thinks that too?! Is this what they call a gangbang?!"
+    s "Uhh...no. No it's not."
+
+    scene amidiner28
+    with dissolve
+
+    k "All I wanted was my role as the greatest waitress in the world to be validated by a large man and his miniature girlfriend!"
+    k "Now, I must deal with the extra blood in my face! And all because of you two!"
+    a "We...weren't trying to offend you, Miss Kaori. We just-"
+    k "I will now depart! The weight of these comments has become too much for me to bear!"
+    k "Please remember to like, comment, and subscribe!"
+
+    scene amidiner29
+    with dissolve
+
+    "Kaori vanishes into the kitchen, leaving both Ami and me in a state of mild shock."
+    "But, on the bright side, the room quickly grows much quieter."
+
+    a "..."
+    s "..."
+    a "So, uhh...I guess we just...eat breakfast now?"
+    s "What just happened?"
+    a "I’m not really sure..."
+    a "I kind of like her, though."
+    s "What? Why?"
+    a "I...don't really know."
+    a "I just kind of...do."
+
+    scene black
+    with dissolve2
+
+    "Ami and I finish up our meals without any further interruption from the diner staff..."
+    "Something tells me this isn’t the last we’ve seen of Kaori, though..."
+
+    $ renpy.end_replay()
+    $ ami_love += 1
+    $ amisroom5 = True
+    stop music fadeout 3.0
+
+    "{i}Ami’s affection has increased to [ami_love]!{/i}"
+    "........."
+    "......"
+    "..."
+
+    jump saturdayafternoon
+
+label amisroom10:
+    scene lr_day
+    with dissolve
+    play music "shiningstarvocals.mp3" fadein 4.0
+
+    s "..."
+
+    "I walk into the living room to be greeted by an unfamiliar, ear-piercing sound..."
+    "Apparently, Ami has decided that it is acceptable to blast music in her room at 9:00 in the morning."
+    "I’m already awake, so it’s not really as big of a deal as it {i}could{/i} have been...but it’s still too early to deal with something like this."
+
+    play sound "knock.mp3"
+
+    s "Ami...can you turn that down a little please?"
+    a "Mmm mmm hmmm...mmm hmmm hmmmmmm..."
+
+    "She either ignores or simply doesn't hear my request as she happily hums away at whatever song is playing behind the door."
+
+    play sound "knock.mp3"
+
+    s "Ami, come on. It's way too early for this."
+    a "Hmmm hmmm hmmmm...mmm mm mm mmm mmm..."
+    s "..."
+
+    if bonus == True:
+        "Is this what it means to be the guardian of a [teenage]girl?"
+        "It pains me to know that there are families out there with more than one of these things."
+        "Ami’s well-behaved and cute and all that, but even I don’t know if I’d be able to deal with waking up to {i}two{/i} of her."
+        "Though...I guess it wouldn't be right to ignore the prospective {i}benefits{/i} of something like that as well."
+
+        s "..."
+
+        "You know what? Fuck it."
+        "This is my house and I have the right to barge into her room if she's not going to respond to me."
+        "And if the worst (or best) case scenario happens and I end up walking in on something I shouldn't see, I can always just ask for forgiveness."
+        "Especially considering that asking for {i}permission{/i} was entirely fruitless."
+    else:
+        "Is this what it means to be a pogchamp?"
+
+    scene black
+    with dissolve
+    play sound "dooropen.mp3"
+
+    "........."
+    "......"
+    "..."
+
+    if bonus == True:
+        jump amibrax
+    else:
+        "I walk into Ami's room to find that she is not just humming along with some song she likes, she is the vocalist of what she refers to as the {i}best Smashmouth cover band in Kumon-mi{/i}."
+        "Despite how impressed I am, I ask her to keep it down and she agrees before introducing me to all of her bandmates."
+        "The next thing I know, I am decked out in their merchandise and jumping on Ami's bed."
+        "Having an accountant is so fun."
+
+        $ renpy.end_replay()
+        $ amisroom10 = True
+        $ ami_love += 1
+        stop music fadeout 5.0
+
+        "{i}Ami’s affection has increased to [ami_love]!{/i}"
+        "........."
+        "......"
+        "..."
+
+        jump saturdayafternoon
+
+label amisroom15:
+    scene lr_day
+    with dissolve
+    play music "normalday.mp3"
+
+    "I decide to spend the morning with Ami, and not just because I don’t feel like going anywhere else this time."
+    "I admit that this seemingly small factor may sometimes play a large role in determining whether I spend time with her or not, but it’s not like I don’t want to see her or anything like that."
+
+    if bonus == True:
+        "Ami and I have gotten close enough that I have basically accepted her as family at this point."
+    else:
+        "Ami and I have gotten close enough that I basically consider her family at this point. Which she definitely is not."
+
+    if bonus == True:
+        if amifingered == True:
+            "Just...family with the added bonus of providing sexual favors for one another every now and then."
+            "But whatever. Sue us. It's not like no family has ever done this sort of stuff together before."
+        else:
+            "The only thing is...it’s kind of hard to avoid that she might be feeling a little more than that."
+            "It’s weird...When I first woke up here, I had every intention of just using any chance I had to get physically closer with her."
+            "But now look at me."
+            "I’m about to walk into her room and I don’t even {i}almost{/i} have an erection."
+            "In fact, if I didn’t spend half of every day perving out 
