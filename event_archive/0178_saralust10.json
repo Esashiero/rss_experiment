@@ -1,0 +1,48 @@
+{
+  "event_id": 178,
+  "event_label": "saralust10",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "Just kidding. None of that ever happens."
+    },
+    {
+      "character": "narrator",
+      "text": "Sara and I spend the next two hours watching the critically acclaimed animated film {i}Shrek 2{/i} and spend the rest of the night discussing how silly the donkey is."
+    },
+    {
+      "character": "narrator",
+      "text": "We also eat ice cream and have a good time."
+    },
+    {
+      "character": "narrator",
+      "text": "After that, I tell her she's pretty cool and decide to leave."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Sara\u2019s lust has increased to [sara_lust]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "sara_lust +": {
+      "from": null,
+      "to": 1
+    },
+    "saralust10": {
+      "from": null,
+      "to": true
+    }
+  }
+}

@@ -1,0 +1,620 @@
+{
+  "event_id": 314,
+  "event_label": "springtime9",
+  "dialogue": [
+    {
+      "character": "Nodoka",
+      "text": "{i}The same reason I know everything else \u2014 I just do.{/i}"
+    },
+    {
+      "character": "Osako",
+      "text": "Wakana, are you almost done yet? You\u2019ve had your face buried in that stupid notebook all day. "
+    },
+    {
+      "character": "Wakana",
+      "text": "Call poetry stupid again and I will slap you. And let me clarify that I will do it in a way that you will derive little to no sexual pleasure from."
+    },
+    {
+      "character": "Osako",
+      "text": "I\u2019m sure the poetry is {i}fine.{/i} But the notebook is stupid because it\u2019s preventing us from spending Christmas together when we\u2019re supposed to be out doing...you know. Couple stuff."
+    },
+    {
+      "character": "Wakana",
+      "text": "And \u201ccouple stuff\u201d we shall do, Osako. Just not yet."
+    },
+    {
+      "character": "Osako",
+      "text": "Then when? Because I\u2019ve been waiting all day and you\u2019re not even dressed yet. "
+    },
+    {
+      "character": "Wakana",
+      "text": "In regard to the peony, how do you feel?"
+    },
+    {
+      "character": "Osako",
+      "text": "...What?"
+    },
+    {
+      "character": "Wakana",
+      "text": "The peony. The flower. Does it elicit a specific emotion or take you back to a certain time in your life? What do you think it could represent? Love? Happiness? Beauty?"
+    },
+    {
+      "character": "Osako",
+      "text": "Hah...those topics are so vague and broad that basically {i}anything{/i} could symbolize them if you spin it the right way. Or if you\u2019re just...really persuasive or something."
+    },
+    {
+      "character": "Wakana",
+      "text": "Which is why I asked you how they make {i}you{/i} feel. Because I have all but numbed myself to the faux functions of flora these last few weeks."
+    },
+    {
+      "character": "Osako",
+      "text": "I\u2019m aware. We haven\u2019t even had sex this month and we used to average like...four times a day."
+    },
+    {
+      "character": "Wakana",
+      "text": "If it will make you feel any better, I\u2019ll allow you to open one of your Christmas presents {i}before{/i} our date tonight. Probability dictates there may be something in one of them that could \u201cassist\u201d you."
+    },
+    {
+      "character": "Osako",
+      "text": "Or, you know, {i}you{/i} could assist me. With your hands. Or your mouth. Or one of the million toys we keep in the closet. Hell, I\u2019ll even take a foot at this point. "
+    },
+    {
+      "character": "Wakana",
+      "text": "Absolutely not. We tried that one time in college and vowed to never attempt it again. Restrain yourself, my pet."
+    },
+    {
+      "character": "Osako",
+      "text": "Wakana, enough is enough. I get that this...research thing is important to you, but Christmas has always been a day for {i}us.{/i}"
+    },
+    {
+      "character": "Wakana",
+      "text": "Every day is a day for {i}us.{/i} That\u2019s precisely what love is. But there will {i}be{/i} other Christmases. Many of them. And right now, I {i}have{/i} to do this. "
+    },
+    {
+      "character": "Osako",
+      "text": "But {i}why?{/i} Why {i}now?{/i} "
+    },
+    {
+      "character": "Wakana",
+      "text": "Because I may be on the verge of losing something I..."
+    },
+    {
+      "character": "Wakana",
+      "text": "Something I do not want to lose."
+    },
+    {
+      "character": "Wakana",
+      "text": "So I ask you to understand and bear with me for just a little while longer. Surely I must be getting close to {i}something.{/i}"
+    },
+    {
+      "character": "Osako",
+      "text": "Are you really that worried about him?"
+    },
+    {
+      "character": "Wakana",
+      "text": "Would you not be worried if one of your closest associates suddenly vanished off the face of the earth? Additionally, if you think {i}I\u2019m{/i} handling this poorly, I urge you to take a look at Imani."
+    },
+    {
+      "character": "Osako",
+      "text": "You realize he\u2019s my friend too, right?"
+    },
+    {
+      "character": "Wakana",
+      "text": "Then why are you not as concerned as I am?"
+    },
+    {
+      "character": "Osako",
+      "text": "Because he\u2019s a grown man, Wakana. He doesn\u2019t need you to-"
+    },
+    {
+      "character": "Wakana",
+      "text": "He is no typical {i}grown man,{/i} Osako! You have not seen the {i}fear{/i} in his eyes! You have not seen the way he {i}trembles{/i} at the mere {i}mention{/i} of-"
+    },
+    {
+      "character": "Wakana",
+      "text": "Hah...I apologize. I didn\u2019t mean to raise my voice. That was wrong of me. But {i}please{/i} know that Arakawa is far more complex than you know. And it\u2019s not in a good way."
+    },
+    {
+      "character": "Wakana",
+      "text": "There was a recurring subject in the early works of the Girl Who Cannot Breathe \u2014 a child known only as \u201cBoy,\u201d who is believed by most to be nothing more than a muse of sorts."
+    },
+    {
+      "character": "Osako",
+      "text": "I know. You\u2019ve told me a million times. Hell, I could probably write a whole report on that psycho at this point."
+    },
+    {
+      "character": "Wakana",
+      "text": "This \u201cBoy\u201d may not just be a muse, though. This boy-"
+    },
+    {
+      "character": "Osako",
+      "text": "Could be Sensei. I know. You\u2019ve made that very clear. But that woman was a total creep and it could have very well been literally any other {i}boy{/i} out there.  "
+    },
+    {
+      "character": "Osako",
+      "text": "If you were as confident as you sound, your \u201cresearch\u201d would be over already and we\u2019d be off looking at Christmas lights together. "
+    },
+    {
+      "character": "Osako",
+      "text": "But you\u2019re {i}not{/i} confident. You\u2019re just guessing. And guessing is all you\u2019re ever going to do if no one else in the...obscure creepy poetry community has outed her as a criminal by now."
+    },
+    {
+      "character": "Wakana",
+      "text": "What would be the point in {i}outing{/i} her now? She vanished years ago. Around the same exact time Ami Arakawa lost her mother. Because she {i}was{/i} Ami Arakawa\u2019s mother."
+    },
+    {
+      "character": "Osako",
+      "text": "And she has passed her creepy poetry powers onto her daughter who is now going to grow up to also prey upon children. Right?"
+    },
+    {
+      "character": "Wakana",
+      "text": "I do not like that mocking tone, Osako. This isn\u2019t some supernatural battle against the will of a dead mother \u2014 it\u2019s a kind-hearted effort to save two people who I see {i}every single day.{/i}"
+    },
+    {
+      "character": "Wakana",
+      "text": "Or rather, two people I {i}was{/i} seeing every day until spontaneous tragedy struck and thrust both of them into the indefinite darkness of Arakawa\u2019s likely dingy home."
+    },
+    {
+      "character": "Osako",
+      "text": "What\u2019s the end goal, though? What is all of this researching going to do if you\u2019re already sure that the creepy poet is Ami\u2019s mom and Sensei is the kid she was taking advantage of?"
+    },
+    {
+      "character": "Osako",
+      "text": "Because it\u2019s not like confirming that is going to give anybody peace of mind. And it\u2019s not like just telling this Ami girl that her mom was psycho is going to {i}change{/i} her at all. "
+    },
+    {
+      "character": "Osako",
+      "text": "I read her poetry too, you know? {i}With{/i} you. Ami needs help, not...literary analysis."
+    },
+    {
+      "character": "Wakana",
+      "text": "The reason...I am being so analytical...is because I could have {i}predicted this...{/i}if I had only paid more attention."
+    },
+    {
+      "character": "Osako",
+      "text": "Oh boy, here we go again."
+    },
+    {
+      "character": "Wakana",
+      "text": "The peony sleeps in its bed of unrest \u2014 \u2018neath the fireflies' wings and their humble caress."
+    },
+    {
+      "character": "Wakana",
+      "text": "The end of an onset \u2014 the base of a nest \u2014 in a future so fertile; one loss acquiesced."
+    },
+    {
+      "character": "Osako",
+      "text": "The plucking of feathers \u2014 stems torn from the soil. The egg might be old, but who says it has spoiled?"
+    },
+    {
+      "character": "Wakana",
+      "text": "To drink in its yolk; to bathe in its oil \u2014 makes this little girl squeal, lest the garden recoils."
+    },
+    {
+      "character": "Wakana",
+      "text": "This is about him. This poem is about Arakawa being torn away from where he\u2019s {i}meant{/i} to be and thrown into some {i}prison{/i} for the sake of making a \u201clittle girl\u201d happy. Isn\u2019t it?"
+    },
+    {
+      "character": "Wakana",
+      "text": "And the \u201cgarden\u201d is his classroom. No...his world. The people in it...The things he...enjoys? Maybe?"
+    },
+    {
+      "character": "Osako",
+      "text": "Hell if I know. This is {i}your{/i} area of expertise. All the poets I like are a lot easier to understand."
+    },
+    {
+      "character": "Wakana",
+      "text": "She wanted this, Osako. No...she {i}knew{/i} this was coming. "
+    },
+    {
+      "character": "Wakana",
+      "text": "There are seven other poems in here that could all mean the same thing, but there\u2019s one element they all have in common that I can\u2019t figure out."
+    },
+    {
+      "character": "Wakana",
+      "text": "\u201cOne loss acquiesced.\u201d "
+    },
+    {
+      "character": "Wakana",
+      "text": "What does that mean? What is she referring to when she says that? Because the only major {i}loss{/i} I can think of would be her mother. IE: Arakawa's alleged former \u201clover.\u201d "
+    },
+    {
+      "character": "Wakana",
+      "text": "But why would the passing of Ami\u2019s mother begin to affect Arakawa to such an extent {i}now?{/i} She should have passed years ago. "
+    },
+    {
+      "character": "Wakana",
+      "text": "Could he have lost something else? What? Who? Who or what else does he even care about? Why do I barely know anything about him despite all the time we\u2019ve spent together?"
+    },
+    {
+      "character": "Osako",
+      "text": "Well, while you\u2019re doing {i}that,{/i} I\u2019m going to call Rika and see if she wants to come over so I don\u2019t have to spend Christmas alone."
+    },
+    {
+      "character": "Wakana",
+      "text": "One loss acquiesced...loss acquiesced..."
+    },
+    {
+      "character": "Wakana",
+      "text": "I\u2019m almost there. I\u2019ve almost got it."
+    },
+    {
+      "character": "Osako",
+      "text": "Wakana...can you {i}please{/i} wrap this up soon? I\u2019ve been trying to be supportive and haven\u2019t complained at all since you started doing this since I know it\u2019s important to you, but... "
+    },
+    {
+      "character": "Osako",
+      "text": "Today is different. Today, {i}I{/i} want to be the priority. And I can\u2019t imagine a few hours will make a big difference in the grand scheme of...all you\u2019ve been doing. Especially since you\u2019re months in at this point."
+    },
+    {
+      "character": "Wakana",
+      "text": "Yes. Fine. Just...go call Rika while I make a few more notes in- wait, has this always been here? Why have I not seen this poem before? Why are there no notations?"
+    },
+    {
+      "character": "Osako",
+      "text": "I\u2019ll be back in a couple minutes. {i}Please{/i} at least get dressed while I\u2019m gone."
+    },
+    {
+      "character": "Wakana",
+      "text": "My dress is in the dryer. Can you-"
+    },
+    {
+      "character": "Osako",
+      "text": "You can get it yourself."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Rika",
+      "text": "{i}Hey, Osako! Merry Christmas! Unless you don\u2019t celebrate Christmas. And if that\u2019s the case, merry Wednesday!{/i}"
+    },
+    {
+      "character": "Osako",
+      "text": "It\u2019s Friday, Rika."
+    },
+    {
+      "character": "Rika",
+      "text": "{i}Then merry that!{/i}"
+    },
+    {
+      "character": "Kaori",
+      "text": "John, stop! If you damage the Nao-chan with your chicken powers, I will never put another squirmy tubular creature in your mouth! And you love tubes!"
+    },
+    {
+      "character": "Nao",
+      "text": "!!!!!!!!!"
+    },
+    {
+      "character": "Rika",
+      "text": "{i}What\u2019s that in the background?{/i}"
+    },
+    {
+      "character": "Osako",
+      "text": "Oh, those are just my neighbors. But hey, are you doing anything right now? Because Wakana\u2019s being kind of...absent. And I could really use the company."
+    },
+    {
+      "character": "Rika",
+      "text": "Yeah! I\u2019m totally free."
+    },
+    {
+      "character": "Rin",
+      "text": "What? No you\u2019re not. We\u2019re literally shopping right now. And you know how I feel about you inviting your friends into various dressing rooms with me."
+    },
+    {
+      "character": "Rika",
+      "text": "Rin\u2019s excited to see you as well!"
+    },
+    {
+      "character": "Rin",
+      "text": "Who is that?"
+    },
+    {
+      "character": "Rika",
+      "text": "It\u2019s Osako. Sounds like things aren\u2019t going great with Wakana and she needs a new lesbian. I mean top. I mean girlfriend."
+    },
+    {
+      "character": "Osako",
+      "text": "{i}I\u2019m still here, you know.{/i}"
+    },
+    {
+      "character": "Rika",
+      "text": "She says she\u2019s still here."
+    },
+    {
+      "character": "Rin",
+      "text": "Yeah, I don\u2019t want any part of this until I can confirm that Miss Watabe won\u2019t chop my head off. And also, you\u2019re not free. You promised me clothes for Christmas and I have no money to pay for myself."
+    },
+    {
+      "character": "Rika",
+      "text": "Sorry, Osako. Rin\u2019s afraid of Wakana and I have to buy her clothes. But I\u2019m sure nobody will mind if we just keep talking on the phone even though I\u2019m in a public place with a lot of people."
+    },
+    {
+      "character": "Osako",
+      "text": "I should\u2019ve figured as much. Looks like I really {i}am{/i} the only person alone on Christmas this year."
+    },
+    {
+      "character": "Rika",
+      "text": "I feel like that is statistically improbable."
+    },
+    {
+      "character": "Osako",
+      "text": "I feel like some of those words were too big for you."
+    },
+    {
+      "character": "Rika",
+      "text": "Just give me a couple hours and we can chill if you\u2019re still not doing anything. Rin\u2019s got a Christmas party later, so I\u2019m free once she heads over there."
+    },
+    {
+      "character": "Rika",
+      "text": "But, then again, I guess there\u2019s always a chance she decides to bail since her ex is going to be there and that would be like, totally awkward for them. Right? Hahahah!"
+    },
+    {
+      "character": "Rika",
+      "text": "Like, can you {i}imagine{/i} ever being in the same room with your ex again after they leave you? Things like that just don\u2019t happen, right? Like, it\u2019s not a thing anyone should get their hopes up for or whatever?"
+    },
+    {
+      "character": "Rin",
+      "text": "It was mutual! And it happened over a month ago! And stop feeling so sorry for yourself all the time!"
+    },
+    {
+      "character": "Rika",
+      "text": "Sorry, Rin. Can\u2019t hear you. I\u2019m going through a tunnel."
+    },
+    {
+      "character": "Rin",
+      "text": "I can literally see you!"
+    },
+    {
+      "character": "Osako",
+      "text": "Did you forget which one of us you\u2019re on the phone with?"
+    },
+    {
+      "character": "Rika",
+      "text": "Maybe. "
+    },
+    {
+      "character": "Rika",
+      "text": "But hey, if the bar\u2019s open tonight and you two don\u2019t want to be alone, maybe the three of us could go out for drinks?"
+    },
+    {
+      "character": "Rika",
+      "text": "Or maybe if you {i}do{/i} want to be alone but with an additional person who may also be open to getting some Christmas action, we could do that instead!"
+    },
+    {
+      "character": "Rin",
+      "text": "Uhh...ew?"
+    },
+    {
+      "character": "Rika",
+      "text": "Don\u2019t mind Rin if you just heard her. She doesn\u2019t like girls anymore now that she\u2019s been dumped by one."
+    },
+    {
+      "character": "Rin",
+      "text": "Stop making all your friends think I was dumped! And also, I still like girls! Which is a thing I probably shouldn\u2019t be yelling in a dressing room, but it\u2019s the truth! And I will not remain silent!"
+    },
+    {
+      "character": "Rika",
+      "text": "Hey, so apparently Rin wants in on the Christmas action too. Do you know any good ways to tell your daughter they need to stay out of your sex life?"
+    },
+    {
+      "character": "Rin",
+      "text": "It would help by not yelling things that force her to get involved whether she wants to or not! Which she doesn\u2019t because you\u2019re old and gross!"
+    },
+    {
+      "character": "Rin",
+      "text": "But not you, Osako! You\u2019re pretty! And only kind of old!"
+    },
+    {
+      "character": "Rika",
+      "text": "Rin says you\u2019re pretty. Now, we must fight."
+    },
+    {
+      "character": "Osako",
+      "text": "Yeah, instead of that, how about I just let you go and...give you a call later if I\u2019m still not doing anything?"
+    },
+    {
+      "character": "Rika",
+      "text": "You sure? Because I don\u2019t mind staying on the phone a little longer."
+    },
+    {
+      "character": "Osako",
+      "text": "Yeah, I\u2019m sure. I want to go back in and check on Wakana anyway."
+    },
+    {
+      "character": "Rika",
+      "text": "She still taking the Sensei thing as badly as Imani has been?"
+    },
+    {
+      "character": "Osako",
+      "text": "That\u2019s...not a thing I want to get into right now. I\u2019ll call you later."
+    },
+    {
+      "character": "Rika",
+      "text": "Kay. Talk to you then. Let me know if you need anything."
+    },
+    {
+      "character": "Osako",
+      "text": "Yeah...bye."
+    },
+    {
+      "character": "Rin",
+      "text": "..."
+    },
+    {
+      "character": "Rika",
+      "text": "..."
+    },
+    {
+      "character": "Rika",
+      "text": "That was Osako."
+    },
+    {
+      "character": "Rin",
+      "text": "I know who it was, Mom."
+    },
+    {
+      "character": "Rika",
+      "text": "Are you still upset too?"
+    },
+    {
+      "character": "Rin",
+      "text": "I already told you. It was mutual."
+    },
+    {
+      "character": "Rika",
+      "text": "You know that\u2019s not what I mean."
+    },
+    {
+      "character": "Rin",
+      "text": "..."
+    },
+    {
+      "character": "Rika",
+      "text": "Do you want to talk about it?"
+    },
+    {
+      "character": "Rin",
+      "text": "..."
+    },
+    {
+      "character": "Rika",
+      "text": "You haven\u2019t been doing anything stupid, have you?"
+    },
+    {
+      "character": "Rin",
+      "text": "No..."
+    },
+    {
+      "character": "Rika",
+      "text": "Are you lying to me?"
+    },
+    {
+      "character": "Rin",
+      "text": "No..."
+    },
+    {
+      "character": "Rika",
+      "text": "..."
+    },
+    {
+      "character": "Rin",
+      "text": "..."
+    },
+    {
+      "character": "Rika",
+      "text": "I like you as a blonde. You look cool."
+    },
+    {
+      "character": "Rin",
+      "text": "Thanks. But just so you know, there\u2019s nothing less cool than being called \u201ccool\u201d by your uncool mom."
+    },
+    {
+      "character": "Rika",
+      "text": "We\u2019re in private. No one\u2019s going to care."
+    },
+    {
+      "character": "Rin",
+      "text": "..."
+    },
+    {
+      "character": "Rika",
+      "text": "Which is why I want to tell you the same thing I told Osako just now. Let me know if you need anything. Okay?"
+    },
+    {
+      "character": "Rin",
+      "text": "..."
+    },
+    {
+      "character": "Rika",
+      "text": "Rin. Look at me."
+    },
+    {
+      "character": "Rin",
+      "text": "Why? Are you trying to embarrass me on purpose right now or something?"
+    },
+    {
+      "character": "Rika",
+      "text": "Of course not. I just love you. And I want you to know that even if I\u2019m kind of an idiot and not a great mom...that won\u2019t ever change. "
+    },
+    {
+      "character": "Rin",
+      "text": "..."
+    },
+    {
+      "character": "Rika",
+      "text": "..."
+    },
+    {
+      "character": "Rika",
+      "text": "\u201cI love you too, Mom! You\u2019re so awesome and pretty and only 42 years old!\u201d"
+    },
+    {
+      "character": "Rin",
+      "text": "..."
+    },
+    {
+      "character": "Rin",
+      "text": "You\u2019re 43..."
+    },
+    {
+      "character": "Rika",
+      "text": "And now {i}we{/i} must fight as well! Mwahahaha!"
+    },
+    {
+      "character": "Rin",
+      "text": "Wha- get off of me! I\u2019m half naked!"
+    },
+    {
+      "character": "Rika",
+      "text": "Never! You\u2019re my daughter and I\u2019ll attack you in the dressing room if I-"
+    },
+    {
+      "character": "Employee",
+      "text": "Okay. That\u2019s it. You two have been in here for half an hour and have not shut up even once. It\u2019s time to go."
+    },
+    {
+      "character": "Rika",
+      "text": "Attack!"
+    },
+    {
+      "character": "Rin",
+      "text": "Mom! You can't attack the employees!"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Rin\u2019s affection has decayed by 10!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "springtime9": {
+      "from": null,
+      "to": true
+    },
+    "rin_love -": {
+      "from": null,
+      "to": 10
+    }
+  }
+}

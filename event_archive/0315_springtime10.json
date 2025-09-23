@@ -1,0 +1,544 @@
+{
+  "event_id": 315,
+  "event_label": "springtime10",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "{i}Hours later \u2014 when the well has run dry...{/i}"
+    },
+    {
+      "character": "Noriko",
+      "text": "Thanks for the ride, Nee-san. The limo might have been overkill, though. I would have been happy with a 99 Chevy Prizm."
+    },
+    {
+      "character": "Niki",
+      "text": "What a specific car to have used as an example there. But also, you\u2019re welcome. Even though you should probably be thanking our vegetable of a childhood friend instead of me."
+    },
+    {
+      "character": "Niki",
+      "text": "If it wasn\u2019t for him, I\u2019d be either up on stage or...up on top of his penis right now. "
+    },
+    {
+      "character": "Noriko",
+      "text": "Is...that really something you should be openly admitting to your little sister?"
+    },
+    {
+      "character": "Niki",
+      "text": "Yes. Who {i}else{/i} am I going to brag to? I don\u2019t have any friends. The closest thing I have is that Kaori girl and that\u2019s really just because of all the wieners. "
+    },
+    {
+      "character": "Noriko",
+      "text": "Also, we don\u2019t know for sure that Akira is a vegetable. Like, we haven\u2019t even seen him since he got \u201csick.\u201d Which is obviously just a front perpetuated by the world\u2019s clingiest niece."
+    },
+    {
+      "character": "Niki",
+      "text": "Yeah. That\u2019s really starting to piss me off. Fool me once by keeping my boyfriend locked in his room for a whole month, shame on me. Fool me twice by keeping my boyfriend locked-"
+    },
+    {
+      "character": "Noriko",
+      "text": "Yeah, I...I get it, Nee-san. He\u2019s been in there for a while. But...at least we know where he is this time, right?"
+    },
+    {
+      "character": "Niki",
+      "text": "Yeah...but something\u2019s really fishy about this whole thing. It\u2019s textbook Akira to disappear when things get too hard, but why does {i}Ami{/i} seem so...fine?"
+    },
+    {
+      "character": "Niki",
+      "text": "Like, what could have gotten to {i}him{/i} so badly but not her? "
+    },
+    {
+      "character": "Niki",
+      "text": "I say we kill her and start taking care of him ourselves. I\u2019m rich. Kind of. I could get away with it."
+    },
+    {
+      "character": "Noriko",
+      "text": "That...is definitely one way to handle this. Sure. But I\u2019m kind of reluctant to do anything that drastic right now since it could always just make Akira even {i}worse.{/i}"
+    },
+    {
+      "character": "Niki",
+      "text": "So...it\u2019s not the murder you have a problem with. It\u2019s the fact that engaging in murder could make Akira like you less."
+    },
+    {
+      "character": "Noriko",
+      "text": "I said what I said."
+    },
+    {
+      "character": "Niki",
+      "text": "Well, you\u2019re definitely a Nakayama alright."
+    },
+    {
+      "character": "Noriko",
+      "text": "Was the bright pink hair not a big enough giveaway? "
+    },
+    {
+      "character": "Niki",
+      "text": "Do you think he\u2019ll actually get to open our presents? Or do you think Ami threw them right into the trash the moment we left?"
+    },
+    {
+      "character": "Noriko",
+      "text": "It\u2019s hard to ever know with her. Like, some days, she seems like such an amazing, caring girl. Then others, it\u2019s like she\u2019s got so many screws loose that she\u2019s the physical manifestation of a Home Depot dustbin."
+    },
+    {
+      "character": "Niki",
+      "text": "Well, yeah. Why do you think I\u2019m so nice to her all the time?"
+    },
+    {
+      "character": "Noriko",
+      "text": "Because...you want Akira to like you as much as possible and it would be hard to win him over while trashing the only surviving member of his family?"
+    },
+    {
+      "character": "Niki",
+      "text": "That\u2019s definitely a part of it, sure. "
+    },
+    {
+      "character": "Niki",
+      "text": "And there\u2019s also a part of {i}me{/i} who remembers when she was a little kid. And yes, some kids grow up to be brats and just {i}remembering{/i} them shouldn\u2019t give them a pass."
+    },
+    {
+      "character": "Niki",
+      "text": "But {i}not{/i} everyone\u2019s parents die in a car crash. "
+    },
+    {
+      "character": "Niki",
+      "text": "And {i}not{/i} everyone has to grow up in a household without a real guardian, taking care of a broken man who managed to break even {i}more{/i} after that same accident."
+    },
+    {
+      "character": "Niki",
+      "text": "Ami\u2019s been through a lot. Now, does that excuse her from being a control freak who won\u2019t accept outside help from two people who have known him just as long as she has? Of course not. "
+    },
+    {
+      "character": "Niki",
+      "text": "But we need to remember that she\u2019s just as fragile as him. And that she {i}is{/i} the physical manifestation of a Home Depot dustbin."
+    },
+    {
+      "character": "Noriko",
+      "text": "That speech almost made me forget that you suggested we kill her a few minutes ago."
+    },
+    {
+      "character": "Niki",
+      "text": "I, too, am an enigma. And one that has accepted that sometimes, shit is just going to get really weird and there is basically nothing I can do about it."
+    },
+    {
+      "character": "Noriko",
+      "text": "How much longer are you willing to wait, though? Because at this rate, I\u2019m starting to worry he might {i}never{/i} leave that house again without some...interference. "
+    },
+    {
+      "character": "Niki",
+      "text": "You know what would {i}really{/i} suck? If he wasn\u2019t even there and Ami was just stalling us while he {i}flees{/i} again."
+    },
+    {
+      "character": "Noriko",
+      "text": "Nee-san. I will fucking {i}kill{/i} you if you joke about that again."
+    },
+    {
+      "character": "Niki",
+      "text": "Oh, so {i}now{/i} murder is okay when the target is your own flesh and blood? Real cool, Noriko."
+    },
+    {
+      "character": "Noriko",
+      "text": "How could you even say that with a straight face?"
+    },
+    {
+      "character": "Niki",
+      "text": "Easy. Now that he knows how great it is to have sex with me, he\u2019d obviously never run away again. And if he did, he\u2019d come right back the second he gets a boner."
+    },
+    {
+      "character": "Noriko",
+      "text": "..."
+    },
+    {
+      "character": "Niki",
+      "text": "Don\u2019t tell Mom I said that."
+    },
+    {
+      "character": "Noriko",
+      "text": "I am going to go inside and deliver this present now. Please never speak to me again."
+    },
+    {
+      "character": "Niki",
+      "text": "Wait...Noriko."
+    },
+    {
+      "character": "Noriko",
+      "text": "You dare stop me when-"
+    },
+    {
+      "character": "Niki",
+      "text": "Who was that girl yesterday?"
+    },
+    {
+      "character": "Noriko",
+      "text": "Girl? What girl?"
+    },
+    {
+      "character": "Niki",
+      "text": "The one who stormed out and slammed the door when we walked into Akira\u2019s house."
+    },
+    {
+      "character": "Noriko",
+      "text": "Oh. Maya. Yeah, we\u2019re kind of rivals...or something."
+    },
+    {
+      "character": "Noriko",
+      "text": "I don\u2019t really know. Sensei used to tutor her as well and she kind of just hates me now because I still like him."
+    },
+    {
+      "character": "Niki",
+      "text": "So...she likes Akira as well?"
+    },
+    {
+      "character": "Noriko",
+      "text": "Who {i}doesn\u2019t{/i} in this city? I feel like he\u2019s even more popular than {i}you{/i} are and you\u2019re on billboards."
+    },
+    {
+      "character": "Niki",
+      "text": "I see..."
+    },
+    {
+      "character": "Noriko",
+      "text": "Why do you ask, though? She was gone so quickly that I didn\u2019t even realize you noticed her."
+    },
+    {
+      "character": "Niki",
+      "text": "I don\u2019t really know..."
+    },
+    {
+      "character": "Niki",
+      "text": "Something just felt kind of...{i}off{/i} about her. Like I recognize her from somewhere or..."
+    },
+    {
+      "character": "Niki",
+      "text": "I can\u2019t really remember..."
+    },
+    {
+      "character": "Noriko",
+      "text": "Well, you\u2019re definitely right about something being {i}off.{/i} "
+    },
+    {
+      "character": "Noriko",
+      "text": "I\u2019ve been thinking the same thing lately. Just...in a way that probably wouldn\u2019t make any sense to someone who just saw her for the first time."
+    },
+    {
+      "character": "Niki",
+      "text": "Uhh...what? What does that mean?"
+    },
+    {
+      "character": "Noriko",
+      "text": "She\u2019s been, like...{i}different{/i} lately."
+    },
+    {
+      "character": "narrator",
+      "text": "And so she told her-"
+    },
+    {
+      "character": "narrator",
+      "text": "Of the drastic difference between what once was and what now is \u2014 laced by a tinge of desperation and the desire not to understand, but to know."
+    },
+    {
+      "character": "narrator",
+      "text": "She told her of the girl with eyes a step removed from aquamarine \u2014 who loved melons and hated {i}her.{/i} How she nearly lunged for her throat the moment they were reacquainted."
+    },
+    {
+      "character": "narrator",
+      "text": "How she did it again just last month."
+    },
+    {
+      "character": "narrator",
+      "text": "And how no one batted an eye. "
+    },
+    {
+      "character": "narrator",
+      "text": "No one thought it was {i}strange{/i} or {i}uncharacteristic.{/i} And these were all people that the girl in question appeared to ally herself with."
+    },
+    {
+      "character": "narrator",
+      "text": "Noriko Nakayama believed, in her heart of purest hearts, that she was fit to be an ally \u2014 yet the stars and their subjects had ideas far detached from such a thing."
+    },
+    {
+      "character": "narrator",
+      "text": "Why was it that {i}she,{/i} the one with olive branches for arms and exit signs for eyes, had to be the one tossed into the bonfire while her peers warmed their hands in blissful ignorance?"
+    },
+    {
+      "character": "narrator",
+      "text": "Each step deeper into the throat of a hotel where she would one day be betrayed caused a shooting pain to radiate from her left leg up to her neck and then right back down to its origin point."
+    },
+    {
+      "character": "narrator",
+      "text": "She avoided the cracks in the tiled floor, but would deny to herself that it was superstition compelling her to act in such a manner."
+    },
+    {
+      "character": "narrator",
+      "text": "Upon accidentally breaking her own traditions and worrying for a brief moment that she\u2019d burst into flames due to failure, a thought crosses her eyelids before injecting itself into her nucleus. "
+    },
+    {
+      "character": "narrator",
+      "text": "Am I going insane?"
+    },
+    {
+      "character": "narrator",
+      "text": "Am I the only one who sees what\u2019s happened?"
+    },
+    {
+      "character": "narrator",
+      "text": "When did the sun fall asleep? And when did twenty become nineteen?"
+    },
+    {
+      "character": "narrator",
+      "text": "The tiled floor\u2019s response was not in words, but in soft clops as tradition reformed and reminded her that she would not burn to death today."
+    },
+    {
+      "character": "narrator",
+      "text": "She enters a room that lacks color."
+    },
+    {
+      "character": "narrator",
+      "text": "She looks around. "
+    },
+    {
+      "character": "narrator",
+      "text": "No more gaps in the tiles. No numbers on doors or discarded room service trays spilling their guts out into the stomach of the hallway. "
+    },
+    {
+      "character": "narrator",
+      "text": "Which of these greyscale creatures would tie a rope around her neck and pull her in before her incessant drive to destroy herself would cause her to act out and just {i}ask{/i} what she wanted to ask?"
+    },
+    {
+      "character": "narrator",
+      "text": "The color returns."
+    },
+    {
+      "character": "narrator",
+      "text": "More steps are removed from aquamarine."
+    },
+    {
+      "character": "Imani",
+      "text": "Hell nah. We really just gonna ignore how Rin\u2019s plagiarizing my whole ass fit? Cause I don\u2019t remember signing off on this. And I sign a lot of shit, yo."
+    },
+    {
+      "character": "Rin",
+      "text": "I\u2019m not plagiarizing anything! My outfit\u2019s like...way different! Just...look! The belt...you know...I changed  how it\u2019s positioned! And mine has...more holes in it!"
+    },
+    {
+      "character": "Futaba",
+      "text": "They {i}do{/i} say that imitation is the best form of flattery..."
+    },
+    {
+      "character": "Imani",
+      "text": "The fuck are {i}\u201cthey?\u201d{/i} Cause they ain\u2019t been talkin\u2019 to me! And if they ain\u2019t talkin\u2019 to me, chances are they\u2019ve been helping Rin raid my damn closet."
+    },
+    {
+      "character": "Molly",
+      "text": "Ah! Noriko!"
+    },
+    {
+      "character": "Noriko",
+      "text": "Hey, Molly. Hey, Tsuneyo. Merry Christmas. "
+    },
+    {
+      "character": "narrator",
+      "text": "The magnets inside of them begin to pulsate and bubble up."
+    },
+    {
+      "character": "Molly",
+      "text": "And a merry Christmas to you as well! But that\u2019s enough celebrating. It\u2019s time to get down to {i}business.{/i} "
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "And you better hurry up because markets close at 4:00 PM EST and trading can become particularly volatile after-hours."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "Also, Christmas to you as well."
+    },
+    {
+      "character": "Molly",
+      "text": "Tell me, psion \u2014 how does thee feel about elves and the like?"
+    },
+    {
+      "character": "Noriko",
+      "text": "Thee feels. But thee feelsest the feels that thou feelest not."
+    },
+    {
+      "character": "Molly",
+      "text": "That-"
+    },
+    {
+      "character": "Molly",
+      "text": "What?"
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "Word."
+    },
+    {
+      "character": "Noriko",
+      "text": "I think elves and the like are really cool. I\u2019m just not really sure if I like them as much as you and the rest of the D&D squad if you were about to invite me to play with you guys."
+    },
+    {
+      "character": "Molly",
+      "text": "Huh? How did you know? Did the Kendo Princess tell you?"
+    },
+    {
+      "character": "Noriko",
+      "text": "No. I overheard you when you drew my name for Secret Santa and then loudly proclaimed that you knew a way to give me a present without having to spend any money."
+    },
+    {
+      "character": "Noriko",
+      "text": "Then, my masterful deduction skills led me to the conclusion that you were going to do this and that I was going to tell you that it\u2019s cool if you just don\u2019t give me a present. I know your game is full already."
+    },
+    {
+      "character": "Noriko",
+      "text": "Besides, I\u2019m already in the process of writing a Pathfinder campaign with my sister and I\u2019d prefer to focus on that over joining another campaign."
+    },
+    {
+      "character": "Molly",
+      "text": "Wha- since when are you cool?! I didn\u2019t know about that!"
+    },
+    {
+      "character": "Noriko",
+      "text": "It\u2019s not really anything to write home about. We\u2019ve been working on it for years and are still nowhere close to done, so it\u2019ll probably never see the light of day."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "Have you considered making the paths easier to locate?"
+    },
+    {
+      "character": "Noriko",
+      "text": "No, I\u2019ll have to bring that up at our next sister meeting."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "Please let that amazing business tip be my gift to you this holiday season in lieu of the Emerald Guardian\u2019s forgotten one."
+    },
+    {
+      "character": "Molly",
+      "text": "I...didn\u2019t forget! I\u2019ve just been pooling all of my money for my annual tradition of...buying myself a ton of games for Christmas and then barely talking to anyone for the next month."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "That is what I\u2019d like to call a \u201cMolly Jolly Christmas.\u201d Bam. Zoom. Joke complete."
+    },
+    {
+      "character": "Molly",
+      "text": "Please ignore her. She\u2019s trying to return to the world of stand-up comedy and is having trouble coming up with a catchphrase."
+    },
+    {
+      "character": "Noriko",
+      "text": "Molly, it\u2019s cool. I already said I don\u2019t need a present or anything like that. Just...treat me at Koi Cafe the next time I come in or something."
+    },
+    {
+      "character": "Molly",
+      "text": "If you insist...but do know that I am monitored very closely at work as I have been labeled a \u201cliability\u201d in the past. "
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "Liability? More like {i}cry-{/i}ability, you little bitch. Bam. Zoom. Joke complete."
+    },
+    {
+      "character": "Molly",
+      "text": "As you can see, time away from the stand has made the Kendo Princess very rusty."
+    },
+    {
+      "character": "Kirin",
+      "text": "Ah! If it isn\u2019t the girl who ditched me to hang out with her sister."
+    },
+    {
+      "character": "Noriko",
+      "text": "That loses a lot of impact when you say it while literally walking into the room with {i}your{/i} sister. At least I had the decency to leave mine in the car."
+    },
+    {
+      "character": "Karin",
+      "text": "Hi Noriko! Merry Christmas! Kirin isn\u2019t actually mad that you didn\u2019t come shopping with us. We had a lot of fun."
+    },
+    {
+      "character": "Kirin",
+      "text": "Yeah. It {i}was{/i} just going to be us two, but we wound up bumping into Touka and Yasu as well and they tagged along with us for most of the trip."
+    },
+    {
+      "character": "Karin",
+      "text": "Unfortunately, Touka had something come up and she won\u2019t be able to make it to the party tonight. "
+    },
+    {
+      "character": "Noriko",
+      "text": "That sucks. What about Yasu, though? Where\u2019s she?"
+    },
+    {
+      "character": "Kirin",
+      "text": "That\u2019s a good question. Weren\u2019t you watching her?"
+    },
+    {
+      "character": "Karin",
+      "text": "Me? I thought you said {i}you{/i} were going to watch her. She holds eye contact for too long and it makes me nervous. "
+    },
+    {
+      "character": "Kirin",
+      "text": "..."
+    },
+    {
+      "character": "Karin",
+      "text": "..."
+    },
+    {
+      "character": "Kirin",
+      "text": "She\u2019s around. But enough about that \u2014 what\u2019d you get me for Christmas this year?"
+    },
+    {
+      "character": "Noriko",
+      "text": "I thought we weren\u2019t exchanging gifts this year? I didn\u2019t get you anything. And if you got {i}me{/i} something after telling me to not get you anything, I\u2019m going to be very mad at you."
+    },
+    {
+      "character": "Kirin",
+      "text": "Aww, Noriko. Just knowing I was able to piss you off is better than any present you could possibly-"
+    },
+    {
+      "character": "Karin",
+      "text": "Kirin...look..."
+    },
+    {
+      "character": "Kirin",
+      "text": "Huh? Look at what?"
+    },
+    {
+      "character": "Karin",
+      "text": "M...M......"
+    },
+    {
+      "character": "Kirin",
+      "text": "..."
+    },
+    {
+      "character": "Noriko",
+      "text": "..."
+    },
+    {
+      "character": "Karin",
+      "text": "M..."
+    },
+    {
+      "character": "Karin",
+      "text": "Mistletoe..."
+    },
+    {
+      "character": "Miku",
+      "text": "Ah! Look, everybody! Somebody finally fell for the trap! And by \u201csomebody\u201d I mean Kirin and Noriko!"
+    },
+    {
+      "character": "Kirin",
+      "text": "Well...it looks like we\u2019ll just have to-"
+    },
+    {
+      "character": "Noriko",
+      "text": "Oh no! I am suddenly not under the mistletoe anymore!"
+    },
+    {
+      "character": "Kirin",
+      "text": "Wait! Noriko! I came up with a good idea for my Christmas present!"
+    }
+  ],
+  "state_changes": {
+    "springtime10": {
+      "from": null,
+      "to": true
+    }
+  }
+}

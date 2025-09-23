@@ -1,0 +1,15 @@
+{
+  "event_id": 53,
+  "event_label": "afterschoolmenu",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "What should I do?"
+    },
+    {
+      "character": "narrator",
+      "text": "Where should I go?"
+    }
+  ],
+  "state_changes": {}
+}

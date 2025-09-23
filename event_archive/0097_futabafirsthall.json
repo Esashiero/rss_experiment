@@ -1,0 +1,240 @@
+{
+  "event_id": 97,
+  "event_label": "futabafirsthall",
+  "dialogue": [
+    {
+      "character": "Sensei",
+      "text": "Hey, Futaba. What are you up to tonight?"
+    },
+    {
+      "character": "Futaba",
+      "text": "Hey, Sensei. I\u2019m...not really doing anything."
+    },
+    {
+      "character": "Futaba",
+      "text": "The plan was to spend tonight studying, but..."
+    },
+    {
+      "character": "Futaba",
+      "text": "I guess I...don't really know if there's any rush in doing that on account of your...new methods?"
+    },
+    {
+      "character": "Futaba",
+      "text": "I suppose there still are standardized tests coming up, though...so maybe I should?"
+    },
+    {
+      "character": "Futaba",
+      "text": "Oh! You could...maybe help me study if you have a little free-"
+    },
+    {
+      "character": "Sensei",
+      "text": "Pass."
+    },
+    {
+      "character": "Futaba",
+      "text": "Oh."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah. It's nothing against studying. That's still an...important thing to do, I guess. I'd just prefer not spending my free time helping out with something like that."
+    },
+    {
+      "character": "Futaba",
+      "text": "I guess I can't blame you since that's the same dilemma I'm facing right now. I'll just...hold off until Rin gets home and do it with her, I suppose."
+    },
+    {
+      "character": "Futaba",
+      "text": "Studying alone isn't really fun anyway."
+    },
+    {
+      "character": "Sensei",
+      "text": "To be fair, it's not very fun studying with other people either. But I commend you for keeping up with your studies despite having a teacher who actively talks you out of it."
+    },
+    {
+      "character": "Futaba",
+      "text": "Well...I know you still have my best interests at heart. So I'm sure these new methods of yours will all make sense soon enough."
+    },
+    {
+      "character": "Sensei",
+      "text": "Exactly. Just do everything I tell you to do and you'll graduate in no time at all."
+    },
+    {
+      "character": "Futaba",
+      "text": "E...Everything? That...sounds a little...umm...how should I put this?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Controlling? I guess. I wasn't planning on commanding you to do anything weird, though."
+    },
+    {
+      "character": "narrator",
+      "text": "That comes later."
+    },
+    {
+      "character": "Sensei",
+      "text": "I just think it would be best for all of us if we spent more time relaxing and less time worrying about school."
+    },
+    {
+      "character": "Futaba",
+      "text": "That...kind of sounds like you're trying to discourage me from studying altogether."
+    },
+    {
+      "character": "Sensei",
+      "text": "Maybe not {i}altogether,{/i} but whenever I'm around."
+    },
+    {
+      "character": "Futaba",
+      "text": "Umm...doesn't that sound a little risky, though?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t think so. It's not like I'm going to be with you all hours of every day. Utilizing the time spent with your teacher to...get inspired or something will motivate you when you're alone."
+    },
+    {
+      "character": "Sensei",
+      "text": "I read that in a book somewhere, so it is obviously true."
+    },
+    {
+      "character": "Futaba",
+      "text": "Heheh...Well, if it's in a book, it {i}must{/i} be true."
+    },
+    {
+      "character": "Futaba",
+      "text": "I do like talking to you a lot...so I suppose indulging in that a little more often is fine by me as long as you're okay with it."
+    },
+    {
+      "character": "Futaba",
+      "text": "I just wish I had a little more time tonight to...do that."
+    },
+    {
+      "character": "Futaba",
+      "text": "I don't think Rin will be gone for much longer, unfortunately."
+    },
+    {
+      "character": "Sensei",
+      "text": "I won't take up too much of your time, don't worry. I just wanted to see how things were going over here."
+    },
+    {
+      "character": "Sensei",
+      "text": "Are you enjoying dorm life? Sleeping properly? Do you have a key to the showers I could borrow?"
+    },
+    {
+      "character": "Futaba",
+      "text": "W...What was that last part?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Are you sleeping properly?"
+    },
+    {
+      "character": "Futaba",
+      "text": "Huh...maybe I'm not if I'm...hearing things like I thought I just heard."
+    },
+    {
+      "character": "Futaba",
+      "text": "That aside, living with Rin is really fun. I can't really imagine having any other roommate."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah. She\u2019s quite the character, isn\u2019t she?"
+    },
+    {
+      "character": "Futaba",
+      "text": "Mhm! I\u2019ve known her for years too, so I\u2019ve seen sides of her nobody else has seen."
+    },
+    {
+      "character": "Futaba",
+      "text": "I don't think it would be an overstatement to say that the two of us are inseparable at this point."
+    },
+    {
+      "character": "Sensei",
+      "text": "Huh. I knew you two were close, but I didn\u2019t think you were {i}that{/i} close."
+    },
+    {
+      "character": "Futaba",
+      "text": "Oh, yeah. We are. The two of us are more like sisters than friends, I think."
+    },
+    {
+      "character": "Sensei",
+      "text": "Does that make you the older sister or the younger sister?"
+    },
+    {
+      "character": "Futaba",
+      "text": "I...guess a little of both?"
+    },
+    {
+      "character": "Futaba",
+      "text": "There are times where I have to look out for her...but there are plenty of times where she looks out for me as well."
+    },
+    {
+      "character": "Futaba",
+      "text": "I'd say she's more like a twin sister than anything, but the two of us...don't really look anything alike, so..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Interesting. Well, I'm glad that the two of you can rely on each other. All I have is Ami and you can probably imagine how that is."
+    },
+    {
+      "character": "Futaba",
+      "text": "Hahaha! Yeah, I can imagine that getting pretty exhausting from time to time..."
+    },
+    {
+      "character": "Futaba",
+      "text": "Ami is a good girl, though...And so is Rin."
+    },
+    {
+      "character": "Futaba",
+      "text": "You and I are lucky, Sensei...having people who care about us so much. Even if they can be a little too energetic at times."
+    },
+    {
+      "character": "narrator",
+      "text": "Futaba and I spend the next few minutes talking about school and how she's saving up her allowance money to find a new place closer to the urban district once she graduates."
+    },
+    {
+      "character": "narrator",
+      "text": "Apparently, even though Futaba's parents live overseas, they still send her a check every month."
+    },
+    {
+      "character": "narrator",
+      "text": "It must be great getting money for not doing anything."
+    },
+    {
+      "character": "narrator",
+      "text": "Unfortunately, I am a hard working man who must earn money to live and pay for my CPA's services."
+    },
+    {
+      "character": "narrator",
+      "text": "Eventually, Rin comes back home and I lose my role as the person keeping Futaba occupied for the night."
+    },
+    {
+      "character": "narrator",
+      "text": "The two of them head back inside to start studying for tests and I-"
+    },
+    {
+      "character": "narrator",
+      "text": "I go back home to someone who cares about me."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Futaba\u2019s affection has increased to [futaba_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "futabafirsthall": {
+      "from": null,
+      "to": true
+    }
+  }
+}

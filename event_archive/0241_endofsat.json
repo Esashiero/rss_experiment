@@ -1,0 +1,31 @@
+{
+  "event_id": 241,
+  "event_label": "endofsat",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "I open the door and immediately collapse onto the bed."
+    },
+    {
+      "character": "narrator",
+      "text": "Today was nice, but I'll be going back to work tomorrow..."
+    },
+    {
+      "character": "narrator",
+      "text": "I wonder if anything interesting will happen?"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {}
+}

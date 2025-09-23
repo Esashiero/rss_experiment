@@ -1,0 +1,620 @@
+{
+  "event_id": 137,
+  "event_label": "dormwartwo19",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "And so it all comes to an end once more."
+    },
+    {
+      "character": "narrator",
+      "text": "The girls, with one notable maritime exception, have shed their appropriated (And often times {i}inappropriate{/i}) skin in order to return to their normal forms."
+    },
+    {
+      "character": "narrator",
+      "text": "And after two full days of seeing them in costumes, it comes as a relief in saying-"
+    },
+    {
+      "character": "narrator",
+      "text": "Actually, no. I still wish they were in their costumes."
+    },
+    {
+      "character": "narrator",
+      "text": "But I\u2019m glad this is all wrapping and that I likely won\u2019t have to deal with this much excitement again for a full year."
+    },
+    {
+      "character": "narrator",
+      "text": "Or at least however long it takes for Kumon-mi\u2019s malformed timeline to reach my fourth Halloween. Which could honestly be like, three weeks at this point. But who knows?"
+    },
+    {
+      "character": "narrator",
+      "text": "Either way, play time is over. Which means it\u2019s time to get serious and pass out results."
+    },
+    {
+      "character": "narrator",
+      "text": "And also find out what everyone gets to do with me as the reward this time, which I don\u2019t think has been confirmed as of yet."
+    },
+    {
+      "character": "Sensei",
+      "text": "Let\u2019s do this."
+    },
+    {
+      "character": "Imani",
+      "text": "Somebody\u2019s really raring to go this morning, huh?"
+    },
+    {
+      "character": "Sensei",
+      "text": "There\u2019s no time to be gentle when the lives of ten girls are at stake."
+    },
+    {
+      "character": "Imani",
+      "text": "I want to say that no one is taking this contest that seriously but, unfortunately (And rather depressingly) I think you might be right."
+    },
+    {
+      "character": "Imani",
+      "text": "Alright! Listen up, everybody! In just a few minutes, we\u2019ll be going over the final results for this year\u2019s Super Mega Ultimate Dorm War (Halloween Version)!"
+    },
+    {
+      "character": "Imani",
+      "text": "But before we do that, we have one {i}other{/i} batch of votes we need to go over. And, as I\u2019m sure you already know, those votes are for this year\u2019s popularity contest."
+    },
+    {
+      "character": "Imani",
+      "text": "So if Chika and Otoha could-"
+    },
+    {
+      "character": "Imani",
+      "text": "Wait, where\u2019s Otoha? I don\u2019t see her out there."
+    },
+    {
+      "character": "Rin",
+      "text": "She didn\u2019t want to come. "
+    },
+    {
+      "character": "Imani",
+      "text": "Seriously? Is she still mad about last night? "
+    },
+    {
+      "character": "Rin",
+      "text": "Probably. All I asked was if she was coming or not. We haven\u2019t really {i}talked{/i} yet. "
+    },
+    {
+      "character": "Imani",
+      "text": "Well, I guess that makes things easier to announce then since voting was a total blowout in Chika\u2019s favor."
+    },
+    {
+      "character": "Chika",
+      "text": "Heh. Of course it was."
+    },
+    {
+      "character": "Imani",
+      "text": "Yup! As it turns out, not showing up to events or campaigning to get votes doesn\u2019t do much to bolster your chances of victory! So...congratulations, Chika! And great job at...being places!"
+    },
+    {
+      "character": "Chika",
+      "text": "Thank you, Imani. And thank you to everyone who voted for me. I happily accept both my second consecutive Dorm War victory {i}and{/i} my role as the most popular girl in school."
+    },
+    {
+      "character": "Uta",
+      "text": "Did you see the full results? Our class was obviously split, but you blew it out of the water with the rest of the school."
+    },
+    {
+      "character": "Io",
+      "text": "Yeah. And I\u2019m sure that has {i}nothing{/i} to do with the fact that Otoha transferred in late and doesn\u2019t know as many people."
+    },
+    {
+      "character": "Chika",
+      "text": "It really comes down to just knowing how to talk to the voters. And if there is anything I\u2019m good at, it\u2019s-"
+    },
+    {
+      "character": "Io",
+      "text": "Manipulation? Bribery? Blackmail?"
+    },
+    {
+      "character": "Chika",
+      "text": "Being {i}social.{/i}"
+    },
+    {
+      "character": "Io",
+      "text": "{i}Blech.{/i} Even worse."
+    },
+    {
+      "character": "Imani",
+      "text": "Okay! So now that our final contest is all wrapped up...who\u2019s ready to hear the results?!"
+    },
+    {
+      "character": "narrator",
+      "text": "A small round of applause rings out and attracts a few passersby to stop and observe what\u2019s going on, only to find a crowd of teenagers, a girl in a dolphin suit, and a \u201cforeigner\u201d reading something off of a tablet."
+    },
+    {
+      "character": "narrator",
+      "text": "Needless to say, the applause does not hold their attention for long. Which is good because I highly doubt they\u2019d understand what\u2019s happening here anyway."
+    },
+    {
+      "character": "Imani",
+      "text": "The winner..."
+    },
+    {
+      "character": "Imani",
+      "text": "Of this year\u2019s Super Mega Ultimate Dorm War..."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Uta",
+      "text": "Well...it\u2019s all over. The best holiday of the year has finally come to an end."
+    },
+    {
+      "character": "Uta",
+      "text": "Memories were made...lives were destroyed..."
+    },
+    {
+      "character": "Uta",
+      "text": "But most importantly...we got to see Io in a butler outfit."
+    },
+    {
+      "character": "Io",
+      "text": "Was that seriously the best part of the weekend for you? Because that was probably in my bottom ten."
+    },
+    {
+      "character": "Chika",
+      "text": "I\u2019m surprised you stuck around long enough to make any sort of ranking. I feel like we barely saw you at the last Dorm War."
+    },
+    {
+      "character": "Io",
+      "text": "Probably because I find everyone but Uta, Sensei, and sometimes Otoha entirely unbearable."
+    },
+    {
+      "character": "Chika",
+      "text": "I take it you didn\u2019t vote for me, then?"
+    },
+    {
+      "character": "Io",
+      "text": "I would have voted for a literal dog over you."
+    },
+    {
+      "character": "Chika",
+      "text": "I\u2019m glad I didn\u2019t have to run against a dog. I might be popular, but I\u2019m not \u201cbeat a dog in a popularity contest\u201d popular."
+    },
+    {
+      "character": "Uta",
+      "text": "If we do this contest again next year...maybe you should run, Io?"
+    },
+    {
+      "character": "Io",
+      "text": "Run {i}away?{/i} Sure. I can do that."
+    },
+    {
+      "character": "Uta",
+      "text": "Run in the contest, obviously. Might be good to show people you\u2019re not just a big ole antisocial jerk. "
+    },
+    {
+      "character": "Io",
+      "text": "But...But that\u2019s exactly who I am."
+    },
+    {
+      "character": "Uta",
+      "text": "Yeah, but you\u2019re also really good at faking stuff when you really want to."
+    },
+    {
+      "character": "Chika",
+      "text": "If it\u2019s any consolation, I don\u2019t hate you or anything. But I probably wouldn\u2019t vote for you either because of the whole second floor thing."
+    },
+    {
+      "character": "Io",
+      "text": "Wait, why are you even here? Since when do you hang out with us?"
+    },
+    {
+      "character": "Chika",
+      "text": "Rin is mad at me and Yumi is MIA. I gravitated toward Uta since she talks a lot. "
+    },
+    {
+      "character": "Io",
+      "text": "Oh. Well, can you gravitate away now? "
+    },
+    {
+      "character": "Chika",
+      "text": "Nah. Not unless Yumi randomly shows up."
+    },
+    {
+      "character": "Yumi",
+      "text": "I\u2019m Yumi."
+    },
+    {
+      "character": "Uta",
+      "text": "Wow. Talk about convenient timing."
+    },
+    {
+      "character": "Chika",
+      "text": "Yumi?! What are you doing here?!"
+    },
+    {
+      "character": "Yumi",
+      "text": "Have somethin\u2019 to take care of. "
+    },
+    {
+      "character": "Uta",
+      "text": "Nodoka, run!"
+    },
+    {
+      "character": "Yumi",
+      "text": "Not that. "
+    },
+    {
+      "character": "Chika",
+      "text": "What do you have to take care of? Because I\u2019m being kicked out of this group and I don\u2019t want to walk around in circles pretending I\u2019m on the phone."
+    },
+    {
+      "character": "Yumi",
+      "text": "Just gotta have a quick conversation. Five minutes tops. Then we can go get breakfast or some shit. I don\u2019t know."
+    },
+    {
+      "character": "Yumi",
+      "text": "Wait, don\u2019t you have school today? The fuck you guys doing just hanging out like this?"
+    },
+    {
+      "character": "Io",
+      "text": "Since when does skipping matter to you?"
+    },
+    {
+      "character": "Chika",
+      "text": "There\u2019s no class today. Imani got the Dorm Wars labeled as a school-wide holiday so everybody can go home and watch the televised version."
+    },
+    {
+      "character": "Yumi",
+      "text": "You mean to tell me this shit\u2019s actually televised?"
+    },
+    {
+      "character": "Chika",
+      "text": "Yeah. Crazy, right?"
+    },
+    {
+      "character": "Uta",
+      "text": "We\u2019ve sure come a long way in just a year."
+    },
+    {
+      "character": "Yumi",
+      "text": "Aight, well...I guess just keep not fitting in or some shit until I get back. Like I said, won\u2019t take long."
+    },
+    {
+      "character": "Chika",
+      "text": "Okay! Good luck with whatever it is you\u2019re doing! "
+    },
+    {
+      "character": "Io",
+      "text": "Yeah! And please hurry!"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Imani",
+      "text": "Oh, Yumi. What a surprise."
+    },
+    {
+      "character": "Yumi",
+      "text": "Yeah, hi. I ain\u2019t here to beat the shit out of anybody."
+    },
+    {
+      "character": "Imani",
+      "text": "That\u2019s good."
+    },
+    {
+      "character": "Imani",
+      "text": "Do you want to hear who won the-"
+    },
+    {
+      "character": "Yumi",
+      "text": "Nah. Don\u2019t care. Ain\u2019t even really a part of the class anymore. "
+    },
+    {
+      "character": "Yumi",
+      "text": "Just wanted to talk to the douchebag beside you for a few minutes."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m assuming I am the douchebag?"
+    },
+    {
+      "character": "Yumi",
+      "text": "Do you see anyone around here douchier than you?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Might I suggest the dolphin to my left?"
+    },
+    {
+      "character": "Mystery Dolphin",
+      "text": "Fuck off."
+    },
+    {
+      "character": "Imani",
+      "text": "Jesus Christ, it speaks?!"
+    },
+    {
+      "character": "Yumi",
+      "text": "I ain\u2019t talkin\u2019 to a fuckin\u2019 dolphin. Just come with me for a minute. It won\u2019t take long."
+    },
+    {
+      "character": "Sensei",
+      "text": "Imani...there\u2019s not anything left for me to do, right?"
+    },
+    {
+      "character": "Imani",
+      "text": "Yeah there is. You\u2019ve gotta protect me from the mystery dolphin. I didn\u2019t realize it was {i}intelligent.{/i}"
+    },
+    {
+      "character": "Yumi",
+      "text": "Ain\u2019t got all day."
+    },
+    {
+      "character": "Sensei",
+      "text": "Sorry. Protect yourself."
+    },
+    {
+      "character": "Imani",
+      "text": "Senpai! Be careful! She\u2019s a known assailant!"
+    },
+    {
+      "character": "Sensei",
+      "text": "I think I can take her."
+    },
+    {
+      "character": "Yumi",
+      "text": "Yeah, you fucking wish."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "So...what\u2019s going-"
+    },
+    {
+      "character": "Yumi",
+      "text": "Listen...I'm just gonna cut right to the chase."
+    },
+    {
+      "character": "Yumi",
+      "text": "Why\u2019d you just let it happen?"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Yumi",
+      "text": "You know what I\u2019m talking about."
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t have an excuse, Yumi."
+    },
+    {
+      "character": "Yumi",
+      "text": "Yeah, how the fuck {i}could{/i} you?!"
+    },
+    {
+      "character": "Yumi",
+      "text": "What kind of shit do you think you can just say to make it feel like none of that ever happened?! Because if there\u2019s some sorta miracle cure you think you can pull outta thin air, I\u2019d love to hear it!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Yumi-"
+    },
+    {
+      "character": "Yumi",
+      "text": "I was finally starting to trust you! I thought you were on my side!"
+    },
+    {
+      "character": "Yumi",
+      "text": "All that shit with...helping me get a job! Helping me study! Genuinely fucking apologizing for the shitty things you\u2019ve done to me! Was that all fake?! Some kind of plot to get me undressed?! To corner me?!"
+    },
+    {
+      "character": "Yumi",
+      "text": "Is this just a game to you?! Am I a plaything?!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Nothing about that was or {i}is{/i} a game. I told you back then that I was just as surprised as you."
+    },
+    {
+      "character": "Yumi",
+      "text": "Then why?..."
+    },
+    {
+      "character": "Yumi",
+      "text": "Why did you just freeze?"
+    },
+    {
+      "character": "Yumi",
+      "text": "You're a fucking {i}adult...{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Yumi",
+      "text": "Why didn\u2019t you stand up to her?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Because I didn\u2019t know {i}how...{/i}"
+    },
+    {
+      "character": "Yumi",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Or maybe some part of me didn\u2019t want to. "
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t know."
+    },
+    {
+      "character": "Yumi",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m disgusting, Yumi. "
+    },
+    {
+      "character": "Sensei",
+      "text": "You know it. I know it. Everyone knows it. It\u2019s not like I try to keep it a secret."
+    },
+    {
+      "character": "Sensei",
+      "text": "And I\u2019m not just talking about forcing myself on you either. I\u2019m talking about {i}everything.{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "Do you have {i}any{/i} idea how many times I\u2019ve gotten off while thinking about you? Because the number would make you sick."
+    },
+    {
+      "character": "Yumi",
+      "text": "Why...are you telling me this? That\u2019s not why I-"
+    },
+    {
+      "character": "Sensei",
+      "text": "Because lying to you doesn\u2019t work. And I\u2019m sure you don\u2019t {i}want{/i} me to lie to you either."
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t {i}know{/i} why I froze. But I did. And I can\u2019t go back in time and change that, just like I can\u2019t go back in time and change when I kissed you."
+    },
+    {
+      "character": "Sensei",
+      "text": "Or, I don\u2019t know. Maybe I can. But I don\u2019t {i}want{/i} to because it\u2019s those things that brought us here."
+    },
+    {
+      "character": "Sensei",
+      "text": "And even if this world is fucked beyond belief and I\u2019m going to repeatedly destroy any hope you\u2019ll ever have in me, I can\u2019t change."
+    },
+    {
+      "character": "Sensei",
+      "text": "I {i}won\u2019t{/i} change."
+    },
+    {
+      "character": "Sensei",
+      "text": "But {i}you{/i} will."
+    },
+    {
+      "character": "Sensei",
+      "text": "If you want to keep staying away from me, that\u2019s fine. I don\u2019t blame you. "
+    },
+    {
+      "character": "Sensei",
+      "text": "You\u2019ve already given me multiple chances to redeem myself and I\u2019ve squandered every single one of them."
+    },
+    {
+      "character": "Sensei",
+      "text": "You can\u2019t trust me. "
+    },
+    {
+      "character": "Sensei",
+      "text": "You were an idiot for ever {i}thinking{/i} you could trust me after all I\u2019ve done to you."
+    },
+    {
+      "character": "Sensei",
+      "text": "And the most disheartening part of all of that is I can\u2019t even remember some of it."
+    },
+    {
+      "character": "Sensei",
+      "text": "Or maybe I can...but I {i}don't.{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "Maybe I just {i}choose{/i} not to remember because of the way it makes me feel."
+    },
+    {
+      "character": "Sensei",
+      "text": "But I\u2019d do it all again in a heartbeat because that\u2019s just who I am."
+    },
+    {
+      "character": "Sensei",
+      "text": "Never count on me."
+    },
+    {
+      "character": "Sensei",
+      "text": "Never believe in me."
+    },
+    {
+      "character": "Sensei",
+      "text": "{s}And run away while you still can.{/s}"
+    },
+    {
+      "character": "Yumi",
+      "text": "But why?..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Why what?"
+    },
+    {
+      "character": "Yumi",
+      "text": "Why are you telling me this {i}now?...{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Yumi",
+      "text": "..."
+    },
+    {
+      "character": "Ayane",
+      "text": "Uhh...Sensei?"
+    },
+    {
+      "character": "Ayane",
+      "text": "I think we\u2019ve got a bit of a problem..."
+    }
+  ],
+  "state_changes": {
+    "dormwartwo19": {
+      "from": null,
+      "to": true
+    },
+    "day -": {
+      "from": null,
+      "to": 6
+    }
+  }
+}

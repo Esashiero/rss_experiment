@@ -1,0 +1,1048 @@
+{
+  "event_id": 167,
+  "event_label": "dormwar10",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "I wake up to nothing at all."
+    },
+    {
+      "character": "narrator",
+      "text": "A horrible start to the day."
+    },
+    {
+      "character": "narrator",
+      "text": "I faintly recall getting up in the middle of the night to blast the AC, but it has now reached a point where I am so cold that I don\u2019t even want to move."
+    },
+    {
+      "character": "narrator",
+      "text": "So I lie here and die."
+    },
+    {
+      "character": "narrator",
+      "text": "I lie here underneath a beige ceiling, accompanied by the four paperthin walls propping it up-"
+    },
+    {
+      "character": "narrator",
+      "text": "And die."
+    },
+    {
+      "character": "narrator",
+      "text": "Goodbye, world."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I stare up and try to connect this morning\u2019s vision with the one I\u2019m most accompanied with."
+    },
+    {
+      "character": "narrator",
+      "text": "This ceiling is lower than the one in my room, which means that if I were to continue growing, I\u2019d hit my head on this one before the other."
+    },
+    {
+      "character": "narrator",
+      "text": "But that\u2019s just how verticality works."
+    },
+    {
+      "character": "narrator",
+      "text": "The higher something is, the safer it is."
+    },
+    {
+      "character": "narrator",
+      "text": "So we should all ascend and ascend and ascend, placing ourselves on top of the highest things we can find."
+    },
+    {
+      "character": "narrator",
+      "text": "Because only then can we look down at those who have had their growth stunted and laugh a hearty laugh, pressing our hands against the skin of our arms to scare away the goosebumps."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I have never liked the way the world looks right after opening my eyes."
+    },
+    {
+      "character": "narrator",
+      "text": "It\u2019s one of the saddest views of all."
+    },
+    {
+      "character": "narrator",
+      "text": "Because even though it is wonderful to breathe and wonderful to see-"
+    },
+    {
+      "character": "narrator",
+      "text": "It is not wonderful to be."
+    },
+    {
+      "character": "narrator",
+      "text": "But I am."
+    },
+    {
+      "character": "???",
+      "text": "Oh, you\u2019re up."
+    },
+    {
+      "character": "Io",
+      "text": "Yo."
+    },
+    {
+      "character": "Sensei",
+      "text": "...Io?"
+    },
+    {
+      "character": "Io",
+      "text": "Io. "
+    },
+    {
+      "character": "Sensei",
+      "text": "What are you doing here?"
+    },
+    {
+      "character": "Io",
+      "text": "Avoiding female contact."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yes, but...when did you even get here? I went to sleep pretty late."
+    },
+    {
+      "character": "Io",
+      "text": "Sometime between like, 2:00 AM and 3:00 AM I think?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Uh-huh. And how exactly did you get into my room?"
+    },
+    {
+      "character": "Io",
+      "text": "I told the people at the front desk that you were my dad and they just gave me a key."
+    },
+    {
+      "character": "Io",
+      "text": "Crafty, right?"
+    },
+    {
+      "character": "Io",
+      "text": "I\u2019m glad you didn\u2019t have the chain lock attached because that would have meant I\u2019d need to go home and get my tools, which would be significantly harder to explain to the employees."
+    },
+    {
+      "character": "Sensei",
+      "text": "You were that desperate to get away from your floormates, huh?"
+    },
+    {
+      "character": "Io",
+      "text": "Don\u2019t tell me you\u2019re surprised by that."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m not. But I {i}am{/i} surprised that you didn\u2019t just go back to the dorm instead."
+    },
+    {
+      "character": "Io",
+      "text": "To tell you the truth, so am I."
+    },
+    {
+      "character": "Io",
+      "text": "But it was somewhere around like 1:30 that I started thinking about stuff, and among all of those thoughts was this one guy who looks kind of like you."
+    },
+    {
+      "character": "Sensei",
+      "text": "Kind of?"
+    },
+    {
+      "character": "Io",
+      "text": "Kind of. You look pretty different without your glasses."
+    },
+    {
+      "character": "Sensei",
+      "text": "And you look different in...whatever you\u2019re wearing right now."
+    },
+    {
+      "character": "Io",
+      "text": "What\u2019s wrong with what I\u2019m wearing right now?"
+    },
+    {
+      "character": "Sensei",
+      "text": "It's..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Nothing. It's fine."
+    },
+    {
+      "character": "Io",
+      "text": "If you close your eyes, I can put my normal clothes back on. I got changed while you were sleeping and just threw them all at the foot of your bed."
+    },
+    {
+      "character": "Sensei",
+      "text": "At least have the courtesy to wake me up next time."
+    },
+    {
+      "character": "Io",
+      "text": "You did wake up. You stepped on my leg on your way to the air conditioner before deciding that you wanted to freeze the two of us to death."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m sure I was only subconsciously trying to freeze myself to death. I didn\u2019t realize you were here."
+    },
+    {
+      "character": "Io",
+      "text": "And literally stepping on me wasn\u2019t enough to give that away?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I...was apparently very tired."
+    },
+    {
+      "character": "Io",
+      "text": "Well, since you\u2019re awake now, how about we start drafting our escape plan?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Escape plan?"
+    },
+    {
+      "character": "Io",
+      "text": "Yeah. Where we ditch the rest of this competition thing and go hang out at an amusement park or something."
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t think I\u2019m allowed to do that, unfortunately."
+    },
+    {
+      "character": "Io",
+      "text": "What do you mean you\u2019re not allowed? You\u2019re a grown man and you make your own rules."
+    },
+    {
+      "character": "Io",
+      "text": "What do you have to gain by letting a bunch of annoying [teens] drag you around like you\u2019re some kind of dog all day?"
+    },
+    {
+      "character": "Sensei",
+      "text": "What do I have to gain by ditching them to be with you?"
+    },
+    {
+      "character": "Io",
+      "text": "One whole Io. Redeemable wherever Ios are accepted."
+    },
+    {
+      "character": "Io",
+      "text": "So basically nowhere because Io is trash and her value keeps getting lower and lower with each passing day."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah, that doesn\u2019t sound like a great investment."
+    },
+    {
+      "character": "Io",
+      "text": "What if I add like...a snack to the deal? You like potato chips?"
+    },
+    {
+      "character": "Io",
+      "text": "Let\u2019s go get potato chips. And soda. And then ride some big fucking rollercoaster or something."
+    },
+    {
+      "character": "Sensei",
+      "text": "You have too much energy for it being this early..."
+    },
+    {
+      "character": "Sensei",
+      "text": "In fact, why are you even awake? Didn\u2019t you say you didn\u2019t fall asleep until like 2:00 or 3:00?"
+    },
+    {
+      "character": "Io",
+      "text": "Ish. But it\u2019s not really easy to sleep when A: you stepped on me and really hurt my leg. And B: I had to sleep on the floor."
+    },
+    {
+      "character": "Io",
+      "text": "Like, yeah, I\u2019ve got a futon and stuff..."
+    },
+    {
+      "character": "Io",
+      "text": "But that bed looks crazy comfortable and it gave me one of those inner struggle things where I had to think about whether or not it would be cool to join you in there."
+    },
+    {
+      "character": "Sensei",
+      "text": "I wouldn\u2019t have minded. Though, it definitely would have been a little more confusing to wake up to that when I feel like I haven\u2019t seen much of you at all lately."
+    },
+    {
+      "character": "Io",
+      "text": "And whose fault is that?"
+    },
+    {
+      "character": "Io",
+      "text": "You realize that you\u2019re one of the two people I actually enjoy spending time with, right?"
+    },
+    {
+      "character": "Io",
+      "text": "And Uta\u2019s been kind of all over me lately, so it would be nice if you\u2019d come see me more to balance out the scale and blah blah blah Io is needy."
+    },
+    {
+      "character": "Sensei",
+      "text": "Speaking of Uta, did you ever tell her where you ran off to? I know she was looking for you last night."
+    },
+    {
+      "character": "Sensei",
+      "text": "In fact, where {i}did{/i} you run off to?"
+    },
+    {
+      "character": "Io",
+      "text": "I think some of Ayane\u2019s blood splashed onto me after she was decimated at the maid cafe, so I wound up going back to my aunt\u2019s to take a bath."
+    },
+    {
+      "character": "Io",
+      "text": "Also figured that Yuki might be there since it was a Saturday night and she\u2019s normally free around then. But nope, no dice."
+    },
+    {
+      "character": "Sensei",
+      "text": "Probably because she was with me."
+    },
+    {
+      "character": "Io",
+      "text": "Yuki was? "
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah, I ran into her while I was walking around."
+    },
+    {
+      "character": "Io",
+      "text": "Oh, okay. So you two didn\u2019t like, make plans or anything. You just bumped into each other."
+    },
+    {
+      "character": "Io",
+      "text": "How do you find the time to cultivate relationships with so many people, Sensei?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Easy. Time is unlimited."
+    },
+    {
+      "character": "Io",
+      "text": "That\u2019s debatable. "
+    },
+    {
+      "character": "Io",
+      "text": "Time is a human construct with no direct intrinsic value, so it\u2019s only as unlimited as we humans want or imagine it to be."
+    },
+    {
+      "character": "Io",
+      "text": "Also, the fact that time itself could be considered unlimited has no bearing on the time that you, a middle aged male, have left to live your life."
+    },
+    {
+      "character": "Io",
+      "text": "Cherish every second. Celebrate what it means to live. Vote Io."
+    },
+    {
+      "character": "Sensei",
+      "text": "...Vote Io for what?"
+    },
+    {
+      "character": "Io",
+      "text": "Dunno. Just sounded like a good campaign slogan."
+    },
+    {
+      "character": "Io",
+      "text": "Anyway, is it cool if I use your shower to get ready for the amusement park? I don\u2019t really wear makeup so I\u2019ll only be like ten minutes tops."
+    },
+    {
+      "character": "Sensei",
+      "text": "Io, I\u2019m not going to the amusement park with you. I have to get up and...let girls fight over me or something."
+    },
+    {
+      "character": "Io",
+      "text": "But I\u2019m fighting for you right now. Why does anyone else need to be involved?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Because they made plans to fight for me and didn\u2019t just sneak into my room in the middle of the night."
+    },
+    {
+      "character": "Io",
+      "text": "Guh. Who would have thought that being assertive would spell my downfall when it only seems to make you like everyone else more?"
+    },
+    {
+      "character": "Sensei",
+      "text": "It\u2019s not a downfall and I don\u2019t like you any less than I did before. I just can\u2019t do what you want me to do right now."
+    },
+    {
+      "character": "Sensei",
+      "text": "But you know what you {i}can{/i} do?"
+    },
+    {
+      "character": "Io",
+      "text": "Please please please please please please {i}please{/i} do not ask me to join in on any of the weird \u201cfestivities\u201d our class has planned for today."
+    },
+    {
+      "character": "Io",
+      "text": "It sucks enough that I\u2019m already showing up for like half of them."
+    },
+    {
+      "character": "Io",
+      "text": "Expecting me to join in and talk to people on top of that is just like...yeah, no."
+    },
+    {
+      "character": "Io",
+      "text": "Like, I said maybe two sentences to that Chika girl during the sports thing yesterday and even that was more associating than I planned on doing the whole weekend."
+    },
+    {
+      "character": "Sensei",
+      "text": "Why not Yumi, then?"
+    },
+    {
+      "character": "Io",
+      "text": "Oh, right. You weren\u2019t there for it when we were choosing the competitions, but I\u2019m pretty sure Yumi wants to fight me."
+    },
+    {
+      "character": "Sensei",
+      "text": "What? Why?"
+    },
+    {
+      "character": "Io",
+      "text": "Probably because I\u2019m like half her size and she has anger issues that likely stem from repeated emotional abuse at a [young]age."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Why do you have to be so real all the time?"
+    },
+    {
+      "character": "Io",
+      "text": "Real? I\u2019m more fake than like, all of the people I call out for {i}being{/i} fake on a daily basis."
+    },
+    {
+      "character": "Io",
+      "text": "It\u2019s a very complicated situation, but I\u2019d be more than happy to explain it to you on a rollercoaster."
+    },
+    {
+      "character": "Sensei",
+      "text": "Io..."
+    },
+    {
+      "character": "Io",
+      "text": "Hah...Yeah, yeah. I know."
+    },
+    {
+      "character": "Io",
+      "text": "There won\u2019t {i}be{/i} a rollercoaster because I was too spontaneous for you and didn\u2019t fill out the proper \u201cSensei request\u201d forms."
+    },
+    {
+      "character": "Io",
+      "text": "I\u2019ll just take my broken leg and hobble on over to the ER all by myself. Maybe someone there will want to ride the teacups with me."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Io",
+      "text": "..."
+    },
+    {
+      "character": "Io",
+      "text": "If that\u2019s not housekeeping, this is going to be really hard to explain."
+    },
+    {
+      "character": "Chika",
+      "text": "Sensei? Are you awake yet?"
+    },
+    {
+      "character": "Io",
+      "text": "That doesn\u2019t sound like housekeeping."
+    },
+    {
+      "character": "narrator",
+      "text": "I hop off of the bed, making sure I don\u2019t step on Io again, and gesture at her to get up as well..."
+    },
+    {
+      "character": "Io",
+      "text": "Ugh..."
+    },
+    {
+      "character": "Io",
+      "text": "I\u2019m going to have to hide, aren\u2019t I?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Would you prefer to stay and chat with her about why you\u2019re in my room?"
+    },
+    {
+      "character": "Io",
+      "text": "Sure. Why not? Invite her on in and I\u2019ll tell her all about why I prefer being with you over like 99.99%% of the world."
+    },
+    {
+      "character": "Sensei",
+      "text": "Or alternatively, you could grab your clothes off of the floor and go...hide under a desk or something."
+    },
+    {
+      "character": "Chika",
+      "text": "Hey...is everything okay? Do I hear someone else in there?"
+    },
+    {
+      "character": "Io",
+      "text": "What about the futon? I don\u2019t have time to get rid of both."
+    },
+    {
+      "character": "Sensei",
+      "text": "Just..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Here, I\u2019ll help."
+    },
+    {
+      "character": "narrator",
+      "text": "I put on my glasses and grab the futon off the floor."
+    },
+    {
+      "character": "narrator",
+      "text": "Io scurries over to where she threw her clothes, following my lead and tossing everything into the bathroom at the same time as me."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m sorry, Io. It must be done."
+    },
+    {
+      "character": "Io",
+      "text": "What must be-"
+    },
+    {
+      "character": "Io",
+      "text": "Hey! Sensei! I would have...gone in on my own!"
+    },
+    {
+      "character": "narrator",
+      "text": "I throw Io into the bathroom as well and finally move to the door to let Chika in."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Chika",
+      "text": "Good morning~"
+    },
+    {
+      "character": "Sensei",
+      "text": "Good morning. What are you doing here? "
+    },
+    {
+      "character": "Chika",
+      "text": "I just came to say that since we didn\u2019t really get to talk at all yesterday."
+    },
+    {
+      "character": "Chika",
+      "text": "What took so long to get to the door? I didn\u2019t wake you up, did I?"
+    },
+    {
+      "character": "Sensei",
+      "text": "You did, actually. But it\u2019s okay. "
+    },
+    {
+      "character": "Sensei",
+      "text": "You should probably get going before someone else has the same idea as you and-"
+    },
+    {
+      "character": "Chika",
+      "text": "Joke\u2019s on you. I set an alarm extra early just so I could be the one who actually got to come wake you."
+    },
+    {
+      "character": "Chika",
+      "text": "And sure, the rest of the girls will be waking up soon-"
+    },
+    {
+      "character": "Sensei",
+      "text": "Chika, stop it. I haven't even brushed my teeth yet. I am not ready to hug."
+    },
+    {
+      "character": "Chika",
+      "text": "This wouldn't be such an issue if you didn't always smile while hugging."
+    },
+    {
+      "character": "Sensei",
+      "text": "I can not help it. The hugs just make me so happy."
+    },
+    {
+      "character": "Sensei",
+      "text": "Besides, don't you have to get ready for your contest or whatever?"
+    },
+    {
+      "character": "Sensei",
+      "text": "If you are not well prepared, you may regret it in the future."
+    },
+    {
+      "character": "Chika",
+      "text": "Ughhhhhhh yeah, I guess you're right."
+    },
+    {
+      "character": "Sensei",
+      "text": "Wait, what even is your contest anyway?"
+    },
+    {
+      "character": "Chika",
+      "text": "I can't tell you since it's supposed to be a surprise..."
+    },
+    {
+      "character": "Chika",
+      "text": "But let\u2019s just say that being your girlfriend gives me a preeeeeetty big advantage in it."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "And of course she has to say that while Io is just one paperthin wall away. Great."
+    },
+    {
+      "character": "Chika",
+      "text": "Anyway, good morning and I love you. Try not to miss me too much before my contest, okay?"
+    },
+    {
+      "character": "Chika",
+      "text": "Or do. In fact, you probably should, since I\u2019ll be missing {i}you{/i} a whole lot."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah..."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019ll see you later, Chika."
+    },
+    {
+      "character": "Chika",
+      "text": "Mhm~ See you later, Sensei."
+    },
+    {
+      "character": "Chika",
+      "text": "I love you."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Io",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "Io comes out of the bathroom a full minute after Chika leaves, but doesn\u2019t say anything once she does."
+    },
+    {
+      "character": "narrator",
+      "text": "I guess it\u2019s not really easy finding words at a time like this, though."
+    },
+    {
+      "character": "narrator",
+      "text": "Or ever, really."
+    },
+    {
+      "character": "narrator",
+      "text": "So I just let her stand there for a little while longer."
+    },
+    {
+      "character": "narrator",
+      "text": "And I stand there with her."
+    },
+    {
+      "character": "narrator",
+      "text": "Not saying anything, and barely thinking anything other than \u201cFuck. This sucks.\u201d which, in my defense, it does."
+    },
+    {
+      "character": "narrator",
+      "text": "It sucks for everyone involved."
+    },
+    {
+      "character": "narrator",
+      "text": "Woe is me, having so many girls who like me as much as they do."
+    },
+    {
+      "character": "narrator",
+      "text": "Or, in some cases-"
+    },
+    {
+      "character": "Io",
+      "text": "...Girlfriend?"
+    },
+    {
+      "character": "narrator",
+      "text": "In some cases, love."
+    },
+    {
+      "character": "Sensei",
+      "text": "It\u2019s...a really complicated misunderstanding."
+    },
+    {
+      "character": "Io",
+      "text": "Of course it is. Girls are the fucking worst."
+    },
+    {
+      "character": "Io",
+      "text": "Just tell her you\u2019re not dating if it\u2019s becoming too much of a problem."
+    },
+    {
+      "character": "Sensei",
+      "text": "It\u2019s a little more complicated than that..."
+    },
+    {
+      "character": "Io",
+      "text": "Well...tell me about it, then."
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t really think it\u2019s something you should be getting involved in."
+    },
+    {
+      "character": "Io",
+      "text": "And it\u2019s not something I particularly {i}want{/i} to be involved in...but it beats the hell out of everything I\u2019m going to be thinking for the rest of the day now."
+    },
+    {
+      "character": "Sensei",
+      "text": "Io-"
+    },
+    {
+      "character": "Io",
+      "text": "{i}Her?{/i} "
+    },
+    {
+      "character": "Io",
+      "text": "{i}That{/i} was your choice? "
+    },
+    {
+      "character": "Io",
+      "text": "A generic tanned, bleach blonde gyaru? "
+    },
+    {
+      "character": "Sensei",
+      "text": "Chika\u2019s not generic, she\u2019s-"
+    },
+    {
+      "character": "Io",
+      "text": "She\u2019s been gone for like five minutes and I can still smell her fucking perfume."
+    },
+    {
+      "character": "Io",
+      "text": "What the hell, Sensei? You're so much better than that."
+    },
+    {
+      "character": "Io",
+      "text": "Is that really the kind of girl you\u2019re into? Is it because she, like...put out right away or something?"
+    },
+    {
+      "character": "Sensei",
+      "text": "It\u2019s not that. I just-"
+    },
+    {
+      "character": "Io",
+      "text": "Is it just blondes in general? Is that your thing? Because there was that other girl who you already-"
+    },
+    {
+      "character": "Sensei",
+      "text": "Io, correct me if I\u2019m wrong, but haven\u2019t you said before that who I \u201csee\u201d is none of your business?"
+    },
+    {
+      "character": "Io",
+      "text": "It\u2019s {i}not{/i} any of my business! You can do whatever you want and I don\u2019t have the right to get upset over it!"
+    },
+    {
+      "character": "Io",
+      "text": "But..."
+    },
+    {
+      "character": "Io",
+      "text": "But I\u2019m apparently going to get upset over it anyway!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Why?"
+    },
+    {
+      "character": "Io",
+      "text": "Because I\u2019m sensitive! And a hypocrite! You know these things!"
+    },
+    {
+      "character": "Sensei",
+      "text": "I do. Which is why I\u2019m not holding this against you and lecturing you the way I did when you talked down on Ayane without getting to know her."
+    },
+    {
+      "character": "Io",
+      "text": "Sensei, I don\u2019t know what kind of person you want me to be...but I don\u2019t want to get to know these people."
+    },
+    {
+      "character": "Sensei",
+      "text": "Then don\u2019t. No one is forcing you to."
+    },
+    {
+      "character": "Io",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Io",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Io",
+      "text": "Do you..."
+    },
+    {
+      "character": "Io",
+      "text": "Can we go to the amusement park now?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Io-"
+    },
+    {
+      "character": "Io",
+      "text": "I didn\u2019t think so."
+    },
+    {
+      "character": "Io",
+      "text": "It's really funny, you know."
+    },
+    {
+      "character": "Io",
+      "text": "I told myself when I left the bathroom that I\u2019d just pretend I didn\u2019t hear anything and that nothing ever happened-"
+    },
+    {
+      "character": "Io",
+      "text": "But of course I decided to be {i}me{/i} again and just started venting without even thinking about how it would make you feel."
+    },
+    {
+      "character": "Io",
+      "text": "I\u2019m sure you have your reasons for whatever you\u2019re doing with that girl."
+    },
+    {
+      "character": "Sensei",
+      "text": "And I\u2019m sure you have your reasons for the way you\u2019re reacting to it."
+    },
+    {
+      "character": "Io",
+      "text": "And I\u2019m sure that I\u2019ll wind up telling you all about them at the worst or most inappropriate time one of these days."
+    },
+    {
+      "character": "Sensei",
+      "text": "And I\u2019m sure that I\u2019ll be right there to listen."
+    },
+    {
+      "character": "Io",
+      "text": "And I\u2019m sure that you\u2019ll hate me for it."
+    },
+    {
+      "character": "Sensei",
+      "text": "And I\u2019m sure that I won\u2019t."
+    },
+    {
+      "character": "Io",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Io",
+      "text": "I..."
+    },
+    {
+      "character": "Io",
+      "text": "I think I\u2019m going to...skip taking a shower this morning since I took a bath like, less than twelve hours ago."
+    },
+    {
+      "character": "Io",
+      "text": "You can...go on ahead, though. If you need to meet up with everyone, I mean."
+    },
+    {
+      "character": "Io",
+      "text": "If it\u2019s okay with you, I\u2019d...like to try sleeping for a little while longer in here since I didn\u2019t get much last night."
+    },
+    {
+      "character": "Sensei",
+      "text": "Do you need me to carry you to the bed? I\u2019m not sure how broken your leg is."
+    },
+    {
+      "character": "Io",
+      "text": "Not so broken that I need you to carry me. I\u2019ll be okay."
+    },
+    {
+      "character": "Sensei",
+      "text": "Then yeah. Feel free to spend as much time in here as you want. "
+    },
+    {
+      "character": "Sensei",
+      "text": "Just don\u2019t answer the door for anyone. "
+    },
+    {
+      "character": "Io",
+      "text": "Not even housekeeping?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Not even housekeeping."
+    },
+    {
+      "character": "Io",
+      "text": "And...uhh...I\u2019m sorry."
+    },
+    {
+      "character": "Io",
+      "text": "For snapping again, I mean. "
+    },
+    {
+      "character": "Io",
+      "text": "I don\u2019t want you to hate me just because I found out something I probably wasn\u2019t supposed to know."
+    },
+    {
+      "character": "Sensei",
+      "text": "It was bound to happen sooner or later. But it\u2019s really not as serious as she made it sound and-"
+    },
+    {
+      "character": "Io",
+      "text": "I\u2019m sorry if this is blunt, but I really don\u2019t care."
+    },
+    {
+      "character": "Io",
+      "text": "Which means I really don\u2019t want to hear anymore about it."
+    },
+    {
+      "character": "Sensei",
+      "text": "Which means I should probably stop talking."
+    },
+    {
+      "character": "Io",
+      "text": "We both should. We\u2019re not very good at it."
+    },
+    {
+      "character": "Sensei",
+      "text": "No, we\u2019re really not. "
+    },
+    {
+      "character": "Io",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Io",
+      "text": "I...guess this is the part where you leave, then?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Well, yes. But there is one glaring issue."
+    },
+    {
+      "character": "Io",
+      "text": "Is it that you\u2019re still wearing sweatpants?"
+    },
+    {
+      "character": "Sensei",
+      "text": "It is that I\u2019m still wearing sweatpants."
+    },
+    {
+      "character": "Io",
+      "text": "Can I at least see your secret abdomen eye again before I go?"
+    },
+    {
+      "character": "narrator",
+      "text": "I begin to lift up my shirt and-"
+    },
+    {
+      "character": "Io",
+      "text": "That was a joke, Sensei! "
+    },
+    {
+      "character": "Io",
+      "text": "I mean, I {i}have{/i} seen it. But only through the camera! And...I\u2019ll just go back into the bathroom and...wait or something."
+    },
+    {
+      "character": "Sensei",
+      "text": "Oh. Sure. Whatever is more comfortable for you."
+    },
+    {
+      "character": "Io",
+      "text": "Thanks...but can you...open the door maybe?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Of course. But only because the eye told me to."
+    },
+    {
+      "character": "narrator",
+      "text": "Io opens her eyes and quickly reaches for the handle of the bathroom door, throwing herself inside without so much as looking at me."
+    },
+    {
+      "character": "narrator",
+      "text": "I use this opportunity to have a telepathic conversation with my secret eye and perform my morning sacrifice of a goldfish in order to appease him."
+    },
+    {
+      "character": "narrator",
+      "text": "It gets tiring having to carry around so many goldfish all the time-"
+    },
+    {
+      "character": "narrator",
+      "text": "But if that is what the eyes wants-"
+    },
+    {
+      "character": "narrator",
+      "text": "I must obey."
+    },
+    {
+      "character": "narrator",
+      "text": "............"
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "dormwar10": {
+      "from": null,
+      "to": true
+    }
+  }
+}

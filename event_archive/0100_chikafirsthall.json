@@ -1,0 +1,268 @@
+{
+  "event_id": 100,
+  "event_label": "chikafirsthall",
+  "dialogue": [
+    {
+      "character": "Chika",
+      "text": "Whaaaaaat? No friggin\u2019 way! This can't be happening!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Hey Chika. What\u2019s going on?"
+    },
+    {
+      "character": "Chika",
+      "text": "This can't be happening!"
+    },
+    {
+      "character": "Sensei",
+      "text": "I heard that much. {i}What{/i} can't be happening, exactly?"
+    },
+    {
+      "character": "Chika",
+      "text": "So, this girl I work with at the mall just got a new puppy, and she taught it friggin' {i}math!{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Chika",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "{i}Why?{/i}"
+    },
+    {
+      "character": "Chika",
+      "text": "I don't know, Sensei! Can't you at least be happy for her, though? This is like, a totally huge deal!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Happy for your friend? Or happy for the dog?"
+    },
+    {
+      "character": "Chika",
+      "text": "The dog, obviously!"
+    },
+    {
+      "character": "Chika",
+      "text": "Like, my friend is the one who posted the video online and it's gotten her like a trillion new followers, but the {i}dog{/i} is the real hero here! We all know that!"
+    },
+    {
+      "character": "Chika",
+      "text": "Here! Look for yourself. You aren't impressed enough."
+    },
+    {
+      "character": "narrator",
+      "text": "Chika hands me her phone and, sure enough, there is a video of a dog doing math."
+    },
+    {
+      "character": "Chika",
+      "text": "That dog is going places, Sensei. It's even better at math than Ami."
+    },
+    {
+      "character": "Sensei",
+      "text": "I...don't really understand what I'm watching here."
+    },
+    {
+      "character": "Chika",
+      "text": "What's not to understand? My friend asks the dog a basic math problem and then it just barks the correct amount of times."
+    },
+    {
+      "character": "Sensei",
+      "text": "I guess what I'm {i}really{/i} not understanding is why someone would waste their time teaching something like that to an animal."
+    },
+    {
+      "character": "Chika",
+      "text": "Well...why do you teach people? I'm sure it's probably for the same reason."
+    },
+    {
+      "character": "Sensei",
+      "text": "Your friend was reborn into a world where she was {i}already{/i} teaching?"
+    },
+    {
+      "character": "Chika",
+      "text": "I don't know, maybe. If Kanye West can win 23 Grammys, pretty much anything is possible."
+    },
+    {
+      "character": "Chika",
+      "text": "Wait, what are you even doing over here? I didn't think boys were allowed in the girls' dorm."
+    },
+    {
+      "character": "Sensei",
+      "text": "I'm a special exception to that rule."
+    },
+    {
+      "character": "Chika",
+      "text": "Is it because Ami lives here? Are you here to teach her math?"
+    },
+    {
+      "character": "Chika",
+      "text": "Should I call my friend's dog?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I'd rather spend my time exclusively with humans, personally."
+    },
+    {
+      "character": "Chika",
+      "text": "Well, I'm a human! You can hang out with me! It's obviously not like I have anything else planned if I'm out in the hall watching TikTok."
+    },
+    {
+      "character": "Sensei",
+      "text": "Well, I guess that's that then. But I'd kind of prefer to go into your room instead of staying out here where everyone else can hear us...talk about dogs or something."
+    },
+    {
+      "character": "Chika",
+      "text": "I mean...{i}I{/i} don\u2019t have a problem with that...but I\u2019m pretty sure Yumi would literally kill me if I ever let you see where she sleeps."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yumi seems like the type of person to kill you for even talking to me, so I'm glad you're at least doing that much."
+    },
+    {
+      "character": "Chika",
+      "text": "Yeah...she's really got it out for you for some reason."
+    },
+    {
+      "character": "Chika",
+      "text": "I guess even she accepts that I can't just {i}not{/i} talk to my teacher, though."
+    },
+    {
+      "character": "Sensei",
+      "text": "So, if we can\u2019t go inside, what do you want to do?"
+    },
+    {
+      "character": "Chika",
+      "text": "Oh! I know! How about you tell me a little more about yourself?"
+    },
+    {
+      "character": "Chika",
+      "text": "If we're gonna be doing that whole...informal teaching thing or whatever it was, shouldn't we like, know more about each other?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Well, what do you want to know, exactly?"
+    },
+    {
+      "character": "Chika",
+      "text": "I don't know. Anything, really. Like...what are you good at? What are your interests?"
+    },
+    {
+      "character": "Sensei",
+      "text": "...huh."
+    },
+    {
+      "character": "narrator",
+      "text": "You know...I'm not really sure."
+    },
+    {
+      "character": "narrator",
+      "text": "I haven't really had time to get reacquainted with who {i}I{/i} am yet, but..."
+    },
+    {
+      "character": "Sensei",
+      "text": "I think..."
+    },
+    {
+      "character": "Sensei",
+      "text": "I think I've always been good at...writing?"
+    },
+    {
+      "character": "Chika",
+      "text": "A writer? Color me impressed."
+    },
+    {
+      "character": "Chika",
+      "text": "What kind of stuff do you write?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Nothing anymore. But I feel like-"
+    },
+    {
+      "character": "Sensei",
+      "text": "Nothing anymore."
+    },
+    {
+      "character": "Chika",
+      "text": "Well, if you ever start up again, maybe you could show me something?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I'll...keep that in mind..."
+    },
+    {
+      "character": "Chika",
+      "text": "You okay, Sensei? You look kinda pale all of a-"
+    },
+    {
+      "character": "Yumi",
+      "text": "Chika? The fuck are you doing out there? You're bein' loud as shit."
+    },
+    {
+      "character": "Yumi",
+      "text": "This about that fuckin' smart dog or whatever again? How many times are you gonna watch that shit?"
+    },
+    {
+      "character": "Chika",
+      "text": "As many as it takes, Yumi! He's a good boy and you know it!"
+    },
+    {
+      "character": "Yumi",
+      "text": "Just keep it the fuck down, please. I'm tryin' to sleep."
+    },
+    {
+      "character": "Chika",
+      "text": "Sorry, Sensei. I should...probably be heading back in now anyway."
+    },
+    {
+      "character": "Chika",
+      "text": "But we should definitely do this again sometime."
+    },
+    {
+      "character": "Sensei",
+      "text": "Sounds good to me."
+    },
+    {
+      "character": "Sensei",
+      "text": "Just make sure you don't mention that I was here when you head back in or we might never be able to see each other again."
+    },
+    {
+      "character": "Chika",
+      "text": "My lips are sealed~"
+    },
+    {
+      "character": "narrator",
+      "text": "Chika vanishes back into her dorm room and I\u2019m left with nothing to do once again."
+    },
+    {
+      "character": "narrator",
+      "text": "I guess I\u2019ll just go home and hang out with Ami or something..."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Chika\u2019s affection has increased to [chika_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "chikafirsthall": {
+      "from": null,
+      "to": true
+    }
+  }
+}

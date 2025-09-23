@@ -1,0 +1,232 @@
+{
+  "event_id": 22,
+  "event_label": "chosedrink",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "I reach into my pocket for a few coins and place them directly into a tray on the counter before heading back over to find somewhere to sit."
+    },
+    {
+      "character": "narrator",
+      "text": "Or, at least that's what I {i}would{/i} be doing if I actually intended to hang around, which I most certainly do not."
+    },
+    {
+      "character": "narrator",
+      "text": "Should I have informed Rin of this at the time of placing my order? Maybe. But she also should have asked."
+    },
+    {
+      "character": "narrator",
+      "text": "So now there is not much to do apart from standing awkwardly in the middle of the cafe and waiting for her to return..."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Rin",
+      "text": "Yo, why are you being such a sketchball? I told you to go find a seat."
+    },
+    {
+      "character": "Sensei",
+      "text": "I meant to order my drink to-go."
+    },
+    {
+      "character": "Rin",
+      "text": "You know you...can still sit down if you order something to-go, right? Then just...get up once it's ready?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Or I could remain standing and make everyone here equally uncomfortable."
+    },
+    {
+      "character": "Rin",
+      "text": "I mean...{i}I guess?{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "So, do you have my drink?"
+    },
+    {
+      "character": "Rin",
+      "text": "Yup! Got it right here."
+    },
+    {
+      "character": "narrator",
+      "text": "Rin hands me my order and smiles at me in what seems to be anticipation, constantly shifting her gaze from me to the drink I'm holding."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Rin",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Are you going to watch me drink it?..."
+    },
+    {
+      "character": "Rin",
+      "text": "Ah- sorry! I was just curious about whether you\u2019d like it or not."
+    },
+    {
+      "character": "Sensei",
+      "text": "I mean, I did order it. I wouldn't have bought something if I wasn't sure I'd like it."
+    },
+    {
+      "character": "narrator",
+      "text": "Wanting to appease Rin and quell how uncomfortable this is beginning to make me, I bring the beverage to my mouth and-"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Rin",
+      "text": "So? Good?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I mean...yeah. But..."
+    },
+    {
+      "character": "Rin",
+      "text": "But what? Tell me."
+    },
+    {
+      "character": "Sensei",
+      "text": "Rin, this isn't even close to what I ordered."
+    },
+    {
+      "character": "Rin",
+      "text": "No. I suppose it is not."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Rin",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Well, is there an explanation for that? Or..."
+    },
+    {
+      "character": "Rin",
+      "text": "Oh, I guess. Though, it's less of an explanation and more of just me using you as a guinea pig."
+    },
+    {
+      "character": "Rin",
+      "text": "You see, that's a custom recipe of mine. And I\u2019ve been trying to get my manager to add it to the menu, but she\u2019s been all like, \u201cNo way! You can't just change the menu, Rin!\u201d"
+    },
+    {
+      "character": "Rin",
+      "text": "So, I figured if I was able to actually get some more people on my side, I might be able to persuade her."
+    },
+    {
+      "character": "Sensei",
+      "text": "I see..."
+    },
+    {
+      "character": "Rin",
+      "text": "So, now that you've tried it and liked it, I'm going to need you to write on one of her comment cards that I'm the best barista ever and that she should listen to me more."
+    },
+    {
+      "character": "Sensei",
+      "text": "I'm not sure if I can, in good faith, call you the best barista ever when you didn't even bring me my actual order."
+    },
+    {
+      "character": "Rin",
+      "text": "I swear I was going to right after you tried this one!"
+    },
+    {
+      "character": "Rin",
+      "text": "Here, I'll even go get it right now. I just-"
+    },
+    {
+      "character": "Sensei",
+      "text": "It's fine, Rin. I'll just keep whatever this is instead."
+    },
+    {
+      "character": "Sensei",
+      "text": "It really {i}is{/i} good."
+    },
+    {
+      "character": "Rin",
+      "text": "You...You really think that? And you're not just lying to me because it's customary to flirt with your barista?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I really think that. I'm going to need one of those comment card things if I'm going to recommend it to your manager, though."
+    },
+    {
+      "character": "Rin",
+      "text": "Yeah! Totally! I'll go get one right now!"
+    },
+    {
+      "character": "Rin",
+      "text": "Just hang tight, okay?! I'll be right back!"
+    },
+    {
+      "character": "narrator",
+      "text": "Rin quickly dashes to the counter to grab me a card and I wind up having to sit down after all."
+    },
+    {
+      "character": "narrator",
+      "text": "Unfortunately, a wave of customers all decide to show up at once and I'm unable to continue talking to her once I have my comment written."
+    },
+    {
+      "character": "narrator",
+      "text": "Not knowing how long it will be until she's free again, I wait for a moment where she's distracted and place the card down on the counter before leaving."
+    },
+    {
+      "character": "narrator",
+      "text": "And as I step out into the street with an indiscernible beverage in my hand, I come to realize something."
+    },
+    {
+      "character": "narrator",
+      "text": "It's that I am now only slightly more than a lab rat."
+    },
+    {
+      "character": "narrator",
+      "text": "And that the future of my beverage choice hangs in great jeopardy at the hands of a single teenager."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Rin\u2019s affection has increased to [rin_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "firsttimecafe": {
+      "from": null,
+      "to": true
+    },
+    "rin_love +": {
+      "from": null,
+      "to": 1
+    }
+  }
+}

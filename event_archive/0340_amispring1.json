@@ -1,0 +1,916 @@
+{
+  "event_id": 340,
+  "event_label": "amispring1",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "The average human body\u2019s chest cavity can withstand a little over 400 lbs of weight before being crushed, but there are several factors that could cause this number to fluctuate."
+    },
+    {
+      "character": "narrator",
+      "text": "On September 18th of 1692, a man by the name of Giles Corey was executed by Captain John Gardner of Nantucket after being accused of and charged with witchcraft."
+    },
+    {
+      "character": "narrator",
+      "text": "But what various historical texts and the acclaimed play adaptation \u201cThe Crucible\u201d will not tell you is that there is a very specific reason Mr. Corey was able to withstand a number likely larger than 400 lbs."
+    },
+    {
+      "character": "narrator",
+      "text": "Inside his chest cavity was a special worm."
+    },
+    {
+      "character": "narrator",
+      "text": "The worm did not have a name, but it fed on the residue that seeped through Giles\u2019 body until, after consuming enough, it began to grow teeth."
+    },
+    {
+      "character": "narrator",
+      "text": "Giles Corey was an old man. An old man with a young worm. And the young worm wanted to be old one day."
+    },
+    {
+      "character": "narrator",
+      "text": "So, while Mr. Corey was being pressed to death, it came up with a plan."
+    },
+    {
+      "character": "narrator",
+      "text": "The worm hardened its body with the help of God as it had been saving up the religious power inadvertently stored by Giles Corey each time he prayed at night."
+    },
+    {
+      "character": "narrator",
+      "text": "And while this allowed the young worm and the old man to survive slightly longer, it meant nothing in the face of the determined Captain John Gardner of Nantucket."
+    },
+    {
+      "character": "narrator",
+      "text": "Eventually, the worm and Giles Corey would be crushed to death. And their bodies, still conjoined, would be dumped into a nearby river when their skin refused to burn."
+    },
+    {
+      "character": "narrator",
+      "text": "But that isn\u2019t the end of the story."
+    },
+    {
+      "character": "narrator",
+      "text": "In fact, the story is still going on right now."
+    },
+    {
+      "character": "narrator",
+      "text": "Because when the body of Giles Corey decomposed, so did the worm. And the leftover power of God that allowed the worm to harden its body was dispersed throughout the water."
+    },
+    {
+      "character": "narrator",
+      "text": "By the time we found out, it was already too late."
+    },
+    {
+      "character": "narrator",
+      "text": "We have all drunk from the water."
+    },
+    {
+      "character": "narrator",
+      "text": "Now, we all have worms inside of us."
+    },
+    {
+      "character": "narrator",
+      "text": "And every time we talk to God, we\u2019re only making them stronger."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}- The true story of how we came to be{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I am house."
+    },
+    {
+      "character": "Ami",
+      "text": "{i}Daaaaisy, Daaaaisy, give me your answer doooooooo~{/i}"
+    },
+    {
+      "character": "Ami",
+      "text": "{i}I\u2019m haaaaalf craaaaazy, all for the love of youuuuuuu~{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "?..."
+    },
+    {
+      "character": "Ami",
+      "text": "{i}It won\u2019t be a styyyylish marriage~{/i}"
+    },
+    {
+      "character": "Ami",
+      "text": "{i}I caaaan\u2019t affoooord a carriage~{/i}"
+    },
+    {
+      "character": "Ami",
+      "text": "{i}But youuuu\u2019ll look sweet upoooon the seat of a bicycle built for twoooooo~{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Ami",
+      "text": "{i}Daaaaisy, Daaaaisy, give me your answer doooooooo~{/i}"
+    },
+    {
+      "character": "Ami",
+      "text": "{i}I\u2019m haaaaalf craaaaazy, all for the love of youuuuuuu~{/i}"
+    },
+    {
+      "character": "Ami",
+      "text": "{i}It won\u2019t be a styyyylish marriage~{/i}"
+    },
+    {
+      "character": "Ami",
+      "text": "{i}I caaaan\u2019t affoooord a carriage~{/i}"
+    },
+    {
+      "character": "Ami",
+      "text": "{i}But youuuu\u2019ll look sweet upoooon the seat of a bicycle built for twoooooo~{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "Ami?"
+    },
+    {
+      "character": "Ami",
+      "text": "_"
+    },
+    {
+      "character": "Sensei",
+      "text": "What..."
+    },
+    {
+      "character": "Sensei",
+      "text": "What are you doing?..."
+    },
+    {
+      "character": "Ami",
+      "text": "_"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Ami",
+      "text": "{i}Daaaaisy, Daaaaisy, give me your answer doooooooo~{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "Ami only looks at me for a moment before going back to singing her wretched song."
+    },
+    {
+      "character": "Ami",
+      "text": "{i}I\u2019m haaaaalf craaaaazy, all for the love of youuuuuuu~{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "Her voice has never been polished, and she\u2019s no stranger to slowly navigating away from the proper key-"
+    },
+    {
+      "character": "Ami",
+      "text": "{i}It won\u2019t be a styyyylish marriage~{/i}"
+    },
+    {
+      "character": "Ami",
+      "text": "{i}I caaaan\u2019t affoooord a carriage~{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "But she sounds much worse than normal right now."
+    },
+    {
+      "character": "Ami",
+      "text": "{i}But youuuu\u2019ll look sweet upoooon the seat of a bicycle built for twoooooo~{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "And she looks even worse."
+    },
+    {
+      "character": "Ami",
+      "text": "{i}Daaaaisy, Daaaaisy, give me your answer doooooooo~{/i}"
+    },
+    {
+      "character": "Ami",
+      "text": "{i}I\u2019m haaaaalf craaaaazy, all for the love of youuuuuuu~{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "Ami..."
+    },
+    {
+      "character": "Sensei",
+      "text": "What have you done?..."
+    },
+    {
+      "character": "Ami",
+      "text": "Cut it off and sold it."
+    },
+    {
+      "character": "Sensei",
+      "text": "What?..."
+    },
+    {
+      "character": "Ami",
+      "text": "Don\u2019t you like me now? "
+    },
+    {
+      "character": "Ami",
+      "text": "I\u2019m me, Jim."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Ami",
+      "text": "It\u2019s sold, I tell you\u2014 sold and gone, too. It\u2019s the night before Christmas, boy. Be good to me, because I sold it for you."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Ami",
+      "text": "My hair will grow again. You won\u2019t care, will you? My hair grows very fast. "
+    },
+    {
+      "character": "Ami",
+      "text": "It\u2019s Christmas, Jim. Let\u2019s be happy. You don\u2019t know what a nice\u2014what a beautiful nice gift I got for you."
+    },
+    {
+      "character": "narrator",
+      "text": "Locks of thick, red hair cover the floor like the blood of a lamb who\u2019d just been slaughtered. And in this dark room, where the only light we have is what bleeds through black curtains, I can tell you I\u2019m scared."
+    },
+    {
+      "character": "narrator",
+      "text": "It\u2019ll be our little secret. And I\u2019ll become a butcher myself if you give in and let it out."
+    },
+    {
+      "character": "narrator",
+      "text": "But in the meantime, I will present myself to my caretaker so that she may hoist me up and attach me to a cold metal device that will hang me upside down- so she can drain the juice from my neck and drink it."
+    },
+    {
+      "character": "Ami",
+      "text": "Don\u2019t you like me now? "
+    },
+    {
+      "character": "Ami",
+      "text": "I\u2019m me, Jim."
+    },
+    {
+      "character": "Sensei",
+      "text": "Ami...put the scissors down."
+    },
+    {
+      "character": "Ami",
+      "text": "About time! Do you have any idea how much trouble you'd get into if the principal showed up and caught you sleeping right now?"
+    },
+    {
+      "character": "Sensei",
+      "text": "What?..."
+    },
+    {
+      "character": "Ami",
+      "text": "Class ended ten minutes ago. It's time to get up."
+    },
+    {
+      "character": "Sensei",
+      "text": "Ami, listen to me...you\u2019re not thinking clearly. And I have no idea what\u2019s going on, but I\u2019m here for you now. So give me the scissors and-"
+    },
+    {
+      "character": "Ami",
+      "text": "Allow me to {i}re-{/i}introduce you to Kumon-mi! A super normal town just outside of Tokyo."
+    },
+    {
+      "character": "Ami",
+      "text": "Rule number one is keep your hands off all of your students! But that should probably be a rule that goes without saying since...you know."
+    },
+    {
+      "character": "Ami",
+      "text": "That's the part where you were supposed to say, \u201cYou're the only girl for me, Ami! I don't care about any of the other ones!\u201d"
+    },
+    {
+      "character": "Ami",
+      "text": "Enough about that, how 'bout we get back to some of those rules you were just talking about?"
+    },
+    {
+      "character": "Ami",
+      "text": "Rule number one is keep your hands off all of your students!"
+    },
+    {
+      "character": "Ami",
+      "text": "Rule number two is keep your hands off all of your students!"
+    },
+    {
+      "character": "Ami",
+      "text": "Rules number three and four and five and six are keep your hands off all of your students BUT YOU DIDN\u2019T FOLLOW THE RULES, JIM! {size=+7}YOU NEVER FOLLOW THE RULES!{/size}"
+    },
+    {
+      "character": "Sensei",
+      "text": "I know. I\u2019m very bad at that, and I\u2019m {i}sorry.{/i} Now, {i}please{/i} give me the scissors before you wind up hurting yourself."
+    },
+    {
+      "character": "Ami",
+      "text": "\u3084\u3060\u3002"
+    },
+    {
+      "character": "Sensei",
+      "text": "Ami, please."
+    },
+    {
+      "character": "Ami",
+      "text": "\u3084\u3060\u3084\u3060\u3084\u3060\u3084\u3060\u3084\u3060\u3084\u3060\u3084\u3060\u3084\u3060\u3084\u3060\u3084\u3060\u3084\u3060\u3084\u3060\u3084\u3060\u3084\u3060\u3002"
+    },
+    {
+      "character": "Sensei",
+      "text": "Then...what do you want me to do? What {i}can{/i} I do?"
+    },
+    {
+      "character": "Ami",
+      "text": "{b}YOU COULD HAVE LISTENED!{/b}"
+    },
+    {
+      "character": "Ami",
+      "text": "YOU COULD HAVE FOLLOWED ME LIKE YOU SAID YOU WOULD! COULD HAVE LOVED ME! BUT YOU DON\u2019T LOVE ME AT ALL, JIM! YOU DON\u2019T CARE THAT I SOLD MY HAIR!"
+    },
+    {
+      "character": "Ami",
+      "text": "It\u2019s so pretty, isn\u2019t it? I\u2019ve been growing it forever. You always said you liked twintails. And my hair looks just like mom\u2019s. "
+    },
+    {
+      "character": "Ami",
+      "text": "You loved her hair too. Loved it a lot. You picked some off a piece of her scalp when it was all we had left. You tasted it. You chewed on the little bits of dead flesh. You wanted to feed your worm. "
+    },
+    {
+      "character": "Sensei",
+      "text": "Give me...the scissors..."
+    },
+    {
+      "character": "Ami",
+      "text": "{b}{size=+15}I HAVE ALREADY GIVEN YOU EVERYTHING!{/b}{/size}"
+    },
+    {
+      "character": "Ami",
+      "text": "WHAT HAVE I GOTTEN IN RETURN, JIM?! THERE IS NOTHING LEFT! YOU\u2019VE TAKEN ALL OF ME! "
+    },
+    {
+      "character": "Ami",
+      "text": "MY INNOCENCE! MY PURITY! MY BLOOD! MY BLOOD AND SWEAT AND BLOOD! "
+    },
+    {
+      "character": "Ami",
+      "text": "Oh!"
+    },
+    {
+      "character": "Ami",
+      "text": "I know."
+    },
+    {
+      "character": "Ami",
+      "text": "It\u2019s the worm, isn\u2019t it? The worm is making you do the things you do, so I just have to get it out of you! If I get it out of you, you\u2019ll go back to normal!"
+    },
+    {
+      "character": "Sensei",
+      "text": "What worm?! What are you talking about?!"
+    },
+    {
+      "character": "Ami",
+      "text": "The one inside you who blocks the path between you and God! The one that kept Giles Corey alive when Captain John Gardner kept increasing the weight! You know the worm I\u2019m talking about! "
+    },
+    {
+      "character": "Sensei",
+      "text": "I have no idea what you\u2019re talking about because nothing you\u2019re saying makes any sense!"
+    },
+    {
+      "character": "Ami",
+      "text": "{b}NOTHING MAKES SENSE HERE! IT\u2019S NOT SUPPOSED TO!{/b}"
+    },
+    {
+      "character": "Ami",
+      "text": "{b}YOU\u2019RE SUPPOSED TO TREAT THIS LIKE A GAME! YOU\u2019RE SUPPOSED TO GET ME PREGNANT! YOU\u2019RE SUPPOSED TO REACH THE EPILOGUE!{/b}"
+    },
+    {
+      "character": "Ami",
+      "text": "But all you ever do is lie. You hide the truth because the truth would hurt me. And Ami is fragile! Ami can\u2019t handle it! Ami\u2019s a joke! Ami\u2019s too clingy! Ami is a bad girl!"
+    },
+    {
+      "character": "Ami",
+      "text": "{b}AMI\u2019S NOT A BAD GIRL! AMI\u2019S A GOOD GIRL! AMI\u2019S THE ULTIMATE NIECE! AMI IS CUTE! LOVE AMI MORE! LOVE LOVE LOVE LOVE LOVE LOVE AMI!{/b}"
+    },
+    {
+      "character": "Sensei",
+      "text": "I do love you!"
+    },
+    {
+      "character": "Ami",
+      "text": "{size=+15}{b}LIAR!{/size}{/b}"
+    },
+    {
+      "character": "Ami",
+      "text": "I called you over and over and over and over and over and over and you never answered! You left me alone! I was worried about you! I thought someone raped and murdered you! You don\u2019t love me at all! "
+    },
+    {
+      "character": "Ami",
+      "text": "You think Ami is a bad girl! But you\u2019re wrong! Wrong wrong wrong wrong wrong! Ami is good! I cut off my hair and sold it! I did it for you!"
+    },
+    {
+      "character": "Sensei",
+      "text": "You didn\u2019t sell anything, Ami. It\u2019s all over the ground. It\u2019s {i}everywhere.{/i} And I\u2019m sorry I didn\u2019t pick up the phone, I just...didn\u2019t know how to handle this. I was...scared."
+    },
+    {
+      "character": "Ami",
+      "text": "Scared?..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah..."
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t know what to do for you. I don\u2019t know how to help you the way you help me. And you\u2019ve been acting so strangely the last couple days, that I...ran away. Because I always run away."
+    },
+    {
+      "character": "Sensei",
+      "text": "But I\u2019m here now. And I\u2019m going to help you. "
+    },
+    {
+      "character": "Ami",
+      "text": "Ami doesn\u2019t need help. Ami is normal. She\u2019s a good niece who can do everything you need her to. "
+    },
+    {
+      "character": "Sensei",
+      "text": "Then I need you to stop going crazy and give me the scissors. You\u2019ve already ruined your hair. I don\u2019t want you...ruining your face as well."
+    },
+    {
+      "character": "Ami",
+      "text": "It\u2019s the worm, Jim. The worm is making me do things. I can feel it squirming around in there. I can feel its teeth."
+    },
+    {
+      "character": "Sensei",
+      "text": "Give-"
+    },
+    {
+      "character": "Ami",
+      "text": "{b}{size=+15}I\u2019M NOT DONE YET! YOU CAN\u2019T HAVE THEM!{/b}{/size}"
+    },
+    {
+      "character": "Sensei",
+      "text": "I will take them if I have to, Ami. I\u2019m much stronger than you are."
+    },
+    {
+      "character": "Ami",
+      "text": "You\u2019re {i}weak!{/i} A crybaby! You tear up when I read you bedtime stories! Your eyes glaze over in sakura season! You are {i}nothing{/i} without me! Nothing!"
+    },
+    {
+      "character": "Sensei",
+      "text": "You think I don\u2019t know that?! You really think I don\u2019t understand everything you\u2019ve done for me?!"
+    },
+    {
+      "character": "Ami",
+      "text": "Get away from me! You\u2019re a fake! A liar! A half-eaten replica! You just want to feed the worm!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Give me the fucking-"
+    },
+    {
+      "character": "Sensei",
+      "text": "Ngh!"
+    },
+    {
+      "character": "Ami",
+      "text": "LET GO LET GO LET GO LET GO LET GO LET GO LET GO I NEED TO CUT THE WORM OUT LET GO LET GO I NEED TO KILL IT LET GO NEED TO KILL THE WORM LET GO LET GO I HAVE TO SAVE MY INSIDES LET GO!"
+    },
+    {
+      "character": "narrator",
+      "text": "Twin blades sink into the sensitive flesh of my palm as I pull Ami\u2019s hand closer. "
+    },
+    {
+      "character": "narrator",
+      "text": "She struggles, as I expect her to, causing the scissors to dig deeper into my skin as I frantically attempt to figure out what I\u2019m going to do when I have {i}control{/i} of them."
+    },
+    {
+      "character": "narrator",
+      "text": "She\u2019s a danger to herself and anyone she encounters in this state. And while that\u2019s not something I\u2019m prepared to handle, I knew it was only a matter of time until something like this happened."
+    },
+    {
+      "character": "narrator",
+      "text": "But why now? "
+    },
+    {
+      "character": "narrator",
+      "text": "What about waking up from my two months of \u201crest\u201d ignited this wildfire within her mind? And why does {i}her{/i} shattering coincide with mine when {i}I\u2019m{/i} the one who lost something?"
+    },
+    {
+      "character": "narrator",
+      "text": "Does she really think she\u2019s losing me?"
+    },
+    {
+      "character": "narrator",
+      "text": "Is going through my phone and exposing the truth all it took to break her?"
+    },
+    {
+      "character": "Ami",
+      "text": "..."
+    },
+    {
+      "character": "Ami",
+      "text": "Huh?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Let...go..."
+    },
+    {
+      "character": "Ami",
+      "text": "Huh? What? How? Huh? Why? Why? How? What?"
+    },
+    {
+      "character": "Ami",
+      "text": "Did I...no no no no no no. No! No, it wasn\u2019t me! I wouldn\u2019t do that! It was the worm! The worm did it!"
+    },
+    {
+      "character": "Ami",
+      "text": "Sensei, it was the worm! It wasn\u2019t me! I\u2019m a good girl! Ami is a good girl!"
+    },
+    {
+      "character": "narrator",
+      "text": "Somehow, this feels familiar. "
+    },
+    {
+      "character": "narrator",
+      "text": "There was someone just like her who used to lick my wounds."
+    },
+    {
+      "character": "narrator",
+      "text": "She would dress them before dressing me, and she would numb the pain of existing with her hands and her mouth."
+    },
+    {
+      "character": "narrator",
+      "text": "But in hindsight, I sometimes believe she only did this because she liked the taste of blood. "
+    },
+    {
+      "character": "Ami",
+      "text": "Sensei! It wasn\u2019t me! It was an accident! I would never...no! I didn\u2019t do that!"
+    },
+    {
+      "character": "Sensei",
+      "text": "It\u2019s fine. It\u2019ll heal on its own. It\u2019s not like you pierced all the way through my hand or anything."
+    },
+    {
+      "character": "Ami",
+      "text": "Ah.......ah.........hah! No! No, I didn\u2019t...No no no no no. No! No, no, no! No!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Ami, look at me. "
+    },
+    {
+      "character": "Ami",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "What is going on with you?"
+    },
+    {
+      "character": "Ami",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Is it all because of me?"
+    },
+    {
+      "character": "Ami",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Did I make it worse? Or is it my fault entirely? Be honest."
+    },
+    {
+      "character": "Ami",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Would you rather just go to your room like I did?"
+    },
+    {
+      "character": "Ami",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Do you want to stay in bed for the next two months while I sponge-bathe you and read {i}you{/i} bedtime stories? Will {i}that{/i} help?"
+    },
+    {
+      "character": "Ami",
+      "text": "I..."
+    },
+    {
+      "character": "Sensei",
+      "text": "You what?..."
+    },
+    {
+      "character": "Ami",
+      "text": "..."
+    },
+    {
+      "character": "Ami",
+      "text": "I just want to be pure."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "Ami collapses to the floor when I retreat to the kitchen for some paper towels to wrap my hand in."
+    },
+    {
+      "character": "narrator",
+      "text": "Within seconds, she begins to hyperventilate. And it looks to me as if she\u2019s lost all will to live."
+    },
+    {
+      "character": "narrator",
+      "text": "Like hurting me, even if it was in accident brought on by this fit of hysteria, signified to her that she is a failure."
+    },
+    {
+      "character": "narrator",
+      "text": "But she\u2019s not a failure."
+    },
+    {
+      "character": "narrator",
+      "text": "She\u2019s like this because {i}I{/i} have failed her \u2014 and not just because I\u2019ve been absent during the last twenty-four hours in which she needed me most."
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019ve been absent her entire life."
+    },
+    {
+      "character": "narrator",
+      "text": "And even when I was present, it was more like {i}I{/i} was a ghost."
+    },
+    {
+      "character": "narrator",
+      "text": "I can feel the one that\u2019s been following me put her hands on my shoulders."
+    },
+    {
+      "character": "narrator",
+      "text": "I hear her whisper into my ear."
+    },
+    {
+      "character": "Sekai",
+      "text": "{i}What have you done to my darling little girl?{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "I can\u2019t bring myself to respond. But she doesn\u2019t go away."
+    },
+    {
+      "character": "narrator",
+      "text": "She pulls up a chair at the dining room table and watches as I stand here, useless and confused."
+    },
+    {
+      "character": "narrator",
+      "text": "All the while, Ami\u2019s humanity slowly drifts away."
+    },
+    {
+      "character": "narrator",
+      "text": "What\u2019s left is just a worm."
+    },
+    {
+      "character": "narrator",
+      "text": "But the worm inside {i}me{/i} senses its presence. "
+    },
+    {
+      "character": "Ami",
+      "text": "{b}WAAAAAAAAAAAAAaaaaaAAAAAAAaaaaAAAAaahhhhaahhhha!!!!!!!!!!!!{/b}"
+    },
+    {
+      "character": "Ami",
+      "text": "{b}I\u2019M SO SORRY!!!!!!! I\u2019M SO SORRY!!!!!!!!!! IT WAS AN ACCIDENT!!!!!!!!! AAAAAAAAaaaaaahhhhaaaaaa!!!!!!!!!!!{/b}"
+    },
+    {
+      "character": "Ami",
+      "text": "{b}I\u2019M A BAD GIRL!!!!!!!!!!!!!!!!!!!!!!!!!!{/b}"
+    },
+    {
+      "character": "narrator",
+      "text": "The worms need to be together."
+    },
+    {
+      "character": "narrator",
+      "text": "It\u2019s the only way they\u2019ll ever feel like they belong."
+    },
+    {
+      "character": "narrator",
+      "text": "I know now what the scissor angel warned me of, but this accident brings me no closer to God nor Heaven\u2019s Web."
+    },
+    {
+      "character": "narrator",
+      "text": "It brings me closer to ruin \u2014 and the idea that this world may have {i}already{/i} come to an end. And this is all that\u2019s left."
+    },
+    {
+      "character": "narrator",
+      "text": "But is that enough to keep me here?"
+    },
+    {
+      "character": "narrator",
+      "text": "Is there any amount of time that I can wait before a new love takes the place of the one that I have lost?"
+    },
+    {
+      "character": "narrator",
+      "text": "I have so many options, but none of them feel {i}right.{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "Should I just give in and be with Ami after all?"
+    },
+    {
+      "character": "narrator",
+      "text": "Should I cast aside the one virtue I\u2019ve managed to keep clasped inside my hands and just...find something else to hold instead?"
+    },
+    {
+      "character": "narrator",
+      "text": "I don\u2019t know."
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "Maybe this fear...this {i}uncertainty{/i} is just another part of growing up."
+    },
+    {
+      "character": "narrator",
+      "text": "But if that\u2019s the case, I wonder why it\u2019s taken me over thirty years to start."
+    },
+    {
+      "character": "narrator",
+      "text": "Even more than that, though..."
+    },
+    {
+      "character": "narrator",
+      "text": "I wonder how long it will take to finish."
+    },
+    {
+      "character": "narrator",
+      "text": "Because, between you and me?"
+    },
+    {
+      "character": "narrator",
+      "text": "This is hell. "
+    },
+    {
+      "character": "narrator",
+      "text": "But it\u2019s right where I belong."
+    },
+    {
+      "character": "narrator",
+      "text": "I put Ami to bed. "
+    },
+    {
+      "character": "narrator",
+      "text": "She\u2019s yet to stop crying. "
+    },
+    {
+      "character": "narrator",
+      "text": "I left our doors open so I can hear her, but it\u2019s only getting worse. "
+    },
+    {
+      "character": "narrator",
+      "text": "She screams for hours about how sorry she is. "
+    },
+    {
+      "character": "narrator",
+      "text": "She screams about a worm."
+    },
+    {
+      "character": "narrator",
+      "text": "Tomorrow, a new stage of my life will begin."
+    },
+    {
+      "character": "narrator",
+      "text": "But will it be better than all the ones before it?"
+    },
+    {
+      "character": "narrator",
+      "text": "I don\u2019t know. "
+    },
+    {
+      "character": "narrator",
+      "text": "But there\u2019s only one way to find out."
+    },
+    {
+      "character": "narrator",
+      "text": "I close my eyes."
+    },
+    {
+      "character": "narrator",
+      "text": "And when I dream that night, I see the same clockwater bed that I always do."
+    },
+    {
+      "character": "narrator",
+      "text": "But there\u2019s no one on it this time."
+    },
+    {
+      "character": "narrator",
+      "text": "There\u2019s just a box."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Ami Arakawa has obtained the status effect [[BEDRIDDEN]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I wake up to sunlight pouring in through the window."
+    },
+    {
+      "character": "narrator",
+      "text": "But there\u2019s nothing I want to do."
+    },
+    {
+      "character": "narrator",
+      "text": "So I spend the morning watching Ami sleep. "
+    },
+    {
+      "character": "narrator",
+      "text": "I have a feeling I\u2019ll be doing that a lot now."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Akira Arakawa has obtained the status effect [[DEPRESSED]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}When Akira is inflicted by [[DEPRESSED], the things he once enjoyed no longer sound appealing to him!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Some options may no longer be available to him as a result of this.{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}But don\u2019t worry!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}All he has to do is get over it!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Once he does that, everything will go back to normal.{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}And the worm will feed once more.{/i}"
+    }
+  ],
+  "state_changes": {
+    "amispring1": {
+      "from": null,
+      "to": true
+    },
+    "day": {
+      "from": 2,
+      "to": 3
+    },
+    "amiblock": {
+      "from": null,
+      "to": true
+    },
+    "senseisad": {
+      "from": null,
+      "to": true
+    }
+  }
+}

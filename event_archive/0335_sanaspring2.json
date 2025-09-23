@@ -1,0 +1,720 @@
+{
+  "event_id": 335,
+  "event_label": "sanaspring2",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "We make it to the bar a short while later and I find that business has gotten even better since I slipped into seclusion. Probably because Sara has had less time to think about my penis."
+    },
+    {
+      "character": "narrator",
+      "text": "I say that knowing full well that she was beginning to turn things around even prior to my temporary disappearance. And I\u2019m proud of her for what she\u2019s been able to accomplish within that time."
+    },
+    {
+      "character": "narrator",
+      "text": "But I can\u2019t help but let some air out of the egotistical half of my brain in realizing just how much better off even the adults in Kumon-mi would be without me."
+    },
+    {
+      "character": "narrator",
+      "text": "My psyche comes crashing down to earth and blends in with wine stains on the deep, red carpet covering this aging bar- and it crawls away before I\u2019m able to scoop it back up."
+    },
+    {
+      "character": "narrator",
+      "text": "Here\u2019s hoping someone in need of a little boost takes it and swallows it."
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019d recommend Sana under normal circumstances, but I\u2019m beginning to think she may have already consumed a piece of me sometime between when my life was okay and now."
+    },
+    {
+      "character": "narrator",
+      "text": "Either that or she\u2019s been possessed. "
+    },
+    {
+      "character": "narrator",
+      "text": "I just struggle to believe it\u2019s {i}growth{/i} at all when she\u2019s done nothing to incite it. "
+    },
+    {
+      "character": "narrator",
+      "text": "People don\u2019t get better by simply existing. If anything, that just wears a person down. "
+    },
+    {
+      "character": "narrator",
+      "text": "And unless this aspect of her personality has been clawing at the lid of the casket she sleeps in for as long as I\u2019ve known her, I\u2019m not sure who she is makes much sense to me."
+    },
+    {
+      "character": "narrator",
+      "text": "But I guess it doesn\u2019t have to so long as being near her doesn\u2019t make me want to buy myself my own deathbed. "
+    },
+    {
+      "character": "Sana",
+      "text": "Hey...I\u2019m back..."
+    },
+    {
+      "character": "Sana",
+      "text": "Sorry it took so long, but...to make up for it...I brought somebody with me..."
+    },
+    {
+      "character": "Sara",
+      "text": "Is Ayane here again? Good. Get her a uniform from the back room and have her take care of the women in the back. Like...the back table. Don\u2019t let her take any women into the back room. She\u2019s too young."
+    },
+    {
+      "character": "Sana",
+      "text": "Um...do you maybe want to...{i}look{/i} at who I brought with me?..."
+    },
+    {
+      "character": "Sara",
+      "text": "Sana, we\u2019re swamped right now. I don\u2019t have time to-"
+    },
+    {
+      "character": "Sara",
+      "text": "Ah! Wha- ahh?!?! When?! How?! Why?! Hello?!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Hello."
+    },
+    {
+      "character": "Sana",
+      "text": "Do you...still want me to...get a uniform for him? Because I can try, but...I don\u2019t think we have any that will fit..."
+    },
+    {
+      "character": "Sara",
+      "text": "Forget the uniform! What\u2019s going on?! Where have you been?! Are you okay?!"
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m procrastinating, I\u2019ve been at home, and no."
+    },
+    {
+      "character": "Sara",
+      "text": "Well...is there anything I can do to help? I\u2019ve been worried sick, you know. I don\u2019t exactly have a successful track record when it comes to teachers disappearing on me."
+    },
+    {
+      "character": "Sana",
+      "text": "That...has only happened one time before..."
+    },
+    {
+      "character": "Sara",
+      "text": "Yes, but you shouldn\u2019t make jokes because it is also the reason you exist in the first place."
+    },
+    {
+      "character": "Frank: Friend of Takoyaki Son, Son of Takoyaki Man",
+      "text": "Hey, Tony...isn\u2019t that the guy from the theme park? The one who showed up with that girl who made you nervous?"
+    },
+    {
+      "character": "Tony: Takoyaki Son, Son of Takoyaki Man",
+      "text": "What? Where do you-"
+    },
+    {
+      "character": "Tony: Takoyaki Son, Son of Takoyaki Man",
+      "text": "FUCK, HE\u2019S GOT A DIFFERENT ONE WITH HIM THIS TIME! FUCK YOU, MAN! FUCK YOU!!!!"
+    },
+    {
+      "character": "Frank: Friend of Tony: Takoyaki Son, Son of Takoyaki Man",
+      "text": "Dude, calm down. You're doing it again."
+    },
+    {
+      "character": "Sara",
+      "text": "Hey! This is a violence-free zone!"
+    },
+    {
+      "character": "Yakuza Dude",
+      "text": "Ugh, seriously? I\u2019m getting out of here."
+    },
+    {
+      "character": "Random Karate Person",
+      "text": "Yeah...looks like we\u2019ll just have to spar elsewhere."
+    },
+    {
+      "character": "Sensei",
+      "text": "When did this become such a popular hub for extras?"
+    },
+    {
+      "character": "Matthew",
+      "text": "Probably last Christmas. Yuki makes an excellent Manhattan."
+    },
+    {
+      "character": "Sensei",
+      "text": "Wonderful. Thanks, Matthew."
+    },
+    {
+      "character": "Sara",
+      "text": "When did you meet Matthew?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I can\u2019t really explain it, but I feel like he\u2019s always just kind of been there."
+    },
+    {
+      "character": "Sara",
+      "text": "That\u2019s cool. But you know who {i}hasn\u2019t{/i} been there?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Am I in trouble? Because I wasn\u2019t even planning on coming inside and I\u2019m just going to go home if you\u2019re going to yell at me."
+    },
+    {
+      "character": "Sara",
+      "text": "Your sentence lasted too long and now I feel weird responding to my own question. So I\u2019m just going to say welcome back and not bother lecturing you since I\u2019m sure it couldn\u2019t be helped."
+    },
+    {
+      "character": "Sana",
+      "text": "Sensei\u2019s...still not doing all that well...so if we could maybe...give him a discount tonight...he could drink and...it would help take his mind off of things..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Why are you trying to get me drunk?"
+    },
+    {
+      "character": "Sana",
+      "text": "Because it\u2019s the only way my mom ever taught me how to deal with my problems..."
+    },
+    {
+      "character": "Sara",
+      "text": "And it\u2019s an excellent idea, Sana. There is no sadness that can not be battled by the abuse of certain substances!"
+    },
+    {
+      "character": "Sara",
+      "text": "Just don\u2019t say that around Yuki because addiction is a slippery slope and I don\u2019t want her reverting to old habits when she\u2019s finally doing really well."
+    },
+    {
+      "character": "Sensei",
+      "text": "I am in no place or state of mind to tell you how to raise {i}anyone,{/i} but I will accept a discount and experiment with your methods tonight as nothing else helps anymore."
+    },
+    {
+      "character": "Sara",
+      "text": "Why make it a {i}discount?{/i} Why not just let you drink anything you want tonight on the house?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Because that\u2019s a terrible business decision and you have employees to pay."
+    },
+    {
+      "character": "Sara",
+      "text": "Not tonight, I don\u2019t! Everybody out! The bar is closing early!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Finally, a level of self-destructiveness and reckless abandon that I can relate to. All of the compassion I\u2019ve been shown today was starting to make me nauseous."
+    },
+    {
+      "character": "Sana",
+      "text": "Is it...really okay if we close early? The bar is...almost full right now..."
+    },
+    {
+      "character": "Tony: Takoyaki Son, Son of Takoyaki Man",
+      "text": "THIS FUCKING GUY RUINS EVERYTHING HE TOUCHES!!!!!"
+    },
+    {
+      "character": "Sana",
+      "text": "Do you...know that man, Sensei?..."
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t think so. But based on that description, he knows me very well."
+    },
+    {
+      "character": "Sara",
+      "text": "I repeat, loyal patrons of Sakaki-bar-a! The bar is closing early! Finish your drinks, settle your tabs, then drunkenly wander home! You\u2019re all way too hammered to drive, so you can have your keys back tomorrow."
+    },
+    {
+      "character": "Taco Man",
+      "text": "But my house key is attached to my-"
+    },
+    {
+      "character": "Sara",
+      "text": "Should\u2019ve thought about that earlier, Taco Man!"
+    },
+    {
+      "character": "Taco Man",
+      "text": "Looks like I\u2019m sleeping in the subway again..."
+    },
+    {
+      "character": "Sana",
+      "text": "If...we\u2019re not working...can I go upstairs with Sensei now?..."
+    },
+    {
+      "character": "Sara",
+      "text": "Of course! But don\u2019t think you\u2019ll be alone for long since I\u2019m getting these people out of here as soon as possible."
+    },
+    {
+      "character": "Sana",
+      "text": "You can...take your time if you want...I don\u2019t mind...being alone with him..."
+    },
+    {
+      "character": "Sara",
+      "text": "That\u2019s what I used to say. Then, the next thing I knew, there was a little Sana growing inside of me."
+    },
+    {
+      "character": "Sana",
+      "text": "Ew...why?..."
+    },
+    {
+      "character": "Sara",
+      "text": "Because when a man puts his penis in a woman\u2019s vagina-"
+    },
+    {
+      "character": "Sana",
+      "text": "What? No!...I meant why would you say that?"
+    },
+    {
+      "character": "Sara",
+      "text": "Because if I don\u2019t teach you how it works, I\u2019ll never have a granddaughter to-"
+    },
+    {
+      "character": "Sana",
+      "text": "Okay...time to go upstairs, Sensei..."
+    },
+    {
+      "character": "narrator",
+      "text": "Sana grabs me by the wrist and drags me toward the stairs \u2014 which is a thing I never thought I\u2019d be able to say several cycles ago."
+    },
+    {
+      "character": "narrator",
+      "text": "It feels like just the other day she could barely make eye contact with me. But now, she\u2019s treating me like some kind of...boyfriend that she\u2019s dragging back to her house for the millionth time."
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019m welcome here. I\u2019m {i}wanted{/i} here. And I feel as if I could come and go without making or breaking someone\u2019s life."
+    },
+    {
+      "character": "narrator",
+      "text": "That\u2019s more than I can say about home right now. But that\u2019s exactly why it\u2019s so wrong for me to allow myself a comfortable night in with a family I\u2019m not a part of- despite how badly they may {i}want{/i} me to be."
+    },
+    {
+      "character": "narrator",
+      "text": "I wonder if they\u2019d take Ami as well...if they\u2019d let the {i}two{/i} of us infiltrate their already-fractured home by mistakenly believing we won\u2019t damage it any further."
+    },
+    {
+      "character": "narrator",
+      "text": "But just thinking that alone makes me sick to my stomach as I\u2019m treating my niece like a piece of luggage instead of the wonderful girl I know she is."
+    },
+    {
+      "character": "narrator",
+      "text": "And right now, I\u2019m more concerned with not having her bump into strangers\u2019 legs on the subway. Or avoiding the stutter-step I\u2019d make if her wheels get locked on a rogue pebble in the middle of the street."
+    },
+    {
+      "character": "narrator",
+      "text": "Sara makes her way up the creaky staircase and joins us after ten minutes or so."
+    },
+    {
+      "character": "narrator",
+      "text": "She changes into her pajamas immediately, grabbing a half-empty bottle of wine off the kitchen counter and a few beers for Sana and me."
+    },
+    {
+      "character": "narrator",
+      "text": "I shouldn\u2019t drink. Not when I know my head\u2019s already falling off my shoulders. But I also shouldn\u2019t sleep with teenagers or jerk off to the memories of dead girls and that\u2019s never stopped me before."
+    },
+    {
+      "character": "narrator",
+      "text": "What\u2019s one more mistake in a life that\u2019s practically made of them? What about a hundred? A thousand?"
+    },
+    {
+      "character": "narrator",
+      "text": "Retreating toward the glow of normalcy would stand out far more than another bad decision, so I take solace in a {i}different{/i} glow \u2014 a purple one from a table with built in LEDs."
+    },
+    {
+      "character": "narrator",
+      "text": "It blends in with the light from the city outside of the apartment....and I find myself existing in a place that feels more like something out of a dream than my actual {i}dreams{/i} do."
+    },
+    {
+      "character": "narrator",
+      "text": "Sara lit candles."
+    },
+    {
+      "character": "narrator",
+      "text": "They\u2019re scented."
+    },
+    {
+      "character": "narrator",
+      "text": "Sakura again."
+    },
+    {
+      "character": "narrator",
+      "text": "There is no escape."
+    },
+    {
+      "character": "Sara",
+      "text": "So, does this mean you\u2019re going to start coming around again? Or should I prepare myself for another two months of complete loneliness?"
+    },
+    {
+      "character": "Sensei",
+      "text": "You had Sana, didn\u2019t you? And Yuki. And Maki and Haruka. And more customers than I\u2019ve ever seen in here before. Why is it {i}my{/i} existence you need to steer yourself away from loneliness?"
+    },
+    {
+      "character": "Sara",
+      "text": "Because you\u2019re the one I like the most."
+    },
+    {
+      "character": "Sana",
+      "text": "Hey."
+    },
+    {
+      "character": "Sara",
+      "text": "Other than you, sweetie. You know you\u2019ll always be first in my heart."
+    },
+    {
+      "character": "Sana",
+      "text": "That\u2019s...not how you made it sound just now..."
+    },
+    {
+      "character": "Sara",
+      "text": "I just mean that I can connect with you in a way that I can\u2019t connect with Sana."
+    },
+    {
+      "character": "Sana",
+      "text": "Gross."
+    },
+    {
+      "character": "Sara",
+      "text": "Not like that. But also like that if you want."
+    },
+    {
+      "character": "Sana",
+      "text": "Gross times two."
+    },
+    {
+      "character": "Sensei",
+      "text": "Thanks, Sara."
+    },
+    {
+      "character": "Sensei",
+      "text": "I can\u2019t say whether or not I\u2019m going to start \u201ccoming around again,\u201d though. I need...some more time to figure out what I want to do with myself."
+    },
+    {
+      "character": "Sara",
+      "text": "You mean...{i}apart{/i} from teaching?"
+    },
+    {
+      "character": "Sana",
+      "text": "Sensei is...taking a break from teaching for a little while..."
+    },
+    {
+      "character": "Sara",
+      "text": "What?! Really?!"
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m taking a break from everything. I shouldn\u2019t even be {i}here{/i} right now. And if it weren\u2019t for me having a soft spot for Sana and a...different kind of spot for Ami, I probably {i}wouldn\u2019t{/i} be."
+    },
+    {
+      "character": "Sara",
+      "text": "Is...something going on with Ami too?"
+    },
+    {
+      "character": "Sana",
+      "text": "She\u2019s...completely lost it..."
+    },
+    {
+      "character": "Sana",
+      "text": "She gave a whole speech today on...how all of us are just...trying to steal Sensei away from her...and it...may have involved a little...um...dismemberment?..."
+    },
+    {
+      "character": "Sara",
+      "text": "Your niece got in front of the class and said she was going to dismember the rest of the girls?"
+    },
+    {
+      "character": "Sensei",
+      "text": "In layman\u2019s terms, yes."
+    },
+    {
+      "character": "Sara",
+      "text": "Well, I\u2019d probably need some time off after that as well."
+    },
+    {
+      "character": "Sara",
+      "text": "Do you want {i}me{/i} to talk to her? She could probably use a mother figure in her life, right?"
+    },
+    {
+      "character": "Sana",
+      "text": "Subtle, Mom..."
+    },
+    {
+      "character": "Sara",
+      "text": "I\u2019m serious, though. A little heart to heart might be good for her. Having just one other member in your family can be super scary."
+    },
+    {
+      "character": "Sara",
+      "text": "Like, I\u2019d probably never {i}stop{/i} worrying if Sana was out talking to boys since I\u2019d be scared they\u2019d be luring her away from me. So, in a sense, I\u2019m {i}glad{/i} most of them went to space."
+    },
+    {
+      "character": "Sana",
+      "text": "And I\u2019m...going to pretend that\u2019s not a little...overprotective..."
+    },
+    {
+      "character": "Sensei",
+      "text": "It\u2019s a good idea, Sara...but I\u2019m not sure if that would help her. Especially not when she\u2019d likely just interpret it as you trying to get closer to me."
+    },
+    {
+      "character": "Sensei",
+      "text": "It\u2019s like...nobody else can even {i}talk{/i} to me at this point without setting her off. And I think something is seriously wrong this time."
+    },
+    {
+      "character": "Sensei",
+      "text": "She\u2019s always been clingy. But lately, it\u2019s gotten out of control. And I don\u2019t want it to ruin the relationships she has with everyone else since I...{i}can\u2019t{/i} always be there for her."
+    },
+    {
+      "character": "Sensei",
+      "text": "But I feel like I {i}should{/i} since she\u2019s always there for me."
+    },
+    {
+      "character": "Sana",
+      "text": "That...does sound kind of tough..."
+    },
+    {
+      "character": "Sara",
+      "text": "I get it, though. But I\u2019m not sure if I have any better advice to give than just maybe trying to get some outside help. Do you think she\u2019d be open to therapy?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Not until she\u2019s willing to acknowledge that there\u2019s something wrong. And she\u2019s convinced that everyone {i}else{/i} is crazy...not her."
+    },
+    {
+      "character": "Sara",
+      "text": "Yeah..."
+    },
+    {
+      "character": "Sara",
+      "text": "Yeah...that\u2019ll happen."
+    },
+    {
+      "character": "narrator",
+      "text": "A moment of silence goes by."
+    },
+    {
+      "character": "narrator",
+      "text": "Then another."
+    },
+    {
+      "character": "narrator",
+      "text": "Then another, as we each take a sip from our drinks."
+    },
+    {
+      "character": "narrator",
+      "text": "Then another."
+    },
+    {
+      "character": "narrator",
+      "text": "Then another."
+    },
+    {
+      "character": "narrator",
+      "text": "Until one of us can\u2019t drink any more."
+    },
+    {
+      "character": "narrator",
+      "text": "And the other two of us are at the ends of our ropes."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Sana",
+      "text": "..."
+    },
+    {
+      "character": "Sana",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "Or at least that\u2019s what I {i}thought.{/i}"
+    },
+    {
+      "character": "Sana",
+      "text": "Nh..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Sana",
+      "text": "Ah........nh........"
+    },
+    {
+      "character": "Sensei",
+      "text": "You\u2019re making those noises on purpose, aren\u2019t you?"
+    },
+    {
+      "character": "Sana",
+      "text": "Huh?...Did you...say something?..."
+    },
+    {
+      "character": "Sana",
+      "text": "Sorry, I...must have dozed off..."
+    },
+    {
+      "character": "Sensei",
+      "text": "So you were just {i}subconsciously{/i} opening your eyes to see if I was looking at you?"
+    },
+    {
+      "character": "Sana",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Sana",
+      "text": "Looks like...I was caught..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Looks like it."
+    },
+    {
+      "character": "Sana",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Sana",
+      "text": "You know..."
+    },
+    {
+      "character": "Sana",
+      "text": "She\u2019s not going to wake up..."
+    },
+    {
+      "character": "Sana",
+      "text": "And you\u2019ve been drinking...so it wouldn\u2019t be...that unusual if...you were to...maybe...make a {i}bad{/i} decision..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Sana",
+      "text": "Right?..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Sana",
+      "text": "Or maybe...you want {i}me{/i} to be the one who makes a {i}bad{/i} decision?..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Sana",
+      "text": "Is that what you want, Sensei?..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Sana..."
+    },
+    {
+      "character": "Sana",
+      "text": "What's wrong?..."
+    },
+    {
+      "character": "Sana",
+      "text": "Don't you want me to make you...{i}feel good?...{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "Is this just what you\u2019re going to be like now?"
+    },
+    {
+      "character": "Sana",
+      "text": "What do you mean?..."
+    },
+    {
+      "character": "Sensei",
+      "text": "What do you think I mean?"
+    },
+    {
+      "character": "Sana",
+      "text": "Maybe I\u2019ve always been like this and you just didn\u2019t want to believe it?..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Maybe. Or maybe something\u2019s changed."
+    },
+    {
+      "character": "Sana",
+      "text": "Does it really matter either way? You want me...don\u2019t you?..."
+    },
+    {
+      "character": "Sana",
+      "text": "You think {i}I\u2019m{/i} cute...I think {i}you\u2019re{/i} cute..."
+    },
+    {
+      "character": "Sana",
+      "text": "And your fingers are much bigger than mine...you can reach deeper than I can..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Sana",
+      "text": "You want me to suck it?..."
+    },
+    {
+      "character": "Sana",
+      "text": "You\u2019re probably pent up after all that time away, aren\u2019t you?..."
+    },
+    {
+      "character": "Sensei",
+      "text": "What happened at the Halloween party?"
+    },
+    {
+      "character": "Sana",
+      "text": "You..."
+    },
+    {
+      "character": "Sana",
+      "text": "You don\u2019t..."
+    },
+    {
+      "character": "Sana",
+      "text": "You don\u2019t remember?..."
+    },
+    {
+      "character": "Sensei",
+      "text": "I know...{i}something{/i} happened. I just don\u2019t remember what."
+    },
+    {
+      "character": "Sensei",
+      "text": "I was kind of...blacked out for a lot of that night."
+    },
+    {
+      "character": "Sana",
+      "text": "Well...you {i}were{/i} talking to someone who wasn\u2019t actually there, so...I guess that makes sense..."
+    },
+    {
+      "character": "Sana",
+      "text": "You really...don\u2019t remember any of the details, though?..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Not really...no..."
+    },
+    {
+      "character": "Sana",
+      "text": "Then..."
+    },
+    {
+      "character": "Sana",
+      "text": "Maybe I should try to remind you?..."
+    }
+  ],
+  "state_changes": {
+    "sanaspring2": {
+      "from": null,
+      "to": true
+    }
+  }
+}

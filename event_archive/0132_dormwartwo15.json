@@ -1,0 +1,820 @@
+{
+  "event_id": 132,
+  "event_label": "dormwartwo15",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "Only a handful of girls wind up coming to the next competition, but it\u2019s not because none of them want to."
+    },
+    {
+      "character": "narrator",
+      "text": "Yasu\u2019s insistence that only a small group follow her to the church led to the sudden fragmentation of our class- like it\u2019s no more than some undisclosed ingredient on an ethereal cutting board."
+    },
+    {
+      "character": "narrator",
+      "text": "Each press of the knife slices away not only our bodies, but what those bodies lie on."
+    },
+    {
+      "character": "narrator",
+      "text": "And before we know it, the fragments spread out, forever being stripped of the only opportunity they\u2019ll ever have to be attached to anything."
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019m not saying that\u2019s what will happen tonight. Doing so would be a bit overdramatic."
+    },
+    {
+      "character": "narrator",
+      "text": "But that doesn\u2019t stop me from thinking about what would happen if it did."
+    },
+    {
+      "character": "narrator",
+      "text": "And which pieces I would reach for first if they all started falling away at once."
+    },
+    {
+      "character": "narrator",
+      "text": "Rin. Sana. Otoha. Touka. Imani."
+    },
+    {
+      "character": "narrator",
+      "text": "At the behest of Yasu, this is all that remains of our once spectacular group as the rest is off celebrating and thinking about me. Celebrating while thinking about me. Thinking ABOUT ME while CELEBRATING."
+    },
+    {
+      "character": "narrator",
+      "text": "I learned a long time ago that one of the most effective methods to make yourself feel more human is to always put yourself first."
+    },
+    {
+      "character": "narrator",
+      "text": "If you can\u2019t find yourself, just latch onto whatever is closest."
+    },
+    {
+      "character": "narrator",
+      "text": "And in this case, the closest thing I can find to the way I feel is a handful of semi-intangible thoughts, slipping through my fingers like long, red hair with bits of scalp still attached."
+    },
+    {
+      "character": "narrator",
+      "text": "If I squint my eyes, I can forget what they are."
+    },
+    {
+      "character": "narrator",
+      "text": "I can make them look more like threads."
+    },
+    {
+      "character": "narrator",
+      "text": "{b}THIS IS THE WRONG SKY.{/b}"
+    },
+    {
+      "character": "Yasu",
+      "text": "Stop. "
+    },
+    {
+      "character": "Otoha",
+      "text": "What? Why? Is there, like...mass going on or something? "
+    },
+    {
+      "character": "Otoha",
+      "text": "In fact, why are we even here in the first place? Couldn\u2019t we have just done this trivia thing at Sana\u2019s bar or whatever?"
+    },
+    {
+      "character": "Touka",
+      "text": "Yasu was adamant that the contest would have to be here for her to have any sort of chance against Rin. And Rin agreed to the terms as she already had a sizable handicap."
+    },
+    {
+      "character": "Rin",
+      "text": "Is that what happened? Because I\u2019ve started just saying whatever it is that I think will make Yasu go away the fastest and I don\u2019t even know what I\u2019m agreeing to half the time."
+    },
+    {
+      "character": "Sana",
+      "text": "I...should try that strategy sometime..."
+    },
+    {
+      "character": "Otoha",
+      "text": "Just let us in and we can be quiet until mass is over or something. Being...wherever the Hell we are right now is giving me the creeps."
+    },
+    {
+      "character": "Yasu",
+      "text": "{i}Where you are{/i} is the front porch of salvation...a place that you would not be able to see at all if it were not for two and a half of us. "
+    },
+    {
+      "character": "Otoha",
+      "text": "Uhh...what?"
+    },
+    {
+      "character": "Sana",
+      "text": "If that\u2019s...a short-joke...I\u2019m going to be sad..."
+    },
+    {
+      "character": "Imani",
+      "text": "You have any idea what\u2019s going on right now, Senpai?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I never have any idea what\u2019s going on when I come here."
+    },
+    {
+      "character": "Imani",
+      "text": "You a regular? Didn\u2019t take you as the religious type."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m not. I probably just come here because I\u2019m worried that Yasu\u2019s going to hurt herself or something."
+    },
+    {
+      "character": "Imani",
+      "text": "Probably?"
+    },
+    {
+      "character": "Sensei",
+      "text": "It\u2019s complicated."
+    },
+    {
+      "character": "Imani",
+      "text": "Well, whatever it is, I can\u2019t say I feel comfortable over here. In fact, if it was anybody other than Yasu leading all of us to this place, I\u2019d probably be fearing for my life right about now."
+    },
+    {
+      "character": "Sensei",
+      "text": "I have no idea how it being Yasu makes you {i}more{/i} comfortable about that, but you do you."
+    },
+    {
+      "character": "Imani",
+      "text": "Yasu\u2019s not out to hurt anybody, I don\u2019t think. She clearly believes all of this crap, yeah- but false beliefs are totally common in people who aren\u2019t exactly, uhh...the same as the rest of us."
+    },
+    {
+      "character": "Sensei",
+      "text": "What if her god told her to kill us? Since she\u2019s such a fanatic...she\u2019d have to oblige, right?"
+    },
+    {
+      "character": "Imani",
+      "text": "Oh, come on, man! You have any idea how long it\u2019s been since I\u2019ve practiced Krav Maga? I ain\u2019t ready to fight for my life tonight! I just wanted to judge a contest!"
+    },
+    {
+      "character": "Yasu",
+      "text": "No one will be judging anything."
+    },
+    {
+      "character": "Yasu",
+      "text": "It is He and He alone who bestows judgement on all there is to be judged. And stepping into His sanctum just to tread all over His toes is not welcome."
+    },
+    {
+      "character": "Rin",
+      "text": "Wait...you\u2019re not forfeiting, are you?"
+    },
+    {
+      "character": "Yasu",
+      "text": "All I am doing is protecting that which I have been ordained to protect. The contest will proceed as normal within the walls of the holy."
+    },
+    {
+      "character": "Yasu",
+      "text": "But only four of us will enter while the rest of you remain out here."
+    },
+    {
+      "character": "Otoha",
+      "text": "But why-"
+    },
+    {
+      "character": "Yasu",
+      "text": "Because you are not ready."
+    },
+    {
+      "character": "Yasu",
+      "text": "His is a church that welcomes all, but only after certain conditions have been met. It is only then that one is chosen."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m confused. I thought {i}I{/i} was the only one who was chosen. Now two more people have been chosen as well?"
+    },
+    {
+      "character": "Yasu",
+      "text": "You do not understand the choices being {i}made.{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "Well, you\u2019ve certainly got that much right."
+    },
+    {
+      "character": "Touka",
+      "text": "Who are the four, Yasu? I assume that you, Sensei, and Rin are among the three....But which of us apart from that is the fourth?"
+    },
+    {
+      "character": "Yasu",
+      "text": "She with the silly, green helmet."
+    },
+    {
+      "character": "Sana",
+      "text": "M...Me?!"
+    },
+    {
+      "character": "Otoha",
+      "text": "Why Sana? What do the rest of us need to do to...fulfill your god\u2019s conditions or whatever?"
+    },
+    {
+      "character": "Yasu",
+      "text": "All that you can do is unintentional. There is no single method that will allow you inside of the sanctuary."
+    },
+    {
+      "character": "Otoha",
+      "text": "My feet will allow me inside of the sanctuary a lot better than weird religious riddles will, I\u2019ll tell you that much."
+    },
+    {
+      "character": "Touka",
+      "text": "Yasu, please explain this in a more concrete way so that those of us remaining outside do not become disheartened. I\u2019m sure you must understand this comes as a bit of a shock to us after the long ride here."
+    },
+    {
+      "character": "Sana",
+      "text": "I...will swap with Otoha and...stay out here...if that\u2019s okay..."
+    },
+    {
+      "character": "Yasu",
+      "text": "It is not. He wants you to observe...to peer into His splendor with your brand new eyes and throw yourself deeper into a life full of patience and understanding."
+    },
+    {
+      "character": "Yasu",
+      "text": "And unfortunately there is no \u201cconcrete way\u201d of explaining this as the rumbling of the surface has already formed far too many cracks on these hallowed grounds."
+    },
+    {
+      "character": "Yasu",
+      "text": "Every crack you step on will be met with tragedy. And it is only I who can properly guide those who have been selected to-"
+    },
+    {
+      "character": "Otoha",
+      "text": "Oh, fucking whatever. Just go in there and get this shit over with if you\u2019re not going to let us in."
+    },
+    {
+      "character": "Rin",
+      "text": "Hey, I...know I may have {i}accidentally{/i} agreed to this to give you a fair shot, but...is there any way I can give you a fair shot {i}outside{/i} of a mega creepy church that I can't bring my girlfriend into?"
+    },
+    {
+      "character": "Yasu",
+      "text": "No..."
+    },
+    {
+      "character": "Yasu",
+      "text": "You waited too long to ask."
+    },
+    {
+      "character": "Yasu",
+      "text": "By now, His tendrils are already wrapped around your legs."
+    },
+    {
+      "character": "Yasu",
+      "text": "It is only a matter of time until you\u2019re pulled in."
+    },
+    {
+      "character": "Yasu",
+      "text": "Alas...it is now {i}you{/i} who does not have a {i}fair shot...{/i}"
+    },
+    {
+      "character": "Yasu",
+      "text": "But..."
+    },
+    {
+      "character": "Yasu",
+      "text": "At least you will learn how misguided...how {i}small{/i} you truly are..."
+    },
+    {
+      "character": "narrator",
+      "text": "Reluctantly and hesitantly, those of us who have been chosen (Which apparently has multiple meanings now) follow Yasu through the church doors."
+    },
+    {
+      "character": "narrator",
+      "text": "There are no tables or tea cups...bunnies or blindfolds...just the same sets of stone pews I have familiarized myself with in a place where nothing should ever be familiar at all."
+    },
+    {
+      "character": "Sana",
+      "text": "Wow..."
+    },
+    {
+      "character": "Sana",
+      "text": "It looks...a lot bigger on the inside..."
+    },
+    {
+      "character": "Rin",
+      "text": "Is it just me, or...is it kind of hard to breathe in here?"
+    },
+    {
+      "character": "Yasu",
+      "text": "Blessed be those who enter the church...Who walk through His heart...Partake in His search..."
+    },
+    {
+      "character": "Yasu",
+      "text": "Blessed be those who now have been found...Who don\u2019t know they need saving...Who can\u2019t hear the sounds..."
+    },
+    {
+      "character": "Yasu",
+      "text": "We are with you, My Lord. Peer into us so that we may peer into you and blind ourselves with the light of all that you have done."
+    },
+    {
+      "character": "Yasu",
+      "text": "I have brought these girls here today with the full intention of giving them wings...though, how long it will take, I am not sure."
+    },
+    {
+      "character": "Yasu",
+      "text": "The light of the one who has seen you will one day flow through them. And when that time comes, we will return here under a different pretense."
+    },
+    {
+      "character": "Yasu",
+      "text": "Under a different sky."
+    },
+    {
+      "character": "Yasu",
+      "text": "But today, all I wish is for them to see your glory. All I wish is for them to see how wonderful you are and how expansive the world is once you close your eyes."
+    },
+    {
+      "character": "Yasu",
+      "text": "I do not {i}ask{/i} this of you, God- for I know that it is not within my right nor my power to ask for anything."
+    },
+    {
+      "character": "Yasu",
+      "text": "But I trust that you will show them through me. And that they will understand they, too, are just vessels beneath the layers of flesh and muscle and bone."
+    },
+    {
+      "character": "Yasu",
+      "text": "I understand that everything hurts, God."
+    },
+    {
+      "character": "Yasu",
+      "text": "But I pray that the pain of this realization will not be too great for them to bear."
+    },
+    {
+      "character": "Rin",
+      "text": "I really don\u2019t like this, Sensei. You know that feeling you get when you, like...sneak into school at night? Or go into some creepy basement? The one where your stomach is all like \u201cGUHHHHH?\u201d"
+    },
+    {
+      "character": "Sensei",
+      "text": "Not really."
+    },
+    {
+      "character": "Rin",
+      "text": "Well, that\u2019s how I feel right now. "
+    },
+    {
+      "character": "Sensei",
+      "text": "Then forfeit before this contest thing kicks off and we can all go home. I don\u2019t really like this place either."
+    },
+    {
+      "character": "Rin",
+      "text": "Are you kidding? This is the perfect chance to show you that the...growing distance between us we talked about the other day is all just surface level stuff! "
+    },
+    {
+      "character": "Rin",
+      "text": "We\u2019re still friends, right?! We still know a bunch of stuff about each other, right?! "
+    },
+    {
+      "character": "Rin",
+      "text": "We\u2019re not growing apart at all! I\u2019ll show you!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Rin-"
+    },
+    {
+      "character": "Rin",
+      "text": "I mean it! I miss you and I\u2019m sorry that things are getting all weird between us and...also, that I\u2019m getting randomly emotional right now for some reason? "
+    },
+    {
+      "character": "Sana",
+      "text": "Um..."
+    },
+    {
+      "character": "Rin",
+      "text": "I...I don\u2019t know what\u2019s going on! I just have to prove to everyone that we\u2019re still homies no matter what mistakes we make or...what things we accidentally reveal to other people!"
+    },
+    {
+      "character": "Sana",
+      "text": "Rin...I..."
+    },
+    {
+      "character": "Sensei",
+      "text": "What did you-"
+    },
+    {
+      "character": "Rin",
+      "text": "Nothing! I\u2019m sorry! I love you! But, like...friend love! Okay?"
+    },
+    {
+      "character": "Sana",
+      "text": "Rin, I...think we should start the contest now. I\u2019m also...starting to feel a little...weird in here..."
+    },
+    {
+      "character": "Sana",
+      "text": "It\u2019s not like it\u2019s...harder to breathe, though...it\u2019s more like...uhh..."
+    },
+    {
+      "character": "Sana",
+      "text": "Actually, let\u2019s just...uhh..."
+    },
+    {
+      "character": "Sana",
+      "text": "I think I...have to sit down..."
+    },
+    {
+      "character": "narrator",
+      "text": "Sana darts past Rin and me before taking a seat on a pew and slapping her cheeks a few times to shake off whatever it is she was feeling moments ago."
+    },
+    {
+      "character": "narrator",
+      "text": "And while I\u2019m not sure if it actually {i}works{/i} or not, I elect to assume it does once she pulls her phone from the waistband of her skirt and begins to search for something..."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Sana",
+      "text": "Um...so...we had Ami come up with all of the questions for the Sensei...knowledge test...thing, since...she\u2019s the one who\u2019s known him the longest."
+    },
+    {
+      "character": "narrator",
+      "text": "True...but I can\u2019t see how that\u2019ll help when I barely know anything about myself that {i}I{/i} wasn\u2019t here to figure out firsthand."
+    },
+    {
+      "character": "narrator",
+      "text": "If there are any questions about anything prior to my start in Kumon-mi, I won\u2019t be able to determine who\u2019s right or not. And without Ami here, I can\u2019t see how we could even-"
+    },
+    {
+      "character": "narrator",
+      "text": "Wait. No. Why would there be any questions about things from before Rin and I even knew one another? If Ami knows anything about me, she should know I don\u2019t open up about things like that."
+    },
+    {
+      "character": "narrator",
+      "text": "So...these should all be fairly straightforward questions, shouldn\u2019t they? "
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "A strange feeling catches up to me as well."
+    },
+    {
+      "character": "narrator",
+      "text": "It doesn\u2019t involve breathing."
+    },
+    {
+      "character": "narrator",
+      "text": "But it does make it harder to breathe."
+    },
+    {
+      "character": "Sana",
+      "text": "I think...umm...the easiest thing to do would be...to have you two take turns answering..."
+    },
+    {
+      "character": "Sana",
+      "text": "And if both of you have the same answer...we can just...move on to the next question."
+    },
+    {
+      "character": "Sana",
+      "text": "Whoever gets...ten correct answers first...will be crowned the winner..."
+    },
+    {
+      "character": "Sana",
+      "text": "Is...Is that okay?"
+    },
+    {
+      "character": "Yasu",
+      "text": "Yes."
+    },
+    {
+      "character": "Rin",
+      "text": "..."
+    },
+    {
+      "character": "Sana",
+      "text": "Rin?"
+    },
+    {
+      "character": "Rin",
+      "text": "Huh? Oh! Yeah. Yeah, that\u2019s fine."
+    },
+    {
+      "character": "Sana",
+      "text": "Then...I guess we\u2019ll have you go first since...I\u2019m suddenly the one in charge of this contest..."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Sana",
+      "text": "We can start off with something that...looks easy..."
+    },
+    {
+      "character": "Sana",
+      "text": "Oh. This one works..."
+    },
+    {
+      "character": "Sana",
+      "text": "How old is Sensei?"
+    },
+    {
+      "character": "Rin",
+      "text": "31. Easy. Next question."
+    },
+    {
+      "character": "Sana",
+      "text": "Wait...you have to give Yasu a chance to answer..."
+    },
+    {
+      "character": "Sana",
+      "text": "Yasu...same question..."
+    },
+    {
+      "character": "Sana",
+      "text": "How old is Sensei?"
+    },
+    {
+      "character": "Yasu",
+      "text": "..."
+    },
+    {
+      "character": "Sana",
+      "text": "Yasu?..."
+    },
+    {
+      "character": "Yasu",
+      "text": "I\u2019m sorry...there seems to be...some sort of problem."
+    },
+    {
+      "character": "Yasu",
+      "text": "There is an answer in my head...but there is no way it can be accurate. That wouldn\u2019t make sense."
+    },
+    {
+      "character": "Sana",
+      "text": "Do you...want to guess anyway?..."
+    },
+    {
+      "character": "Yasu",
+      "text": "..."
+    },
+    {
+      "character": "Sana",
+      "text": "Ya-"
+    },
+    {
+      "character": "Yasu",
+      "text": "No."
+    },
+    {
+      "character": "Yasu",
+      "text": "No...I will not answer this question. It is most assuredly some sort of mistake."
+    },
+    {
+      "character": "Yasu",
+      "text": "Is having so many people inside of the church the cause of some sort of disturbance in-"
+    },
+    {
+      "character": "Rin",
+      "text": "Okay, next question! Let\u2019s keep this shit going so we can get out of here."
+    },
+    {
+      "character": "Sana",
+      "text": "Um...who does...Sensei love more than anyone in the world?..."
+    },
+    {
+      "character": "Rin",
+      "text": "Am I guessing the answer Ami wrote? Or the actual answer?"
+    },
+    {
+      "character": "Sana",
+      "text": "Probably...the actual answer...but they might be the same, so..."
+    },
+    {
+      "character": "Rin",
+      "text": "Sexual love? Or {i}love{/i} love? "
+    },
+    {
+      "character": "Sana",
+      "text": "I...really hope it means {i}love{/i} love...otherwise..."
+    },
+    {
+      "character": "Rin",
+      "text": "That was a trick question. Sensei doesn\u2019t believe in {i}love{/i} love. Which means that it defaults to sexual love, which makes the answer..."
+    },
+    {
+      "character": "Rin",
+      "text": "Uta-chan!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Correct."
+    },
+    {
+      "character": "Yasu",
+      "text": "Is it?..."
+    },
+    {
+      "character": "Yasu",
+      "text": "I had a different answer for that question as well."
+    },
+    {
+      "character": "Sana",
+      "text": "What...was your answer, Yasu?..."
+    },
+    {
+      "character": "Yasu",
+      "text": "I\u2019m being told...that I shouldn\u2019t say it..."
+    },
+    {
+      "character": "Yasu",
+      "text": "That bad things will come if I say it..."
+    },
+    {
+      "character": "Yasu",
+      "text": "How unfortunate. I suppose I will have to pass on this question as well."
+    },
+    {
+      "character": "Rin",
+      "text": "Alright, hit me again! I\u2019m starting to get fired up! "
+    },
+    {
+      "character": "Sana",
+      "text": "..."
+    },
+    {
+      "character": "Rin",
+      "text": "Earth to Sana! I said hit me again!"
+    },
+    {
+      "character": "Sana",
+      "text": "Oh! Sorry...I just...there's a page full of questions labeled \u201chard\u201d and I was...looking at all of the answers myself."
+    },
+    {
+      "character": "Sensei",
+      "text": "Don\u2019t just peer into my background like that. That's an invasion of privacy, isn't it?"
+    },
+    {
+      "character": "Sana",
+      "text": "S-Sorry! I\u2019ve just...never really thought of...asking any of this stuff, and...and it\u2019s...making me feel a little closer to you, since...you never tell me anything..."
+    },
+    {
+      "character": "Rin",
+      "text": "Then it\u2019s a good thing you\u2019re not the one up here! Leave those \u201chard\u201d questions to Sensei\u2019s self-proclaimed best friend, Rin Rokuhara. What\u2019s next?"
+    },
+    {
+      "character": "Sana",
+      "text": "Uhh...okay, then..."
+    },
+    {
+      "character": "Sana",
+      "text": "Before Sensei was a teacher...he did something else...what was it?"
+    },
+    {
+      "character": "Rin",
+      "text": "Oh, I don\u2019t think he\u2019s told me this. But I remember Noriko saying something about it once and..."
+    },
+    {
+      "character": "Rin",
+      "text": "He was a...tutor wasn\u2019t he? Or a babysitter or something?"
+    },
+    {
+      "character": "Yasu",
+      "text": "He was a tutor. That is correct."
+    },
+    {
+      "character": "Sana",
+      "text": "Sensei?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah...they both got it right."
+    },
+    {
+      "character": "narrator",
+      "text": "Though that\u2019s essentially all I know about the subject matter."
+    },
+    {
+      "character": "Sana",
+      "text": "Then...as a follow-up question...where did Sensei do that?..."
+    },
+    {
+      "character": "Rin",
+      "text": "Uhh...I don\u2019t know. House calls? Coffee shops? Maybe he-"
+    },
+    {
+      "character": "Yasu",
+      "text": "Heheh..."
+    },
+    {
+      "character": "Rin",
+      "text": "Huh? You don\u2019t actually know, do you? Because you didn\u2019t even know his age."
+    },
+    {
+      "character": "Yasu",
+      "text": "There are several answers to that question. "
+    },
+    {
+      "character": "Yasu",
+      "text": "Two of which are very naughty."
+    },
+    {
+      "character": "Yasu",
+      "text": "But the one that\u2019s likely written down is..."
+    },
+    {
+      "character": "Yasu",
+      "text": "Well, I suppose it\u2019s safe to just call it a storefront in the old district now."
+    },
+    {
+      "character": "Yasu",
+      "text": "Though, it was quite different back when it was used for...{i}educational{/i} purposes. "
+    },
+    {
+      "character": "Sana",
+      "text": "Uh...well, all it says here is \u201cbuilding in old district\u201d so...I think Yasu gets a point for that."
+    },
+    {
+      "character": "Rin",
+      "text": "Seriously? But that\u2019s so vague...I didn\u2019t realize we could just guess a district and say \u201cOh, it\u2019s some building there.\u201d "
+    },
+    {
+      "character": "Sana",
+      "text": "Umm...what do you think, Sensei?...Should we give Yasu a point? Or..."
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t see why not. I can\u2019t imagine she\u2019ll be getting many more since half of her answers have been cut off by poor godly reception."
+    },
+    {
+      "character": "Rin",
+      "text": "Ugh...fine. Whatever. Just give me the next question."
+    },
+    {
+      "character": "Sana",
+      "text": "Okay...Here\u2019s another \u201chard\u201d one so...you can try to redeem yourself..."
+    },
+    {
+      "character": "Sana",
+      "text": "Rin..."
+    },
+    {
+      "character": "Sana",
+      "text": "What is the name..."
+    },
+    {
+      "character": "Sana",
+      "text": "Of Sensei\u2019s mother?..."
+    },
+    {
+      "character": "Rin",
+      "text": "You have a mother?"
+    },
+    {
+      "character": "Sana",
+      "text": "Doesn\u2019t...everyone have a mother?"
+    },
+    {
+      "character": "Rin",
+      "text": "I guess. I\u2019ve just never heard him talk about her before."
+    },
+    {
+      "character": "Rin",
+      "text": "In fact, the one time I tried asking about that, he-"
+    },
+    {
+      "character": "Yasu",
+      "text": "Saki."
+    },
+    {
+      "character": "Rin",
+      "text": "Huh?"
+    },
+    {
+      "character": "Yasu",
+      "text": "His mother's name was Saki..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Yasu",
+      "text": "She didn\u2019t like him very much."
+    },
+    {
+      "character": "Saki",
+      "text": "u\u028dop \u01ddp\u1d09sdn s,\u0287\u1d09"
+    }
+  ],
+  "state_changes": {
+    "dormwartwo15": {
+      "from": null,
+      "to": true
+    }
+  }
+}

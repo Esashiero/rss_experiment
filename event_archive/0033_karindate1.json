@@ -1,0 +1,552 @@
+{
+  "event_id": 33,
+  "event_label": "karindate1",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "Maybe I\u2019ll see what Karin is up to?"
+    },
+    {
+      "character": "narrator",
+      "text": "I select Karin\u2019s name in my phone and wait for her to pick up."
+    },
+    {
+      "character": "narrator",
+      "text": "Given how embarrassed she was to even give me her number, I imagine she\u2019ll let it ring a few times before-"
+    },
+    {
+      "character": "Karin",
+      "text": "Hello?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Oh, hey."
+    },
+    {
+      "character": "Sensei",
+      "text": "I wasn\u2019t expecting you to pick up right away."
+    },
+    {
+      "character": "Karin",
+      "text": "Oh! Uhh...hahah, yeah. I just kind of had my phone out and, you know...answered it. Yeah."
+    },
+    {
+      "character": "Sensei",
+      "text": "...Right."
+    },
+    {
+      "character": "Sensei",
+      "text": "Well, anyway, what are you up to right now?"
+    },
+    {
+      "character": "Karin",
+      "text": "Me? I was about to go to the park. Why?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Do you mind if I tag along?"
+    },
+    {
+      "character": "Karin",
+      "text": "Huh? Why?"
+    },
+    {
+      "character": "Sensei",
+      "text": "You\u2019re going there to jog or run or something like that, right? That sounds like a thing you would do."
+    },
+    {
+      "character": "Karin",
+      "text": "Uh-huh..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Well, I\u2019d like to sort of see you in action if I\u2019m going to be in charge of you from now on."
+    },
+    {
+      "character": "Karin",
+      "text": "In action?! Like, alone?? Can\u2019t you just come watch us play at the field or-"
+    },
+    {
+      "character": "Sensei",
+      "text": "One on one sessions are good for establishing relationships with your team. "
+    },
+    {
+      "character": "Sensei",
+      "text": "And seeing as I already know Miku pretty well, you\u2019re second in line."
+    },
+    {
+      "character": "Karin",
+      "text": "Really? I mean, I guess that\u2019s reasonable since I\u2019m co-captain but..."
+    },
+    {
+      "character": "Karin",
+      "text": "I don\u2019t know. Is it weird if I\u2019m kind of...maybe a little happy to hear that? Hahaha..."
+    },
+    {
+      "character": "Sensei",
+      "text": "It\u2019s not weird at all. I\u2019m excited to get to learn more about you."
+    },
+    {
+      "character": "Karin",
+      "text": "Ah-! Yeah! I\u2019m excited to learn more about me too! Ah, wait! I meant you! I already, um, know about...me...And-"
+    },
+    {
+      "character": "Karin",
+      "text": "Actually, is it okay if I just hang up now and meet you at the park?"
+    },
+    {
+      "character": "Karin",
+      "text": "I\u2019m going to the one by the[school] and I\u2019ll start heading over now if you\u2019re ready."
+    },
+    {
+      "character": "Sensei",
+      "text": "Sure thing. I\u2019ll see you soon, then."
+    },
+    {
+      "character": "Karin",
+      "text": "Uh-huh! See you soon!"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I really hope not."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I arrive at the park near[school] and find Karin standing near the fountain waiting for me."
+    },
+    {
+      "character": "Karin",
+      "text": "G-Good evening! "
+    },
+    {
+      "character": "Karin",
+      "text": "Thanks for coming out to watch over me today..."
+    },
+    {
+      "character": "Karin",
+      "text": "Oh, wait! I meant watch me! Not watch over me! I can take care of myself!"
+    },
+    {
+      "character": "Sensei",
+      "text": "I know what you meant, don\u2019t worry."
+    },
+    {
+      "character": "Sensei",
+      "text": "In a sense, I might even need you to watch over me today."
+    },
+    {
+      "character": "Karin",
+      "text": "Huh? What do you mean by that?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m not sure what Miku told you about me, but I don\u2019t know much about sports."
+    },
+    {
+      "character": "Sensei",
+      "text": "I actually think it\u2019s a little strange that she wanted someone like me to be your coach despite that."
+    },
+    {
+      "character": "Sensei",
+      "text": "It seems like the two of you take this pretty seriously, so I\u2019ll try not to get in the way too much."
+    },
+    {
+      "character": "narrator",
+      "text": "Well, it\u2019s not like I {i}chose{/i} to go out of my way. I was dragged into this by force."
+    },
+    {
+      "character": "Karin",
+      "text": "It\u2019s okay if you don\u2019t know much about sports. I...wouldn\u2019t really mind teaching you."
+    },
+    {
+      "character": "Karin",
+      "text": "We just...kind of need a teacher to be present in order to keep playing."
+    },
+    {
+      "character": "Karin",
+      "text": "That\u2019s...one of the several reasons I was surprised to hear you actually trying to get involved today..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Speaking of involvement, would you mind telling me a little about what you do here?"
+    },
+    {
+      "character": "Karin",
+      "text": "Nothing special, really. I just come here a couple times a week to run laps around the park. "
+    },
+    {
+      "character": "Karin",
+      "text": "It\u2019s normally pretty quiet here on weekends since no one stops by on the way home from[school]."
+    },
+    {
+      "character": "Sensei",
+      "text": "Well you\u2019re already doing better than you normally do, so I\u2019m proud of you."
+    },
+    {
+      "character": "Karin",
+      "text": "Well, it\u2019s not like I have a choice anymore, is it? You\u2019re my coach."
+    },
+    {
+      "character": "Karin",
+      "text": "If I can\u2019t get over a hurdle as small as just looking you in the eyes, there\u2019s no way I\u2019ll be able to climb over anything else."
+    },
+    {
+      "character": "Karin",
+      "text": "Just...try not to come too close too quickly or something because I probably won\u2019t be able to prevent myself from having some weird reaction."
+    },
+    {
+      "character": "Sensei",
+      "text": "Noted. We should be practicing social distancing anyway in case some weird disease ever starts going around."
+    },
+    {
+      "character": "Karin",
+      "text": "Hahah...Yeah, I guess we probably should..."
+    },
+    {
+      "character": "narrator",
+      "text": "Karin\u2019s smile somehow manages to light up the world even in the midst of the sunset."
+    },
+    {
+      "character": "Sensei",
+      "text": "So...are you ready to start?"
+    },
+    {
+      "character": "Karin",
+      "text": "Yeah. I just need to run, right? Are you going to run with me?"
+    },
+    {
+      "character": "Karin",
+      "text": "You\u2019re not really dressed for the task, so maybe you can just keep times for me instead?"
+    },
+    {
+      "character": "Karin",
+      "text": "I can\u2019t imagine it\u2019ll be very fun, but at least you won\u2019t have to get all sweaty that way."
+    },
+    {
+      "character": "Sensei",
+      "text": "That sounds good to me."
+    },
+    {
+      "character": "narrator",
+      "text": "I pull my phone out of my pocket and open up the stopwatch app."
+    },
+    {
+      "character": "Karin",
+      "text": "Just hit the \u201clap\u201d button every time I pass you, okay? That\u2019s how I normally time myself. Just...with a tree instead of a teacher."
+    },
+    {
+      "character": "Karin",
+      "text": "You don\u2019t need to tell me my individual times. Just let me know how much faster or slower I am on each pass."
+    },
+    {
+      "character": "Karin",
+      "text": "Endurance is important, so I need to make sure I\u2019m able to keep up with myself more than anyone else."
+    },
+    {
+      "character": "Sensei",
+      "text": "Roger that. Official coach duties commencing now."
+    },
+    {
+      "character": "narrator",
+      "text": "I hit the start button on the stopwatch and immediately send Karin spiraling into panic."
+    },
+    {
+      "character": "Karin",
+      "text": "Ah- Sensei, wait! You didn\u2019t even count me down! Start over!"
+    },
+    {
+      "character": "Sensei",
+      "text": "No can do. Clock is already running. Go, Karin, go!"
+    },
+    {
+      "character": "Karin",
+      "text": "Ahh! Okay! I\u2019m going!"
+    },
+    {
+      "character": "narrator",
+      "text": "Karin quickly takes off into a sprint to make up for a few seconds worth of lost time."
+    },
+    {
+      "character": "narrator",
+      "text": "The way she runs is a lot different than Miku."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Karin",
+      "text": "How was...that one?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Thirty seconds under your last. You\u2019re not starting to lose steam, are you?"
+    },
+    {
+      "character": "Karin",
+      "text": "Of...course not! Watch me...closely this time!"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Karin",
+      "text": "And...that one?"
+    },
+    {
+      "character": "narrator",
+      "text": "I look down at my phone again to realize that Karin has actually beaten the time of her first lap."
+    },
+    {
+      "character": "narrator",
+      "text": "I was so caught up in admiration that I didn\u2019t even realize she was giving it her all that time."
+    },
+    {
+      "character": "Sensei",
+      "text": "Fifteen seconds up."
+    },
+    {
+      "character": "Karin",
+      "text": "From the last one or from the best one?"
+    },
+    {
+      "character": "Sensei",
+      "text": "The best one. Did you want to call it now? Or do you have a few more in you?"
+    },
+    {
+      "character": "Karin",
+      "text": "Heh...I could do this all day..."
+    },
+    {
+      "character": "narrator",
+      "text": "How the hell is she able to keep up that pace for so long without even looking phased?"
+    },
+    {
+      "character": "narrator",
+      "text": "If I were in her shoes, I\u2019d be basically crawling right now."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Karin",
+      "text": "Hah..."
+    },
+    {
+      "character": "narrator",
+      "text": "Karin comes to a stop several feet away from me after what I imagine is her last lap."
+    },
+    {
+      "character": "Karin",
+      "text": "Okay...Now I\u2019m done."
+    },
+    {
+      "character": "Sensei",
+      "text": "I thought you were planning on going all day?"
+    },
+    {
+      "character": "Karin",
+      "text": "Nah...I was...starting to feel bad for you. "
+    },
+    {
+      "character": "Karin",
+      "text": "You looked bored."
+    },
+    {
+      "character": "Sensei",
+      "text": "I wasn\u2019t bored at all. If anything, I was actually having a good time watching you."
+    },
+    {
+      "character": "Sensei",
+      "text": "You\u2019re really impressive, Karin. I think I get why you\u2019re so involved with athletics now."
+    },
+    {
+      "character": "Karin",
+      "text": "What?! No no no! I\u2019m not that impressive. I just practice a lot."
+    },
+    {
+      "character": "Sensei",
+      "text": "Isn\u2019t that the same thing? Most people don\u2019t become great at anything without practicing."
+    },
+    {
+      "character": "Karin",
+      "text": "Well, yeah, but like...I don\u2019t know. Getting compliments from you feels weird. Hahaha..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Well you better get used to it, because I\u2019m pretty sure this is going to be a regular occurrence from now on."
+    },
+    {
+      "character": "Karin",
+      "text": "You...want to do this again?"
+    },
+    {
+      "character": "Karin",
+      "text": "I thought you were just trying to get acquainted with everyone on the team?"
+    },
+    {
+      "character": "Karin",
+      "text": "Isn\u2019t it unfair to spend more time with me when there are other girls who need more help?"
+    },
+    {
+      "character": "narrator",
+      "text": "Karin makes a good point. But something she doesn\u2019t yet understand is that I\u2019m not just doing this because I\u2019m trying to be a good coach."
+    },
+    {
+      "character": "narrator",
+      "text": "I want to get closer to {i}her{/i} specifically. If I didn\u2019t, I wouldn\u2019t have called her out here today."
+    },
+    {
+      "character": "narrator",
+      "text": "But that\u2019s not something she needs to know yet."
+    },
+    {
+      "character": "narrator",
+      "text": "Who even knows how someone as inexperienced and nervous around men would handle it if she were to hear something like that?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I definitely want to do this again."
+    },
+    {
+      "character": "Sensei",
+      "text": "Unless...you didn\u2019t have fun hanging around me today?"
+    },
+    {
+      "character": "Karin",
+      "text": "Oh God! I\u2019m forgetting how words work!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Well, believe it or not, I had fun too. And I\u2019m really looking forward to doing this again."
+    },
+    {
+      "character": "Karin",
+      "text": "Fun?! You had...but you...the stopwatch...ahhh!"
+    },
+    {
+      "character": "narrator",
+      "text": "Translation (Projected): Did you really have fun today, Sensei? All you did was stand around with a stopwatch..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Okay, okay. Calm down. Catch your breath."
+    },
+    {
+      "character": "Sensei",
+      "text": "Need me to rub your shoulders?"
+    },
+    {
+      "character": "Karin",
+      "text": "Shoulders?!"
+    },
+    {
+      "character": "Sensei",
+      "text": "They\u2019re the things your neck and your arms are connected to."
+    },
+    {
+      "character": "Karin",
+      "text": "I know what they are! I\u2019m just suddenly nervous again for some reason!"
+    },
+    {
+      "character": "narrator",
+      "text": "Karin takes another several minutes to calm herself down and get her eyes to go back to normal."
+    },
+    {
+      "character": "narrator",
+      "text": "It\u2019s strange."
+    },
+    {
+      "character": "narrator",
+      "text": "Even though all I did was manage a stopwatch this afternoon, I feel suspiciously content."
+    },
+    {
+      "character": "narrator",
+      "text": "Maybe I just really like when girls get nervous around me? "
+    },
+    {
+      "character": "narrator",
+      "text": "The confidence boost is definitely nice, but-"
+    },
+    {
+      "character": "narrator",
+      "text": "I don\u2019t know."
+    },
+    {
+      "character": "narrator",
+      "text": "What am I even saying?"
+    },
+    {
+      "character": "narrator",
+      "text": "I should just get on with my day..."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Karin\u2019s affection has increased to [karin_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "karin_love +": {
+      "from": null,
+      "to": 1
+    },
+    "karindate1": {
+      "from": null,
+      "to": true
+    }
+  }
+}

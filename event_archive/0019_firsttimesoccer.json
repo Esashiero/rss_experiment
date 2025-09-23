@@ -1,0 +1,512 @@
+{
+  "event_id": 19,
+  "event_label": "firsttimesoccer",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "You know, after being reborn into a world where I\u2019m suddenly expected to fulfill the role of a teacher, I didn\u2019t really expect to be using my {i}free time{/i} to hang out at school as well."
+    },
+    {
+      "character": "narrator",
+      "text": "But here I am, drenched in sunlight and making my way over to the soccer field for reasons unbeknownst to even me."
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019m not sure what I expect to get out of this exactly, but I do know that at least one of my students is a member of the soccer team, so I'm {i}really{/i} hoping she\u2019s there."
+    },
+    {
+      "character": "narrator",
+      "text": "Otherwise, I\u2019ll just wind up looking like some creepy older guy wandering around the premises."
+    },
+    {
+      "character": "narrator",
+      "text": "Which, in all fairness I kind of am. "
+    },
+    {
+      "character": "narrator",
+      "text": "It\u2019s just significantly {i}less{/i} creepy if I know someone and can fall back on them."
+    },
+    {
+      "character": "narrator",
+      "text": "Even if...the person I\u2019d be falling on is a foot shorter than me and would likely snap in half from the pressure."
+    },
+    {
+      "character": "narrator",
+      "text": "I manage to spot Miku gathering up some rogue soccer balls and shouting things to a group of girls who appear to be heading back to the gym."
+    },
+    {
+      "character": "narrator",
+      "text": "Not knowing what else to do and still mildly worried about appearing as a stalker, I make my way over to her."
+    },
+    {
+      "character": "Sensei",
+      "text": "Hey, Miku. Good morning."
+    },
+    {
+      "character": "Miku",
+      "text": "Heya! Mornin\u2019, Sensei!"
+    },
+    {
+      "character": "Miku",
+      "text": "Wait, Sensei?! What are you doin\u2019 over here?! You some kinda stalker now or somethin\u2019?"
+    },
+    {
+      "character": "narrator",
+      "text": "Damn it."
+    },
+    {
+      "character": "Sensei",
+      "text": "No. In fact, I only approached you so I {i}wouldn\u2019t{/i} look like some kind of stalker."
+    },
+    {
+      "character": "Miku",
+      "text": "So...you\u2019re stalkin\u2019 me to...{i}not{/i} look like a stalker? I don\u2019t get it."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m not stalking anyone. I just happened to be in the area and thought I\u2019d come say hi or something."
+    },
+    {
+      "character": "Miku",
+      "text": "Works for me! I hereby grant you one Miku Maruyama \u201cDaytime Stalking Pass!\u201d"
+    },
+    {
+      "character": "Miku",
+      "text": "In fact, take a whole box of \u2018em! I give you permission to show up whenever ya want from this point on!"
+    },
+    {
+      "character": "Miku",
+      "text": "How come ya gotta be at school on the weekend, though? Thought all you teachers were out doin\u2019 math problems with each other or somethin\u2019 on those days."
+    },
+    {
+      "character": "Sensei",
+      "text": "Teachers have lives too, you know. "
+    },
+    {
+      "character": "Miku",
+      "text": "Sure don\u2019t look like it if you\u2019re-"
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m just very good at my job. Can we stop talking about teaching now?"
+    },
+    {
+      "character": "Miku",
+      "text": "Heck yeah we can! That kinda stuff always puts me to sleep anyway."
+    },
+    {
+      "character": "Miku",
+      "text": "So, you lookin\u2019 to learn about soccer or somethin\u2019? Haven\u2019t really seen ya drop by the field at all and I ain\u2019t buyin\u2019 that you\u2019re just here to say hi."
+    },
+    {
+      "character": "Miku",
+      "text": "Wait a sec! You ain\u2019t here to become the new coach, are you?!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Coach? Absolutely not. I have zero interest in soccer and I {i}really{/i} am only here to say hi."
+    },
+    {
+      "character": "Miku",
+      "text": "Guh."
+    },
+    {
+      "character": "Sensei",
+      "text": "Guh?"
+    },
+    {
+      "character": "Miku",
+      "text": "God! Can\u2019t a girl say \u201cGuh\u201d around here without a teacher jumpin\u2019 down her pants?!"
+    },
+    {
+      "character": "Sensei",
+      "text": "I think you mean \u201cthroat\u201d but please proceed."
+    },
+    {
+      "character": "Miku",
+      "text": "Sorry for snappin\u2019 at ya, Sensei. It\u2019s just been all downhill since our last coach got knocked up and had to get put on baby-watch or whatever they call it."
+    },
+    {
+      "character": "Sensei",
+      "text": "I believe that would be \u201cmaternity leave.\u201d"
+    },
+    {
+      "character": "Miku",
+      "text": "I don\u2019t care what it\u2019s called. All I know is that we\u2019re startin\u2019 to fall behind and we were {i}already{/i} havin\u2019 a tough time trainin\u2019 for nationals."
+    },
+    {
+      "character": "Sensei",
+      "text": "Nationals? Are you guys really that good?"
+    },
+    {
+      "character": "Miku",
+      "text": "Good? No way. "
+    },
+    {
+      "character": "Miku",
+      "text": "A few of us are pretty awesome- me being one of \u2018em of course. But a lot of the girls are like headless chickens out there, Sensei. It\u2019s pure chaos."
+    },
+    {
+      "character": "Miku",
+      "text": "I was kinda hopin\u2019 this was gonna be like a sports anime and you were gonna show up and be all like \u201cI used to play soccer before I stepped on a landmine\u201d and then drop knowledge bombs on us."
+    },
+    {
+      "character": "Miku",
+      "text": "Oh, crud! Sorry for wordin\u2019 it like that. I\u2019m sure it ain\u2019t easy hearin\u2019 the word \u201cbomb\u201d used so casually after the whole thing with your leg."
+    },
+    {
+      "character": "Sensei",
+      "text": "Again, I know absolutely nothing about soccer and I am mostly confident that I have never stepped on a landmine."
+    },
+    {
+      "character": "Miku",
+      "text": "Today just keeps gettin\u2019 worse..."
+    },
+    {
+      "character": "Miku",
+      "text": "Guess it wouldn\u2019t change much even if I did get my sports anime wish, though. "
+    },
+    {
+      "character": "Miku",
+      "text": "With the whole space war thing goin\u2019 on, none of us are allowed outside of the barrier anyway."
+    },
+    {
+      "character": "Miku",
+      "text": "With no teams from other prefectures to play, it\u2019s kinda like the entire soccer team is just one giant, headless chicken."
+    },
+    {
+      "character": "Sensei",
+      "text": "Do you know any other analogies or is that the only one?"
+    },
+    {
+      "character": "Miku",
+      "text": "I don\u2019t even know what an \u201canalogy\u201d is so that\u2019s probably the only one."
+    },
+    {
+      "character": "narrator",
+      "text": "I guess the journal thing in my room was right about Miku not being the brightest girl out there."
+    },
+    {
+      "character": "narrator",
+      "text": "It wouldn\u2019t be fair if she was gifted in both sports {i}and{/i} studies, though. It\u2019s normally just one or the other for people."
+    },
+    {
+      "character": "narrator",
+      "text": "Or neither, if you\u2019re really unlucky."
+    },
+    {
+      "character": "narrator",
+      "text": "But hey, at least Miku\u2019s got {i}something.{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "I guess definitions aren\u2019t really important as long as you\u2019re not failing all of your tests. "
+    },
+    {
+      "character": "Miku",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "You\u2019re failing all of your tests, aren\u2019t you?"
+    },
+    {
+      "character": "Miku",
+      "text": "You\u2019re my teacher! Shouldn\u2019t you know?! "
+    },
+    {
+      "character": "Miku",
+      "text": "Makoto\u2019s doin\u2019 all she can to help me, but there\u2019s only so much room in my brain for all that smart person stuff!"
+    },
+    {
+      "character": "Miku",
+      "text": "I swear, I really don\u2019t get why she wants to stay friends with me sometimes when I\u2019ve got pretty much nothin\u2019 I can do for her."
+    },
+    {
+      "character": "Sensei",
+      "text": "You and Makoto are friends?"
+    },
+    {
+      "character": "Miku",
+      "text": "Best friends, actually! Roommates too. We\u2019re like two peas in a pod if the...pod only had two peas in it? How many peas are normally in a pod? "
+    },
+    {
+      "character": "Sensei",
+      "text": "I have no idea, Miku."
+    },
+    {
+      "character": "Miku",
+      "text": "Some kinda teacher you are. Not knowin\u2019 about peas and showin\u2019 up to soccer practice to stalk the star player."
+    },
+    {
+      "character": "Sensei",
+      "text": "Hey, I have unlimited daytime stalking passes. I am allowed to be here."
+    },
+    {
+      "character": "Miku",
+      "text": "Didn\u2019t say ya weren\u2019t. I think it\u2019s great that ya wanna spend so much time around young girls. Means you\u2019re still in touch with your youthful side."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yup. That is exactly what that means."
+    },
+    {
+      "character": "Miku",
+      "text": "You like any kinda sports at all, Sensei? Baseball? Tennis? Hermit crab racing?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Not really. I\u2019ve always- wait, what was that last one?"
+    },
+    {
+      "character": "Miku",
+      "text": "Hm? Tennis?"
+    },
+    {
+      "character": "Sensei",
+      "text": "No, the...actually, forget it. I don\u2019t like any sports. "
+    },
+    {
+      "character": "Sensei",
+      "text": "In fact...I don\u2019t really like anything now that I actually think about it."
+    },
+    {
+      "character": "Miku",
+      "text": "Well then how the heck do ya look all muscley and stuff? If ya didn\u2019t just tell me you\u2019re some kinda couch potato, I\u2019d think you were workin\u2019 out all day every day!"
+    },
+    {
+      "character": "Sensei",
+      "text": "This is just how I am, I guess. I\u2019m sure your looks wouldn\u2019t change much either if you just...dropped out of the team or something."
+    },
+    {
+      "character": "Miku",
+      "text": "Miku Maruyama droppin\u2019 out of the soccer team? No way. There\u2019s a better chance of you findin\u2019 the guy responsible for blowin\u2019 off your leg."
+    },
+    {
+      "character": "Miku",
+      "text": "I love soccer. I love the rush. Runnin\u2019 around with my friends...goin\u2019 out to family restaurants after practice..."
+    },
+    {
+      "character": "Miku",
+      "text": "Even cleanin\u2019 up all the balls is kinda fun when ya get to do it with people ya like bein\u2019 around."
+    },
+    {
+      "character": "Sensei",
+      "text": "Well, I am very sorry for standing between you and your affinity for balls."
+    },
+    {
+      "character": "Miku",
+      "text": "You ain\u2019t standin\u2019 between anythin\u2019, Sensei! I like bein\u2019 around you too!"
+    },
+    {
+      "character": "Miku",
+      "text": "If I didn\u2019t, I woulda asked you to leave a while ago."
+    },
+    {
+      "character": "Miku",
+      "text": "Besides, the fact that you\u2019re still here makes me confident that I can get ya to agree to bein\u2019 our new coach!"
+    },
+    {
+      "character": "Sensei",
+      "text": "No."
+    },
+    {
+      "character": "Miku",
+      "text": "At least think about it, would ya?! If we don\u2019t get a new coach by the end of the season, the school is gonna disband us!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Are they really?"
+    },
+    {
+      "character": "Miku",
+      "text": "Well...they haven\u2019t come out and said that! But that\u2019s what would happen if this was a sports anime!"
+    },
+    {
+      "character": "Sensei",
+      "text": "You really need to stop equating your real life sports club to the clubs in cartoons, Miku."
+    },
+    {
+      "character": "Sensei",
+      "text": "Though...I definitely wouldn\u2019t be surprised if your club {i}was{/i} disbanded for the reasons you mentioned."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m sure there are like...health hazards or something if all of you are here over the weekend unsupervised."
+    },
+    {
+      "character": "Miku",
+      "text": "It ain\u2019t like we need supervision. Heck, it ain\u2019t even like we need {i}coaching{/i} on account of the lack of teams for us to play against. "
+    },
+    {
+      "character": "Miku",
+      "text": "We just need somebody who doesn\u2019t mind occasionally bein\u2019 around a bunch of girls in tight shorts to sign their name on a sheet of paper so we can keep doin\u2019 what we love doin\u2019."
+    },
+    {
+      "character": "Sensei",
+      "text": "That really should have been your pitch from the get go. That sounds a lot more enticing."
+    },
+    {
+      "character": "Miku",
+      "text": "Just wait \u2018til ya see my vice captain. She\u2019s got thighs so crazy they\u2019ll give ya nightmares. Abs so hard they\u2019ll...give ya nightmares too!"
+    },
+    {
+      "character": "Miku",
+      "text": "What I\u2019m gettin\u2019 at is that you\u2019re gonna have a bunch of nightmares, Sensei! So you better be prepared!"
+    },
+    {
+      "character": "narrator",
+      "text": "As much as I like the idea of surrounding myself with other versions of Miku...I really don\u2019t know if I\u2019ll have the time to do this whole coaching thing."
+    },
+    {
+      "character": "narrator",
+      "text": "There\u2019s no way it will be as easy as just signing my name on a sheet of paper and staring at thighs."
+    },
+    {
+      "character": "narrator",
+      "text": "Especially not when even keeping up with this conversation has been harder than normal for me."
+    },
+    {
+      "character": "Sensei",
+      "text": "I...don\u2019t know, Miku."
+    },
+    {
+      "character": "Miku",
+      "text": "Then I\u2019ll just have to keep botherin\u2019 ya!"
+    },
+    {
+      "character": "Miku",
+      "text": "You do plan on comin\u2019 back, right? I\u2019m sure I ain\u2019t alone in thinkin\u2019 that a boy bein\u2019 around might help some of the girls kick it into overdrive, if you know what I\u2019m sayin\u2019."
+    },
+    {
+      "character": "Sensei",
+      "text": "I want that to be a compliment, but I\u2019m pretty sure it\u2019s because almost all of the other men around here are gone."
+    },
+    {
+      "character": "Miku",
+      "text": "That just means you\u2019ve got more options to choose from! Tons of young, spunky soccer players- ripe for the pickin\u2019!"
+    },
+    {
+      "character": "Sensei",
+      "text": "For someone who loves being around her friends so much, you sure don\u2019t seem to have a problem with handing them off to someone twice their age."
+    },
+    {
+      "character": "Miku",
+      "text": "Think of \u2018em as bargaining chips, Sensei. If you start dependin\u2019 on \u2018em and then I cut off your supply...you\u2019ll {i}have{/i} to be our coach."
+    },
+    {
+      "character": "Miku",
+      "text": "And that\u2019s the bottom line, cause Miku Maruyama said so."
+    },
+    {
+      "character": "Sensei",
+      "text": "Miku."
+    },
+    {
+      "character": "Miku",
+      "text": "Guh. Don\u2019t say it. It\u2019s hard enough to stay motivated when all ya can do is run around in circles like some kinda-"
+    },
+    {
+      "character": "Sensei",
+      "text": "If you mention headless chickens again, I am going to deflate every soccer ball on this field."
+    },
+    {
+      "character": "Miku",
+      "text": "Hold on there, Bill Belichick! You think you can just walk onto {i}my{/i} soccer field and start touchin\u2019 {i}my{/i} balls?! You ain\u2019t earned the right!"
+    },
+    {
+      "character": "Sensei",
+      "text": "That\u2019s fine, because hearing you word it that way killed any desire I would have possibly had to do it anyway."
+    },
+    {
+      "character": "Miku",
+      "text": "Mwahahah! Miku Maruyama wins again! A true champion of justice and soccer!"
+    },
+    {
+      "character": "Sensei",
+      "text": "But not Nationals."
+    },
+    {
+      "character": "Miku",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "You know. Since you\u2019ll never be able to make it, I mean."
+    },
+    {
+      "character": "Miku",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Miku",
+      "text": "Gimme back that friggin\u2019 day pass."
+    },
+    {
+      "character": "narrator",
+      "text": "Miku revokes my box of imaginary day passes, but that\u2019s okay."
+    },
+    {
+      "character": "narrator",
+      "text": "Because even if I have no intention of becoming the coach of this team, I still plan on showing up again."
+    },
+    {
+      "character": "narrator",
+      "text": "Just like how I plan to learn more about Miku and ultimately use that as leverage to find my way into her extremely tight shorts."
+    },
+    {
+      "character": "narrator",
+      "text": "That still seems miles away at this point, of course."
+    },
+    {
+      "character": "narrator",
+      "text": "But something about seeing her sprint toward her goals makes me want to sprint toward mine..."
+    },
+    {
+      "character": "narrator",
+      "text": "Even if they\u2019re on the opposite side of the world."
+    },
+    {
+      "character": "narrator",
+      "text": "As I turn around to leave the field, a ball crashes into my back with so much force that it almost knocks me over."
+    },
+    {
+      "character": "narrator",
+      "text": "I think about glancing behind me to see whether or not this was intentional-"
+    },
+    {
+      "character": "narrator",
+      "text": "But the sudden addition of Miku\u2019s childish laughter blending in with the pre-existing medley of vigorous youth answers that question better than any glance possibly could."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Miku\u2019s affection has increased to [miku_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "miku_love +": {
+      "from": null,
+      "to": 1
+    },
+    "firsttimesoccerfield": {
+      "from": null,
+      "to": true
+    }
+  }
+}

@@ -1,0 +1,388 @@
+{
+  "event_id": 64,
+  "event_label": "norikofirsthall",
+  "dialogue": [
+    {
+      "character": "Noriko",
+      "text": "Hey! What brings you over here today, Sensei?"
+    },
+    {
+      "character": "Noriko",
+      "text": "If you\u2019re just wandering around the halls looking for something to do, might I suggest hanging out with yours truly?"
+    },
+    {
+      "character": "Noriko",
+      "text": "I heard from some of the others that you mope around here like some sort of lost puppy pretty often, and I would like to inform you that I am looking to adopt."
+    },
+    {
+      "character": "Sensei",
+      "text": "I wasn\u2019t looking to be adopted today, but I guess the two of us can hang out."
+    },
+    {
+      "character": "Noriko",
+      "text": "If {i}you{/i} were looking to adopt as well, I would also like to make myself available as your dog. "
+    },
+    {
+      "character": "Sensei",
+      "text": "I hope you are ready to be put up for adoption. I do not want to take care of a pet."
+    },
+    {
+      "character": "Noriko",
+      "text": "Wow, okay. Nevermind then."
+    },
+    {
+      "character": "Sensei",
+      "text": "Noriko, can I ask you something?"
+    },
+    {
+      "character": "Noriko",
+      "text": "You can ask me literally anything you want whenever you want."
+    },
+    {
+      "character": "Sensei",
+      "text": "Have you really been waiting years for me to walk back into your life?"
+    },
+    {
+      "character": "Noriko",
+      "text": "Well, I\u2019m technically the one who walked back into yours. But yeah."
+    },
+    {
+      "character": "Sensei",
+      "text": "Then...how did you get so into this leash thing? Has this {i}always{/i} been a dream of yours, or..."
+    },
+    {
+      "character": "Noriko",
+      "text": "I have an overactive imagination that sometimes drifts into dangerous territory."
+    },
+    {
+      "character": "Noriko",
+      "text": "If you\u2019re worried that it\u2019s something I\u2019ve experienced and thus have developed an unhealthy craving for, you are mistaken."
+    },
+    {
+      "character": "Sensei",
+      "text": "Interesting."
+    },
+    {
+      "character": "Noriko",
+      "text": "How so?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I just normally have to work a little harder to get girls this invested in me."
+    },
+    {
+      "character": "Noriko",
+      "text": "Hehe...yeah."
+    },
+    {
+      "character": "Noriko",
+      "text": "I still remember how hard you had to work to get Niki to like you back in the day."
+    },
+    {
+      "character": "Noriko",
+      "text": "But as soon as you did it was like, all she ever talked about."
+    },
+    {
+      "character": "Noriko",
+      "text": "Which is probably why {i}I{/i} started feeling all tingly really early too."
+    },
+    {
+      "character": "Noriko",
+      "text": "Well, that and you were super cute back then."
+    },
+    {
+      "character": "Noriko",
+      "text": "Not to say that you\u2019re not still cute, obviously. But now it\u2019s more of a \u201cmysterious older guy\u201d cute and not \u201cshirtless neighbor boy in the backyard\u201d cute."
+    },
+    {
+      "character": "Sensei",
+      "text": "Well thanks for not ever making a move back then, I guess."
+    },
+    {
+      "character": "Sensei",
+      "text": "I can\u2019t imagine that would have been good for my apparent previous relationship with a pop star."
+    },
+    {
+      "character": "Noriko",
+      "text": "There\u2019s no need to add \u201capparent\u201d to that, Sensei. It definitely happened and it was a huge part of all of our lives."
+    },
+    {
+      "character": "Noriko",
+      "text": "Even if you don\u2019t remember it right now, I\u2019m sure you will in time."
+    },
+    {
+      "character": "Noriko",
+      "text": "And once you do, I\u2019ll be there to squeeze you and let you cry on my shoulder until your eyes turn so red and puffy that they swell shut and need to be surgically reopened."
+    },
+    {
+      "character": "Sensei",
+      "text": "I can\u2019t foresee myself crying any time soon, but thanks for the offer regardless."
+    },
+    {
+      "character": "Noriko",
+      "text": "Don\u2019t mention it...I-"
+    },
+    {
+      "character": "Noriko",
+      "text": "I know it\u2019s probably really weird hearing someone bring up the past so much when you\u2019ve already clearly moved past it, but..."
+    },
+    {
+      "character": "Noriko",
+      "text": "There\u2019s a life for you outside of this dorm, you know? Outside of the[school], too."
+    },
+    {
+      "character": "Noriko",
+      "text": "And I make good enough money between my job and doing PA work for Nee-chan that I could {i}probably{/i} support the two of us if you wanted to just quit teaching altogether."
+    },
+    {
+      "character": "Noriko",
+      "text": "But teaching has always been what you're good at."
+    },
+    {
+      "character": "Noriko",
+      "text": "That\u2019s why Maya and I turned out so darn smart."
+    },
+    {
+      "character": "Noriko",
+      "text": "Obviously, there was a lot of work that still had to be done outside of that creepy old apartment of yours-"
+    },
+    {
+      "character": "Sensei",
+      "text": "Wait, Maya?"
+    },
+    {
+      "character": "Noriko",
+      "text": "Yeah. The same Maya that's in our class and wants to turn my spine into a coat rack."
+    },
+    {
+      "character": "Noriko",
+      "text": "You don\u2019t remember that either?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Not at all..."
+    },
+    {
+      "character": "Noriko",
+      "text": "Well...how did you think the two of us knew each other, then?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I had no idea. She wouldn\u2019t tell me anything about it. Just that you\u2019re evil and going to ruin everything."
+    },
+    {
+      "character": "Noriko",
+      "text": "How would I ruin anything at all? I\u2019ve done literally nothing wrong since I\u2019ve shown up here."
+    },
+    {
+      "character": "Sensei",
+      "text": "True. But, to be fair, that hasn\u2019t been very long."
+    },
+    {
+      "character": "Noriko",
+      "text": "Well then, let me prove it to you."
+    },
+    {
+      "character": "Noriko",
+      "text": "I didn\u2019t wait all of these years to show up and get you to hate me or think I\u2019m weird."
+    },
+    {
+      "character": "Noriko",
+      "text": "And, if there\u2019s anything you want to change, just let me know. "
+    },
+    {
+      "character": "Noriko",
+      "text": "Turn me into a sculpture. "
+    },
+    {
+      "character": "Noriko",
+      "text": "Make me your ideal girl."
+    },
+    {
+      "character": "Noriko",
+      "text": "Want someone with darker hair? I\u2019ll dye it. "
+    },
+    {
+      "character": "Noriko",
+      "text": "Someone skinnier? I\u2019ll lose weight."
+    },
+    {
+      "character": "Sensei",
+      "text": "Please don\u2019t lose any weight. You\u2019re already extremely skinny."
+    },
+    {
+      "character": "Noriko",
+      "text": "I can gain weight, too. Just say the word."
+    },
+    {
+      "character": "Sensei",
+      "text": "Just...stay the way you are now."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m not going to do something like ask you to change for me when I haven\u2019t even identified any problems yet."
+    },
+    {
+      "character": "Sensei",
+      "text": "Except for maybe the pocket knife thing."
+    },
+    {
+      "character": "Sensei",
+      "text": "Actually, yeah. Get rid of your knife."
+    },
+    {
+      "character": "Noriko",
+      "text": "Oh, the pocket knife stays. I need it to protect myself and conserve my chastity for you."
+    },
+    {
+      "character": "Sensei",
+      "text": "Fine. But get a holster or something so you don\u2019t wind up slicing your leg open again."
+    },
+    {
+      "character": "Noriko",
+      "text": "Roger that. "
+    },
+    {
+      "character": "Noriko",
+      "text": "Anything else?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Yes. Give me your number."
+    },
+    {
+      "character": "Noriko",
+      "text": "Nice. That was smooth."
+    },
+    {
+      "character": "Sensei",
+      "text": "Not as smooth as your...face."
+    },
+    {
+      "character": "Noriko",
+      "text": "That was less smooth."
+    },
+    {
+      "character": "Sensei",
+      "text": "I'm sorry. I am not used to flirting."
+    },
+    {
+      "character": "Sensei",
+      "text": "Also, why haven't you given me your number yet?"
+    },
+    {
+      "character": "Noriko",
+      "text": "I\u2019m still waiting for you to give me your phone."
+    },
+    {
+      "character": "Noriko",
+      "text": "I promise to not delete every single contact except for myself."
+    },
+    {
+      "character": "Sensei",
+      "text": "That wasn\u2019t a thing I was worried about until you said that."
+    },
+    {
+      "character": "Noriko",
+      "text": "I was kidding, obviously."
+    },
+    {
+      "character": "Noriko",
+      "text": "You don\u2019t actually believe the stalker thing that Maya said in class, do you?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Let\u2019s just say if I were to rank the girls by \u201clikelihood to follow me home after[school],\u201d you\u2019d be near the top."
+    },
+    {
+      "character": "Sensei",
+      "text": "And that\u2019s pretty impressive given that we just met."
+    },
+    {
+      "character": "Noriko",
+      "text": "Just {i}reunited{/i}. And yeah, I\u2019m definitely going to follow you home from time to time."
+    },
+    {
+      "character": "Noriko",
+      "text": "But I have zero qualms doing that alone {i}or{/i} as part of a group."
+    },
+    {
+      "character": "Noriko",
+      "text": "Nothing would make me happier than just going out to karaoke with you, Ami, and that one blonde girl who thinks she loves you more than I do for some reason."
+    },
+    {
+      "character": "Noriko",
+      "text": "Except for maybe hugging you in said karaoke booth while Ami and the blonde girl sing Misfits songs."
+    },
+    {
+      "character": "Sensei",
+      "text": "That fantasy seemed plausible up until the very end of it."
+    },
+    {
+      "character": "Noriko",
+      "text": "Gimme your phone. "
+    },
+    {
+      "character": "Noriko",
+      "text": "I'm gonna order Domino's."
+    },
+    {
+      "character": "Sensei",
+      "text": "I have no idea why Maya doesn\u2019t like you. You\u2019re perfect."
+    },
+    {
+      "character": "narrator",
+      "text": "Noriko takes my phone and enters her contact information into it."
+    },
+    {
+      "character": "narrator",
+      "text": "Not only does she slap a heart emoji next to her name, she inserts a puking emoji next to her sister\u2019s name right above hers."
+    },
+    {
+      "character": "narrator",
+      "text": "I figured the Kandas were going to be the only sibling war I found myself wrapped up in, but..."
+    },
+    {
+      "character": "narrator",
+      "text": "It seems that this is very much not the case."
+    },
+    {
+      "character": "narrator",
+      "text": "And even though my experience with the Nakayamas (Or at least the experiences I am consciously aware of right now) is brief-"
+    },
+    {
+      "character": "narrator",
+      "text": "I imagine this war will be much more...intense than that of the other one..."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Congratulations! You now have Noriko\u2019s number!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "noriko_love +": {
+      "from": null,
+      "to": 1
+    },
+    "norikofirsthall": {
+      "from": null,
+      "to": true
+    },
+    "norikonumber": {
+      "from": null,
+      "to": true
+    }
+  }
+}

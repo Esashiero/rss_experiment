@@ -1,0 +1,360 @@
+{
+  "event_id": 14,
+  "event_label": "firsttimepornshop",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "I decide to go to the local DVD store, but quickly discover that it is anything but that and I feel very let down."
+    },
+    {
+      "character": "narrator",
+      "text": "However, as an adamant supporter of small businesses, I decide to peruse the selection anyway."
+    },
+    {
+      "character": "???",
+      "text": "Welcome in. Please take your-"
+    },
+    {
+      "character": "???",
+      "text": "Ah?!"
+    },
+    {
+      "character": "narrator",
+      "text": "A [young_girl] at the front desk calls out to me, but abruptly stops for some reason."
+    },
+    {
+      "character": "narrator",
+      "text": "I take a quick look around the store to see if maybe she's reacting to someone else but quickly confirm that it must have been something {i}I{/i} did."
+    },
+    {
+      "character": "narrator",
+      "text": "What, though? I've only been inside for like, five seconds."
+    },
+    {
+      "character": "???",
+      "text": "We...are closed!"
+    },
+    {
+      "character": "Sensei",
+      "text": "But the sign outside said you were open for another two hours."
+    },
+    {
+      "character": "???",
+      "text": "That sign is old! Please leave now!"
+    },
+    {
+      "character": "narrator",
+      "text": "I make my way over to the counter as I'm tired of shouting across the room and the girl immediately shields her face."
+    },
+    {
+      "character": "narrator",
+      "text": "She looks to be the age of one of my students, so I don't hold it against her for getting embarrassed about working in a place like this-"
+    },
+    {
+      "character": "narrator",
+      "text": "But she should at least be {i}somewhat{/i} helpful to customers, shouldn't she?"
+    },
+    {
+      "character": "narrator",
+      "text": "Or...maybe this is another one of those {i}no males around{/i} type of deals that I heard Ami talk about?"
+    },
+    {
+      "character": "narrator",
+      "text": "If this girl doesn't have any experience helping male customers..."
+    },
+    {
+      "character": "narrator",
+      "text": "Well, honestly, that just makes me want her help even more."
+    },
+    {
+      "character": "???",
+      "text": "What...uh..."
+    },
+    {
+      "character": "???",
+      "text": "What can I...do for you?..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "???",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Wait a minute..."
+    },
+    {
+      "character": "???",
+      "text": "Of course...take as long as you-"
+    },
+    {
+      "character": "Makoto",
+      "text": "Aah!"
+    },
+    {
+      "character": "Makoto",
+      "text": "Un...Unhand me right now! I'll call the cops! I mean it!"
+    },
+    {
+      "character": "Sensei",
+      "text": "...Makoto?"
+    },
+    {
+      "character": "Makoto",
+      "text": "Nope! No Makoto's here! You must be confusing me for someone else!"
+    },
+    {
+      "character": "Sensei",
+      "text": "You look completely different without your glasses on."
+    },
+    {
+      "character": "Makoto",
+      "text": "Never mind my glasses! What the Hell are you doing in here, Sensei?!"
+    },
+    {
+      "character": "Makoto",
+      "text": "You know what kind of store this is, don't you?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I'm actually just stopping by to give you your homework. I looked up your address in the school registry."
+    },
+    {
+      "character": "Makoto",
+      "text": "Wait...really? But I could have sworn-"
+    },
+    {
+      "character": "Sensei",
+      "text": "Yes. Here you go."
+    },
+    {
+      "character": "narrator",
+      "text": "I hand Makoto her homework."
+    },
+    {
+      "character": "Makoto",
+      "text": "Thank you. That was very kind."
+    },
+    {
+      "character": "Sensei",
+      "text": "I was unaware that you worked in this establishment, Makoto."
+    },
+    {
+      "character": "Makoto",
+      "text": "I am so embarrassed that you are now aware of my workplace."
+    },
+    {
+      "character": "Sensei",
+      "text": "Listen, I get that it's probably embarrassing to be seen somewhere like this by your teacher...but I'm not going to hold it against you."
+    },
+    {
+      "character": "Sensei",
+      "text": "This is your family's business, right? I think it\u2019s admirable that you're helping out here."
+    },
+    {
+      "character": "Sensei",
+      "text": "Now, can you please point me toward the teen section?"
+    },
+    {
+      "character": "Makoto",
+      "text": "That's it. I am going to kill myself tonight."
+    },
+    {
+      "character": "Sensei",
+      "text": "Oh come on. Isn\u2019t it better to be dealing with me than some random guy?"
+    },
+    {
+      "character": "Makoto",
+      "text": "I mean...I'd prefer to not be dealing with either..."
+    },
+    {
+      "character": "Sensei",
+      "text": "For what it's worth, it wouldn't make any difference to me if you worked here or some fast food restaurant. A job is a job and you just happened to wind up with this one."
+    },
+    {
+      "character": "Makoto",
+      "text": "Well...thank you, Sensei. That's-"
+    },
+    {
+      "character": "Sensei",
+      "text": "In fact, I implore {i}more{/i} girls your age to work in places like this. Because not only would it bring more customers in, it would help-"
+    },
+    {
+      "character": "Makoto",
+      "text": "Okay, you know what? Just...pick something and get out. It's clear that arguing about this is going to somehow negatively affect our relationship, and I would very much prefer to not do that."
+    },
+    {
+      "character": "Sensei",
+      "text": "Great. So what do you recommend?"
+    },
+    {
+      "character": "Makoto",
+      "text": "..."
+    },
+    {
+      "character": "Makoto",
+      "text": "Huh?"
+    },
+    {
+      "character": "Makoto",
+      "text": "Me?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah. What\u2019s the big ticket item here? What should I buy?"
+    },
+    {
+      "character": "Makoto",
+      "text": "You\u2019re...asking me for recommendations?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah. You're the porn expert, aren't you?"
+    },
+    {
+      "character": "Makoto",
+      "text": "My mom is the expert...I just kinda...you know..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Ahh. So you're just a porn {i}hobbyist.{/i}"
+    },
+    {
+      "character": "Makoto",
+      "text": "No...I am a normal girl."
+    },
+    {
+      "character": "Sensei",
+      "text": "Normal girls watch porn and you shouldn't be ashamed to admit that you do too."
+    },
+    {
+      "character": "Sensei",
+      "text": "I watch all kinds of stuff. They used to call me the {i}stuff watcher{/i} back in college in between all of those times where they'd shove me into lockers."
+    },
+    {
+      "character": "Makoto",
+      "text": "..."
+    },
+    {
+      "character": "Makoto",
+      "text": "Can you at least tell me...some of the stuff you're interested in so I can make a recommendation?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Mainly board games and long walks on the beach."
+    },
+    {
+      "character": "Sensei",
+      "text": "Oh! Do you have the Wedding Singer on DVD? I would very much like to watch that with my accountant later."
+    },
+    {
+      "character": "Makoto",
+      "text": "Yeah, I tried...but I really can't do this."
+    },
+    {
+      "character": "Makoto",
+      "text": "I think it might be better if you just use the Internet after all..."
+    },
+    {
+      "character": "Sensei",
+      "text": "How about you just follow me around the store and I point out all of the stuff I'm interested in?"
+    },
+    {
+      "character": "Sensei",
+      "text": "That sounds like it would work, right?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Oh, and maybe after that, you could show me all of the stuff {i}you're{/i} interested in and-"
+    },
+    {
+      "character": "Makoto",
+      "text": "Oh, look at the time! We\u2019re closed!"
+    },
+    {
+      "character": "Sensei",
+      "text": "No you're not. It's only been like ten minutes since I walked in and-"
+    },
+    {
+      "character": "Makoto",
+      "text": "Thanks for stopping in, Sensei! It was nice seeing you!"
+    },
+    {
+      "character": "Makoto",
+      "text": "Please never come back and forget where I work now!"
+    },
+    {
+      "character": "narrator",
+      "text": "Makoto begins pushing me to the door, but I refuse to leave this place without something to watch tonight."
+    },
+    {
+      "character": "narrator",
+      "text": "In a desperate attempt to avoid leaving empty-handed, I reach out and grab the first DVD I see on the way out of the shop."
+    },
+    {
+      "character": "Makoto",
+      "text": "Hey! You can't just-"
+    },
+    {
+      "character": "Makoto",
+      "text": "Ugh, never mind! Just take it! I\u2019ll pay for it myself!"
+    },
+    {
+      "character": "narrator",
+      "text": "I give up resisting once I have something in my hands and Makoto is eventually able to push me outside, quickly locking the door behind me."
+    },
+    {
+      "character": "Makoto",
+      "text": "Goodnight, Sensei! You were never here and neither was I!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Goodnight, Makoto. See you tomorrow night."
+    },
+    {
+      "character": "Makoto",
+      "text": "I sure hope not!"
+    },
+    {
+      "character": "narrator",
+      "text": "Left alone with nothing but my new DVD and the night sky, I glance down to inspect the cover."
+    },
+    {
+      "character": "Sensei",
+      "text": "\u201cNapoleon Dynamite?\u201d Ugh!"
+    },
+    {
+      "character": "narrator",
+      "text": "I turn around, determined to return the DVD as I refuse to watch this pathetic drivel, but Makoto does not let me back in =/"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Makoto\u2019s affection has increased to [makoto_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "makoto_love +": {
+      "from": null,
+      "to": 1
+    },
+    "firsttimepornshop": {
+      "from": null,
+      "to": true
+    }
+  }
+}

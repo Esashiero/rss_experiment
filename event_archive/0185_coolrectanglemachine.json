@@ -1,0 +1,27 @@
+{
+  "event_id": 185,
+  "event_label": "coolrectanglemachine",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "What do I want to do on the rectangle?"
+    },
+    {
+      "character": "narrator",
+      "text": "I decide to press some buttons."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "Words appear on the screen."
+    },
+    {
+      "character": "narrator",
+      "text": "It looks like I\u2019m supposed to do something."
+    }
+  ],
+  "state_changes": {}
+}

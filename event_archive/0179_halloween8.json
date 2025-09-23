@@ -1,0 +1,43 @@
+{
+  "event_id": 179,
+  "event_label": "halloween8",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "[totaldays] Days have passed..."
+    },
+    {
+      "character": "Miku",
+      "text": "Psst..."
+    },
+    {
+      "character": "Miku",
+      "text": "Sensei..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Hm?..."
+    },
+    {
+      "character": "Miku",
+      "text": "Wake up..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Mm...five more minutes..."
+    },
+    {
+      "character": "Miku",
+      "text": "Oh. Uhh...okay!"
+    },
+    {
+      "character": "Miku",
+      "text": "Not really how this event's supposed to go, but it definitely helps me out a little."
+    },
+    {
+      "character": "narrator",
+      "text": "I fall back asleep and wake up several minutes later, missing a lot of context."
+    }
+  ],
+  "state_changes": {}
+}

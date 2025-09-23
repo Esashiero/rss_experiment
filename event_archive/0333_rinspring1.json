@@ -1,0 +1,696 @@
+{
+  "event_id": 333,
+  "event_label": "rinspring1",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "It isn\u2019t long until Ami starts blowing up my phone, because scissor angel forbid that I take a moment to myself in order to get my head straight."
+    },
+    {
+      "character": "narrator",
+      "text": "But, now that my neck is broken and I can no longer look from side to side, it\u2019s about time that I head out."
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019m not sure when the next time I\u2019ll be coming back here is. But one thing I {i}do{/i} know is that my presence will cause nothing but problems for everyone now. "
+    },
+    {
+      "character": "narrator",
+      "text": "I know they\u2019ll understand. And I know they\u2019ll likely be hurt when I don\u2019t wind up calling them, but how {i}could{/i} I when my hands shake every time I pick up my phone?"
+    },
+    {
+      "character": "narrator",
+      "text": "Her number is still in there. And I know that Ami would happily delete it if I asked her to, but I can\u2019t bring myself to {i}do{/i} that because it\u2019s the only thing I have left."
+    },
+    {
+      "character": "narrator",
+      "text": "I wonder who would answer if I were to call that number now. But I don\u2019t wonder for long as I find more comfort pretending it would be the dulcet sound of an infinite dial tone."
+    },
+    {
+      "character": "narrator",
+      "text": "I want to grind this machine to pieces and swallow them like capsules so that I may consume and sacrifice everyone I know all at once."
+    },
+    {
+      "character": "narrator",
+      "text": "Perhaps that\u2019s what\u2019s needed to carry on without destroying someone else. "
+    },
+    {
+      "character": "narrator",
+      "text": "All other sacrificial means just seem far too exhausting now."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I make my way through the courtyard."
+    },
+    {
+      "character": "Rin",
+      "text": "Ah! There!"
+    },
+    {
+      "character": "narrator",
+      "text": "But I encounter a barbed tripwire that severs my feet from my body before hoisting me up into a cypress tree where I will be ultimately consumed by a plethora of hungry insects."
+    },
+    {
+      "character": "Molly",
+      "text": "See? You all doubted my abilities to predict his actions, but I have played far too many otome games to not know where to find my favorite characters by now."
+    },
+    {
+      "character": "Sensei",
+      "text": "Oh. It\u2019s you guys. "
+    },
+    {
+      "character": "Sensei",
+      "text": "Shouldn\u2019t you be in class?"
+    },
+    {
+      "character": "Futaba",
+      "text": "We...we all decided to leave. And Miss Imai wasn\u2019t opposed considering today\u2019s...um...{i}circumstances.{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "Rin and Molly I\u2019d expect this from. But not you, Futaba. You\u2019re not the type to cut class. Get back in there and...learn things. Or whatever."
+    },
+    {
+      "character": "Rin",
+      "text": "What do you mean you\u2019d expect that from me?! When have I ever cut class before?!"
+    },
+    {
+      "character": "Molly",
+      "text": "\u2018Tis true that I have been known to skip school in favor of new releases from time to time. Mental health is important after all."
+    },
+    {
+      "character": "Sana",
+      "text": "Which...is a good thing to bring up after...everything we just heard from you in there..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Ah, yes. "
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah, I\u2019m not doing so great right now. But it\u2019s nothing you need to concern yourself with."
+    },
+    {
+      "character": "Rin",
+      "text": "Uhh...it kind of {i}is,{/i} dude. This isn\u2019t a thing we can just shrug off. Especially not with Ami on the verge of going fucking postal. I could have sworn Chika was about to slit her throat."
+    },
+    {
+      "character": "Sensei",
+      "text": "She did. I just finished cleaning up the blood. So, if you\u2019ll please excuse me, I\u2019ll be going home to take a shower now."
+    },
+    {
+      "character": "Futaba",
+      "text": "Sensei, please don\u2019t make jokes about this. We\u2019re all really worried about you. And we get that you need some time off to handle things, but-"
+    },
+    {
+      "character": "Rin",
+      "text": "But we\u2019re not really sure if that time should be with {i}Ami.{/i}"
+    },
+    {
+      "character": "Molly",
+      "text": "You\u2019re more than welcome to come stay with me, Sir. The Kendo Princess and I can share a bed while we wait out the duration of your debuffs."
+    },
+    {
+      "character": "Sana",
+      "text": "You can...stay with me too...if you want...but...yeah...Ami is..."
+    },
+    {
+      "character": "Sana",
+      "text": "She seems kind of...not {i}safe{/i} right now..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah, that\u2019s exactly the issue. She\u2019s going fucking insane and I\u2019m literally the only person in the world who can do anything about it. And I owe her that much after she just looked after me for so long."
+    },
+    {
+      "character": "Rin",
+      "text": "Well...what about Ayane? She\u2019s known Ami long enough to be able to help with stuff like this, hasn\u2019t she?"
+    },
+    {
+      "character": "Rin",
+      "text": "There\u2019s also-"
+    },
+    {
+      "character": "Sensei",
+      "text": "There\u2019s no one else. It has to be me. "
+    },
+    {
+      "character": "Sensei",
+      "text": "And, to be honest, I probably should have noticed this coming and got her help a long time ago. But that would have required me actually {i}helping{/i} in some way, so of course I didn\u2019t."
+    },
+    {
+      "character": "Rin",
+      "text": "Now, hold the fuck up before you start going on some annoying rant about how \u201cuseless\u201d you think you are. Because you\u2019ve helped me with so much of my shit that I\u2019ve legitimately lost track of it all."
+    },
+    {
+      "character": "Molly",
+      "text": "Me as well, Sir. Even if we\u2019ve had our fair share of issues."
+    },
+    {
+      "character": "Sana",
+      "text": "People say I\u2019ve been...talking more lately and...I think all of that is thanks to you, Sensei..."
+    },
+    {
+      "character": "Futaba",
+      "text": "And I\u2019ve talked about this subject so many times that I feel like I shouldn\u2019t even bother you with it anymore..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Thanks, guys. I feel a lot better knowing that I\u2019ve made positive impacts on all of you while ignoring the one girl who\u2019s been under my nose this entire time."
+    },
+    {
+      "character": "Rin",
+      "text": "You\u2019re welcome!"
+    },
+    {
+      "character": "Sana",
+      "text": "I think...that was sarcasm, Rin..."
+    },
+    {
+      "character": "Rin",
+      "text": "Then you\u2019re {i}not{/i} welcome! And you\u2019re also obligated to come hang out with us right now so we can take {i}our{/i} turn to try and make you feel better! {i}Without{/i} locking you in your room!"
+    },
+    {
+      "character": "Molly",
+      "text": "While I may not entirely agree that time outside of one\u2019s room is necessary to replenish one\u2019s mana, I do believe Nithhala may be correct in recommending such a thing this time, Sir."
+    },
+    {
+      "character": "Futaba",
+      "text": "It might be a little selfish of us, but...we have a lot we\u2019ve been wanting to talk to you about."
+    },
+    {
+      "character": "Rin",
+      "text": "And you haven\u2019t even commented on how awesome my new hair looks yet!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Cool hair, Rin."
+    },
+    {
+      "character": "Rin",
+      "text": "Why thank you, Sensei. What a nice thing of you to say completely unprovoked."
+    },
+    {
+      "character": "Sana",
+      "text": "You can...wait a little longer before...going back home, can\u2019t you?..."
+    },
+    {
+      "character": "Sana",
+      "text": "We\u2019ve...already left school, so...it\u2019s not like we have anything else to do now...and...there\u2019s some stuff I want to talk to you about too...so..."
+    },
+    {
+      "character": "Sensei",
+      "text": "And none of this can wait the indeterminate amount of time it will take for me to leave my house again?"
+    },
+    {
+      "character": "Rin",
+      "text": "We inch closer to death every minute. And so we must savor the few opportunities we have to bond with one another!"
+    },
+    {
+      "character": "Rin",
+      "text": "Because you never know when the person you love is going to leave you and you don\u2019t want to regret not saying certain things that you probably wish you would have said."
+    },
+    {
+      "character": "Futaba",
+      "text": "Subtle."
+    },
+    {
+      "character": "Sensei",
+      "text": "Right...you and Otoha broke up. How are you holding up?"
+    },
+    {
+      "character": "Rin",
+      "text": "I kissed Sana. "
+    },
+    {
+      "character": "Sana",
+      "text": "Hahah......hah....."
+    },
+    {
+      "character": "Sensei",
+      "text": "I feel like the old me would have said something like, \u201cI wish I was there to see it.\u201d"
+    },
+    {
+      "character": "Futaba",
+      "text": "Then...what would the new one say?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I want to fucking die."
+    },
+    {
+      "character": "Rin",
+      "text": "Maybe we should invite Miss Watabe too then? You guys have that in common. Maybe she can help?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I think she\u2019s mad at me right now. And again, I\u2019m not hanging out with you guys."
+    },
+    {
+      "character": "Rin",
+      "text": "Sure you are. You can shower and get Ami\u2019s blood off of you later. It\u2019s only fair that you come with us now since we were the ones to find you."
+    },
+    {
+      "character": "Futaba",
+      "text": "We kind of...branched off into teams and...chose different areas outside of the school to wait for you in."
+    },
+    {
+      "character": "Molly",
+      "text": "They all doubted me when I suggested the side entrance. But if there\u2019s anything I know about Irish goodbyes, it\u2019s that the back is far more conspicuous from the front. Not a sex joke."
+    },
+    {
+      "character": "Sensei",
+      "text": "It would have been a terrible one if it was. "
+    },
+    {
+      "character": "Molly",
+      "text": "I may be a comedic relief character, but I\u2019ve never claimed to be funny, Sir."
+    },
+    {
+      "character": "Sana",
+      "text": "You\u2019ll...come with us right?...Just...for a little while?..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Ami\u2019s called me a million times, Sana. She needs me."
+    },
+    {
+      "character": "Sana",
+      "text": "Well...have you answered any of those calls yet?"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Sana",
+      "text": "Then...if you haven\u2019t...doesn\u2019t that mean you...{i}don\u2019t{/i} want to see her?..."
+    },
+    {
+      "character": "Rin",
+      "text": "Just say your phone died! Then we can all go hang out at the cafe for an hour or two and Ami won\u2019t be able to get mad because...you can\u2019t control electricity?"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Rin",
+      "text": "Pweeeeeeeeease?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Rin-"
+    },
+    {
+      "character": "Sana",
+      "text": "Pweeeeeeeeeease?......"
+    },
+    {
+      "character": "Rin",
+      "text": "God, you\u2019re good at that."
+    },
+    {
+      "character": "Molly",
+      "text": "Oh, he\u2019s done for now. There\u2019s no denying that face."
+    },
+    {
+      "character": "Sensei",
+      "text": "Sana..."
+    },
+    {
+      "character": "Sana",
+      "text": "Pwetty pweeeeeeease?...We wub you..."
+    },
+    {
+      "character": "Sensei",
+      "text": "What has happened to you in the two months I\u2019ve been gone?"
+    },
+    {
+      "character": "Sana",
+      "text": "A lot."
+    },
+    {
+      "character": "Rin",
+      "text": "God damn it. My nose is bleeding again, isn\u2019t it?"
+    },
+    {
+      "character": "Futaba",
+      "text": "It appears that our only course of action now is to take Rin to the cafe so we can fix her nosebleed."
+    },
+    {
+      "character": "Rin",
+      "text": "Don\u2019t let me die, Dad. I\u2019m too young to leave this world."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Sana",
+      "text": "..."
+    },
+    {
+      "character": "Molly",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Fine."
+    },
+    {
+      "character": "Rin",
+      "text": "LET\u2019S FUCKING GOOOOOOOOO!"
+    },
+    {
+      "character": "Molly",
+      "text": "An excellent choice, Sir!"
+    },
+    {
+      "character": "Molly",
+      "text": "To the zeppelin! Thunder Bluff awaits!"
+    },
+    {
+      "character": "Futaba",
+      "text": "How about we walk instead? It\u2019ll be faster."
+    },
+    {
+      "character": "Molly",
+      "text": "Aspect of the pack, on! Go, go, go, go, go!"
+    },
+    {
+      "character": "narrator",
+      "text": "Molly is the only one who takes off running, leaving the rest of us to follow behind her at a speed much more suited to my current status as an unmotivated sack of shit."
+    },
+    {
+      "character": "narrator",
+      "text": "I don\u2019t want to do this."
+    },
+    {
+      "character": "narrator",
+      "text": "But..."
+    },
+    {
+      "character": "narrator",
+      "text": "I don\u2019t want to see Ami right now either."
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I just want to sleep."
+    },
+    {
+      "character": "narrator",
+      "text": "But a liquid barrier between that one goal and me is placed on the table just inches from my trembling hands and I realize just how far away sleep is."
+    },
+    {
+      "character": "narrator",
+      "text": "And while I want to approach this meeting just as I\u2019d approach a dream-"
+    },
+    {
+      "character": "narrator",
+      "text": "In my dreams, there\u2019s someone else."
+    },
+    {
+      "character": "Rin",
+      "text": "Hey...you good? Still with us?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Huh? "
+    },
+    {
+      "character": "Sensei",
+      "text": "Oh. Yeah. Sorry. Mind just wandered a bit."
+    },
+    {
+      "character": "Sana",
+      "text": "When that...happens to you...what\u2019s it like?"
+    },
+    {
+      "character": "Sensei",
+      "text": "What do you mean?"
+    },
+    {
+      "character": "Sana",
+      "text": "Like...you kind of, like...black out sometimes...don\u2019t you? Are you...seeing anything when that happens?...Or is kind of like...everything just...you know...stops or something?"
+    },
+    {
+      "character": "Sensei",
+      "text": "A little of both, actually. I think. But I rarely ever remember anything I see once I\u2019m brought back to reality."
+    },
+    {
+      "character": "Futaba",
+      "text": "That\u2019s unfortunate. Not remembering means you can\u2019t even channel those visions into something creative. And I\u2019ve heard that helps a great deal when it comes to battling stress."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah, I think this is a little worse than just \u201cstress.\u201d"
+    },
+    {
+      "character": "Molly",
+      "text": "Sounds like an interesting power to me, Sir. Almost like time-hopping. You get to slip through the cracks in reality without remembering any of the terrible things you see within them."
+    },
+    {
+      "character": "Rin",
+      "text": "I get what you\u2019re saying, though. When my depression kicks in, it\u2019s often like I\u2019m blocking out entire days or...weeks as a whole."
+    },
+    {
+      "character": "Rin",
+      "text": "Everything just kind of stops. And it doesn\u2019t pick back up until something pulls me out of it. It just sucks extra hard because the only thing that really {i}can{/i} pull me out of it is time."
+    },
+    {
+      "character": "Rin",
+      "text": "So it\u2019s like getting caught in some mini paradox where you need to rely on time to heal, but you have no idea how much time is actually passing because you\u2019ve lost all touch with it. You know what I\u2019m saying?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Almost too well."
+    },
+    {
+      "character": "Rin",
+      "text": "Really? Because I feel like that explanation barely scratched the surface of how it actually {i}feels.{/i} But I get that our situations are different."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah. I\u2019m sure you have no shortage of issues yourself right now, though. And I\u2019m sorry I wasn\u2019t around to help you with your breakup situation."
+    },
+    {
+      "character": "Rin",
+      "text": "Don\u2019t be. I have Futaba to help with that stuff."
+    },
+    {
+      "character": "Futaba",
+      "text": "All things considered, Rin handled herself surprisingly well after the first few days. She\u2019s just...still a little bitter. But I\u2019m sure that will go away in time."
+    },
+    {
+      "character": "Rin",
+      "text": "Probably not, to be honest. I\u2019ve heard that most people never get over the unwelcome shattering of their first love."
+    },
+    {
+      "character": "Sensei",
+      "text": "Just kiss Sana a few more times and I\u2019m sure it\u2019ll start to go away."
+    },
+    {
+      "character": "Rin",
+      "text": "Weirdly enough, that didn\u2019t do as much for me as I thought it would. So either I\u2019ve ruled out being an exhibitionist, or I just see Sana as more of a friend than sex practice. "
+    },
+    {
+      "character": "Sana",
+      "text": "Thanks, Rin...I appreciate that."
+    },
+    {
+      "character": "Rin",
+      "text": "Yeah, don\u2019t mention it. I just figured it would have been a little more exciting for me considering how many times I\u2019ve fantasized about- I\u2019m going to shut up now."
+    },
+    {
+      "character": "Molly",
+      "text": "At least you {i}got{/i} to kiss somebody. Miss Imai rejected me even harder than you did."
+    },
+    {
+      "character": "Rin",
+      "text": "Well hey, at least you didn\u2019t force yourself on her. Just look at how much you\u2019ve grown in such a short amount of time."
+    },
+    {
+      "character": "Molly",
+      "text": "As it turns out, you receive quite the XP boost after having your heart broken. So at least you have leveling up to look forward to now, Rin. "
+    },
+    {
+      "character": "Molly",
+      "text": "May your next kiss with a classmate be one that you remember for the rest of your overwhelmingly lesbian life."
+    },
+    {
+      "character": "Rin",
+      "text": "And may yours be consensual."
+    },
+    {
+      "character": "Futaba",
+      "text": "Apart from the breakup and the Christmas party, there isn\u2019t much you\u2019ve missed. Well, other than Miss Imai slowly descending into madness. But we were all kind of doing that, so..."
+    },
+    {
+      "character": "Sana",
+      "text": "Yeah...she\u2019s made it pretty obvious...just how much she likes you lately..."
+    },
+    {
+      "character": "Futaba",
+      "text": "And she had the...great misfortune of drawing your name for Secret Santa. So I\u2019m sure she\u2019s pretty upset that she wasn\u2019t able to give you anything on account of your...yeah."
+    },
+    {
+      "character": "Sensei",
+      "text": "You guys still put me on the list despite me being completely MIA for two months?"
+    },
+    {
+      "character": "Rin",
+      "text": "Heck yeah, we did. We believed in you the whole time, Sensei. "
+    },
+    {
+      "character": "Rin",
+      "text": "We knew you\u2019d be back eventually. The tough part was just waiting out your absence since we\u2019re all {i}way{/i} more dependent on you than we thought!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Everyone else, maybe. But you seemed to fare pretty well on your own for the...complete duration of your relationship."
+    },
+    {
+      "character": "Rin",
+      "text": "But deep down, my heart was screaming, \u201cSensei! Sensei!\u201d"
+    },
+    {
+      "character": "Sensei",
+      "text": "Cute. But it doesn\u2019t mean much when your actual voice is screaming someone else\u2019s name."
+    },
+    {
+      "character": "Rin",
+      "text": "I will not sit here and be blamed for the specific words that escape my mouth at the peak of this very hormonal time in my life. "
+    },
+    {
+      "character": "Rin",
+      "text": "But I {i}will{/i} sit here and inform you that that time is over and that we can now go back to being the best homies who ever homied because I suddenly have way more free time on my hands."
+    },
+    {
+      "character": "Sensei",
+      "text": "And I suddenly have almost none."
+    },
+    {
+      "character": "Rin",
+      "text": "What do you mean you have none? You\u2019re taking a hiatus from school. That should mean you have plenty of extra time on your hands now. "
+    },
+    {
+      "character": "Rin",
+      "text": "Unless you\u2019re joining a men\u2019s softball league or something."
+    },
+    {
+      "character": "Sensei",
+      "text": "Why would...what?"
+    },
+    {
+      "character": "Rin",
+      "text": "I don\u2019t know. It\u2019s just the first thing my mind went to in my seemingly endless mental battle to not think about Otoha."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m...not joining a softball league. I just can\u2019t imagine being in the mood to do {i}anything{/i} in the near future as just moving my body is a chore right now."
+    },
+    {
+      "character": "Rin",
+      "text": "Damn. I guess softball really is out of the question then, huh?"
+    },
+    {
+      "character": "Sana",
+      "text": "I don\u2019t think it\u2019s...a problem if you stay at home, Sensei..."
+    },
+    {
+      "character": "Sana",
+      "text": "I\u2019d just...like to be able to visit you every now and then..."
+    },
+    {
+      "character": "Futaba",
+      "text": "All of us would. But, given Ami\u2019s current...{i}condition,{/i} maybe it would be best to wait a little while before introducing the idea to her?"
+    },
+    {
+      "character": "Molly",
+      "text": "I\u2019ve got plenty of new games for you to not be interested in, Sir. I\u2019d love to come share them with you."
+    },
+    {
+      "character": "Sensei",
+      "text": "Again, thank you guys. "
+    },
+    {
+      "character": "Sensei",
+      "text": "But I\u2019ve got bigger fish to add to my hot pot right now."
+    },
+    {
+      "character": "Futaba",
+      "text": "That\u2019s...That\u2019s not how that phrase normally goes, is it?"
+    },
+    {
+      "character": "Rin",
+      "text": "Ooooh hot pot sounds good. Let\u2019s have a hot pot party soon. This place called FoodCo. just opened that-"
+    },
+    {
+      "character": "narrator",
+      "text": "The rest of our outing carries on normally."
+    },
+    {
+      "character": "narrator",
+      "text": "My phone continues to burn holes in my pocket."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Rin\u2019s affection has increased by 10!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Molly\u2019s affection has increased by 10!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Futaba\u2019s affection has increased by 10!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Sana\u2019s affection has increased by 10!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "molly_love +": {
+      "from": 1,
+      "to": 10
+    },
+    "sana_love +": {
+      "from": 1,
+      "to": 10
+    },
+    "rin_love +": {
+      "from": 5,
+      "to": 10
+    },
+    "futaba_love +": {
+      "from": 3,
+      "to": 10
+    },
+    "rinspring1": {
+      "from": null,
+      "to": true
+    }
+  }
+}

@@ -1,0 +1,712 @@
+{
+  "event_id": 29,
+  "event_label": "chinamidate1",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "Come to think of it, I haven\u2019t really spoken to Chinami over the phone yet."
+    },
+    {
+      "character": "narrator",
+      "text": "It would probably brighten her day to hear from someone, so maybe I\u2019ll do that?"
+    },
+    {
+      "character": "narrator",
+      "text": "Plus, it\u2019s not like I have any qualms spending my free time chatting with a complete angel."
+    },
+    {
+      "character": "narrator",
+      "text": "The only issue is whether or not she\u2019s even awake yet. "
+    },
+    {
+      "character": "narrator",
+      "text": "But, oh well. Won\u2019t hurt to try I guess."
+    },
+    {
+      "character": "narrator",
+      "text": "I tap on Chinami\u2019s name and wait to see if she answers."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "Chika",
+      "text": "Hello? Sensei?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Oh, uhh. Hey."
+    },
+    {
+      "character": "Chika",
+      "text": "Why are you calling Chinami so early in the morning?"
+    },
+    {
+      "character": "Chika",
+      "text": "In fact, why are you calling Chinami at all?..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Oh, you know. I just thought she\u2019d be happy to actually get a call from someone..."
+    },
+    {
+      "character": "Sensei",
+      "text": "I can\u2019t imagine she\u2019s gotten to use her phone for its intended purpose yet so...Yeah."
+    },
+    {
+      "character": "Chika",
+      "text": "It\u2019s like 9:00 AM...It really couldn\u2019t wait until later?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m a busy guy, Chika."
+    },
+    {
+      "character": "Chika",
+      "text": "Well...I guess that\u2019s true."
+    },
+    {
+      "character": "Chika",
+      "text": "Chinami\u2019s actually sleeping right now, but I\u2019m really glad you called. I was actually just about to text you."
+    },
+    {
+      "character": "Sensei",
+      "text": "Really? For what?"
+    },
+    {
+      "character": "Chika",
+      "text": "Well, Yumi was supposed to come over to watch her this morning since I have work, but she just told me that she\u2019s not feeling well and doesn\u2019t want to get Chinami sick."
+    },
+    {
+      "character": "Chika",
+      "text": "Soooo...I\u2019m guessing you already know what I\u2019m going to ask, right?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Right. You want me to dog-sit again."
+    },
+    {
+      "character": "Chika",
+      "text": "Hahahah~ Well she won\u2019t be wearing her mask today, so it\u2019s just normal Chinami-sitting."
+    },
+    {
+      "character": "Chika",
+      "text": "I know you said you\u2019re busy, but I\u2019ll be eternally grateful if you could at least hang out here for a few hours so she doesn't wake up alone."
+    },
+    {
+      "character": "narrator",
+      "text": "Well...It\u2019s not like I had anything else going on this morning."
+    },
+    {
+      "character": "narrator",
+      "text": "Chika\u2019s place is pretty far, but I guess I can probably make it there in around half an hour."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah...I\u2019ll head over now. You owe me, though."
+    },
+    {
+      "character": "Chika",
+      "text": "Heheh~ Of course I do. I won\u2019t forget this. Promise."
+    },
+    {
+      "character": "narrator",
+      "text": "Chika hangs up the phone and, after getting dressed, I begin to head over..."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Chika",
+      "text": "Hey~ Thank you so so so so much. Really."
+    },
+    {
+      "character": "Sensei",
+      "text": "Don\u2019t mention it. I\u2019m free until the afternoon anyway."
+    },
+    {
+      "character": "Chika",
+      "text": "That\u2019s totally fine. Like I\u2019ve said before, she\u2019s fine alone. I just feel bad leaving her that way."
+    },
+    {
+      "character": "Sensei",
+      "text": "Is she still asleep?"
+    },
+    {
+      "character": "Chika",
+      "text": "Nah, she\u2019s just sitting in front of the TV right now. I made breakfast before you got here, so you like, literally don\u2019t need to do anything."
+    },
+    {
+      "character": "Sensei",
+      "text": "I love clowns."
+    },
+    {
+      "character": "Chika",
+      "text": "Yeah, I think you made that pretty clear recently. "
+    },
+    {
+      "character": "Chika",
+      "text": "But yeah, just hang out here and do whatever for a few hours. You can leave whenever you want."
+    },
+    {
+      "character": "Sensei",
+      "text": "When will you be back exactly?"
+    },
+    {
+      "character": "Chika",
+      "text": "Not until later tonight, so don\u2019t worry about staying the whole time."
+    },
+    {
+      "character": "Chika",
+      "text": "You should know my schedule by now, Sensei. I\u2019m at the mall every weekend."
+    },
+    {
+      "character": "Sensei",
+      "text": "Well hurry up and get going then. I\u2019ll be fine here."
+    },
+    {
+      "character": "Chika",
+      "text": "Yeah, yeah. I\u2019m going. "
+    },
+    {
+      "character": "Chika",
+      "text": "Thanks again, though. Really."
+    },
+    {
+      "character": "Chika",
+      "text": "You\u2019ve been doing way too much for me lately. I have no idea how I\u2019m going to repay you."
+    },
+    {
+      "character": "Sensei",
+      "text": "Figure that out later. Just go to work for now."
+    },
+    {
+      "character": "Chika",
+      "text": "Roger that."
+    },
+    {
+      "character": "Chika",
+      "text": "Chinami! Don\u2019t annoy Sensei while I\u2019m gone!"
+    },
+    {
+      "character": "Chinami",
+      "text": "Chinami will do her best!"
+    },
+    {
+      "character": "Chinami",
+      "text": "Have a nice day at work!"
+    },
+    {
+      "character": "narrator",
+      "text": "Chika exits the apartment, locking the door behind her and leaving me alone with her little sister."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Chinami",
+      "text": "Hello! Welcome to Chinami\u2019s house!"
+    },
+    {
+      "character": "Chinami",
+      "text": "Did you wash your hands?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah, your sister made me wash them as soon as I came in."
+    },
+    {
+      "character": "Chinami",
+      "text": "Because she doesn\u2019t want Chinami to get sick."
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t want Chinami to get sick either."
+    },
+    {
+      "character": "Chinami",
+      "text": "That\u2019s good. "
+    },
+    {
+      "character": "Sensei",
+      "text": "It sure is."
+    },
+    {
+      "character": "Chinami",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Chinami",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Chinami",
+      "text": "Now what?"
+    },
+    {
+      "character": "Sensei",
+      "text": "What do you mean now what?"
+    },
+    {
+      "character": "Chinami",
+      "text": "Are you just going to sit there and stare at Chinami until her sister comes home?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I...I haven\u2019t really thought of that."
+    },
+    {
+      "character": "narrator",
+      "text": "Now that she mentions it, I have absolutely no idea what I\u2019m even supposed to be doing right now."
+    },
+    {
+      "character": "Sensei",
+      "text": "I am so lost and scared."
+    },
+    {
+      "character": "Chinami",
+      "text": "You can stare at Chinami if you want. But she\u2019s going to watch TV if that\u2019s okay with you."
+    },
+    {
+      "character": "Sensei",
+      "text": "Nothing\u2019s even playing on the TV."
+    },
+    {
+      "character": "Chinami",
+      "text": "Big sis says that the TV won\u2019t come back on until tomorrow, so Chinami is pretending that her favorite show is on instead."
+    },
+    {
+      "character": "Sensei",
+      "text": "And what exactly is Chinami\u2019s favorite show?"
+    },
+    {
+      "character": "narrator",
+      "text": "Knowing her, I\u2019m assuming it\u2019s some early morning cartoon or-"
+    },
+    {
+      "character": "Chinami",
+      "text": "Game of Thrones."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Chinami",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "I know I\u2019m not the one who\u2019s supposed to be raising you, but aren\u2019t you a little too [young]for that?"
+    },
+    {
+      "character": "Chinami",
+      "text": "Chinami is a 5,000 year old-"
+    },
+    {
+      "character": "Sensei",
+      "text": "Wizard. I know. Does your sister know you watch it, though?"
+    },
+    {
+      "character": "Chinami",
+      "text": "Mhm! We watch it together on her laptop whenever she brings it home."
+    },
+    {
+      "character": "narrator",
+      "text": "I can\u2019t say I know much about this show...but from what I understand, it can get pretty gruesome and..."
+    },
+    {
+      "character": "narrator",
+      "text": "Well, let\u2019s just say I was unaware that Chinami had been exposed to those kinds of things yet."
+    },
+    {
+      "character": "Sensei",
+      "text": "So, you\u2019re just sitting on a cushion pretending you\u2019re watching Game of Thrones."
+    },
+    {
+      "character": "Chinami",
+      "text": "Right. Chinami took a quiz on her phone that says she\u2019s part of House Lannister."
+    },
+    {
+      "character": "Sensei",
+      "text": "I have no idea what that means. What does that house do?"
+    },
+    {
+      "character": "Chinami",
+      "text": "They have a lot of money and like each other more than they\u2019re supposed to I think."
+    },
+    {
+      "character": "Sensei",
+      "text": "Having a lot of money is pretty much the exact opposite of you. You don\u2019t have {i}any{/i} money, Chinami."
+    },
+    {
+      "character": "Chinami",
+      "text": "This is the sad truth."
+    },
+    {
+      "character": "Chinami",
+      "text": "But that\u2019s okay. Because one day, Chinami is going to be rich."
+    },
+    {
+      "character": "Chinami",
+      "text": "And then she's going to buy a big house for her and big sis."
+    },
+    {
+      "character": "Chinami",
+      "text": "And you\u2019ll get one too since you bought Chinami her first phone."
+    },
+    {
+      "character": "Sensei",
+      "text": "Well thank you. But I already have a house."
+    },
+    {
+      "character": "Chinami",
+      "text": "That\u2019s okay. You can have two houses. A Lannister always pays her debts."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m assuming that\u2019s a quote from the show, so I\u2019m just going to say thanks."
+    },
+    {
+      "character": "Chinami",
+      "text": "You\u2019re welcome!"
+    },
+    {
+      "character": "Chinami",
+      "text": "Now, watch pretend-TV with me while we wait for big sis to finish working."
+    },
+    {
+      "character": "Sensei",
+      "text": "That\u2019s going to be hours from now. We\u2019re really going to stare at a blank TV the entire time?"
+    },
+    {
+      "character": "Chinami",
+      "text": "It\u2019s not blank! There are dragons and zombie things and a few really funny looking old people."
+    },
+    {
+      "character": "Sensei",
+      "text": "You\u2019re not supposed to make fun of old people, Chinami."
+    },
+    {
+      "character": "Chinami",
+      "text": "Shh! This is the best part!"
+    },
+    {
+      "character": "narrator",
+      "text": "Chinami \u2018shushes\u2019 me and I direct my attention (For reasons I don\u2019t understand) to a blank TV screen."
+    },
+    {
+      "character": "Chinami",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Chinami",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Chinami",
+      "text": "This isn\u2019t as fun as Chinami expected."
+    },
+    {
+      "character": "Sensei",
+      "text": "I can\u2019t say I was really expecting any more from this. "
+    },
+    {
+      "character": "Chinami",
+      "text": "Now what do we do?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t know. It\u2019s your house. You figure something out."
+    },
+    {
+      "character": "Chinami",
+      "text": "Wanna watch Chinami kill pigs? She\u2019s really good at it."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m a little worried about your enthusiasm for killing animals. You know there are other games you can play on your phone, right?"
+    },
+    {
+      "character": "Chinami",
+      "text": "Other games?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah. Like, that one where you crush candy. Or that one with the farm."
+    },
+    {
+      "character": "Chinami",
+      "text": "Can Chinami destroy the animals on the farm?"
+    },
+    {
+      "character": "Sensei",
+      "text": "That\u2019s...not really the point of the game, but probably? I don\u2019t really know."
+    },
+    {
+      "character": "Chinami",
+      "text": "You don\u2019t seem to know as much as big sis when it comes to phones, Mr. Sensei."
+    },
+    {
+      "character": "Sensei",
+      "text": "Just Sensei is fine, Chinami."
+    },
+    {
+      "character": "Chinami",
+      "text": "Okay, Just Sensei."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Chinami",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "You did that on purpose, didn\u2019t you?"
+    },
+    {
+      "character": "Chinami",
+      "text": "Chinami has no idea what you\u2019re talking about. She\u2019s just a little girl who is also an ancient wizard."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m beginning to think you might be smarter than you let on, Chinami..."
+    },
+    {
+      "character": "Chinami",
+      "text": "Chinami is very confused right now."
+    },
+    {
+      "character": "Sensei",
+      "text": "{i}Sure she is...{/i}"
+    },
+    {
+      "character": "Chinami",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Chinami",
+      "text": "Are you and big sis getting married yet?"
+    },
+    {
+      "character": "narrator",
+      "text": "This again? How does this keep coming up?"
+    },
+    {
+      "character": "Sensei",
+      "text": "How many times do the two of us need to tell you that things aren\u2019t like that between us?"
+    },
+    {
+      "character": "Chinami",
+      "text": "A few more, probably. Chinami\u2019s memory isn\u2019t very good."
+    },
+    {
+      "character": "Chinami",
+      "text": "But she thinks you should get married anyway."
+    },
+    {
+      "character": "Chinami",
+      "text": "If Sensei and big sis get married, Chinami will be alone less. "
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Is that why you want us to get married? So I\u2019ll come around more?"
+    },
+    {
+      "character": "Chinami",
+      "text": "Maybe. "
+    },
+    {
+      "character": "Sensei",
+      "text": "You know I can just, come around more {i}without{/i} marrying her, right?"
+    },
+    {
+      "character": "Chinami",
+      "text": "You dare defy me, mere mortal?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Excuse me?"
+    },
+    {
+      "character": "Chinami",
+      "text": "I have lived for thousands of years and you will tell me what I demand you to tell me."
+    },
+    {
+      "character": "Sensei",
+      "text": "Chinami, no."
+    },
+    {
+      "character": "Chinami",
+      "text": "Teach Chinami the secrets of life! What it means to be human!"
+    },
+    {
+      "character": "Chinami",
+      "text": "Only then will Chinami spare you destruction!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Okay, Chinami. I will do just that."
+    },
+    {
+      "character": "Chinami",
+      "text": "Hooray! Chinami will learn a new thing soon! And no thanks to her future daddy!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Marrying your sister wouldn\u2019t even make me your daddy. I\u2019d have to marry your mom."
+    },
+    {
+      "character": "Chinami",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Chinami",
+      "text": "Hi, Mom. Can you do me a favor?"
+    },
+    {
+      "character": "narrator",
+      "text": "Things suddenly become incredibly morbid and don\u2019t mesh well with the background music. Such is life."
+    },
+    {
+      "character": "Chinami",
+      "text": "Can you marry Sensei? He is a nice man and he bought Chinami a phone."
+    },
+    {
+      "character": "Chinami",
+      "text": "Chinami wants to take care of a sister the way big sis takes care of Chinami."
+    },
+    {
+      "character": "Chinami",
+      "text": "Also Sensei has glasses and big sis says you always liked boys with glasses."
+    },
+    {
+      "character": "Sensei",
+      "text": "Chinami..."
+    },
+    {
+      "character": "Chinami",
+      "text": "Shh...I\u2019m talking to my mom. Watch pretend-TV, Sensei."
+    },
+    {
+      "character": "Sensei",
+      "text": "...Fine."
+    },
+    {
+      "character": "narrator",
+      "text": "I pretend to watch pretend-TV and fall into pretend-inception."
+    },
+    {
+      "character": "narrator",
+      "text": "How did a trip to hang out with my student\u2019s little sister turn into something so complicated?"
+    },
+    {
+      "character": "Chinami",
+      "text": "{i}Also, he has lots of money. He even paid for Yumi\u2019s phone. I think he works for the government.{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "Chinami, what in the world are you whispering about over there? I think I just heard something about the government."
+    },
+    {
+      "character": "Chinami",
+      "text": "No words, Sensei. Chinami needs silence to reach her mom through the picture."
+    },
+    {
+      "character": "Sensei",
+      "text": "...Whatever Chinami needs."
+    },
+    {
+      "character": "narrator",
+      "text": "Chinami spends the next twenty minutes whispering to the picture of her mother while I sit next to her, pretending to not hear what she\u2019s saying."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}The next few hours pass by without becoming any more comfortable.{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}But at least Chinami didn\u2019t spend the day alone.{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Chinami\u2019s affection has increased to [chinami_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "chinami_love +": {
+      "from": null,
+      "to": 1
+    },
+    "chinamidate1": {
+      "from": null,
+      "to": true
+    }
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "event_id": 79,
+  "event_label": "iofirsthall",
+  "dialogue": [
+    {
+      "character": "Io",
+      "text": "Oh, Sensei. What\u2019s up?"
+    },
+    {
+      "character": "Io",
+      "text": "Not doing anything tonight?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Nope. Just thought I\u2019d say hi since you\u2019re sitting here on the floor for some reason."
+    },
+    {
+      "character": "Io",
+      "text": "Just getting some fresh air. It\u2019s kind of stuffy in the room at the moment."
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t know if I\u2019d call the air in the dorm \u201cfresh\u201d but you do you."
+    },
+    {
+      "character": "Io",
+      "text": "Well, what else am I supposed to do? Go outside? It\u2019s freezing out there."
+    },
+    {
+      "character": "Io",
+      "text": "Let me borrow your jacket and I\u2019ll go outside. You can hang out here and watch movies in my bed or something."
+    },
+    {
+      "character": "Io",
+      "text": "We\u2019ll just swap places for a little bit. Does that work for you?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I like my jacket and don\u2019t particularly like movies, so no."
+    },
+    {
+      "character": "Io",
+      "text": "What kind of psychopath doesn\u2019t like movies? What could possibly be the reasoning behind that?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t know. Staying in one place for too long is just boring."
+    },
+    {
+      "character": "Io",
+      "text": "Tell that to the weird bird on top of our vending machine. It hasn't moved since I got here."
+    },
+    {
+      "character": "Io",
+      "text": "I could have sworn it was actually dead but I tried poking it the other day and I\u2019m pretty sure it threatened to kill me."
+    },
+    {
+      "character": "Sensei",
+      "text": "It didn\u2019t...pull a knife out on you, did it?"
+    },
+    {
+      "character": "Io",
+      "text": "Uhh...no. It\u2019s still just a bird after all. It wouldn\u2019t be able to do something like that."
+    },
+    {
+      "character": "Sensei",
+      "text": "Oh, Io...You sweet, summer child."
+    },
+    {
+      "character": "Io",
+      "text": "What?...What did I do?"
+    },
+    {
+      "character": "Sensei",
+      "text": "You will learn the true nature of that animal in time. For now, it may be best if you remain oblivious."
+    },
+    {
+      "character": "Io",
+      "text": "Oh...Uhh, okay."
+    },
+    {
+      "character": "Io",
+      "text": "I still don\u2019t really get it, but you got this really serious look as soon as I brought the bird up, so I\u2019ll listen to you."
+    },
+    {
+      "character": "Sensei",
+      "text": "Good."
+    },
+    {
+      "character": "Sensei",
+      "text": "So anyway, how are things going over here? Hate being around the other girls as much as you expected to?"
+    },
+    {
+      "character": "Io",
+      "text": "If you mean the dorms in general and not[school], not really."
+    },
+    {
+      "character": "Io",
+      "text": "I don\u2019t have to talk to anybody over here. "
+    },
+    {
+      "character": "Io",
+      "text": "Even when I\u2019m just sitting in the hall, no one other than Uta really makes an effort to talk to me. So that\u2019s cool."
+    },
+    {
+      "character": "Sensei",
+      "text": "No, that\u2019s just depressing. I figured they\u2019d at least try."
+    },
+    {
+      "character": "Io",
+      "text": "Ehh. Who knows? Maybe they have and I just haven\u2019t noticed?"
+    },
+    {
+      "character": "Io",
+      "text": "Either way, not really something I want to spend too much time thinking about."
+    },
+    {
+      "character": "Io",
+      "text": "The dorm itself is really cool."
+    },
+    {
+      "character": "Io",
+      "text": "Even though Uta takes up like 75%% of the room, it\u2019s still cool having a place I can sort of turn into my own little thing."
+    },
+    {
+      "character": "Sensei",
+      "text": "Don\u2019t you have a room at the bathhouse?"
+    },
+    {
+      "character": "Io",
+      "text": "I do, but it\u2019s really just my aunt\u2019s guest room that I wound up moving into and I feel kinda bad about sprucing it up. You know?"
+    },
+    {
+      "character": "Io",
+      "text": "The dorm has a surprisingly small list of rules we need to adhere to, so once I found out I could do whatever I wanted, it made me a lot more comfortable."
+    },
+    {
+      "character": "Io",
+      "text": "Only downside is that the showers here don\u2019t get nearly hot enough so I still have to use the ones at work."
+    },
+    {
+      "character": "Sensei",
+      "text": "Your life is so hard."
+    },
+    {
+      "character": "Io",
+      "text": "Also, why does our class get its own building?"
+    },
+    {
+      "character": "Io",
+      "text": "Where even is the other dorm?"
+    },
+    {
+      "character": "Sensei",
+      "text": "You\u2019re asking me a bunch of questions I do not have the answer to right now."
+    },
+    {
+      "character": "Io",
+      "text": "You didn\u2019t learn all this stuff when you became a teacher?"
+    },
+    {
+      "character": "Io",
+      "text": "Maybe it\u2019s some sort of conspiracy or something?"
+    },
+    {
+      "character": "Io",
+      "text": "Oh man! Great idea!"
+    },
+    {
+      "character": "Io",
+      "text": "Sensei, let\u2019s start a revolution!"
+    },
+    {
+      "character": "Sensei",
+      "text": "...What?"
+    },
+    {
+      "character": "Sensei",
+      "text": "What are we revolting against?"
+    },
+    {
+      "character": "Io",
+      "text": "[kumon_mi_high]. We can secede and declare this dorm a republic. Then we won\u2019t have to go to[school] at all and can just hang out here every day."
+    },
+    {
+      "character": "narrator",
+      "text": "You know, maybe this does call for a revolution after all?"
+    },
+    {
+      "character": "narrator",
+      "text": "The dorm functioning as an independent entity sounds quite enticing."
+    },
+    {
+      "character": "Io",
+      "text": "Who even needs college? "
+    },
+    {
+      "character": "Io",
+      "text": "What\u2019s the point of going into debt just so you can try out for a slightly better job in order to pay off all of it?"
+    },
+    {
+      "character": "Io",
+      "text": "More people should just learn tradeskills."
+    },
+    {
+      "character": "Io",
+      "text": "Sure, a lot of them are less {i}glamorous{/i}, but they\u2019re literally {i}always{/i} needed and there are tons of programs much cheaper than colleges."
+    },
+    {
+      "character": "Sensei",
+      "text": "Why are you in college then?"
+    },
+    {
+      "character": "Io",
+      "text": "Because I'm a hypocrite. Duh."
+    },
+    {
+      "character": "Sensei",
+      "text": "Oh, right."
+    },
+    {
+      "character": "Io",
+      "text": "I get that I haven\u2019t shown a lot of interest in class yet, but I have no intention of leaving. Especially with you as my teacher."
+    },
+    {
+      "character": "Sensei",
+      "text": "I had a feeling my methods would reach you."
+    },
+    {
+      "character": "Io",
+      "text": "Well your feeling was spot-on."
+    },
+    {
+      "character": "Io",
+      "text": "It\u2019s cool waking up and not dreading whatever is going to happen for the rest of the day immediately."
+    },
+    {
+      "character": "Io",
+      "text": "It just sucks that I only have several months of that until it all goes away and I have to find my place in yet {i}another{/i} group of students."
+    },
+    {
+      "character": "Sensei",
+      "text": "Just get held back and stay in my class."
+    },
+    {
+      "character": "narrator",
+      "text": "Or do nothing at all and achieve the exact same result."
+    },
+    {
+      "character": "Io",
+      "text": "Heheh~ Gonna miss me when I\u2019m gone?"
+    },
+    {
+      "character": "Io",
+      "text": "Maybe I {i}will{/i} get held back and then run for class-rep next year so I can spend even more time with you."
+    },
+    {
+      "character": "Sensei",
+      "text": "That sounds great as long as you can figure out how to communicate with others as well."
+    },
+    {
+      "character": "Io",
+      "text": "For the last time, I\u2019m actually pretty good at that. I can do it if I want to."
+    },
+    {
+      "character": "Sensei",
+      "text": "Right. You just don\u2019t {i}want{/i} to."
+    },
+    {
+      "character": "Io",
+      "text": "Precisely. So stop trying to get me to. Got it?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah, yeah. I won\u2019t make you do anything you don\u2019t want to. "
+    },
+    {
+      "character": "Io",
+      "text": "Good. Only someone horrible would force someone into doing something they\u2019re not comfortable with."
+    },
+    {
+      "character": "narrator",
+      "text": "Io and I talk for a little while longer before she decides she wants to go back into her room and head to sleep early."
+    },
+    {
+      "character": "narrator",
+      "text": "Not having anything else to do and feeling a bit guilty about knocking on someone else\u2019s door at this hour of the night, I decide to head home and go to sleep as well."
+    },
+    {
+      "character": "narrator",
+      "text": "I have to go to work tomorrow, so crashing early will be advantageous in the long run."
+    },
+    {
+      "character": "narrator",
+      "text": "I make my way down the steps of the dorm and into the cold once more, ready for the harsh winds of yet another winter night."
+    },
+    {
+      "character": "narrator",
+      "text": "...Or at least that\u2019s what I think until the wind actually hits my skin."
+    },
+    {
+      "character": "narrator",
+      "text": "From that point on, it\u2019s absolute Hell the whole way back."
+    },
+    {
+      "character": "narrator",
+      "text": "I wasn't ready at all."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Io\u2019s affection has increased to [io_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "iofirsthall": {
+      "from": null,
+      "to": true
+    },
+    "io_love +": {
+      "from": null,
+      "to": 1
+    }
+  }
+}

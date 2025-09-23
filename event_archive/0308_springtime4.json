@@ -1,0 +1,504 @@
+{
+  "event_id": 308,
+  "event_label": "springtime4",
+  "dialogue": [
+    {
+      "character": "Imani",
+      "text": "...and when the morning sun shone through their windows, it turned the cobwebs into silver and gold. And from that point on, the widow and her children would never have to live in poverty again."
+    },
+    {
+      "character": "Imani",
+      "text": "This folktale, referred to mostly as \u201cThe Legend of the Christmas Spider,\u201d dates back to the 1800\u2019s and is thought to be conceived in either Ukraine, Germany, or Poland. "
+    },
+    {
+      "character": "Imani",
+      "text": "For this reason, combined with old European superstitions stating that destroying a spider\u2019s web is bad luck, seeing spiders or spiderwebs on Christmas is now thought to bring {i}good{/i} luck instead."
+    },
+    {
+      "character": "Kirin",
+      "text": "Wow. And to think we got this whole lecture just because Noriko refused to step on a spider and had to {i}bring it outside{/i} instead."
+    },
+    {
+      "character": "Noriko",
+      "text": "Don\u2019t mock me, Kirin! I\u2019ve brought good luck to our dorm room for the next year!"
+    },
+    {
+      "character": "Imani",
+      "text": "Anyway, I guess I should start taking attendance now. Who decided to not show up today?"
+    },
+    {
+      "character": "Futaba",
+      "text": "Ami and Sensei are-"
+    },
+    {
+      "character": "Imani",
+      "text": "Correction \u2014 who decided to not show up that is {i}normally here?{/i}"
+    },
+    {
+      "character": "Molly",
+      "text": "Rin! But I only know this because she owes me 5,000 yen from a bet and not because I still like her. Which I don\u2019t."
+    },
+    {
+      "character": "Yumi",
+      "text": "Chika ain\u2019t here either. Somethin\u2019 about...actually, I got no fuckin\u2019 clue. She just ain\u2019t here."
+    },
+    {
+      "character": "Imani",
+      "text": "Great. Well, I guess just fuck around until lunch or whatever. I\u2019m not really in the mood to teach today."
+    },
+    {
+      "character": "Touka",
+      "text": "Miss Imai, I have a question."
+    },
+    {
+      "character": "Imani",
+      "text": "No, Touka. I\u2019m not raising the Secret Santa spending limit again. You already talked me into 10k and even that is way too much for a bunch of mostly-unskilled teenagers."
+    },
+    {
+      "character": "Touka",
+      "text": "It\u2019s not that. I was just wondering if you are doing okay. You\u2019ve seemed rather...off these last few days."
+    },
+    {
+      "character": "Imani",
+      "text": "Yeah, well...you\u2019d be off too if your best friend and coworker just decided to shirk all his responsibilities and vanish without so much as a goodbye."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "Vanish? I was informed that the Herald of the Adolescents was merely under the weather. No one mentioned anything about vanishing."
+    },
+    {
+      "character": "Otoha",
+      "text": "He may as well have vanished. None of us have heard shit from him since Halloween."
+    },
+    {
+      "character": "Sana",
+      "text": "Ami still...comes to school sometimes, though...and she always-"
+    },
+    {
+      "character": "Miku",
+      "text": "Aaaaaah! All this long division stuff is killin\u2019 me! I ain\u2019t got any idea what\u2019s goin\u2019 on with Sensei, but bring back the teacher who didn\u2019t make me do any schoolwork!"
+    },
+    {
+      "character": "Imani",
+      "text": "If anyone needs me, I\u2019ll be at my desk."
+    },
+    {
+      "character": "Uta",
+      "text": "Poor Imani ain\u2019t taking this whole Sensei situation very well, is she?"
+    },
+    {
+      "character": "Io",
+      "text": "You say that like someone who hasn\u2019t also spent the last month and a half crying over him."
+    },
+    {
+      "character": "Uta",
+      "text": "You know, you\u2019d be crying too if you hadn\u2019t upped all your dosages just to compensate for the sudden lack of...male conversation."
+    },
+    {
+      "character": "Io",
+      "text": "Probably! Modern medicine sure is neat, isn\u2019t it? Want to share? That worked out really well the last time I tried it."
+    },
+    {
+      "character": "Uta",
+      "text": "No, Io. I don\u2019t wanna {i}share.{/i} I wanna get our friggin\u2019 teacher back before the whole class falls apart. "
+    },
+    {
+      "character": "Io",
+      "text": "Me too. But it\u2019s starting to look like the only way we\u2019ll be able to do that is by tracking him down and breaking into wherever he\u2019s staying."
+    },
+    {
+      "character": "Uta",
+      "text": "I\u2019m pretty sure he\u2019s just at his house. That\u2019s how Ami\u2019s made it sound at work at least. But no matter how many times I ask her if I can come visit him, she keeps turning me away."
+    },
+    {
+      "character": "Io",
+      "text": "She did pretty much the same for me the one time I asked about him."
+    },
+    {
+      "character": "Uta",
+      "text": "You actually, like...{i}talked{/i} to her? With your mouth?"
+    },
+    {
+      "character": "Io",
+      "text": "No, Uta. I learned sign language for the sole purpose of communicating with her."
+    },
+    {
+      "character": "Uta",
+      "text": "You joke, but I wouldn\u2019t put that sorta thing past you."
+    },
+    {
+      "character": "Io",
+      "text": "Fair point. But yes, I {i}did{/i} talk to her. With my mouth. For maybe five whole seconds."
+    },
+    {
+      "character": "Io",
+      "text": "Desperate times call for desperate measures, and you\u2019re obviously not the only person around here currently going through Sensei-withdrawal."
+    },
+    {
+      "character": "Io",
+      "text": "And I think I speak for everyone when I say I want him back as soon as possible."
+    },
+    {
+      "character": "Uta",
+      "text": "God, what a jerk! Just imagine what sorta chaos the maid cafe would fall into if {i}I{/i} stopped coming to work every single day! Like, be considerate of others, Sensei! Come on!"
+    },
+    {
+      "character": "Io",
+      "text": "Maybe we really should just break in? We can pool the money we make from our jobs to pay for whatever fine we\u2019ll get slapped with for the attempt."
+    },
+    {
+      "character": "Uta",
+      "text": "I\u2019m pretty sure we\u2019d just get sent to juvie. Or jail. And it\u2019s not like you can just pay your way out of those places."
+    },
+    {
+      "character": "Io",
+      "text": "Yes you can. That\u2019s quite literally what bond is."
+    },
+    {
+      "character": "Uta",
+      "text": "No. A bond is that thing you and I have that explains why we like each other. A {i}bribe{/i} is a thing you have to pay somebody to get \u2018em to do stuff."
+    },
+    {
+      "character": "Io",
+      "text": "You know, sometimes I forget that you\u2019re kind of dumb. But then you go and say things like that and it all comes rushing back."
+    },
+    {
+      "character": "Uta",
+      "text": "At least if we get arrested, I might be able to see my brother. It\u2019s been a while."
+    },
+    {
+      "character": "Io",
+      "text": "Have him teach you more about the justice system when you do, please."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Noriko",
+      "text": "...and that\u2019s why you should sign my petition to create more safe injection sites in the downtown area!"
+    },
+    {
+      "character": "Yumi",
+      "text": "You {i}do{/i} realize you\u2019re talking to the daughter of a junkie, right?"
+    },
+    {
+      "character": "Noriko",
+      "text": "No, I didn\u2019t actually. You never tell anybody about yourself. And if anything, wouldn\u2019t that make you {i}more{/i} inclined to sign the petition? Because surely you must have some idea of the dangers that-"
+    },
+    {
+      "character": "Yumi",
+      "text": "Shut up. But, {i}before{/i} you shut up, why do you keep talking to me? This is supposed to be my \u201cstand here and mind my own business\u201d spot and you keep fuckin\u2019 coming over every god damn day."
+    },
+    {
+      "character": "Noriko",
+      "text": "Well, we\u2019re friends now, aren\u2019t we?"
+    },
+    {
+      "character": "Yumi",
+      "text": "What? Fuck you talkin\u2019 about? When the hell did that happen?"
+    },
+    {
+      "character": "Noriko",
+      "text": "Halloween! You were the only person who knew my costume. Which means you\u2019re into the same kind of anime that I\u2019m into. Which means that we\u2019re friends now."
+    },
+    {
+      "character": "Yumi",
+      "text": "{i}No?{/i} That ain\u2019t how makin\u2019 friends works, you fucking beady-eyed lunatic."
+    },
+    {
+      "character": "Noriko",
+      "text": "How would you know? You don\u2019t have any. Besides me, I mean. And Chika. But Chika\u2019s not here right now, so I\u2019ll keep you company and make sure you don\u2019t get lonely."
+    },
+    {
+      "character": "Yumi",
+      "text": "Here\u2019s a better idea \u2014 instead of devotin\u2019 the rest of homeroom to pissin\u2019 me off, why don\u2019t you take your BS petition and shove it so far up your ass that even a team of surgeons won\u2019t be able to-"
+    },
+    {
+      "character": "Chika",
+      "text": "Attention, everyone!"
+    },
+    {
+      "character": "Rin",
+      "text": "{i}Please{/i} direct your attention over here for a {i}very{/i} special surprise!"
+    },
+    {
+      "character": "Noriko",
+      "text": "Holy crap!"
+    },
+    {
+      "character": "Yumi",
+      "text": "What in the ever-loving fuck?"
+    },
+    {
+      "character": "Chika",
+      "text": "Surprise! We switched colors."
+    },
+    {
+      "character": "Rin",
+      "text": "And I look more lesbian than ever."
+    },
+    {
+      "character": "Kirin",
+      "text": "And {i}I{/i} am very confused. Why would you do this without asking us first?"
+    },
+    {
+      "character": "Chika",
+      "text": "Why should we have to consult with you and the rest of the class if we want to change our hair colors?"
+    },
+    {
+      "character": "Kirin",
+      "text": "It\u2019s just too much at once, okay? I\u2019m going to keep forgetting who is who and it\u2019s gonna fuck with my methodology when it comes to flirting with you."
+    },
+    {
+      "character": "Chika",
+      "text": "Kirin, could you kindly go fuck yourself and never joke about flirting with me again? Thanks."
+    },
+    {
+      "character": "Kirin",
+      "text": "Can {i}you{/i} just fuck me instead?"
+    },
+    {
+      "character": "Chika",
+      "text": "I liked you more when we hated each other."
+    },
+    {
+      "character": "Rin",
+      "text": "Kirin, the reason we switched hair colors is because {i}I{/i} was looking for a change-"
+    },
+    {
+      "character": "Chika",
+      "text": "And {i}I{/i} wanted to fit in a little better with the rest of the light music club! "
+    },
+    {
+      "character": "Chika",
+      "text": "It would have been, like...totally weird if there was some flashy gyaru following you guys around to shows. "
+    },
+    {
+      "character": "Chika",
+      "text": "Now, you have a cool rocker chick slash...semi-gyaru...thing. I don\u2019t know! I\u2019m having an identity crisis!"
+    },
+    {
+      "character": "Chika",
+      "text": "And it has nothing to do with me going stir crazy from not seeing my significant other in almost two months!"
+    },
+    {
+      "character": "Rin",
+      "text": "Hahah! Significant other!"
+    },
+    {
+      "character": "Rin",
+      "text": "I remember when I had one of those."
+    },
+    {
+      "character": "Otoha",
+      "text": "..."
+    },
+    {
+      "character": "Rin",
+      "text": "..."
+    },
+    {
+      "character": "Otoha",
+      "text": "..."
+    },
+    {
+      "character": "Rin",
+      "text": "..."
+    },
+    {
+      "character": "Otoha",
+      "text": "Oh, sorry. Was I supposed to react to that?"
+    },
+    {
+      "character": "Rin",
+      "text": "Maybe!"
+    },
+    {
+      "character": "Otoha",
+      "text": "My bad. But I\u2019m not really sure how I\u2019m supposed to respond to that very obviously pointed statement."
+    },
+    {
+      "character": "Rin",
+      "text": "Well...neither am I! "
+    },
+    {
+      "character": "Otoha",
+      "text": "You\u2019re...not sure how to respond to your {i}own{/i} statement?"
+    },
+    {
+      "character": "Rin",
+      "text": "I said what I said! It doesn\u2019t need to make sense!"
+    },
+    {
+      "character": "Otoha",
+      "text": "Right..."
+    },
+    {
+      "character": "Otoha",
+      "text": "Well, see you at band practice I guess."
+    },
+    {
+      "character": "Rin",
+      "text": "Yeah! I guess!"
+    },
+    {
+      "character": "Nodoka",
+      "text": "I see not much has changed on the breakup front, has it?"
+    },
+    {
+      "character": "Futaba",
+      "text": "Leave it alone, Nodoka. Rin and Otoha decided on their separation mutually, so it\u2019s best if we don\u2019t get ourselves involved with any of the-"
+    },
+    {
+      "character": "Nodoka",
+      "text": "If you miss having someone to put your fingers inside of, I wouldn\u2019t mind experimenting with you. As a friend, of course."
+    },
+    {
+      "character": "Futaba",
+      "text": "Why do I even bother talking anymore?"
+    },
+    {
+      "character": "Otoha",
+      "text": "Are you going to tell me that every single day for the rest of my life, Nodoka? Because I\u2019m really starting to believe you are."
+    },
+    {
+      "character": "Nodoka",
+      "text": "There is a very simple way to shut me up, you know."
+    },
+    {
+      "character": "Otoha",
+      "text": "I\u2019m good. But thanks."
+    },
+    {
+      "character": "Nodoka",
+      "text": "I have not benefited nearly as much from this separation as I should have."
+    },
+    {
+      "character": "Sana",
+      "text": "Wh...Why {i}did{/i} you and Rin...decide to break up again?...I thought you two looked...nice together..."
+    },
+    {
+      "character": "Otoha",
+      "text": "We told you guys at the last band meeting \u2014 it was getting in the way of my music. If I want to get better, I can\u2019t be splitting my time between a girlfriend {i}and{/i} singing. I needed to choose one."
+    },
+    {
+      "character": "Sana",
+      "text": "But...doesn\u2019t it hurt?...Knowing you used to be...you know..."
+    },
+    {
+      "character": "Otoha",
+      "text": "Not really. I don\u2019t think either of us expected it to last forever. We\u2019re just teenagers, you know? Things like this happen all the time."
+    },
+    {
+      "character": "Sana",
+      "text": "I...I see..."
+    },
+    {
+      "character": "Nodoka",
+      "text": "You sound rather disheartened at the passing of this tryst, Miss Sakakibara. Would you care to explain why? Or shall I assume you were just longing to be {i}involved{/i} to some extent?"
+    },
+    {
+      "character": "Sana",
+      "text": "Involved?...What does that mean?"
+    },
+    {
+      "character": "Nodoka",
+      "text": "Ahh...the way she feigns such innocence never fails to captivate me so. I can already feel the creative juices beginning to drip down my thighs."
+    },
+    {
+      "character": "Futaba",
+      "text": "I think that might be something else."
+    },
+    {
+      "character": "Otoha",
+      "text": "Say...do you guys think Sensei will turn up to the Christmas party this year?"
+    },
+    {
+      "character": "Nodoka",
+      "text": "Do {i}you?{/i}"
+    },
+    {
+      "character": "Sana",
+      "text": "I...hope so..."
+    },
+    {
+      "character": "Sana",
+      "text": "This has been...the longest I\u2019ve gone without seeing him since...the two of us met..."
+    },
+    {
+      "character": "Otoha",
+      "text": "I think there\u2019s a chance he shows up, right? Like...he\u2019s never missed one before. And some fresh air would probably be good for him. Assuming he isn\u2019t already getting any."
+    },
+    {
+      "character": "Nodoka",
+      "text": "If I didn\u2019t know any better, I might assume you were actually {i}worried,{/i} dearest roommate. "
+    },
+    {
+      "character": "Nodoka",
+      "text": "Could it be that your maternal instinct is finally taking root? Or perhaps Onee-sama simply longs for the taste of her honorary younger brother\u2019s-"
+    },
+    {
+      "character": "Otoha",
+      "text": "Fuck off, Nodoka. I just want to check in on the guy, that\u2019s all. And I know you all do as well. So why do {i}I{/i} have to be the one to say it out loud?"
+    },
+    {
+      "character": "Sana",
+      "text": "..."
+    },
+    {
+      "character": "Nodoka",
+      "text": "Perhaps you\u2019re just the weakest?"
+    },
+    {
+      "character": "Futaba",
+      "text": "Perhaps some of us have already said it too many times..."
+    },
+    {
+      "character": "Sana",
+      "text": "And p..."
+    },
+    {
+      "character": "Sana",
+      "text": "Perhaps...some of us..."
+    },
+    {
+      "character": "Sana",
+      "text": "Perhaps some of us...just..."
+    },
+    {
+      "character": "Sana",
+      "text": "Don\u2019t...really care..."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "springtime4": {
+      "from": null,
+      "to": true
+    },
+    "day": {
+      "from": 7,
+      "to": 4
+    }
+  }
+}

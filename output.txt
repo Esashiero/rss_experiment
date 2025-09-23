@@ -1,0 +1,1119 @@
+Simulator (V11 - Persistent Counter) initialized. Found 2142 labels.
+--- Initializing Game State ---
+--- Game State Initialized ---
+
+[EVENT 1: Executing 'start']
+--> Event packet 1 saved to event_archive/0001_start.json
+
+[EVENT 2: Executing 'timetojump']
+--> Event packet 2 saved to event_archive/0002_timetojump.json
+
+[EVENT 3: Executing 'start2']
+--> Event packet 3 saved to event_archive/0003_start2.json
+
+[EVENT 4: Executing 'nextstartt']
+--> Event packet 4 saved to event_archive/0004_nextstartt.json
+--- Simulation finished after 4 event(s) in this run. ---
+
+[EVENT 5: Executing 'firsttimemall']
+--> Event packet 5 saved to event_archive/0005_firsttimemall.json
+
+[EVENT 6: Executing 'saturdaynight']
+--> Event packet 6 saved to event_archive/0006_saturdaynight.json
+--- Simulation finished after 2 event(s) in this run. ---
+
+[EVENT 7: Executing 'firsttimedojo']
+--> Event packet 7 saved to event_archive/0007_firsttimedojo.json
+
+[EVENT 8: Executing 'saturdaynight']
+--> Event packet 8 saved to event_archive/0008_saturdaynight.json
+--- Simulation finished after 2 event(s) in this run. ---
+
+[EVENT 9: Executing 'firsttimeamisroom']
+--> Event packet 9 saved to event_archive/0009_firsttimeamisroom.json
+
+[EVENT 10: Executing 'saturdayafternoon']
+--> Event packet 10 saved to event_archive/0010_saturdayafternoon.json
+--- Simulation finished after 2 event(s) in this run. ---
+
+[EVENT 11: Executing 'firsttimelibrary']
+--> Event packet 11 saved to event_archive/0011_firsttimelibrary.json
+
+[EVENT 12: Executing 'chosepoem']
+--> Event packet 12 saved to event_archive/0012_chosepoem.json
+
+[EVENT 13: Executing 'saturdayafternoon']
+--> Event packet 13 saved to event_archive/0013_saturdayafternoon.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 14: Executing 'firsttimepornshop']
+--> Event packet 14 saved to event_archive/0014_firsttimepornshop.json
+
+[EVENT 15: Executing 'endofweekday']
+--> Event packet 15 saved to event_archive/0015_endofweekday.json
+
+[EVENT 16: Executing 'advancetotues']
+--> Event packet 16 saved to event_archive/0016_advancetotues.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 17: Executing 'firsttimeshrine']
+--> Event packet 17 saved to event_archive/0017_firsttimeshrine.json
+
+[EVENT 18: Executing 'saturdaynight']
+--> Event packet 18 saved to event_archive/0018_saturdaynight.json
+--- Simulation finished after 2 event(s) in this run. ---
+
+[EVENT 19: Executing 'firsttimesoccer']
+--> Event packet 19 saved to event_archive/0019_firsttimesoccer.json
+
+[EVENT 20: Executing 'saturdayafternoon']
+--> Event packet 20 saved to event_archive/0020_saturdayafternoon.json
+--- Simulation finished after 2 event(s) in this run. ---
+
+[EVENT 21: Executing 'firsttimecafe']
+--> Event packet 21 saved to event_archive/0021_firsttimecafe.json
+
+[EVENT 22: Executing 'chosedrink']
+--> Event packet 22 saved to event_archive/0022_chosedrink.json
+
+[EVENT 23: Executing 'saturdayafternoon']
+--> Event packet 23 saved to event_archive/0023_saturdayafternoon.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 24: Executing 'firsttimebar']
+--> Event packet 24 saved to event_archive/0024_firsttimebar.json
+
+[EVENT 25: Executing 'endofweekday']
+--> Event packet 25 saved to event_archive/0025_endofweekday.json
+
+[EVENT 26: Executing 'advancetotues']
+--> Event packet 26 saved to event_archive/0026_advancetotues.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 27: Executing 'firsttimestreets']
+--> Event packet 27 saved to event_archive/0027_firsttimestreets.json
+
+[EVENT 28: Executing 'saturdaynight']
+--> Event packet 28 saved to event_archive/0028_saturdaynight.json
+--- Simulation finished after 2 event(s) in this run. ---
+
+[EVENT 29: Executing 'chinamidate1']
+--> Event packet 29 saved to event_archive/0029_chinamidate1.json
+
+[EVENT 30: Executing 'saturdayafternoon']
+--> Event packet 30 saved to event_archive/0030_saturdayafternoon.json
+--- Simulation finished after 2 event(s) in this run. ---
+
+[EVENT 31: Executing 'kaoridate1']
+--> Event packet 31 saved to event_archive/0031_kaoridate1.json
+
+[EVENT 32: Executing 'saturdayafternoon']
+--> Event packet 32 saved to event_archive/0032_saturdayafternoon.json
+--- Simulation finished after 2 event(s) in this run. ---
+
+[EVENT 33: Executing 'karindate1']
+--> Event packet 33 saved to event_archive/0033_karindate1.json
+
+[EVENT 34: Executing 'saturdaynight']
+--> Event packet 34 saved to event_archive/0034_saturdaynight.json
+--- Simulation finished after 2 event(s) in this run. ---
+
+[EVENT 35: Executing 'kirindate1']
+--> Event packet 35 saved to event_archive/0035_kirindate1.json
+
+[EVENT 36: Executing 'saturdaynight']
+--> Event packet 36 saved to event_archive/0036_saturdaynight.json
+--- Simulation finished after 2 event(s) in this run. ---
+
+[EVENT 37: Executing 'mollycafe1']
+--> Event packet 37 saved to event_archive/0037_mollycafe1.json
+
+[EVENT 38: Executing 'endofweekday']
+--> Event packet 38 saved to event_archive/0038_endofweekday.json
+
+[EVENT 39: Executing 'advancetotues']
+--> Event packet 39 saved to event_archive/0039_advancetotues.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 40: Executing 'makidate1']
+--> Event packet 40 saved to event_archive/0040_makidate1.json
+
+[EVENT 41: Executing 'endofweekday']
+--> Event packet 41 saved to event_archive/0041_endofweekday.json
+
+[EVENT 42: Executing 'advancetotues']
+--> Event packet 42 saved to event_archive/0042_advancetotues.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 43: Executing 'nikidate1']
+--> Event packet 43 saved to event_archive/0043_nikidate1.json
+
+[EVENT 44: Executing 'saturdayafternoon']
+--> Event packet 44 saved to event_archive/0044_saturdayafternoon.json
+--- Simulation finished after 2 event(s) in this run. ---
+
+[EVENT 45: Executing 'toukastreets1']
+--> Event packet 45 saved to event_archive/0045_toukastreets1.json
+
+[EVENT 46: Executing 'saturdayafternoon']
+--> Event packet 46 saved to event_archive/0046_saturdayafternoon.json
+--- Simulation finished after 2 event(s) in this run. ---
+
+[EVENT 47: Executing 'ramen1']
+--> Event packet 47 saved to event_archive/0047_ramen1.json
+
+[EVENT 48: Executing 'endofweekday']
+--> Event packet 48 saved to event_archive/0048_endofweekday.json
+
+[EVENT 49: Executing 'advancetotues']
+--> Event packet 49 saved to event_archive/0049_advancetotues.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 50: Executing 'dormwar17']
+--> Event packet 50 saved to event_archive/0050_dormwar17.json
+--- Simulation finished after 1 event(s) in this run. ---
+
+[EVENT 51: Executing 'amilust15']
+--> Event packet 51 saved to event_archive/0051_amilust15.json
+
+[EVENT 52: Executing 'afterschoolevent']
+--> Event packet 52 saved to event_archive/0052_afterschoolevent.json
+
+[EVENT 53: Executing 'afterschoolmenu']
+--> Event packet 53 saved to event_archive/0053_afterschoolmenu.json
+
+[EVENT 54: Executing 'sanasbar']
+--> Event packet 54 saved to event_archive/0054_sanasbar.json
+
+[EVENT 55: Executing 'bar2to4']
+--> Event packet 55 saved to event_archive/0055_bar2to4.json
+
+[EVENT 56: Executing 'endofweekday']
+--> Event packet 56 saved to event_archive/0056_endofweekday.json
+
+[EVENT 57: Executing 'advancetotues']
+--> Event packet 57 saved to event_archive/0057_advancetotues.json
+--- Simulation finished after 7 event(s) in this run. ---
+
+[EVENT 58: Executing 'otohafirsthall']
+--> Event packet 58 saved to event_archive/0058_otohafirsthall.json
+
+[EVENT 59: Executing 'endofweekday']
+--> Event packet 59 saved to event_archive/0059_endofweekday.json
+
+[EVENT 60: Executing 'advancetotues']
+--> Event packet 60 saved to event_archive/0060_advancetotues.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 61: Executing 'tsuneyofirsthall']
+--> Event packet 61 saved to event_archive/0061_tsuneyofirsthall.json
+
+[EVENT 62: Executing 'endofweekday']
+--> Event packet 62 saved to event_archive/0062_endofweekday.json
+
+[EVENT 63: Executing 'advancetotues']
+--> Event packet 63 saved to event_archive/0063_advancetotues.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 64: Executing 'norikofirsthall']
+--> Event packet 64 saved to event_archive/0064_norikofirsthall.json
+
+[EVENT 65: Executing 'endofweekday']
+--> Event packet 65 saved to event_archive/0065_endofweekday.json
+
+[EVENT 66: Executing 'advancetotues']
+--> Event packet 66 saved to event_archive/0066_advancetotues.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 67: Executing 'convenience1']
+--> Event packet 67 saved to event_archive/0067_convenience1.json
+
+[EVENT 68: Executing 'endofweekday']
+--> Event packet 68 saved to event_archive/0068_endofweekday.json
+
+[EVENT 69: Executing 'advancetotues']
+--> Event packet 69 saved to event_archive/0069_advancetotues.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 70: Executing 'kirinfirsthall']
+--> Event packet 70 saved to event_archive/0070_kirinfirsthall.json
+
+[EVENT 71: Executing 'endofweekday']
+--> Event packet 71 saved to event_archive/0071_endofweekday.json
+
+[EVENT 72: Executing 'advancetotues']
+--> Event packet 72 saved to event_archive/0072_advancetotues.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 73: Executing 'nodokafirsthall']
+--> Event packet 73 saved to event_archive/0073_nodokafirsthall.json
+
+[EVENT 74: Executing 'endofweekday']
+--> Event packet 74 saved to event_archive/0074_endofweekday.json
+
+[EVENT 75: Executing 'advancetotues']
+--> Event packet 75 saved to event_archive/0075_advancetotues.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 76: Executing 'utafirsthall']
+--> Event packet 76 saved to event_archive/0076_utafirsthall.json
+
+[EVENT 77: Executing 'endofweekday']
+--> Event packet 77 saved to event_archive/0077_endofweekday.json
+
+[EVENT 78: Executing 'advancetotues']
+--> Event packet 78 saved to event_archive/0078_advancetotues.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 79: Executing 'iofirsthall']
+--> Event packet 79 saved to event_archive/0079_iofirsthall.json
+
+[EVENT 80: Executing 'endofweekday']
+--> Event packet 80 saved to event_archive/0080_endofweekday.json
+
+[EVENT 81: Executing 'advancetotues']
+--> Event packet 81 saved to event_archive/0081_advancetotues.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 82: Executing 'toukafirsthall']
+--> Event packet 82 saved to event_archive/0082_toukafirsthall.json
+
+[EVENT 83: Executing 'endofweekday']
+--> Event packet 83 saved to event_archive/0083_endofweekday.json
+
+[EVENT 84: Executing 'advancetotues']
+--> Event packet 84 saved to event_archive/0084_advancetotues.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 85: Executing 'yasufirsthall']
+--> Event packet 85 saved to event_archive/0085_yasufirsthall.json
+
+[EVENT 86: Executing 'endofweekday']
+--> Event packet 86 saved to event_archive/0086_endofweekday.json
+
+[EVENT 87: Executing 'advancetotues']
+--> Event packet 87 saved to event_archive/0087_advancetotues.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 88: Executing 'yumifirsthall']
+--> Event packet 88 saved to event_archive/0088_yumifirsthall.json
+
+[EVENT 89: Executing 'endofweekday']
+--> Event packet 89 saved to event_archive/0089_endofweekday.json
+
+[EVENT 90: Executing 'advancetotues']
+--> Event packet 90 saved to event_archive/0090_advancetotues.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 91: Executing 'mayafirsthall']
+--> Event packet 91 saved to event_archive/0091_mayafirsthall.json
+
+[EVENT 92: Executing 'endofweekday']
+--> Event packet 92 saved to event_archive/0092_endofweekday.json
+
+[EVENT 93: Executing 'advancetotues']
+--> Event packet 93 saved to event_archive/0093_advancetotues.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 94: Executing 'mikufirsthall']
+--> Event packet 94 saved to event_archive/0094_mikufirsthall.json
+
+[EVENT 95: Executing 'endofweekday']
+--> Event packet 95 saved to event_archive/0095_endofweekday.json
+
+[EVENT 96: Executing 'advancetotues']
+--> Event packet 96 saved to event_archive/0096_advancetotues.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 97: Executing 'futabafirsthall']
+--> Event packet 97 saved to event_archive/0097_futabafirsthall.json
+
+[EVENT 98: Executing 'endofweekday']
+--> Event packet 98 saved to event_archive/0098_endofweekday.json
+
+[EVENT 99: Executing 'advancetotues']
+--> Event packet 99 saved to event_archive/0099_advancetotues.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 100: Executing 'chikafirsthall']
+--> Event packet 100 saved to event_archive/0100_chikafirsthall.json
+
+[EVENT 101: Executing 'endofweekday']
+--> Event packet 101 saved to event_archive/0101_endofweekday.json
+
+[EVENT 102: Executing 'advancetotues']
+--> Event packet 102 saved to event_archive/0102_advancetotues.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 103: Executing 'rinfirsthall']
+--> Event packet 103 saved to event_archive/0103_rinfirsthall.json
+
+[EVENT 104: Executing 'endofweekday']
+--> Event packet 104 saved to event_archive/0104_endofweekday.json
+
+[EVENT 105: Executing 'advancetotues']
+--> Event packet 105 saved to event_archive/0105_advancetotues.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 106: Executing 'ayanefirsthall']
+--> Event packet 106 saved to event_archive/0106_ayanefirsthall.json
+
+[EVENT 107: Executing 'endofweekday']
+--> Event packet 107 saved to event_archive/0107_endofweekday.json
+
+[EVENT 108: Executing 'advancetotues']
+--> Event packet 108 saved to event_archive/0108_advancetotues.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 109: Executing 'makotofirsthall']
+--> Event packet 109 saved to event_archive/0109_makotofirsthall.json
+
+[EVENT 110: Executing 'endofweekday']
+--> Event packet 110 saved to event_archive/0110_endofweekday.json
+
+[EVENT 111: Executing 'advancetotues']
+--> Event packet 111 saved to event_archive/0111_advancetotues.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 112: Executing 'sanafirsthall']
+--> Event packet 112 saved to event_archive/0112_sanafirsthall.json
+
+[EVENT 113: Executing 'endofweekday']
+--> Event packet 113 saved to event_archive/0113_endofweekday.json
+
+[EVENT 114: Executing 'advancetotues']
+--> Event packet 114 saved to event_archive/0114_advancetotues.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 115: Executing 'amifirsthall']
+--> Event packet 115 saved to event_archive/0115_amifirsthall.json
+
+[EVENT 116: Executing 'endofweekday']
+--> Event packet 116 saved to event_archive/0116_endofweekday.json
+
+[EVENT 117: Executing 'advancetotues']
+--> Event packet 117 saved to event_archive/0117_advancetotues.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 118: Executing 'mayadate45']
+--> Event packet 118 saved to event_archive/0118_mayadate45.json
+--- Simulation finished after 1 event(s) in this run. ---
+
+[EVENT 119: Executing 'wakanadate1']
+--> Event packet 119 saved to event_archive/0119_wakanadate1.json
+
+[EVENT 120: Executing 'saturdayafternoon']
+--> Event packet 120 saved to event_archive/0120_saturdayafternoon.json
+--- Simulation finished after 2 event(s) in this run. ---
+
+[EVENT 121: Executing 'secondbeach7']
+--> Event packet 121 saved to event_archive/0121_secondbeach7.json
+
+[EVENT 122: Executing 'secondbeach8']
+--> Event packet 122 saved to event_archive/0122_secondbeach8.json
+
+[EVENT 123: Executing 'secondbeach9']
+--> Event packet 123 saved to event_archive/0123_secondbeach9.json
+
+[EVENT 124: Executing 'secondbeach10']
+--> Event packet 124 saved to event_archive/0124_secondbeach10.json
+
+[EVENT 125: Executing 'chikalust20intro']
+--> Event packet 125 saved to event_archive/0125_chikalust20intro.json
+
+[EVENT 126: Executing 'secondbeach11floor2']
+--> Event packet 126 saved to event_archive/0126_secondbeach11floor2.json
+--- Simulation finished after 6 event(s) in this run. ---
+
+[EVENT 127: Executing 'dormwartwo11']
+--> Event packet 127 saved to event_archive/0127_dormwartwo11.json
+
+[EVENT 128: Executing 'dormwartwo12']
+--> Event packet 128 saved to event_archive/0128_dormwartwo12.json
+
+[EVENT 129: Executing 'dormwartwo13']
+--> Event packet 129 saved to event_archive/0129_dormwartwo13.json
+
+[EVENT 130: Executing 'chikalust25skip']
+--> Event packet 130 saved to event_archive/0130_chikalust25skip.json
+
+[EVENT 131: Executing 'dormwartwo14']
+--> Event packet 131 saved to event_archive/0131_dormwartwo14.json
+
+[EVENT 132: Executing 'dormwartwo15']
+--> Event packet 132 saved to event_archive/0132_dormwartwo15.json
+
+[EVENT 133: Executing 'dormwartwo16']
+--> Event packet 133 saved to event_archive/0133_dormwartwo16.json
+
+[EVENT 134: Executing 'dormwartwo17']
+--> Event packet 134 saved to event_archive/0134_dormwartwo17.json
+
+[EVENT 135: Executing 'dormwartwo18']
+--> Event packet 135 saved to event_archive/0135_dormwartwo18.json
+
+[EVENT 136: Executing 'kirinlust30intro']
+--> Event packet 136 saved to event_archive/0136_kirinlust30intro.json
+
+[EVENT 137: Executing 'dormwartwo19']
+--> Event packet 137 saved to event_archive/0137_dormwartwo19.json
+
+[EVENT 138: Executing 'beachmas1']
+--> Event packet 138 saved to event_archive/0138_beachmas1.json
+
+[EVENT 139: Executing 'beachmas2']
+--> Event packet 139 saved to event_archive/0139_beachmas2.json
+
+[EVENT 140: Executing 'beachmas3']
+--> Event packet 140 saved to event_archive/0140_beachmas3.json
+
+[EVENT 141: Executing 'beachmas4']
+--> Event packet 141 saved to event_archive/0141_beachmas4.json
+
+[EVENT 142: Executing 'beachmas5']
+--> Event packet 142 saved to event_archive/0142_beachmas5.json
+
+[EVENT 143: Executing 'beachmas6']
+--> Event packet 143 saved to event_archive/0143_beachmas6.json
+
+[EVENT 144: Executing 'beachmas7']
+--> Event packet 144 saved to event_archive/0144_beachmas7.json
+
+[EVENT 145: Executing 'beachmas8']
+--> Event packet 145 saved to event_archive/0145_beachmas8.json
+
+[EVENT 146: Executing 'beachmas9']
+--> Event packet 146 saved to event_archive/0146_beachmas9.json
+
+[EVENT 147: Executing 'beachmas10']
+--> Event packet 147 saved to event_archive/0147_beachmas10.json
+
+[EVENT 148: Executing 'beachmas11']
+--> Event packet 148 saved to event_archive/0148_beachmas11.json
+
+[EVENT 149: Executing 'beachmas12']
+--> Event packet 149 saved to event_archive/0149_beachmas12.json
+
+[EVENT 150: Executing 'amilust35intro']
+--> Event packet 150 saved to event_archive/0150_amilust35intro.json
+
+[EVENT 151: Executing 'beachmas13']
+--> Event packet 151 saved to event_archive/0151_beachmas13.json
+
+[EVENT 152: Executing 'beachmas14']
+--> Event packet 152 saved to event_archive/0152_beachmas14.json
+
+[EVENT 153: Executing 'beachmas15']
+--> Event packet 153 saved to event_archive/0153_beachmas15.json
+
+[EVENT 154: Executing 'beachmas16']
+--> Event packet 154 saved to event_archive/0154_beachmas16.json
+
+[EVENT 155: Executing 'beachmas17']
+--> Event packet 155 saved to event_archive/0155_beachmas17.json
+
+[EVENT 156: Executing 'beachmas18']
+--> Event packet 156 saved to event_archive/0156_beachmas18.json
+
+[EVENT 157: Executing 'beachmas19']
+--> Event packet 157 saved to event_archive/0157_beachmas19.json
+
+[EVENT 158: Executing 'beachmas20']
+--> Event packet 158 saved to event_archive/0158_beachmas20.json
+
+[EVENT 159: Executing 'postbeachmas1']
+--> Event packet 159 saved to event_archive/0159_postbeachmas1.json
+
+[EVENT 160: Executing 'slumberreset1']
+--> Event packet 160 saved to event_archive/0160_slumberreset1.json
+
+[EVENT 161: Executing 'slumberreset2']
+--> Event packet 161 saved to event_archive/0161_slumberreset2.json
+
+[EVENT 162: Executing 'yumislumber1']
+--> Event packet 162 saved to event_archive/0162_yumislumber1.json
+
+[EVENT 163: Executing 'yumislumber2']
+--> Event packet 163 saved to event_archive/0163_yumislumber2.json
+
+[EVENT 164: Executing 'yumislumber3']
+--> Event packet 164 saved to event_archive/0164_yumislumber3.json
+--- Simulation finished after 38 event(s) in this run. ---
+
+[EVENT 165: Executing 'amispecial50mainp2']
+--> Event packet 165 saved to event_archive/0165_amispecial50mainp2.json
+
+[EVENT 166: Executing 'saturdayafternoon']
+--> Event packet 166 saved to event_archive/0166_saturdayafternoon.json
+--- Simulation finished after 2 event(s) in this run. ---
+
+[EVENT 167: Executing 'dormwar10']
+--> Event packet 167 saved to event_archive/0167_dormwar10.json
+--- Simulation finished after 1 event(s) in this run. ---
+
+[EVENT 168: Executing 'makotowinterbeach4']
+--> Event packet 168 saved to event_archive/0168_makotowinterbeach4.json
+
+[EVENT 169: Executing 'saturdayafternoon']
+--> Event packet 169 saved to event_archive/0169_saturdayafternoon.json
+--- Simulation finished after 2 event(s) in this run. ---
+
+[EVENT 170: Executing 'resetsix2']
+--> Event packet 170 saved to event_archive/0170_resetsix2.json
+
+[EVENT 171: Executing 'chikapaper']
+--> Event packet 171 saved to event_archive/0171_chikapaper.json
+--- Simulation finished after 2 event(s) in this run. ---
+
+[EVENT 172: Executing 'bucketscene']
+--> Event packet 172 saved to event_archive/0172_bucketscene.json
+
+[EVENT 173: Executing 'endofweekday']
+--> Event packet 173 saved to event_archive/0173_endofweekday.json
+
+[EVENT 174: Executing 'advancetosat']
+--> Event packet 174 saved to event_archive/0174_advancetosat.json
+
+[EVENT 175: Executing 'saturdaymorning']
+--> Event packet 175 saved to event_archive/0175_saturdaymorning.json
+
+[EVENT 176: Executing 'day220']
+--> Event packet 176 saved to event_archive/0176_day220.json
+
+[EVENT 177: Executing 'coolrectanglemachine']
+--> Event packet 177 saved to event_archive/0177_coolrectanglemachine.json
+--- Simulation finished after 6 event(s) in this run. ---
+
+[EVENT 178: Executing 'saralust10']
+--> Event packet 178 saved to event_archive/0178_saralust10.json
+
+[EVENT 179: Executing 'halloween8']
+--> Event packet 179 saved to event_archive/0179_halloween8.json
+--- Simulation finished after 2 event(s) in this run. ---
+
+[EVENT 180: Executing 'ayaneinvite1']
+--> Event packet 180 saved to event_archive/0180_ayaneinvite1.json
+
+[EVENT 181: Executing 'endofweekday']
+--> Event packet 181 saved to event_archive/0181_endofweekday.json
+
+[EVENT 182: Executing 'advancetosat']
+--> Event packet 182 saved to event_archive/0182_advancetosat.json
+
+[EVENT 183: Executing 'saturdaymorning']
+--> Event packet 183 saved to event_archive/0183_saturdaymorning.json
+
+[EVENT 184: Executing 'day220']
+--> Event packet 184 saved to event_archive/0184_day220.json
+
+[EVENT 185: Executing 'coolrectanglemachine']
+--> Event packet 185 saved to event_archive/0185_coolrectanglemachine.json
+--- Simulation finished after 6 event(s) in this run. ---
+
+[EVENT 186: Executing 'ayaneinvite2']
+--> Event packet 186 saved to event_archive/0186_ayaneinvite2.json
+
+[EVENT 187: Executing 'endofweekday']
+--> Event packet 187 saved to event_archive/0187_endofweekday.json
+
+[EVENT 188: Executing 'advancetosat']
+--> Event packet 188 saved to event_archive/0188_advancetosat.json
+
+[EVENT 189: Executing 'saturdaymorning']
+--> Event packet 189 saved to event_archive/0189_saturdaymorning.json
+
+[EVENT 190: Executing 'day220']
+--> Event packet 190 saved to event_archive/0190_day220.json
+
+[EVENT 191: Executing 'coolrectanglemachine']
+--> Event packet 191 saved to event_archive/0191_coolrectanglemachine.json
+--- Simulation finished after 6 event(s) in this run. ---
+
+[EVENT 192: Executing 'amiinvite1']
+--> Event packet 192 saved to event_archive/0192_amiinvite1.json
+
+[EVENT 193: Executing 'endofweekday']
+--> Event packet 193 saved to event_archive/0193_endofweekday.json
+
+[EVENT 194: Executing 'advancetosat']
+--> Event packet 194 saved to event_archive/0194_advancetosat.json
+
+[EVENT 195: Executing 'saturdaymorning']
+--> Event packet 195 saved to event_archive/0195_saturdaymorning.json
+
+[EVENT 196: Executing 'day220']
+--> Event packet 196 saved to event_archive/0196_day220.json
+
+[EVENT 197: Executing 'coolrectanglemachine']
+--> Event packet 197 saved to event_archive/0197_coolrectanglemachine.json
+--- Simulation finished after 6 event(s) in this run. ---
+
+[EVENT 198: Executing 'amiinvite2']
+--> Event packet 198 saved to event_archive/0198_amiinvite2.json
+
+[EVENT 199: Executing 'endofweekday']
+--> Event packet 199 saved to event_archive/0199_endofweekday.json
+
+[EVENT 200: Executing 'advancetosat']
+--> Event packet 200 saved to event_archive/0200_advancetosat.json
+
+[EVENT 201: Executing 'saturdaymorning']
+--> Event packet 201 saved to event_archive/0201_saturdaymorning.json
+
+[EVENT 202: Executing 'day220']
+--> Event packet 202 saved to event_archive/0202_day220.json
+
+[EVENT 203: Executing 'coolrectanglemachine']
+--> Event packet 203 saved to event_archive/0203_coolrectanglemachine.json
+--- Simulation finished after 6 event(s) in this run. ---
+
+[EVENT 204: Executing 'futabainvite1']
+--> Event packet 204 saved to event_archive/0204_futabainvite1.json
+
+[EVENT 205: Executing 'endofweekday']
+--> Event packet 205 saved to event_archive/0205_endofweekday.json
+
+[EVENT 206: Executing 'advancetosat']
+--> Event packet 206 saved to event_archive/0206_advancetosat.json
+
+[EVENT 207: Executing 'saturdaymorning']
+--> Event packet 207 saved to event_archive/0207_saturdaymorning.json
+
+[EVENT 208: Executing 'day220']
+--> Event packet 208 saved to event_archive/0208_day220.json
+
+[EVENT 209: Executing 'coolrectanglemachine']
+--> Event packet 209 saved to event_archive/0209_coolrectanglemachine.json
+--- Simulation finished after 6 event(s) in this run. ---
+
+[EVENT 210: Executing 'futabainvite2']
+--> Event packet 210 saved to event_archive/0210_futabainvite2.json
+
+[EVENT 211: Executing 'endofweekday']
+--> Event packet 211 saved to event_archive/0211_endofweekday.json
+
+[EVENT 212: Executing 'advancetosat']
+--> Event packet 212 saved to event_archive/0212_advancetosat.json
+
+[EVENT 213: Executing 'saturdaymorning']
+--> Event packet 213 saved to event_archive/0213_saturdaymorning.json
+
+[EVENT 214: Executing 'day220']
+--> Event packet 214 saved to event_archive/0214_day220.json
+
+[EVENT 215: Executing 'coolrectanglemachine']
+--> Event packet 215 saved to event_archive/0215_coolrectanglemachine.json
+--- Simulation finished after 6 event(s) in this run. ---
+
+[EVENT 216: Executing 'harukainvite1']
+--> Event packet 216 saved to event_archive/0216_harukainvite1.json
+
+[EVENT 217: Executing 'endofweekday']
+--> Event packet 217 saved to event_archive/0217_endofweekday.json
+
+[EVENT 218: Executing 'advancetosat']
+--> Event packet 218 saved to event_archive/0218_advancetosat.json
+
+[EVENT 219: Executing 'saturdaymorning']
+--> Event packet 219 saved to event_archive/0219_saturdaymorning.json
+
+[EVENT 220: Executing 'day220']
+--> Event packet 220 saved to event_archive/0220_day220.json
+
+[EVENT 221: Executing 'coolrectanglemachine']
+--> Event packet 221 saved to event_archive/0221_coolrectanglemachine.json
+--- Simulation finished after 6 event(s) in this run. ---
+
+[EVENT 222: Executing 'harukainvite2']
+--> Event packet 222 saved to event_archive/0222_harukainvite2.json
+
+[EVENT 223: Executing 'endofweekday']
+--> Event packet 223 saved to event_archive/0223_endofweekday.json
+
+[EVENT 224: Executing 'advancetosat']
+--> Event packet 224 saved to event_archive/0224_advancetosat.json
+
+[EVENT 225: Executing 'saturdaymorning']
+--> Event packet 225 saved to event_archive/0225_saturdaymorning.json
+
+[EVENT 226: Executing 'day220']
+--> Event packet 226 saved to event_archive/0226_day220.json
+
+[EVENT 227: Executing 'coolrectanglemachine']
+--> Event packet 227 saved to event_archive/0227_coolrectanglemachine.json
+--- Simulation finished after 6 event(s) in this run. ---
+
+[EVENT 228: Executing 'kirininvite1']
+--> Event packet 228 saved to event_archive/0228_kirininvite1.json
+
+[EVENT 229: Executing 'endofsat']
+--> Event packet 229 saved to event_archive/0229_endofsat.json
+
+[EVENT 230: Executing 'advancetomon']
+--> Event packet 230 saved to event_archive/0230_advancetomon.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 231: Executing 'kirininvite2']
+--> Event packet 231 saved to event_archive/0231_kirininvite2.json
+
+[EVENT 232: Executing 'endofweekday']
+--> Event packet 232 saved to event_archive/0232_endofweekday.json
+
+[EVENT 233: Executing 'advancetosat']
+--> Event packet 233 saved to event_archive/0233_advancetosat.json
+
+[EVENT 234: Executing 'saturdaymorning']
+--> Event packet 234 saved to event_archive/0234_saturdaymorning.json
+
+[EVENT 235: Executing 'day220']
+--> Event packet 235 saved to event_archive/0235_day220.json
+
+[EVENT 236: Executing 'coolrectanglemachine']
+--> Event packet 236 saved to event_archive/0236_coolrectanglemachine.json
+--- Simulation finished after 6 event(s) in this run. ---
+
+[EVENT 237: Executing 'makiinvite1']
+--> Event packet 237 saved to event_archive/0237_makiinvite1.json
+
+[EVENT 238: Executing 'endofsat']
+--> Event packet 238 saved to event_archive/0238_endofsat.json
+
+[EVENT 239: Executing 'advancetomon']
+--> Event packet 239 saved to event_archive/0239_advancetomon.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 240: Executing 'makiinvite2']
+--> Event packet 240 saved to event_archive/0240_makiinvite2.json
+
+[EVENT 241: Executing 'endofsat']
+--> Event packet 241 saved to event_archive/0241_endofsat.json
+
+[EVENT 242: Executing 'advancetomon']
+--> Event packet 242 saved to event_archive/0242_advancetomon.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 243: Executing 'makotoinvite1']
+--> Event packet 243 saved to event_archive/0243_makotoinvite1.json
+
+[EVENT 244: Executing 'endofsat']
+--> Event packet 244 saved to event_archive/0244_endofsat.json
+
+[EVENT 245: Executing 'advancetomon']
+--> Event packet 245 saved to event_archive/0245_advancetomon.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 246: Executing 'makotoinvite2']
+--> Event packet 246 saved to event_archive/0246_makotoinvite2.json
+
+[EVENT 247: Executing 'endofsat']
+--> Event packet 247 saved to event_archive/0247_endofsat.json
+
+[EVENT 248: Executing 'advancetomon']
+--> Event packet 248 saved to event_archive/0248_advancetomon.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 249: Executing 'mikuinvite1']
+--> Event packet 249 saved to event_archive/0249_mikuinvite1.json
+
+[EVENT 250: Executing 'endofweekday']
+--> Event packet 250 saved to event_archive/0250_endofweekday.json
+
+[EVENT 251: Executing 'advancetosat']
+--> Event packet 251 saved to event_archive/0251_advancetosat.json
+
+[EVENT 252: Executing 'saturdaymorning']
+--> Event packet 252 saved to event_archive/0252_saturdaymorning.json
+
+[EVENT 253: Executing 'day220']
+--> Event packet 253 saved to event_archive/0253_day220.json
+
+[EVENT 254: Executing 'coolrectanglemachine']
+--> Event packet 254 saved to event_archive/0254_coolrectanglemachine.json
+--- Simulation finished after 6 event(s) in this run. ---
+
+[EVENT 255: Executing 'mikuinvite2']
+--> Event packet 255 saved to event_archive/0255_mikuinvite2.json
+
+[EVENT 256: Executing 'endofweekday']
+--> Event packet 256 saved to event_archive/0256_endofweekday.json
+
+[EVENT 257: Executing 'advancetosat']
+--> Event packet 257 saved to event_archive/0257_advancetosat.json
+
+[EVENT 258: Executing 'saturdaymorning']
+--> Event packet 258 saved to event_archive/0258_saturdaymorning.json
+
+[EVENT 259: Executing 'day220']
+--> Event packet 259 saved to event_archive/0259_day220.json
+
+[EVENT 260: Executing 'coolrectanglemachine']
+--> Event packet 260 saved to event_archive/0260_coolrectanglemachine.json
+--- Simulation finished after 6 event(s) in this run. ---
+
+[EVENT 261: Executing 'mollyinvite1']
+--> Event packet 261 saved to event_archive/0261_mollyinvite1.json
+
+[EVENT 262: Executing 'endofweekdaych4']
+--> Event packet 262 saved to event_archive/0262_endofweekdaych4.json
+
+[EVENT 263: Executing 'advancetosatch4']
+--> Event packet 263 saved to event_archive/0263_advancetosatch4.json
+
+[EVENT 264: Executing 'morningch4']
+--> Event packet 264 saved to event_archive/0264_morningch4.json
+--- Simulation finished after 4 event(s) in this run. ---
+
+[EVENT 265: Executing 'mollyinvite2']
+--> Event packet 265 saved to event_archive/0265_mollyinvite2.json
+
+[EVENT 266: Executing 'endofweekdaych4']
+--> Event packet 266 saved to event_archive/0266_endofweekdaych4.json
+
+[EVENT 267: Executing 'advancetosatch4']
+--> Event packet 267 saved to event_archive/0267_advancetosatch4.json
+
+[EVENT 268: Executing 'morningch4']
+--> Event packet 268 saved to event_archive/0268_morningch4.json
+--- Simulation finished after 4 event(s) in this run. ---
+
+[EVENT 269: Executing 'nikiinvite1']
+--> Event packet 269 saved to event_archive/0269_nikiinvite1.json
+
+[EVENT 270: Executing 'endofweekday']
+--> Event packet 270 saved to event_archive/0270_endofweekday.json
+
+[EVENT 271: Executing 'advancetosat']
+--> Event packet 271 saved to event_archive/0271_advancetosat.json
+
+[EVENT 272: Executing 'saturdaymorning']
+--> Event packet 272 saved to event_archive/0272_saturdaymorning.json
+
+[EVENT 273: Executing 'day220']
+--> Event packet 273 saved to event_archive/0273_day220.json
+
+[EVENT 274: Executing 'coolrectanglemachine']
+--> Event packet 274 saved to event_archive/0274_coolrectanglemachine.json
+--- Simulation finished after 6 event(s) in this run. ---
+
+[EVENT 275: Executing 'nikiinvite2']
+--> Event packet 275 saved to event_archive/0275_nikiinvite2.json
+
+[EVENT 276: Executing 'endofweekday']
+--> Event packet 276 saved to event_archive/0276_endofweekday.json
+
+[EVENT 277: Executing 'advancetosat']
+--> Event packet 277 saved to event_archive/0277_advancetosat.json
+
+[EVENT 278: Executing 'saturdaymorning']
+--> Event packet 278 saved to event_archive/0278_saturdaymorning.json
+
+[EVENT 279: Executing 'day220']
+--> Event packet 279 saved to event_archive/0279_day220.json
+
+[EVENT 280: Executing 'coolrectanglemachine']
+--> Event packet 280 saved to event_archive/0280_coolrectanglemachine.json
+--- Simulation finished after 6 event(s) in this run. ---
+
+[EVENT 281: Executing 'nodokainvite1']
+--> Event packet 281 saved to event_archive/0281_nodokainvite1.json
+
+[EVENT 282: Executing 'nodokainvite2']
+--> Event packet 282 saved to event_archive/0282_nodokainvite2.json
+
+[EVENT 283: Executing 'nodokainvite3']
+--> Event packet 283 saved to event_archive/0283_nodokainvite3.json
+
+[EVENT 284: Executing 'endofweekdaych4']
+--> Event packet 284 saved to event_archive/0284_endofweekdaych4.json
+
+[EVENT 285: Executing 'advancetosatch4']
+--> Event packet 285 saved to event_archive/0285_advancetosatch4.json
+
+[EVENT 286: Executing 'morningch4']
+--> Event packet 286 saved to event_archive/0286_morningch4.json
+--- Simulation finished after 6 event(s) in this run. ---
+
+[EVENT 287: Executing 'sanainvite1']
+--> Event packet 287 saved to event_archive/0287_sanainvite1.json
+
+[EVENT 288: Executing 'sanainvite2']
+--> Event packet 288 saved to event_archive/0288_sanainvite2.json
+
+[EVENT 289: Executing 'advancetomonch4']
+--> Event packet 289 saved to event_archive/0289_advancetomonch4.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 290: Executing 'iospring4']
+--> Event packet 290 saved to event_archive/0290_iospring4.json
+
+[EVENT 291: Executing 'endofweekdaych4']
+--> Event packet 291 saved to event_archive/0291_endofweekdaych4.json
+
+[EVENT 292: Executing 'advancetosatch4']
+--> Event packet 292 saved to event_archive/0292_advancetosatch4.json
+
+[EVENT 293: Executing 'morningch4']
+--> Event packet 293 saved to event_archive/0293_morningch4.json
+--- Simulation finished after 4 event(s) in this run. ---
+
+[EVENT 294: Executing 'iospring5']
+--> Event packet 294 saved to event_archive/0294_iospring5.json
+
+[EVENT 295: Executing 'advancetomonch4']
+--> Event packet 295 saved to event_archive/0295_advancetomonch4.json
+--- Simulation finished after 2 event(s) in this run. ---
+
+[EVENT 296: Executing 'sarainvite1']
+--> Event packet 296 saved to event_archive/0296_sarainvite1.json
+
+[EVENT 297: Executing 'endofsat']
+--> Event packet 297 saved to event_archive/0297_endofsat.json
+
+[EVENT 298: Executing 'advancetomon']
+--> Event packet 298 saved to event_archive/0298_advancetomon.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 299: Executing 'sarainvite2']
+--> Event packet 299 saved to event_archive/0299_sarainvite2.json
+
+[EVENT 300: Executing 'endofsat']
+--> Event packet 300 saved to event_archive/0300_endofsat.json
+
+[EVENT 301: Executing 'advancetomon']
+--> Event packet 301 saved to event_archive/0301_advancetomon.json
+--- Simulation finished after 3 event(s) in this run. ---
+
+[EVENT 302: Executing 'saraspecial30p2']
+--> Event packet 302 saved to event_archive/0302_saraspecial30p2.json
+--- Simulation finished after 1 event(s) in this run. ---
+
+[EVENT 303: Executing 'resetsix4']
+--> Event packet 303 saved to event_archive/0303_resetsix4.json
+
+[EVENT 304: Executing 'chap4int']
+--> Event packet 304 saved to event_archive/0304_chap4int.json
+
+[EVENT 305: Executing 'springtime1']
+--> Event packet 305 saved to event_archive/0305_springtime1.json
+
+[EVENT 306: Executing 'springtime2']
+--> Event packet 306 saved to event_archive/0306_springtime2.json
+
+[EVENT 307: Executing 'springtime3']
+--> Event packet 307 saved to event_archive/0307_springtime3.json
+
+[EVENT 308: Executing 'springtime4']
+--> Event packet 308 saved to event_archive/0308_springtime4.json
+
+[EVENT 309: Executing 'springtime5']
+--> Event packet 309 saved to event_archive/0309_springtime5.json
+
+[EVENT 310: Executing 'amilust60intro']
+--> Event packet 310 saved to event_archive/0310_amilust60intro.json
+
+[EVENT 311: Executing 'springtime6']
+--> Event packet 311 saved to event_archive/0311_springtime6.json
+
+[EVENT 312: Executing 'springtime7']
+--> Event packet 312 saved to event_archive/0312_springtime7.json
+
+[EVENT 313: Executing 'springtime8']
+--> Event packet 313 saved to event_archive/0313_springtime8.json
+
+[EVENT 314: Executing 'springtime9']
+--> Event packet 314 saved to event_archive/0314_springtime9.json
+
+[EVENT 315: Executing 'springtime10']
+--> Event packet 315 saved to event_archive/0315_springtime10.json
+
+[EVENT 316: Executing 'springtime11']
+--> Event packet 316 saved to event_archive/0316_springtime11.json
+
+[EVENT 317: Executing 'springtime12']
+--> Event packet 317 saved to event_archive/0317_springtime12.json
+
+[EVENT 318: Executing 'springtime13']
+--> Event packet 318 saved to event_archive/0318_springtime13.json
+
+[EVENT 319: Executing 'springtime14']
+--> Event packet 319 saved to event_archive/0319_springtime14.json
+
+[EVENT 320: Executing 'springtime15']
+--> Event packet 320 saved to event_archive/0320_springtime15.json
+
+[EVENT 321: Executing 'springtime16']
+--> Event packet 321 saved to event_archive/0321_springtime16.json
+
+[EVENT 322: Executing 'springtime17']
+--> Event packet 322 saved to event_archive/0322_springtime17.json
+
+[EVENT 323: Executing 'springtime18']
+--> Event packet 323 saved to event_archive/0323_springtime18.json
+
+[EVENT 324: Executing 'springtime19']
+--> Event packet 324 saved to event_archive/0324_springtime19.json
+
+[EVENT 325: Executing 'springsecondintro']
+--> Event packet 325 saved to event_archive/0325_springsecondintro.json
+
+[EVENT 326: Executing 'springend1']
+--> Event packet 326 saved to event_archive/0326_springend1.json
+
+[EVENT 327: Executing 'springend2']
+--> Event packet 327 saved to event_archive/0327_springend2.json
+
+[EVENT 328: Executing 'ayanespring1']
+--> Event packet 328 saved to event_archive/0328_ayanespring1.json
+
+[EVENT 329: Executing 'springend3']
+--> Event packet 329 saved to event_archive/0329_springend3.json
+
+[EVENT 330: Executing 'springend4']
+--> Event packet 330 saved to event_archive/0330_springend4.json
+
+[EVENT 331: Executing 'springend5']
+--> Event packet 331 saved to event_archive/0331_springend5.json
+
+[EVENT 332: Executing 'chikaspring1']
+--> Event packet 332 saved to event_archive/0332_chikaspring1.json
+
+[EVENT 333: Executing 'rinspring1']
+--> Event packet 333 saved to event_archive/0333_rinspring1.json
+
+[EVENT 334: Executing 'sanaspring1']
+--> Event packet 334 saved to event_archive/0334_sanaspring1.json
+
+[EVENT 335: Executing 'sanaspring2']
+--> Event packet 335 saved to event_archive/0335_sanaspring2.json
+
+[EVENT 336: Executing 'sanaspring3']
+--> Event packet 336 saved to event_archive/0336_sanaspring3.json
+
+[EVENT 337: Executing 'chikaspring2']
+--> Event packet 337 saved to event_archive/0337_chikaspring2.json
+
+[EVENT 338: Executing 'chinamispring1']
+--> Event packet 338 saved to event_archive/0338_chinamispring1.json
+
+[EVENT 339: Executing 'chinamispring2']
+--> Event packet 339 saved to event_archive/0339_chinamispring2.json
+
+[EVENT 340: Executing 'amispring1']
+--> Event packet 340 saved to event_archive/0340_amispring1.json
+
+[EVENT 341: Executing 'dellaslump']
+--> Event packet 341 saved to event_archive/0341_dellaslump.json
+--- Simulation finished after 39 event(s) in this run. ---
+
+[EVENT 342: Executing 'norikoinvite1']
+--> Event packet 342 saved to event_archive/0342_norikoinvite1.json
+
+[EVENT 343: Executing 'norikoinvite2']
+--> Event packet 343 saved to event_archive/0343_norikoinvite2.json
+
+[EVENT 344: Executing 'endofweekday']
+--> Event packet 344 saved to event_archive/0344_endofweekday.json
+
+[EVENT 345: Executing 'advancetothurs']
+--> Event packet 345 saved to event_archive/0345_advancetothurs.json
+--- Simulation finished after 4 event(s) in this run. ---

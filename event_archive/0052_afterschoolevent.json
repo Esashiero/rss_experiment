@@ -1,0 +1,11 @@
+{
+  "event_id": 52,
+  "event_label": "afterschoolevent",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "Hmm...I should still be able to fit one more activity in today."
+    }
+  ],
+  "state_changes": {}
+}

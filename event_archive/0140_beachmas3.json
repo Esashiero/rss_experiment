@@ -1,0 +1,600 @@
+{
+  "event_id": 140,
+  "event_label": "beachmas3",
+  "dialogue": [
+    {
+      "character": "Ami",
+      "text": "Oh, good! You\u2019re back. I was just about to stop what I was doing and chase after you for once again talking to my friends without inviting me along."
+    },
+    {
+      "character": "Ayane",
+      "text": "We were just having another...emergency meeting to plan your next birthday party."
+    },
+    {
+      "character": "Ami",
+      "text": "Wow...you guys are really getting the ball rolling early this time, aren\u2019t you?"
+    },
+    {
+      "character": "narrator",
+      "text": "Ayane and I make our way back to the rest of the girls while Maya ventures off to do...Maya stuff. "
+    },
+    {
+      "character": "narrator",
+      "text": "But considering the fact that none of them greeted either of us with concern or confusion tells me that, in our recent \u201cabsence,\u201d things have stayed at least somewhat normal."
+    },
+    {
+      "character": "narrator",
+      "text": "And that is something I can say with confidence given just how many \u201cSensei, are you okay?\u201ds I have gotten succeeding my {i}blackouts{/i} over the past couple years."
+    },
+    {
+      "character": "narrator",
+      "text": "But now comes that hard part \u2014 figuring out exactly how much we missed and what may have happened within that time."
+    },
+    {
+      "character": "Ayane",
+      "text": "So, Halloween. Am I right?"
+    },
+    {
+      "character": "narrator",
+      "text": "Okay. Or Ayane\u2019s just going to get right to work with the completely normal and not at all suspicious beach conversation topic of a holiday that may or may not have just happened."
+    },
+    {
+      "character": "Molly",
+      "text": "No, I don\u2019t believe you are."
+    },
+    {
+      "character": "Ami",
+      "text": "First my birthday, now Halloween? Why are you acting like you\u2019ve gone back in time all of a sudden?"
+    },
+    {
+      "character": "Ami",
+      "text": "If this is another inside joke you guys have thought up while I wasn\u2019t around, I\u2019m-"
+    },
+    {
+      "character": "Ayane",
+      "text": "Oh, no. Just...thought I\u2019d break the ice. "
+    },
+    {
+      "character": "Sensei",
+      "text": "Maybe break the ice with something a little more relevant and {i}natural{/i} next time."
+    },
+    {
+      "character": "Ayane",
+      "text": "My bad! Just...can\u2019t wait for whatever the next holiday is! Which could really be {i}anything{/i} with how many lesser-known, weirdly specific holidays there are nowadays."
+    },
+    {
+      "character": "Molly",
+      "text": "Have you been microwaving any bananas lately? Are there secret government agencies on your trail? Because I can help you. I just need to know {i}how.{/i}"
+    },
+    {
+      "character": "Ami",
+      "text": "At least you\u2019re acting normal, Sensei. Sudden and suspicious disappearances become a lot {i}more{/i} suspicious when {i}both{/i} people who disappeared are suddenly acting...you know. Suspicious."
+    },
+    {
+      "character": "Sana",
+      "text": "Didn\u2019t...um..."
+    },
+    {
+      "character": "Sana",
+      "text": "Wasn\u2019t...Maya...with you as well?"
+    },
+    {
+      "character": "Ami",
+      "text": "Hey, yeah. Where\u2019d Maya go? They just opened some new stalls further down the beach and we were supposed to go buy some stuff for tonight. "
+    },
+    {
+      "character": "Sensei",
+      "text": "Beats me. She\u2019s probably off preparing for the date we\u2019re going on later."
+    },
+    {
+      "character": "Molly",
+      "text": "Pardon me for asking, Sir- but did you perhaps finish the rest of our routes and then proceed to erase our recollection of them? Because I always assumed the Maya route would be the last to unlock."
+    },
+    {
+      "character": "Ami",
+      "text": "There will be no Maya route. Or a Molly route. Or a Sana route or an Ayane route. Or any route other than an Ami route. "
+    },
+    {
+      "character": "Ami",
+      "text": "I am the only heroine Sensei needs and he is smart enough to never choose anyone else. Isn\u2019t that right, Sensei?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Sure."
+    },
+    {
+      "character": "Ami",
+      "text": "See? I\u2019m the only one good enough for him and that\u2019s how things will always be forever and ever and ever and-"
+    },
+    {
+      "character": "Molly",
+      "text": "I suppose there are worse choices to be made. I\u2019m no stranger to gunning it for the incest route if the heroine is likable. And Ami seems like good heroine material at the end of the day."
+    },
+    {
+      "character": "Sana",
+      "text": "Uh...how about we...don\u2019t talk about...weird things like that? "
+    },
+    {
+      "character": "Ami",
+      "text": "Is it really {i}weird,{/i} though? Because I don\u2019t see how it\u2019s any different from a more standard kind of-"
+    },
+    {
+      "character": "Sensei",
+      "text": "Ami, stop it."
+    },
+    {
+      "character": "Sensei",
+      "text": "People are going to start saying things. "
+    },
+    {
+      "character": "Ami",
+      "text": "Oh no. Whatever would we do if that were to happen?"
+    },
+    {
+      "character": "Ayane",
+      "text": "G...Getting things back on track, would anyone happen to remember what day it is?"
+    },
+    {
+      "character": "Molly",
+      "text": "What track are you even on exactly? Because your entire appearance today has made it sound like you\u2019re playing Crash Team Racing while the rest of us are cruising down Rainbow Road."
+    },
+    {
+      "character": "Ami",
+      "text": "Hm? It\u2019s Monday."
+    },
+    {
+      "character": "Ayane",
+      "text": "If it\u2019s Monday...why aren\u2019t we in school? "
+    },
+    {
+      "character": "Sensei",
+      "text": "What part of this is {i}natural{/i} to you?"
+    },
+    {
+      "character": "Molly",
+      "text": "I\u2019ve got it! You {i}have{/i} completed Ayane\u2019s route! "
+    },
+    {
+      "character": "Molly",
+      "text": "And the only reason she\u2019s acting so strangely today is because her memories are slowly leaking back into her due to the sheer power of her love for you! "
+    },
+    {
+      "character": "Molly",
+      "text": "There\u2019s no need to tell me I\u2019m right. I already know I am."
+    },
+    {
+      "character": "Sensei",
+      "text": "You\u2019re not. But strangely enough, I\u2019m not really 100%% confident in saying that."
+    },
+    {
+      "character": "Ami",
+      "text": "Uhh...we\u2019re not in school because we\u2019re on Winter break, obviously."
+    },
+    {
+      "character": "Ayane",
+      "text": "How is that obvious?! We\u2019re at the beach and it\u2019s gotta be like...ninety-five degrees!"
+    },
+    {
+      "character": "Molly",
+      "text": "Why are you using Fahrenheit? We live in Japan."
+    },
+    {
+      "character": "Ami",
+      "text": "It\u2019s obvious because the calendar says it\u2019s winter, so it\u2019s obviously winter. I don\u2019t see why you have to be so weird about it."
+    },
+    {
+      "character": "Ami",
+      "text": "Plus, even if it {i}wasn\u2019t{/i} winter, we\u2019d still have off for Christmas tomorrow. "
+    },
+    {
+      "character": "Ayane",
+      "text": "C...Christmas is tomorrow?!"
+    },
+    {
+      "character": "Sensei",
+      "text": "I guess I\u2019ll be the one to just slip in the fact that Christmas is always in winter and that what Ami said just now didn\u2019t really make any sense."
+    },
+    {
+      "character": "Molly",
+      "text": "Should we maybe take the bubble wrap princess back to the inn? I\u2019m worried that she may hurt herself in her confusion."
+    },
+    {
+      "character": "Sana",
+      "text": "I...can go back with you if you want..."
+    },
+    {
+      "character": "Sana",
+      "text": "I\u2019m...kind of...hot out here anyway..."
+    },
+    {
+      "character": "Molly",
+      "text": "You certainly are in that swimsuit. I mean what? I didn\u2019t say anything."
+    },
+    {
+      "character": "Sana",
+      "text": "And I...didn\u2019t {i}hear{/i} anything..."
+    },
+    {
+      "character": "Ayane",
+      "text": "No...I\u2019m...I\u2019m good. I just didn\u2019t really sleep that well, I guess. So sorry if I wind up periodically saying more suspicious-sounding things throughout the day. Which is...apparently Christmas Eve."
+    },
+    {
+      "character": "Ami",
+      "text": "Really? We slept in the same bed and I don't remember you waking up even once. But, then again, it wouldn\u2019t be the first time you snuck out of bed without me realizing it."
+    },
+    {
+      "character": "Ayane",
+      "text": "Uhh...one last question. If tomorrow is Christmas, how come we\u2019re at the beach {i}now?{/i} "
+    },
+    {
+      "character": "Ayane",
+      "text": "Don\u2019t we normally hang out at that hotel in the urban district for Christmas? And...don\u2019t we normally come to the beach {i}before{/i} Halloween?"
+    },
+    {
+      "character": "Ami",
+      "text": "Do we? I don\u2019t know. Things seemed pretty normal to me. "
+    },
+    {
+      "character": "Ami",
+      "text": "The only complaint I have is that we still don\u2019t know what the grand prize from the Dorm Wars is apart from the fact that it\u2019s just Sensei."
+    },
+    {
+      "character": "Sensei",
+      "text": "Am I not just rooming with the winning floor again?"
+    },
+    {
+      "character": "Ami",
+      "text": "No. Imani didn\u2019t like that idea and she said you should just stay with her instead."
+    },
+    {
+      "character": "Sensei",
+      "text": "Okay. And where is Imani being forced to sleep after you all joined hands and rejected that suggestion together?"
+    },
+    {
+      "character": "Ami",
+      "text": "Our room. Tied up in the corner."
+    },
+    {
+      "character": "Sensei",
+      "text": "Oh well. Safer your room than the one Kirin is in, I guess."
+    },
+    {
+      "character": "Sensei",
+      "text": "How does that affect the Christmas party, though? If we\u2019re still having one, that is."
+    },
+    {
+      "character": "Ami",
+      "text": "I told you earlier, didn\u2019t I? That\u2019s going to be in our room as well. All the fun stuff is happening in the first floor's room since it\u2019s bigger."
+    },
+    {
+      "character": "Ami",
+      "text": "And also because we\u2019re the superior floor that loves you more. "
+    },
+    {
+      "character": "narrator",
+      "text": "Well...I guess that solves the \u201c{i}Where are we in time?{/i}\u201d question."
+    },
+    {
+      "character": "narrator",
+      "text": "But if nearly a full two months have passed since the ending of the Dorm Wars...just what {i}else{/i} has happened within that time?"
+    },
+    {
+      "character": "narrator",
+      "text": "And, better question, what happened between {i}Yumi{/i} and me? Because I was talking to her when the sudden transition came and..."
+    },
+    {
+      "character": "narrator",
+      "text": "And if the way she looked is any indicator of how that must have gone from her perspective, there\u2019s no doubt she\u2019d be confused."
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I should...probably go and find her."
+    },
+    {
+      "character": "Sensei",
+      "text": "Uhh...have any of you seen Yumi, by any chance?"
+    },
+    {
+      "character": "Ami",
+      "text": "Was being with her all morning not enough?"
+    },
+    {
+      "character": "Sensei",
+      "text": "What?"
+    },
+    {
+      "character": "Molly",
+      "text": "I believe Arborea is referring to the mass amount of affection points you have been grinding with her lately."
+    },
+    {
+      "character": "Sana",
+      "text": "It\u2019s true that you...have been spending more time with her than normal lately..."
+    },
+    {
+      "character": "narrator",
+      "text": "Ayane and I exchange a glance of mutual confusion as to what this must mean, but it doesn\u2019t detract from the fact that I need to see her {i}now{/i} to clear all of that up."
+    },
+    {
+      "character": "Sensei",
+      "text": "I-"
+    },
+    {
+      "character": "Ami",
+      "text": "No one\u2019s seen her since you scared her off a little while ago. And I wouldn\u2019t bother chasing after her if I were you."
+    },
+    {
+      "character": "Sensei",
+      "text": "Well, you\u2019re {i}not{/i} me. And I\u2019m free to chase whoever I want to chase after."
+    },
+    {
+      "character": "Ami",
+      "text": "Hey, don\u2019t be mean! I\u2019m only saying that because you\u2019ve seemed really exhausted lately and I worry about you."
+    },
+    {
+      "character": "Ami",
+      "text": "I know it\u2019s {i}my{/i} job to take care of you, but if you don\u2019t start taking {i}some{/i} sort of care of yourself,  you\u2019ll wind up-"
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah...I know. I just-"
+    },
+    {
+      "character": "Ami",
+      "text": "..."
+    },
+    {
+      "character": "Sana",
+      "text": "..."
+    },
+    {
+      "character": "Molly",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019ll see you guys later on..."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Touka",
+      "text": "Yasu, please be careful. You know I don\u2019t like it when you go in the water without your floaties."
+    },
+    {
+      "character": "Touka",
+      "text": "It was hard enough getting you to stop nearly drowning yourself in the bathtub and the last thing I want to spend this holiday season doing is planning a funeral for a body lost at sea."
+    },
+    {
+      "character": "Makoto",
+      "text": "Hey, let\u2019s not bring up funerals."
+    },
+    {
+      "character": "Touka",
+      "text": "Oh my! I\u2019m so terribly sorry, Makoto. It simply slipped my mind and I will do my best to make sure it doesn\u2019t happen again."
+    },
+    {
+      "character": "Makoto",
+      "text": "It\u2019s whatever."
+    },
+    {
+      "character": "Makoto",
+      "text": "Dwelling on it won\u2019t help me move on at all but, at the same time, hearing anything that {i}reminds{/i} me of it just makes me feel like shit again."
+    },
+    {
+      "character": "Makoto",
+      "text": "How fun and exciting it is to have a never-ending connection to misery that I can, in no way, learn how to subvert or move past. Yippee. "
+    },
+    {
+      "character": "Touka",
+      "text": "I will not attempt to understand what you\u2019re going through, but I\u2019m certain that your pain is not \u201cnever-ending.\u201d"
+    },
+    {
+      "character": "Makoto",
+      "text": "Yeah, it seems like everybody is sure of that but me. "
+    },
+    {
+      "character": "Makoto",
+      "text": "It\u2019s weird. I always figured Makoto 2.0 would be more fun and outgoing and...less of a bitch. "
+    },
+    {
+      "character": "Makoto",
+      "text": "But if anything, I\u2019ve just turned into a fatalistic version of myself who struggles even caring about all of the things she used to throw herself at every single day."
+    },
+    {
+      "character": "Touka",
+      "text": "Trauma works in mysteriously terrible ways, I\u2019m afraid. "
+    },
+    {
+      "character": "Touka",
+      "text": "But, Makoto...you\u2019re wrong in referring to this stage of your life as a new you. "
+    },
+    {
+      "character": "Touka",
+      "text": "We are but a sum of the experiences we have and the hardships we endure. And I\u2019m positive that many years from now, you\u2019ll look back on this time and accept it as something that made you {i}you.{/i}"
+    },
+    {
+      "character": "Makoto",
+      "text": "Thanks. I hope you\u2019re right. I just can\u2019t really see things like that right now, I guess."
+    },
+    {
+      "character": "Touka",
+      "text": "And that\u2019s fine. All good things take time."
+    },
+    {
+      "character": "Touka",
+      "text": "Besides, there are plenty of people who would be happy to lend you a hand if you ever desire to reach out for one."
+    },
+    {
+      "character": "Makoto",
+      "text": "There are three. Miku, my mom, and Sensei. And more often than not, Sensei winds up making everything worse."
+    },
+    {
+      "character": "Touka",
+      "text": "You know he\u2019s not trying to, though."
+    },
+    {
+      "character": "Makoto",
+      "text": "I know. "
+    },
+    {
+      "character": "Touka",
+      "text": "Also, there\u2019s a fourth person right beside you. "
+    },
+    {
+      "character": "Makoto",
+      "text": "Thanks again, but you don\u2019t actually mean that. You\u2019re just saying it out of pity and obligation because you feel bad for the girl with the dead dad."
+    },
+    {
+      "character": "Touka",
+      "text": "That\u2019s not true at all. In fact, I\u2019ve always admired what you do for the class. "
+    },
+    {
+      "character": "Touka",
+      "text": "And if it weren\u2019t for the worksheets you would make me when I first transferred in, I can\u2019t say I\u2019d even {i}be{/i} here right now."
+    },
+    {
+      "character": "Touka",
+      "text": "But I\u2019m happy I am. Which means that part of that happiness should belong to you as well. "
+    },
+    {
+      "character": "Touka",
+      "text": "You\u2019ve not only earned it, but {i}need{/i} it more than anyone right now."
+    },
+    {
+      "character": "Makoto",
+      "text": "That\u2019s..."
+    },
+    {
+      "character": "Makoto",
+      "text": "That\u2019s actually one of the nicest things anyone has ever said to me."
+    },
+    {
+      "character": "Touka",
+      "text": "If that is true...that is very sad."
+    },
+    {
+      "character": "Makoto",
+      "text": "It really is, isn\u2019t it?"
+    },
+    {
+      "character": "Touka",
+      "text": "Makoto...forgive me if this is too forward. Or if this is not how the process normally goes as I\u2019m still mostly unfamiliar with it-"
+    },
+    {
+      "character": "Touka",
+      "text": "But I\u2019d very much like to be friends with you if that is something you\u2019d have any interest in."
+    },
+    {
+      "character": "Makoto",
+      "text": "I\u2019m also not that familiar with the process...but I\u2019d like that too."
+    },
+    {
+      "character": "Makoto",
+      "text": "It\u2019s a breath of fresh air talking to someone who I don\u2019t feel like I\u2019m {i}responsible{/i} for in some way."
+    },
+    {
+      "character": "Touka",
+      "text": "That does sound tiring, yes. And also dissuades me from burdening you with the plea for advice I was just moments away from requesting."
+    },
+    {
+      "character": "Makoto",
+      "text": "Is it about the present you got for Sensei? The one you told me about earlier? "
+    },
+    {
+      "character": "Touka",
+      "text": "It is. "
+    },
+    {
+      "character": "Touka",
+      "text": "Seeing as you returned last year\u2019s present to me, I was wondering if I had perhaps gone a bit...overboard as well this year."
+    },
+    {
+      "character": "Makoto",
+      "text": "Do you want my honest answer? As a friend?"
+    },
+    {
+      "character": "Touka",
+      "text": "If you\u2019d be so inclined."
+    },
+    {
+      "character": "Makoto",
+      "text": "I think you\u2019re fucking insane."
+    },
+    {
+      "character": "Touka",
+      "text": "Hah...that\u2019s what I was worried about."
+    },
+    {
+      "character": "Touka",
+      "text": "Gift-giving truly is my weakest point, I suppose."
+    },
+    {
+      "character": "Touka",
+      "text": "The thought that went into it, though-"
+    },
+    {
+      "character": "Makoto",
+      "text": "I\u2019m sure the thought is great, yeah. "
+    },
+    {
+      "character": "Makoto",
+      "text": "I just don\u2019t really think you understand quite {i}what{/i} you\u2019ve done yet."
+    },
+    {
+      "character": "Touka",
+      "text": "Should I maybe exchange it for something else?"
+    },
+    {
+      "character": "Makoto",
+      "text": "Is that even possible?"
+    },
+    {
+      "character": "Touka",
+      "text": "Anything is possible when you are as wealthy as I am."
+    },
+    {
+      "character": "Makoto",
+      "text": "I\u2019ll leave that up to you, then."
+    },
+    {
+      "character": "Makoto",
+      "text": "I just..."
+    },
+    {
+      "character": "Makoto",
+      "text": "I probably wouldn\u2019t tell anyone else about it if I were you..."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "beachmas3": {
+      "from": null,
+      "to": true
+    }
+  }
+}

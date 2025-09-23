@@ -1,0 +1,620 @@
+{
+  "event_id": 261,
+  "event_label": "mollyinvite1",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "I tap on Molly\u2019s name in my phone and wait for her to answer."
+    },
+    {
+      "character": "narrator",
+      "text": "And I do this knowing that at least Ami is going to be present today."
+    },
+    {
+      "character": "narrator",
+      "text": "But hey, having her encounter the various girls I invite over to the house is practically tradition at this point."
+    },
+    {
+      "character": "narrator",
+      "text": "And while it very well may be a tradition that will ultimately wind up with someone dying, it\u2019s a tradition nonetheless."
+    },
+    {
+      "character": "narrator",
+      "text": "Now please excuse me as I put Molly\u2019s life in jeopardy for at least the second time since I have met her."
+    },
+    {
+      "character": "Molly",
+      "text": "Well met, traveler! \u2018Tis I \u2014 Molly MacCor-"
+    },
+    {
+      "character": "Sensei",
+      "text": "I know who you are, Molly. I needed to tap on your name in order to call you. That is how phones work on planet Earth."
+    },
+    {
+      "character": "Molly",
+      "text": "Aye. \u2018Tis strange to think that once upon a time you\u2019d have needed to pry my name from the clutches of ye olde rolodex. To what do I owe the pleasure though, Sir? Has fair Arborea\u2019s phone departed this mortal coil?"
+    },
+    {
+      "character": "Sensei",
+      "text": "No. I just wanted to hear your voice and remind you that I care for and appreciate you."
+    },
+    {
+      "character": "Molly",
+      "text": "Okay, but what do you really want?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Nothing in particular."
+    },
+    {
+      "character": "Molly",
+      "text": "You want to do ecchi stuff, don\u2019t you?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Sure. So long as you\u2019re fine with Ami joining in."
+    },
+    {
+      "character": "Molly",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Mo-"
+    },
+    {
+      "character": "Molly",
+      "text": "Hold on. I\u2019m deliberating."
+    },
+    {
+      "character": "Sensei",
+      "text": "Molly, I was kidding. I was just wondering if you wanted to come over and do...whatever it is you like to do."
+    },
+    {
+      "character": "Molly",
+      "text": "But...Sir! The things {i}I{/i} like to do only make you want to punt me. It\u2019s why I try to avoid you on Tuesdays as server resets compel me to speak about things you\u2019d never-"
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m bored. Do you want to just watch a movie or something?"
+    },
+    {
+      "character": "Molly",
+      "text": "FFFFFF- This is exactly what I mean! Why lead me on like this?!"
+    },
+    {
+      "character": "Sensei",
+      "text": "The movie thing was a joke. I\u2019m fully prepared to endure whatever sort of nerdy, geeky, and/or otaku stuff you want to force upon me today. I promise."
+    },
+    {
+      "character": "Molly",
+      "text": "But...{i}why?{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "Do you think this is a trap?"
+    },
+    {
+      "character": "Molly",
+      "text": "Yes."
+    },
+    {
+      "character": "Sensei",
+      "text": "Cool. Then be at my place in an hour."
+    },
+    {
+      "character": "Molly",
+      "text": "Sir! I-"
+    },
+    {
+      "character": "narrator",
+      "text": "I hang up the phone and...I know what you\u2019re thinking. \u201cSensei, you\u2019re so manly and cool. What could have possibly compelled you to do such an uncharacteristically lame thing?\u201d"
+    },
+    {
+      "character": "narrator",
+      "text": "Well, the answer to that is simple."
+    },
+    {
+      "character": "narrator",
+      "text": "Molly\u2019s cute and I want to put my penis inside of her."
+    },
+    {
+      "character": "narrator",
+      "text": "And going along with the things she wants to do sometimes feels like the {i}least{/i} I can offer in exchange for the real estate that is her lower body."
+    },
+    {
+      "character": "Ami",
+      "text": "Molly? What are you doing here?"
+    },
+    {
+      "character": "narrator",
+      "text": "Just kidding. I simply want her to be happy."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}I\u2019m not kidding about wanting to put my penis inside of her, though.{/i}"
+    },
+    {
+      "character": "Molly",
+      "text": "Top \u2018o the...evening, Ami! As unexpected and unbelievable as it may sound, the Supreme Overlord has summoned me here to engage in gaming and/or anime and/or cosplay with him!"
+    },
+    {
+      "character": "Ami",
+      "text": "Ha-ha. Now tell me why you\u2019re really here."
+    },
+    {
+      "character": "Sensei",
+      "text": "She\u2019s telling the truth."
+    },
+    {
+      "character": "Ami",
+      "text": "She\u2019s {i}what?{/i}"
+    },
+    {
+      "character": "Molly",
+      "text": "For some reason that I dare not question, the Herald of the Adolescents has seen the light and wishes to learn more about my way of life!"
+    },
+    {
+      "character": "Ami",
+      "text": "I was kind of hoping your midlife crisis would be more along the lines of wanting to cuddle with your daughter all day long...but I guess I can live with this too?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Oh, right. I forget you\u2019re {i}also{/i} uncool sometimes."
+    },
+    {
+      "character": "Ami",
+      "text": "I don\u2019t need to be cool! I\u2019m cute! Teehee!"
+    },
+    {
+      "character": "Molly",
+      "text": "Firstly, there is nothing {i}uncool{/i} about engaging in gaming and/or anime and/or cosplay! That is a dated outlook, Sir. "
+    },
+    {
+      "character": "Molly",
+      "text": "Secondly, however, is there something specific you {i}wanted{/i} to do?"
+    },
+    {
+      "character": "Molly",
+      "text": "Or are we but seconds away from the rug being pulled out from underneath mine legs, leaving me sobbing and wishing for death on the kitchen floor?"
+    },
+    {
+      "character": "Ami",
+      "text": "I mopped today, so at least you\u2019ll die clean."
+    },
+    {
+      "character": "Sensei",
+      "text": "No murder in the house, Ami. And Molly, why don\u2019t we just play that game you girls are always playing together? You seem to enjoy that enough and I\u2019ve shrugged it off in the past, so-"
+    },
+    {
+      "character": "Molly",
+      "text": "Hooooold on! Surely you jest, Sir! One does not simply walk into Mordor. There are preparations that must be made. Stories that must be carefully crafted and...all sorts of other things!"
+    },
+    {
+      "character": "Ami",
+      "text": "Why that, Dad? If you really wanted to learn, you could have just asked me."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m just struggling to think of anything else Molly likes as it all sort of blends into this weird soup of Japanese culture that I\u2019m surprised Molly even knows about."
+    },
+    {
+      "character": "Molly",
+      "text": "Dungeons and Dragons is from the states, Sir. It isn\u2019t Japanese at all."
+    },
+    {
+      "character": "Sensei",
+      "text": "Then maybe I\u2019m just secretly American and want to feel a slice of home again."
+    },
+    {
+      "character": "Ami",
+      "text": "Come to think of it, we {i}are{/i} pretty culturally American in like a million different ways. I wonder why?"
+    },
+    {
+      "character": "Sensei",
+      "text": "No clue. But anyway, let\u2019s play. I may never feel this generous again."
+    },
+    {
+      "character": "Molly",
+      "text": "Sir, we can\u2019t! You don\u2019t even have a character yet!"
+    },
+    {
+      "character": "Ami",
+      "text": "Don\u2019t you have like a trillion premade ones, though? Can\u2019t he just use one of those while you...run some campaign from a book or something?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I could always just {i}make{/i} a character. I can\u2019t imagine it takes very long."
+    },
+    {
+      "character": "Molly",
+      "text": "I can\u2019t even begin to explain how many problems I have with that statement, Sir."
+    },
+    {
+      "character": "Molly",
+      "text": "But it matters not! For character creation is arguably the best part of the experience and one that I\u2019m not inherently inclined to believe you\u2019ll utterly despise!"
+    },
+    {
+      "character": "Ami",
+      "text": "Yay! Everyone wins. Except for my daddy who will probably still kind of despise it."
+    },
+    {
+      "character": "Molly",
+      "text": "I...I\u2019d heard that the relationship between the two of you was leveling up, but...hearing you address the Supreme Overlord in such fashion is...a bit more jarring than I expected."
+    },
+    {
+      "character": "Ami",
+      "text": "Hahah! You should hear how I say it in my dreams."
+    },
+    {
+      "character": "narrator",
+      "text": "So anyway, we\u2019re here now. And I\u2019m only a little bit in over my head."
+    },
+    {
+      "character": "narrator",
+      "text": "It\u2019s a type of drowning I\u2019m prepared for, though. And not just because I\u2019m the one who threw myself off the bridge and into the water, but because it...well, it could be {i}fun.{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "I think I need that \u2014 something to bond with people over that isn\u2019t just...literally hovering over them."
+    },
+    {
+      "character": "narrator",
+      "text": "Frankly, I\u2019ve probably needed something like that for quite some time. I\u2019ve just never been as acutely aware of how true that is until right now due to how quiet it\u2019s become inside of my head."
+    },
+    {
+      "character": "narrator",
+      "text": "But hey, if I\u2019m good enough at this game, maybe Molly will let me borrow one of the voices inside of hers."
+    },
+    {
+      "character": "Molly",
+      "text": "Now! There are several different ways in which we can tackle this, Sir."
+    },
+    {
+      "character": "Molly",
+      "text": "When it comes to crafting a character, there are many questions to be asked. What race do you prefer? Is there a particular class you\u2019re interested in? Where do you come from? What are your goals?"
+    },
+    {
+      "character": "Molly",
+      "text": "And while I don\u2019t expect you to have the answer to all of them right away-"
+    },
+    {
+      "character": "Sensei",
+      "text": "I want to be a bird-man warrior from Tokyo who kills the demon lord."
+    },
+    {
+      "character": "Molly",
+      "text": "Or you have {i}all{/i} of the answers already and they\u2019re {i}all{/i} incorrect. I don\u2019t know why I expected any less."
+    },
+    {
+      "character": "Ami",
+      "text": "Maya plays a bird-man. {i}That\u2019s{/i} not why you\u2019re suddenly interested in this game, is it?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Just one of many unfortunate coincidences that involve the two of us. Just tell yourself I\u2019m learning so I can be closer to my daughter."
+    },
+    {
+      "character": "Ami",
+      "text": "Easy! That\u2019s already how I rationalize practically everything."
+    },
+    {
+      "character": "Molly",
+      "text": "Sir, if you\u2019re serious about being an Aarakocra, which is the D&D equivalent of \u201cbird people,\u201d I\u2019ll mark it down. "
+    },
+    {
+      "character": "Molly",
+      "text": "I\u2019d urge you to at least {i}look{/i} at the other options first though, so you can be sure that what you\u2019re choosing is right for you."
+    },
+    {
+      "character": "Sensei",
+      "text": "Well, what other options are there? I didn\u2019t even realize being a bird-person was possible. I was just naming stuff."
+    },
+    {
+      "character": "Molly",
+      "text": "Oof. Where do I even begin? In terms of traditional fantasy that normies like you would be familiar with...you\u2019ve got elves, dwarves, orcs, gnomes, humans, half-orcs, half-elves, halflings-"
+    },
+    {
+      "character": "Sensei",
+      "text": "Why are there so many halves? That last one just sounded derogatory."
+    },
+    {
+      "character": "Ami",
+      "text": "That\u2019s what Ayane plays. They\u2019re these weird mini-people. You\u2019d like them because reasons."
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t like the implications of that, Ami."
+    },
+    {
+      "character": "Molly",
+      "text": "In terms of {i}less{/i} traditional fantasy if you\u2019re feeling a bit more exotic, there are races like...aarakocra, tabaxi, kobolds, aasimar, tieflings, the warforged, and even this race of turtle people called tortles."
+    },
+    {
+      "character": "Sensei",
+      "text": "That\u2019s just \u201cturtles\u201d but slightly mispelled."
+    },
+    {
+      "character": "Molly",
+      "text": "Right you are, Sir! And this is nowhere close to even {i}half{/i} of the official playable races in 5e! "
+    },
+    {
+      "character": "Molly",
+      "text": "And while each one comes with their own set of racial advantages, certain races are better at certain jobs or roles than others."
+    },
+    {
+      "character": "Molly",
+      "text": "Many people, myself included, like to use a character\u2019s race as the starting point for character building as the majority of them provide some sort of base-level fantasy to jump off of."
+    },
+    {
+      "character": "Molly",
+      "text": "But if the race itself is not important to you, it\u2019s perfectly fine to work backwards as well! And seeing as you don\u2019t really know about any of them yet, why not first ask yourself {i}what{/i} you want to do with-"
+    },
+    {
+      "character": "Niki",
+      "text": "Hey, sorry to interrupt, but does anyone want coffee?"
+    },
+    {
+      "character": "Molly",
+      "text": "Ah! A new challenger approaches!"
+    },
+    {
+      "character": "Niki",
+      "text": "Yeah, my bad. I was planning on waiting for you to finish your speech, but I had a feeling I was going to be standing here for the next year or two and the warmer only stays on for an hour."
+    },
+    {
+      "character": "Sensei",
+      "text": "It\u2019s not what it looks like, I swear."
+    },
+    {
+      "character": "Niki",
+      "text": "You mean you\u2019re {i}not{/i} making a D&D character with two teenage girls right now?"
+    },
+    {
+      "character": "Sensei",
+      "text": "That\u2019s right. I\u2019m here to seduce them."
+    },
+    {
+      "character": "Niki",
+      "text": "Is seducing teenagers really more acceptable in your eyes than engaging in stereotypically nerdy conduct?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Yes. I\u2019m a cool guy. And I need to remain a cool guy to keep up my awesome cool guy image."
+    },
+    {
+      "character": "Molly",
+      "text": "{i}Hah.{/i} Those who are born as normies ultimately {i}die{/i} as normies. This is presumably naught more than a temporary phase for the Supreme Overlord here. But one I must indulge regardless!"
+    },
+    {
+      "character": "Molly",
+      "text": "Also, I like your shirt."
+    },
+    {
+      "character": "Niki",
+      "text": "Thank you! I relate to her on a level that not many understand. I like your hair."
+    },
+    {
+      "character": "Molly",
+      "text": "Thank you! It\u2019s...red."
+    },
+    {
+      "character": "Niki",
+      "text": "Yes."
+    },
+    {
+      "character": "Niki",
+      "text": "In regard to the whole \u201cnormie\u201d thing, though, let me just say...this guy wasn\u2019t {i}always{/i} as lame and uninteresting as he is right now."
+    },
+    {
+      "character": "Niki",
+      "text": "As a matter of fact, the two of us were {i}both{/i} pretty huge dweebs back in the day."
+    },
+    {
+      "character": "Ami",
+      "text": "Yay! Flashback story! I can\u2019t wait to not be in it because Dad didn\u2019t love me yet!"
+    },
+    {
+      "character": "Molly",
+      "text": "What...do you mean exactly?"
+    },
+    {
+      "character": "Niki",
+      "text": "I mean he and I used to hang out in my room watching mech shows and playing Dragon Quest all day."
+    },
+    {
+      "character": "Molly",
+      "text": "YOU WHAT?!?!?!?!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Oh, great. Here we go."
+    },
+    {
+      "character": "Molly",
+      "text": "THE SUPREME OVERLORD HAD AN OTAKU PHASE AND I NEVER KNEW ABOUT IT?! "
+    },
+    {
+      "character": "Molly",
+      "text": "THIS IS VITAL INFORMATION THAT HAS BEEN KEPT FROM ME FOR REASONS UNKNOWN! IT IS INCONCEIVABLE! IT IS UNFORGIVABLE!"
+    },
+    {
+      "character": "Niki",
+      "text": "Why does she keep calling him the \u201cSupreme Overlord?\u201d Is this a chuuni thing?"
+    },
+    {
+      "character": "Ami",
+      "text": "Molly\u2019s entire personality is a chuuni thing. Also, you should hear the second half of that title. That part\u2019s even {i}more{/i} interesting."
+    },
+    {
+      "character": "Sensei",
+      "text": "It certainly is not. And we certainly {i}will{/i} not be talking about anything Niki and I did in her bedroom when we were children. "
+    },
+    {
+      "character": "Niki",
+      "text": "Yeaaaah...that\u2019s probably for the best."
+    },
+    {
+      "character": "Ami",
+      "text": "I...am suddenly much more interested in this flashback."
+    },
+    {
+      "character": "Molly",
+      "text": "ME TOO! BUT MY RAGE OVERRIDES MY CURIOSITY!"
+    },
+    {
+      "character": "Molly",
+      "text": "Why didn\u2019t you ever tell me, Sir? You don\u2019t feel guilt over your childhood interests, do you? Because if it\u2019s a matter of merely growing up-"
+    },
+    {
+      "character": "Sensei",
+      "text": "It\u2019s not that. I just don\u2019t really {i}remember{/i} any of it. Everything from back then is...still kind of blurry to me."
+    },
+    {
+      "character": "Niki",
+      "text": "I could probably bring those memories back if I try hard enough. I might still even have one of our old save files on a memory card back at my parents\u2019 place."
+    },
+    {
+      "character": "Ami",
+      "text": "Yeah, so about what you and Aunt Niki did when you were kids-"
+    },
+    {
+      "character": "Sensei",
+      "text": "Sorry. Can\u2019t remember that either."
+    },
+    {
+      "character": "Ami",
+      "text": "Heeeeeey..."
+    },
+    {
+      "character": "Niki",
+      "text": "{i}Yes,{/i} Ami?"
+    },
+    {
+      "character": "Ami",
+      "text": "Story please?"
+    },
+    {
+      "character": "Niki",
+      "text": "Mmmmmm..."
+    },
+    {
+      "character": "Niki",
+      "text": "I\u2019ll tell you when you\u2019re older."
+    },
+    {
+      "character": "Ami",
+      "text": "Aaaaaaah! Why is it okay for me to hear you guys going at it from across the house but {i}not{/i} okay for me to hear about the way you explored when you were little?! I need to know!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Ami, go to your room."
+    },
+    {
+      "character": "Ami",
+      "text": "WE\u2019RE ALREADY HERE!"
+    },
+    {
+      "character": "Molly",
+      "text": "Mech shows...Dragon Quest..."
+    },
+    {
+      "character": "Molly",
+      "text": "I can\u2019t believe I never knew..."
+    },
+    {
+      "character": "Molly",
+      "text": "All this time, we had that thread in common...just obscured by the passage of time and the onset of shame. But...for what?"
+    },
+    {
+      "character": "Niki",
+      "text": "Uh-oh. I think your friend might be on the verge of having an existential crisis, Ami."
+    },
+    {
+      "character": "Sensei",
+      "text": "Hey, I\u2019m {i}always{/i} on the verge of having one of those- so that\u2019s one {i}more{/i} thread we have in common."
+    },
+    {
+      "character": "Ami",
+      "text": "Just let her ride it out. Sometimes, time is the best medicine for-"
+    },
+    {
+      "character": "Molly",
+      "text": "That settles it!"
+    },
+    {
+      "character": "Ami",
+      "text": "Or not."
+    },
+    {
+      "character": "Sensei",
+      "text": "Settles what? Did you finish my character without me? Did I beat the game?"
+    },
+    {
+      "character": "Molly",
+      "text": "No! Your character has been scrapped! Because, in the words of Illidan Stormrage, YOU ARE NOT PREPARED!"
+    },
+    {
+      "character": "Molly",
+      "text": "But I\u2019ll tell you what, Sir! I will not sit idly by as you gaze upon the days of your youth as if they were a dark place that you should feel ashamed of!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Boy, do I have bad news for you."
+    },
+    {
+      "character": "Molly",
+      "text": "Save it! Speak not of your darkest days, for Molly MacCormack will show you the light!"
+    },
+    {
+      "character": "Molly",
+      "text": "...Not to be confused with the light Yasu is always speaking of, though. A new light! One that shines favorably upon your childhood affinities and shows you there is naught to be ashamed of!"
+    },
+    {
+      "character": "Molly",
+      "text": "You can still enjoy what you once loved! You\u2019re not too old for games, Sir! Age is just a-"
+    },
+    {
+      "character": "Niki",
+      "text": "So! About that coffee-"
+    },
+    {
+      "character": "narrator",
+      "text": "Niki breaks up the conversation before it can spiral any further out of control and...potentially invoke something or...{i}someone{/i} I don\u2019t want to be here right now."
+    },
+    {
+      "character": "narrator",
+      "text": "Molly goes back to Ami\u2019s desk, removing a laptop from her bag and taking the next ten minutes to try and figure out which Dragon Quest I apparently played when I was younger."
+    },
+    {
+      "character": "narrator",
+      "text": "And while she doesn\u2019t press me any further on the contents of my past {i}outside{/i} of that, she makes it clear that she has a new mission now."
+    },
+    {
+      "character": "narrator",
+      "text": "She wants to turn me back into a loser."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Molly\u2019s affection has increased to [molly_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "mollyinvite1": {
+      "from": null,
+      "to": true
+    }
+  }
+}

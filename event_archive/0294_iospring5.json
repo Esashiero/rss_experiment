@@ -1,0 +1,852 @@
+{
+  "event_id": 294,
+  "event_label": "iospring5",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "The roseate spoonbill\u2019s colors are the brightest early May."
+    },
+    {
+      "character": "narrator",
+      "text": "The crowning jewel of avians in threskiornithidae."
+    },
+    {
+      "character": "narrator",
+      "text": "Its favorite meal, carotenoids \u2014 they paint its wings in pink"
+    },
+    {
+      "character": "narrator",
+      "text": "While astaxanthin lies in wait and hydrocarbons sink."
+    },
+    {
+      "character": "narrator",
+      "text": "why do i still try so hard"
+    },
+    {
+      "character": "Io",
+      "text": "Uta! Look! We\u2019d totally die if we fell from here right now!"
+    },
+    {
+      "character": "Uta",
+      "text": "Yeah, but...is that really something you want to be excited about?"
+    },
+    {
+      "character": "narrator",
+      "text": "Before the dialogue drifts further into unintended, unwanted, or uncertain directions, I want to take a minute to interrupt this Io event for the sake of shining a light on the rapidly declining mental state of me and my cat."
+    },
+    {
+      "character": "narrator",
+      "text": "It all started one week when the sun was shining. Everything was good and I had just finished cloaking the outdoor plants and pipes in various quilts to shield them from the impending endless cold."
+    },
+    {
+      "character": "narrator",
+      "text": "When I came back inside, I noticed a shine on the floor I couldn\u2019t quite explain. Did someone wax it while I wasn\u2019t looking? Unlikely. Was it dissolving? Also unlikely. It had to be a trick."
+    },
+    {
+      "character": "narrator",
+      "text": "So I went upstairs, gripping the railing on the right as it fits my dominant hand better, hoping that today isn\u2019t the day I accidentally pry it off of the wall and fall to my death. When, at the top of the stairs, I notice him."
+    },
+    {
+      "character": "narrator",
+      "text": "His mouth is open in an attempt to meow, but no sound comes out. I mock him. He hates me. He tries again. No sound. I mock him again. Why can I meow, but he can not?"
+    },
+    {
+      "character": "narrator",
+      "text": "Have I been the cat this whole time? Has he been the human? Are words just arbitrary things we use to signify and explain ideas that can be better explained and emphasized by the balls in our eyes alone?"
+    },
+    {
+      "character": "narrator",
+      "text": "We sat on the couch. He curled up beside me. This is a lie."
+    },
+    {
+      "character": "narrator",
+      "text": "I went to my room and locked him out behind a gate. He always disturbs me. He\u2019s meowing right now. I can hear him. I know it came back. He was merely deceiving me."
+    },
+    {
+      "character": "narrator",
+      "text": "That bastard. I will never forgive him. But more than that, I will never forgive myself for succumbing to the pressure of existing for the sole purpose of existing."
+    },
+    {
+      "character": "narrator",
+      "text": "\u201cWhen did this become so boring?\u201d I ask myself, asking myself. \u201cWhat was the meaning of that phone call?\u201d"
+    },
+    {
+      "character": "narrator",
+      "text": "Anyway, that\u2019s it. Back to Io."
+    },
+    {
+      "character": "Io",
+      "text": "Of course it\u2019s something to be excited about! Any situation where you\u2019re close to death is something to be excited about! It\u2019s why amusement parks are so cool!"
+    },
+    {
+      "character": "Uta",
+      "text": "{i}That\u2019s{/i} why they\u2019re cool? Not because they\u2019re little urban sanctuaries filled with fun rides and assorted street foods?"
+    },
+    {
+      "character": "Io",
+      "text": "Those help too! But more than anything, they\u2019re fun because they give us a chance to experience things we\u2019d never be able to in real life!"
+    },
+    {
+      "character": "Uta",
+      "text": "But...this is real life right now."
+    },
+    {
+      "character": "Io",
+      "text": "Technically speaking, yes. But amusement parks exist in a special area between {i}real{/i} real life and {i}fake{/i} real life. Which is also known as fiction. Which is also known as where I want to be because it hurts less."
+    },
+    {
+      "character": "Uta",
+      "text": "You\u2019re weird. Are you experimenting with new drugs again?"
+    },
+    {
+      "character": "Io",
+      "text": "No, I\u2019m just happy I\u2019m finally here."
+    },
+    {
+      "character": "Uta",
+      "text": "Me too! I don\u2019t get to see you actually have fun very often."
+    },
+    {
+      "character": "Uta",
+      "text": "I\u2019m sorry it\u2019s with me and not Sensei, though. I know {i}he\u2019s{/i} the one you really wanted to come with."
+    },
+    {
+      "character": "Io",
+      "text": "Don\u2019t be sorry at all! You\u2019re just as high up in the Io ranking as he is. And it\u2019s not like I was aiming for it to be a {i}date,{/i} so this is perfect as far as I\u2019m concerned! I just don\u2019t know why it took us so long to come here."
+    },
+    {
+      "character": "Uta",
+      "text": "Our schedules don\u2019t always match up because of work and school. Like, when was the last time we {i}both{/i} had an entire weekend off?"
+    },
+    {
+      "character": "Io",
+      "text": "Probably...never. I don\u2019t think that\u2019s happened once since you got sucked into the hellhole that is the maid cafe."
+    },
+    {
+      "character": "Uta",
+      "text": "It\u2019s not a hellhole, Io. I love working there. I\u2019m just sad that it cuts into our time together. I like going on dates with you."
+    },
+    {
+      "character": "Io",
+      "text": "I literally just said that it wasn\u2019t a date."
+    },
+    {
+      "character": "Uta",
+      "text": "Noooo, you said you weren\u2019t {i}aiming{/i} for it to be a date."
+    },
+    {
+      "character": "Uta",
+      "text": "But seeing as {i}I{/i} paid and {i}I{/i} invited you out, {i}I{/i} get to decide what we call it. We are on a date."
+    },
+    {
+      "character": "Io",
+      "text": "Over Sensei already then? Am I the next obsession?"
+    },
+    {
+      "character": "Uta",
+      "text": "A date with him here {i}does{/i} sound enticing, right? Holding hands as you go up the ferris wheel...kissing beneath the moon once you reach the top."
+    },
+    {
+      "character": "Io",
+      "text": "Mhm."
+    },
+    {
+      "character": "Uta",
+      "text": "We\u2019re almost there, Io. Perhaps...{i}we{/i} should-"
+    },
+    {
+      "character": "Io",
+      "text": "No thanks! You\u2019ll be the first to know if my sexuality magically changes, though. I\u2019ll just keep waiting for the adult male I\u2019ve decided to like to kiss me up here instead."
+    },
+    {
+      "character": "Uta",
+      "text": "How\u2019s that going, by the way? You went over to his house the other day, didn\u2019t you?"
+    },
+    {
+      "character": "Io",
+      "text": "Yeah. We just sat in the dark and played games, though."
+    },
+    {
+      "character": "Uta",
+      "text": "So a perfect Io date?"
+    },
+    {
+      "character": "Io",
+      "text": "Nah. Not enough wood."
+    },
+    {
+      "character": "Uta",
+      "text": "Curious. I imagined a perfect Io date wouldn\u2019t involve any wood at all."
+    },
+    {
+      "character": "Io",
+      "text": "Ha ha ha. Bad Uta. I\u2019m sending you to horny jail. You\u2019ll need to roll doubles to escape and you can not collect $200 when you pass Go."
+    },
+    {
+      "character": "Uta",
+      "text": "A boy and a girl...alone in the dark...huddled together in the glow of a computer...even {i}that{/i} doesn\u2019t get your blood pumping, Io?"
+    },
+    {
+      "character": "Io",
+      "text": "It...{i}does.{/i} Just not really in {i}that{/i} way, you know?"
+    },
+    {
+      "character": "Uta",
+      "text": "Ugh. I {i}wish{/i} I knew. I can\u2019t even bump into the guy without wanting to get freaky anymore."
+    },
+    {
+      "character": "Io",
+      "text": "That sounds horrible."
+    },
+    {
+      "character": "Uta",
+      "text": "It is."
+    },
+    {
+      "character": "Uta",
+      "text": "But you know what isn\u2019t? The fact that we can talk about it now."
+    },
+    {
+      "character": "Io",
+      "text": "Yeah, there seems to be a lot less \u201cinternal struggle\u201d going on with you ever since telling me about your feelings. I\u2019m happy for you, Uta."
+    },
+    {
+      "character": "Uta",
+      "text": "I\u2019m happy for {i}us,{/i} Io. There aren\u2019t many best friends who\u2019d be able to like the same guy and just openly talk about it like it\u2019s no big deal at all. The fact that {i}we{/i} can survive it just means we\u2019re the best."
+    },
+    {
+      "character": "Io",
+      "text": "Or that our thoughts on love and companionship have been mutilated beyond recognition due to our traumatic upbringings and resulted in an abnormally skewed perception of what it means to be with someone."
+    },
+    {
+      "character": "Uta",
+      "text": "Don\u2019t ruin it."
+    },
+    {
+      "character": "Io",
+      "text": "But ruining things is my specialty."
+    },
+    {
+      "character": "Uta",
+      "text": "Yeah! But for a second, I thought it was going to be {i}mine{/i} since I\u2019ve never had to admit to somebody I\u2019m crushing on the same person as them before!"
+    },
+    {
+      "character": "Io",
+      "text": "I like how you didn\u2019t refute the fact that ruining things is my specialty and just went along with it."
+    },
+    {
+      "character": "Uta",
+      "text": "There\u2019s no use fighting with you when it comes to the way you think about yourself. I\u2019ll only refute that if it\u2019s someone {i}else{/i} who says it."
+    },
+    {
+      "character": "Io",
+      "text": "Regardless, I\u2019m happy too. That we can talk about this. Even though I\u2019ve kind of {i}always{/i} been open to talking about it and was just unaware that you {i}wanted{/i} to."
+    },
+    {
+      "character": "Uta",
+      "text": "What do you think\u2019s gonna happen if one of us actually gets him?"
+    },
+    {
+      "character": "Io",
+      "text": "You mean if {i}you{/i} actually get him? Sensei would never choose me as a partner, even if he {i}does{/i} really care about me. I\u2019m too lacking when it comes to aspects he actually requires in a person."
+    },
+    {
+      "character": "Uta",
+      "text": "Like...the whole sex thing?"
+    },
+    {
+      "character": "Io",
+      "text": "Right. And the fact that there\u2019s no way I could ever help him with any of {i}his{/i} issues when you\u2019ve seen how I handle mine. You, though? You\u2019re great at that."
+    },
+    {
+      "character": "Uta",
+      "text": "I\u2019m not {i}great{/i} at anything, Io. We\u2019re both screwed if getting help is going to be important to him. Especially since, on a baseline level, him getting help would effectively {i}destroy{/i} our chances."
+    },
+    {
+      "character": "Io",
+      "text": "Not mine if sex is the implication there. But also, you\u2019re way wrong. You\u2019ve helped me a ton, Uta."
+    },
+    {
+      "character": "Uta",
+      "text": "And you\u2019ve helped {i}me{/i} a ton too. But that doesn\u2019t mean we\u2019re any good compared to everyone else in the running. Neither one of us is in the top five of the love journal."
+    },
+    {
+      "character": "Io",
+      "text": "Buuuuuuuuut...if we combine {i}forces?...{/i}"
+    },
+    {
+      "character": "Uta",
+      "text": "You\u2019re really gunning for this throuple thing, aren\u2019t you?"
+    },
+    {
+      "character": "Io",
+      "text": "Just imagine it! All {i}three{/i} of us on the ferris wheel! Me holding his hand and talking about how close to death we are while the two of you do, like...sex stuff."
+    },
+    {
+      "character": "Uta",
+      "text": "On a ferris wheel? Right next to you?"
+    },
+    {
+      "character": "Io",
+      "text": "You would. You know it."
+    },
+    {
+      "character": "Uta",
+      "text": "Yes, but I would {i}not{/i} be proud."
+    },
+    {
+      "character": "Io",
+      "text": "Well, whatever happens Uta...I\u2019m glad I get to go through it with you."
+    },
+    {
+      "character": "Io",
+      "text": "You really are the best thing that\u2019s ever happened to me. And it is {i}because{/i} we are so close to death that you can trust me when I say that."
+    },
+    {
+      "character": "Uta",
+      "text": "I\u2019d trust you either way, Io. You\u2019re the best thing that\u2019s ever happened to me too."
+    },
+    {
+      "character": "Uta",
+      "text": "Also, we\u2019ve finally reached the top of the ferris wheel. So if you {i}are{/i} looking to kiss someone up here-"
+    },
+    {
+      "character": "Io",
+      "text": "I\u2019m good, Uta. Also, this ferris wheel is, like...crazy slow, isn\u2019t it?"
+    },
+    {
+      "character": "Uta",
+      "text": "Right? We\u2019ve barely moved this whole time."
+    },
+    {
+      "character": "narrator",
+      "text": "The thing goes around and eventually completes a cycle or something and then the ride ends and then they get off of it because Uta needs to pee. Narration."
+    },
+    {
+      "character": "Uta",
+      "text": "I need to pee!"
+    },
+    {
+      "character": "narrator",
+      "text": "Also Blue Air comes on and changes the mood. Something is probably about to happen."
+    },
+    {
+      "character": "Io",
+      "text": "Why do you seem so proud of that?"
+    },
+    {
+      "character": "Uta",
+      "text": "Because I held it in for what I can only imagine is the longest ferris wheel ride in all of Japan!"
+    },
+    {
+      "character": "Io",
+      "text": "Okay. Well, the bathroom is right there. So."
+    },
+    {
+      "character": "Uta",
+      "text": "Aren\u2019t you going to offer to come with me?"
+    },
+    {
+      "character": "Io",
+      "text": "Why would I do that?"
+    },
+    {
+      "character": "Uta",
+      "text": "Because we\u2019re girls and that\u2019s what girls do."
+    },
+    {
+      "character": "Io",
+      "text": "Why?"
+    },
+    {
+      "character": "Uta",
+      "text": "Well...because."
+    },
+    {
+      "character": "Io",
+      "text": "..."
+    },
+    {
+      "character": "Uta",
+      "text": "..."
+    },
+    {
+      "character": "Uta",
+      "text": "{i}Okaaaay!{/i} Guess I\u2019ll just go to the bathroom alone then! Sure hope nothing happens to me!"
+    },
+    {
+      "character": "Uta",
+      "text": "But...after that? Rollercoasters."
+    },
+    {
+      "character": "Io",
+      "text": "Fuck yeah."
+    },
+    {
+      "character": "Uta",
+      "text": "We\u2019re staying here until they kick us out tonight. I hope you\u2019re ready, bitch."
+    },
+    {
+      "character": "Io",
+      "text": "I was born ready, other bitch."
+    },
+    {
+      "character": "Uta",
+      "text": "Let\u2019s not call each other \u201cbitch\u201d anymore. I love you too much."
+    },
+    {
+      "character": "Io",
+      "text": "I love you too, Uta. That felt wrong and I\u2019m sorry."
+    },
+    {
+      "character": "Uta",
+      "text": "Kaybye! Be right back! Don\u2019t go anywhere!"
+    },
+    {
+      "character": "narrator",
+      "text": "\u201cWhere would I even go in the first place?\u201d she thought to herself, removing a phone from her pocket that she\u2019d neglected to look at since approximately 2:00 PM."
+    },
+    {
+      "character": "narrator",
+      "text": "She hadn\u2019t received even a single notification within that time, though. Sensei must have been done playing that game and sending her progress updates."
+    },
+    {
+      "character": "narrator",
+      "text": "She didn\u2019t expect him to ever go back to it without being pushed or reminded to, but she liked how he kept her in the loop for a whole night. Like he was actually thinking about her."
+    },
+    {
+      "character": "narrator",
+      "text": "Which he probably wasn\u2019t right now. And that made her want to text him. But she didn\u2019t, because she thought that would be annoying. And this was essentially the only way Io ever used her phone in the first place."
+    },
+    {
+      "character": "narrator",
+      "text": "Type something out. Erase it. Scroll through older messages. Scroll through her photo reel to find candid photos she\u2019d taken of him from her desk when he used to come to school."
+    },
+    {
+      "character": "narrator",
+      "text": "It wasn\u2019t a {i}good{/i} use of her time. But it was enough to bridge the gap between different bouts of nothingness on the way to something that {i}might{/i} be good."
+    },
+    {
+      "character": "narrator",
+      "text": "This was the best day she\u2019d had in a long time, and he hadn\u2019t even been involved. So why was there this urge to involve him {i}now?{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "She got caught up in this question for so long that she didn\u2019t even notice she was being approached by two large men."
+    },
+    {
+      "character": "narrator",
+      "text": "They\u2019d seen her at several points throughout the day. Her stupid hair made her stick out."
+    },
+    {
+      "character": "narrator",
+      "text": "They joked among each other about using her twintails as handlebars for impure purposes. What they said about her friend was even worse."
+    },
+    {
+      "character": "narrator",
+      "text": "But right now, they said nothing. They just stood in front of the girl, waiting for her to notice them."
+    },
+    {
+      "character": "Io",
+      "text": "Go away."
+    },
+    {
+      "character": "narrator",
+      "text": "And then she did. But it was not in the way they wanted."
+    },
+    {
+      "character": "Man 1",
+      "text": "{i}Go away?{/i} Can a guy not even walk up to a girl anymore without her trying to turn it into a thing?"
+    },
+    {
+      "character": "Io",
+      "text": "..."
+    },
+    {
+      "character": "Man 2",
+      "text": "Maybe she\u2019s deaf? Try-"
+    },
+    {
+      "character": "Man 1",
+      "text": "{i}Speaking louder and drawing attention to ourselves? Are you a fucking idiot? Just let me work my magic.{/i}"
+    },
+    {
+      "character": "Io",
+      "text": "I hope it\u2019s to make yourself disappear, because I want nothing to do with either of you."
+    },
+    {
+      "character": "Man 1",
+      "text": "Aaaah, so you can hear us after all. What are you up to? Where\u2019d your friend go?"
+    },
+    {
+      "character": "Io",
+      "text": "Home. And my ride will be here any second now, so you should probably leave."
+    },
+    {
+      "character": "Man 2",
+      "text": "The hell\u2019s your problem? All we did was walk up to you."
+    },
+    {
+      "character": "Man 1",
+      "text": "Yeah. We just wanted to see if you and you and your friend wanted to go somewhere together."
+    },
+    {
+      "character": "Io",
+      "text": "Welp. She\u2019s not here, so I guess that defeats the purpose. Bye."
+    },
+    {
+      "character": "Man 1",
+      "text": "How about {i}just{/i} you?"
+    },
+    {
+      "character": "Man 2",
+      "text": "Yeah. Think you can handle both of us, little girl?"
+    },
+    {
+      "character": "Io",
+      "text": "..."
+    },
+    {
+      "character": "Man 1",
+      "text": "{i}Don\u2019t creep her out, man. You\u2019re coming on too strong.{/i}"
+    },
+    {
+      "character": "Man 2",
+      "text": "{i}But that\u2019s what-{/i}"
+    },
+    {
+      "character": "Man 1",
+      "text": "{i}Yeah, I know what the goal is. But that\u2019s not how this works. Just let me do the talking.{/i}"
+    },
+    {
+      "character": "Io",
+      "text": "Why are you even here?...Shouldn\u2019t you be in space or something?"
+    },
+    {
+      "character": "Man 1",
+      "text": "Space? You kidding? Do we look like the type to get roped into that bullshit? You should see the car I pulled up in. It\u2019d get you wetter than the log flume."
+    },
+    {
+      "character": "Man 2",
+      "text": "{i}Yeah. And I\u2019m the one who comes on too strong.{/i}"
+    },
+    {
+      "character": "Man 1",
+      "text": "{i}Fuck off.{/i}"
+    },
+    {
+      "character": "Io",
+      "text": "I\u2019m asexual."
+    },
+    {
+      "character": "Man 1",
+      "text": "Translation \u2014 I ain\u2019t had a good dick yet."
+    },
+    {
+      "character": "Man 2",
+      "text": "Probably hasn\u2019t had one at all. She\u2019s a sophomore, max."
+    },
+    {
+      "character": "Man 1",
+      "text": "I bet her friend has. {i}She{/i} looked like she could handle both of us. This one\u2019s just a prude."
+    },
+    {
+      "character": "Io",
+      "text": "Mm..."
+    },
+    {
+      "character": "Man 2",
+      "text": "Whatcha looking at on your phone there? Mind showing us?"
+    },
+    {
+      "character": "Man 1",
+      "text": "In fact, why not just {i}give{/i} us your phone? I won\u2019t keep it, I promise. I just want to put my contact info in there."
+    },
+    {
+      "character": "Man 2",
+      "text": "Daisuke, hold up. There\u2019s someone-"
+    },
+    {
+      "character": "Man 1",
+      "text": "It\u2019s {i}fine.{/i} We\u2019re not doing anything wrong. We\u2019re just talking to our new friend here. What\u2019s your name? I don\u2019t bite."
+    },
+    {
+      "character": "Io",
+      "text": "{size=-20}Leave me alone.{/i}"
+    },
+    {
+      "character": "Man 1",
+      "text": "What was that? I couldn\u2019t hear you."
+    },
+    {
+      "character": "Io",
+      "text": "I said...{i}leave me a-{/i}"
+    },
+    {
+      "character": "???",
+      "text": "You ain\u2019t...gotta say shit...to punks like them."
+    },
+    {
+      "character": "Io",
+      "text": "Huh? Who-"
+    },
+    {
+      "character": "Man 2",
+      "text": "Oh, fuck! Isn\u2019t that-"
+    },
+    {
+      "character": "Man 2",
+      "text": "W-What are you doing, you crazy bitch?! His bones are made of glass!"
+    },
+    {
+      "character": "Yuki",
+      "text": "Well...he should\u2019ve thought about that...before pickin\u2019 on a fuckin\u2019 high school girl!"
+    },
+    {
+      "character": "Man 1",
+      "text": "My...fragile...everything! I can\u2019t move!"
+    },
+    {
+      "character": "Io",
+      "text": "Yuki?! What are you-"
+    },
+    {
+      "character": "Yuki",
+      "text": "Leave them...to me! I...can handle this!"
+    },
+    {
+      "character": "Io",
+      "text": "Is he bleeding out of his {i}eyes?{/i}"
+    },
+    {
+      "character": "Yuki",
+      "text": "If he ain\u2019t already...he\u2019s about to be!"
+    },
+    {
+      "character": "Man 1",
+      "text": "N-No! Don\u2019t! Stop! Please!"
+    },
+    {
+      "character": "Man 2",
+      "text": "Daisuke! No! His eyes were made of glass too!"
+    },
+    {
+      "character": "Man 1",
+      "text": "Omar! I can\u2019t see! I can\u2019t fucking see!"
+    },
+    {
+      "character": "Man 2",
+      "text": "I\u2019ve got you, buddy! I\u2019ve got you!"
+    },
+    {
+      "character": "Yuki",
+      "text": "Yeah...take him. And while you\u2019re at it, do yourselves a fuckin\u2019 favor and...never come around here again...you got that?"
+    },
+    {
+      "character": "Man 2",
+      "text": "Y-Yeah! You\u2019ll never see us again! Just p...please! D...Don\u2019t tell the boss we-"
+    },
+    {
+      "character": "Yuki",
+      "text": "Do you want some too?! Huh?!"
+    },
+    {
+      "character": "Man 2",
+      "text": "{i}Aaaah! No! Don\u2019t hurt me!{/i}"
+    },
+    {
+      "character": "Man 1",
+      "text": "{i}Omar...I...I can see the light...{/i}"
+    },
+    {
+      "character": "Man 2",
+      "text": "{i}Hang in there, Daisuke! Hang in there!{/i}"
+    },
+    {
+      "character": "Io",
+      "text": "Yuki! That...was so fucking cool! Like, where did you even {i}come{/i} from?! If I wasn\u2019t seconds away from having a panic attack, I\u2019d-"
+    },
+    {
+      "character": "Yuki",
+      "text": "Hah....hah....haah..."
+    },
+    {
+      "character": "Io",
+      "text": "Yuki?..."
+    },
+    {
+      "character": "Io",
+      "text": "Is everything...alright?"
+    },
+    {
+      "character": "Yuki",
+      "text": "Never...better..."
+    },
+    {
+      "character": "Io",
+      "text": "You look terrible...Did something happen?"
+    },
+    {
+      "character": "Yuki",
+      "text": "Forget about me...what are you doing here...alone?..."
+    },
+    {
+      "character": "Io",
+      "text": "I\u2019m with Uta. She just went into the bathroom and....what...what are {i}you{/i} doing here?"
+    },
+    {
+      "character": "Yuki",
+      "text": "Meeting...someone..."
+    },
+    {
+      "character": "Yuki",
+      "text": "Those guys come up to you...outta nowhere?..."
+    },
+    {
+      "character": "Io",
+      "text": "I...yeah. I was just waiting here and-"
+    },
+    {
+      "character": "Yuki",
+      "text": "That happens again...just tell \u2018em...you know me..."
+    },
+    {
+      "character": "Yuki",
+      "text": "You got it?..."
+    },
+    {
+      "character": "Io",
+      "text": "Yuki...you\u2019re so pale...I really think you should-"
+    },
+    {
+      "character": "Yuki",
+      "text": "I\u2019m fine...but....I\u2019ve...gotta go..."
+    },
+    {
+      "character": "Yuki",
+      "text": "Remember...say my name...if shit...mngh...gets...bad!"
+    },
+    {
+      "character": "Uta",
+      "text": "Io! What happened?! I heard yelling! But I was already in the middle of stuff and-"
+    },
+    {
+      "character": "Uta",
+      "text": "Is that Yumi\u2019s mom? What\u2019s she doing here?"
+    },
+    {
+      "character": "Io",
+      "text": "She...saved me from...these two fucking creepy guys..."
+    },
+    {
+      "character": "Uta",
+      "text": "What?!"
+    },
+    {
+      "character": "Io",
+      "text": "One of them had glass bones. It was weird."
+    },
+    {
+      "character": "Uta",
+      "text": "You\u2019re okay though? They didn\u2019t hurt you? They didn\u2019t touch you? I\u2019m sorry I wasn\u2019t here. If I knew, I-"
+    },
+    {
+      "character": "Io",
+      "text": "Would have held it in forever?"
+    },
+    {
+      "character": "Uta",
+      "text": "If that\u2019s what it takes to protect you."
+    },
+    {
+      "character": "Io",
+      "text": "I\u2019m fine, Uta. Thank you."
+    },
+    {
+      "character": "Io",
+      "text": "But I..."
+    },
+    {
+      "character": "Io",
+      "text": "I\u2019m worried about Yuki..."
+    },
+    {
+      "character": "Io",
+      "text": "I\u2019ve never seen her so-"
+    },
+    {
+      "character": "Uta",
+      "text": "Tell me at home. The bus just pulled up. We should catch it before it leaves."
+    },
+    {
+      "character": "Io",
+      "text": "What? But I thought you said they\u2019d have to kick us out-"
+    },
+    {
+      "character": "Uta",
+      "text": "That was {i}before{/i} you were apparently almost abducted! We\u2019ll come back for the rollercoasters soon. It\u2019s not safe tonight."
+    },
+    {
+      "character": "Io",
+      "text": "But-"
+    },
+    {
+      "character": "Uta",
+      "text": "Hot dogs. Konbini. As many as you want."
+    },
+    {
+      "character": "Io",
+      "text": "Ugh. You\u2019re lucky I\u2019m hungry."
+    },
+    {
+      "character": "Uta",
+      "text": "I\u2019m lucky you\u2019re {i}safe.{/i} Now, come on. Hold my hand."
+    },
+    {
+      "character": "Io",
+      "text": "Do I really have to-"
+    },
+    {
+      "character": "Uta",
+      "text": "Hold my fucking hand, bitch!"
+    },
+    {
+      "character": "Io",
+      "text": "Wow. That was the shortest pact we\u2019ve ever made, other bitch."
+    },
+    {
+      "character": "Uta",
+      "text": "I\u2019m sorry and I love you. Again."
+    },
+    {
+      "character": "Io",
+      "text": "I love you too. Again. But love can wait! It\u2019s wiener time!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Did somebody say \u201cwiener time?\u201d"
+    },
+    {
+      "character": "Sensei",
+      "text": "...Wait, what?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Why did I just jump out of bed to say that? That\u2019s not even the line."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Somewhere else, two girls were safe.{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}One woman wasn\u2019t.{/i}"
+    }
+  ],
+  "state_changes": {
+    "iospring5": {
+      "from": null,
+      "to": true
+    }
+  }
+}

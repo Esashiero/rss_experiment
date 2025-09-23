@@ -1,0 +1,536 @@
+{
+  "event_id": 329,
+  "event_label": "springend3",
+  "dialogue": [
+    {
+      "character": "Ami",
+      "text": "You fucking {i}what?{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "Needless to say, talking to Ami did not exactly go well."
+    },
+    {
+      "character": "Ayane",
+      "text": "Ami, if that\u2019s what Sensei wants-"
+    },
+    {
+      "character": "Ami",
+      "text": "No, we clearly just misheard him. Isn\u2019t that right, Sensei? Why don\u2019t you tell us again so we can make sure we\u2019re not going deaf?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I want to leave the house."
+    },
+    {
+      "character": "Ami",
+      "text": "Wow! Weird! I\u2019m still mishearing you! Cause I could have sworn you told me just a little while ago that you wanted to stay here, and {i}now{/i} it sounds like you\u2019re saying you want to leave!"
+    },
+    {
+      "character": "Ami",
+      "text": "I wonder if that has anything to do with something Ayane told you in the ten minutes it took her to destroy our home."
+    },
+    {
+      "character": "Ayane",
+      "text": "I-"
+    },
+    {
+      "character": "Sensei",
+      "text": "It wasn\u2019t Ayane\u2019s idea. It was mine. So if you\u2019re going to yell at anyone, yell at me."
+    },
+    {
+      "character": "Ami",
+      "text": "Yeah. So you just suddenly regain complete consciousness after two months of pissing in a bucket and it {i}doesn\u2019t{/i} have anything to do with the one outlier I opened your door for. That makes total sense."
+    },
+    {
+      "character": "Sensei",
+      "text": "I obviously know how it looks. And...maybe Ayane {i}did{/i} help me reach this conclusion in some way, but it\u2019s not like she pushed me to do this. I just..."
+    },
+    {
+      "character": "Sensei",
+      "text": "I shouldn\u2019t stay here anymore, Ami."
+    },
+    {
+      "character": "Ami",
+      "text": "Why? What sort of revelation have you had in the last ten minutes that is now compelling you to throw away our sanctuary? What do you hope to gain from putting yourself in harm\u2019s way again?"
+    },
+    {
+      "character": "Ami",
+      "text": "You literally told me {i}this morning{/i} that you want to stay here with me. Are you saying that was a lie? Are you lying to me after everything I\u2019ve gone through to keep {i}you{/i} safe?"
+    },
+    {
+      "character": "Ami",
+      "text": "Because I won\u2019t let you keep lying to me, Sensei! I\u2019ve let you get away with it far too many times already and I\u2019m not about to just bend over right now and let you keep fucking me like this!"
+    },
+    {
+      "character": "Ami",
+      "text": "Unless you actually {i}want{/i} to fuck me of course. Just, we\u2019d have to let Ayane watch. And I don\u2019t really mind since she deserves some sort of punishment after all she\u2019s done today."
+    },
+    {
+      "character": "Ami",
+      "text": "In fact, why don\u2019t I invite Uta and Io over and let {i}them{/i} watch you fuck me too! Why don\u2019t I invite {i}everyone{/i} over, Sensei?! Why don\u2019t I just do that?!"
+    },
+    {
+      "character": "Ami",
+      "text": "You want to know why? Because I love you. I love you a lot. Like a lot a lot a lot a lot a lot. So much that I\u2019m willing to let all this slide because you\u2019re clearly just delirious right now."
+    },
+    {
+      "character": "Sensei",
+      "text": "Ami-"
+    },
+    {
+      "character": "Ami",
+      "text": "Did she pay you? Is this a prank? How much did she pay? What\u2019d it cost to buy your fake participation, Sensei? Tell me now so I can start saving up and make you pretend to love me in front of my friends."
+    },
+    {
+      "character": "Ami",
+      "text": "What changed?!?! What happened in there?!? I knew I shouldn\u2019t have let her in! I knew it I knew it I knew it I knew it {b}I FUCKING KNEW IT!{/b}"
+    },
+    {
+      "character": "Ami",
+      "text": "Ayane!!!!!!!! What did you do???!?!!! What do you have to say about this?!!!??!!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Ami, I told you...this isn\u2019t because of-"
+    },
+    {
+      "character": "Ayane",
+      "text": "You don\u2019t have to speak for me, Sensei. I can answer her myself."
+    },
+    {
+      "character": "Ami",
+      "text": "Well then? I\u2019m waiting."
+    },
+    {
+      "character": "Ayane",
+      "text": "I didn\u2019t know this was going to happen, Ami. Hell, how {i}could{/i} I have known when you invited me over {i}this morning?{/i}"
+    },
+    {
+      "character": "Ayane",
+      "text": "For all I knew, I wasn\u2019t going to see Sensei for another year."
+    },
+    {
+      "character": "Ami",
+      "text": "But you {i}did{/i} see him. And it took you no more than {b}TEN MINUTES{/b} to manipulate him into thinking he\u2019s okay! But he\u2019s {i}not{/i} okay! He\u2019s losing his fucking mind! Just look at him!"
+    },
+    {
+      "character": "Ami",
+      "text": "Sensei, let\u2019s get you back to your room. I\u2019ll send Ayane home and we can spend the rest of the day watching movies and eating snacks. It\u2019ll be a ton of fun. That\u2019s what you want, right?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Right now, I just want to talk."
+    },
+    {
+      "character": "Ami",
+      "text": "Thennnnnnnnnnnnnnnnnn fuck it! Ayane can stay too! And all three of us can watch movies together! And I\u2019ll allow her to come visit on weekends!"
+    },
+    {
+      "character": "Ayane",
+      "text": "That\u2019s not enough, Ami."
+    },
+    {
+      "character": "Ami",
+      "text": "Mondays too! Maybe Wednesdays! And I\u2019ll...oh!"
+    },
+    {
+      "character": "Ami",
+      "text": "You can fuck each other! "
+    },
+    {
+      "character": "Ayane",
+      "text": "Ami!"
+    },
+    {
+      "character": "Ami",
+      "text": "Just once per week, though! And Sensei will have to wear a condom {i}and{/i} pull out just to be extra safe and not get you pregnant. Also, I get to join in whenever I want."
+    },
+    {
+      "character": "Ayane",
+      "text": "Ami, stop! Just listen to yourself! "
+    },
+    {
+      "character": "Ami",
+      "text": "Fine! I won\u2019t join in then! But I\u2019m still going to stay in the room because it\u2019s only fair that I get to watch if I live here too! I\u2019m not bending on the condom thing, though. That rule has to stay."
+    },
+    {
+      "character": "Ami",
+      "text": "Because if I have to raise your baby {i}and{/i} Sensei, I\u2019m going to be preeeeeeeeeeetty busy pretty much all the time and I still need to have a little bit of fun on my own, you know? Hahahaha!"
+    },
+    {
+      "character": "Ami",
+      "text": "Oh! Can I keep the condoms when you\u2019re done with them???? Just to make sure they\u2019re properly disposed of, of course. Not to suck the cum out of them. Because that\u2019d be like, totally weird."
+    },
+    {
+      "character": "Ami",
+      "text": "And I\u2019m not weird at all! I\u2019m a niece! Which isn\u2019t me saying I don\u2019t like cum. I think cum is great. Especially your cum, Sensei!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Y-"
+    },
+    {
+      "character": "Ami",
+      "text": "Scratch that. Your cum is the {i}only{/i} cum I like. And yeah I do want to drink it. But I also realize that now probably isn\u2019t the right time to- sorry. What were we talking about again?"
+    },
+    {
+      "character": "Ayane",
+      "text": "I\u2019m...I should leave. "
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah. Thanks for trying, Ayane. I\u2019ve got it from here."
+    },
+    {
+      "character": "Ami",
+      "text": "That\u2019s right! Bye, Ayane! Sensei needs to get back to resting or he\u2019ll never get over his sickness! I\u2019m sure you\u2019ll understand if you never see him again, right? Okay! Bye!"
+    },
+    {
+      "character": "narrator",
+      "text": "Ayane rushes out of the room and suddenly it\u2019s just-"
+    },
+    {
+      "character": "Ami",
+      "text": "Okay, nap time! Night, night!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Give me your hand."
+    },
+    {
+      "character": "Ami",
+      "text": "Want my mouth instead? It\u2019s warmer."
+    },
+    {
+      "character": "Ami",
+      "text": "Clothes on or off?! Which hole do you want?! Where are you going to cum?! Can I turn my camera on?!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Ami, I need you to breathe for a second."
+    },
+    {
+      "character": "Ami",
+      "text": "{size=-5}Sorry! I\u2019m just so excited knowing that you\u2019re going to stay here forever and that we\u2019re going to be all alone and that everything is okay and that you\u2019re {i}not{/i} going back to being a rampant creeper who has sex with all of my friends!{/size}"
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m not going to stay here forever, Ami."
+    },
+    {
+      "character": "Ami",
+      "text": "Yes you are! You\u2019re going to stay here forever and love me and only me! Those are the rules!"
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019ll stay here for {i}one more week.{/i} But after that, I need to...bring some sense of normalcy back to my life. And I can\u2019t do that if I\u2019m in here."
+    },
+    {
+      "character": "Ami",
+      "text": "Sure you can! We\u2019ve got a big screen TV with 500 channels and a fridge with extra shelf space! What more could you ever need out of life?!"
+    },
+    {
+      "character": "Sensei",
+      "text": "I have no clue. And that\u2019s exactly the problem."
+    },
+    {
+      "character": "Ami",
+      "text": "Sounds like a pretty tiny problem to me! Ami is using her \u201cniece veto\u201d to reject your proposal! Please make passionate love to her now as penance."
+    },
+    {
+      "character": "Sensei",
+      "text": "Ami, listen to me!"
+    },
+    {
+      "character": "Ami",
+      "text": "No! You\u2019re going insane and saying things you don\u2019t mean!"
+    },
+    {
+      "character": "Ami",
+      "text": "I left you alone for ten minutes! {b}TEN MINUTES!{/b} And now you\u2019re telling me your whole opinion of our sanctuary has changed?!?! We are {b}SAFE{/b} here!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Why do you keep calling it a sanctuary? "
+    },
+    {
+      "character": "Ami",
+      "text": "Because that\u2019s what it is! And that\u2019s what it\u2019s {i}been{/i} for the last two months until people started interfering! "
+    },
+    {
+      "character": "Sensei",
+      "text": "And how do you think those two months were for me? Because I don\u2019t remember anything about them."
+    },
+    {
+      "character": "Ami",
+      "text": "Yeah! Isn\u2019t that great?! It\u2019s exactly what you wanted!"
+    },
+    {
+      "character": "Ami",
+      "text": "Blocking out the pain has always been your preferred method of coping! And I\u2019ve found the perfect way to enable it so you won\u2019t ever have to hurt again! Praise me! Tell me I\u2019m amazing!"
+    },
+    {
+      "character": "Ami",
+      "text": "Or just put your dick in my mouth! That works too! Whatever you want, [amimaster]!"
+    },
+    {
+      "character": "Sensei",
+      "text": "What I want is to have an actual conversation about this, but we can\u2019t {i}do{/i} that if you\u2019re going to take my place as the one who\u2019s gone completely mad."
+    },
+    {
+      "character": "Ami",
+      "text": "{i}Me?{/i} Ami Arakawa? {i}Gone mad?{/i} Well, I never! How could you even insinuate such a thing, [amimaster]? That hurts!"
+    },
+    {
+      "character": "Sensei",
+      "text": "It\u2019s okay, you know. If you want to be the broken one this time."
+    },
+    {
+      "character": "Sensei",
+      "text": "You don\u2019t always have to take care of me. I can take care of you for once."
+    },
+    {
+      "character": "Ami",
+      "text": "You?! Take care of {i}me?!{/i} That\u2019s not how this works! That\u2019s {i}never{/i} how this works! You\u2019re the one who breaks and {i}I\u2019m{/i} the one who cooks and cleans and combs your hair!"
+    },
+    {
+      "character": "Ami",
+      "text": "If I left {i}any{/i} of those responsibilities to you, I\u2019d have to cut off all my hair, burn our laundry, and then die of malnutrition shortly after waking up from my sadness-coma."
+    },
+    {
+      "character": "Ami",
+      "text": "Besides, {i}I\u2019m{/i} not the one coping with something right now! That\u2019s {i}you!{/i} So why not just...you know...cope the way you always do?! In bed! With me by your side!"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}I\u2019m pretty sure she misses you. Even if she won\u2019t say it.{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Please, come back to us.{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "Because just {i}coping{/i} isn\u2019t enough anymore. "
+    },
+    {
+      "character": "Ami",
+      "text": "So what? You\u2019re going to just decide you\u2019re not sad anymore and get on with your life? Are you just totally healed all of a sudden?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Healed? Absolutely not. I feel like I\u2019m fucking dying right now."
+    },
+    {
+      "character": "Ami",
+      "text": "So your solution is to run into traffic?! You\u2019re going to make me suffer through that same tragedy again in an even {i}worse{/i} way?! Do you hate me that much?!"
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t hate you, Ami!"
+    },
+    {
+      "character": "Ami",
+      "text": "Then why are you trying to hurt me?!"
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m just..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Hah..."
+    },
+    {
+      "character": "Sensei",
+      "text": "I know you\u2019re doing all you can. And I\u2019m very proud of you for that. I mean it."
+    },
+    {
+      "character": "Sensei",
+      "text": "Your methods might not be the most...{i}conventional.{/i} But I\u2019m not the most conventional person. And expecting a girl your age to be able to deal with me when I\u2019m that broken is just unreasonable."
+    },
+    {
+      "character": "Ami",
+      "text": "But it\u2019s not! I\u2019ve done it before! And everything was perfect until people started trying to steal you again."
+    },
+    {
+      "character": "Ami",
+      "text": "Things were supposed to be different this time. You were supposed to stay here forever."
+    },
+    {
+      "character": "Sensei",
+      "text": "So you would have been happy if I was just catatonic for the rest of my life?"
+    },
+    {
+      "character": "Ami",
+      "text": "Not {i}forever.{/i} But at least another year or two. And then you\u2019d wake up and realize how good of a job  I did and then marry me and get me pregnant."
+    },
+    {
+      "character": "Sensei",
+      "text": "Listen...I\u2019ll spend more time with you. I\u2019ll...show you how much you mean to me more often. And besides, it\u2019s not like I\u2019m expecting to just \u201cgo back to normal\u201d overnight."
+    },
+    {
+      "character": "Sensei",
+      "text": "This is going to be a process and I\u2019m going to need your help. "
+    },
+    {
+      "character": "Ami",
+      "text": "I can\u2019t help you out there."
+    },
+    {
+      "character": "Ami",
+      "text": "It\u2019s {i}scary{/i} out there. That\u2019s why I keep you {i}here.{/i} "
+    },
+    {
+      "character": "Ami",
+      "text": "You can\u2019t trust people, Sensei. They always want something out of you. Every single one of them has ulterior motives and they just..."
+    },
+    {
+      "character": "Ami",
+      "text": "You can\u2019t trust them. But you can trust {i}me.{/i} I\u2019m the one who\u2019s always been here. {i}Me.{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "Which means you\u2019ll be with me no matter {i}where{/i} I go, doesn\u2019t it?"
+    },
+    {
+      "character": "Ami",
+      "text": "I don\u2019t know anymore..."
+    },
+    {
+      "character": "Sensei",
+      "text": "You\u2019re planning on leaving me then?"
+    },
+    {
+      "character": "Ami",
+      "text": "I think you\u2019ve got it backwards. I won\u2019t {i}be able{/i} to follow you if you keep trying to break my kneecaps. And that\u2019s exactly what you\u2019re doing right now."
+    },
+    {
+      "character": "Sensei",
+      "text": "One week, Ami."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019ll stay here with you until winter break is over. I won\u2019t talk to anyone but you and I\u2019ll spend all of my time {i}with you.{/i}"
+    },
+    {
+      "character": "Ami",
+      "text": "Unless you break again. Right? If you break again, you\u2019ll stay forever?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Or until I wake back up."
+    },
+    {
+      "character": "Sensei",
+      "text": "But luckily for you, I\u2019ve grown rather accustomed to dreaming as of late. So, who knows? Maybe I\u2019ll feel safer asleep and wind up staying in bed a little longer than anticipated after all."
+    },
+    {
+      "character": "Ami",
+      "text": "I won\u2019t accept this...I won\u2019t support you putting yourself in harm\u2019s way for {i}any{/i} reason. Let alone one as ridiculous as...whatever it was you said before."
+    },
+    {
+      "character": "Sensei",
+      "text": "You don\u2019t have to accept it, Ami. "
+    },
+    {
+      "character": "Sensei",
+      "text": "You just have to be there."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "Later that night, I pledge to isolate myself from everyone and everything but Ami until school starts again."
+    },
+    {
+      "character": "narrator",
+      "text": "This means nothing for most as, to them, I\u2019ve already been gone for two months."
+    },
+    {
+      "character": "narrator",
+      "text": "But I know the girl who was here earlier will be dying inside for the next week as she wonders what happened after she left."
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019m sure she\u2019ll return tomorrow. And I\u2019m sure she\u2019ll have a million questions about why I\u2019m confined to my room once more."
+    },
+    {
+      "character": "narrator",
+      "text": "Maybe Ami will answer her, maybe she won\u2019t. "
+    },
+    {
+      "character": "narrator",
+      "text": "I have no way of knowing without being told and, at least from my point of view, she seems completely opposed to mentioning {i}anyone{/i} but her unless she absolutely has to."
+    },
+    {
+      "character": "narrator",
+      "text": "But...do you know what the saddest part of all of this is?"
+    },
+    {
+      "character": "narrator",
+      "text": "I don\u2019t {i}want{/i} to leave."
+    },
+    {
+      "character": "narrator",
+      "text": "I don\u2019t {i}want{/i} to risk getting hurt again."
+    },
+    {
+      "character": "narrator",
+      "text": "I want to stay here, where I know it\u2019s safe."
+    },
+    {
+      "character": "narrator",
+      "text": "Where I have someone who loves me \u2014 someone I love back."
+    },
+    {
+      "character": "narrator",
+      "text": "But I can\u2019t."
+    },
+    {
+      "character": "narrator",
+      "text": "Because sometimes, forcing people to do things they\u2019re not comfortable with is the best way to move them forward."
+    },
+    {
+      "character": "narrator",
+      "text": "There\u2019s a pair of scissors on the desk that whispers this to me in a voice I\u2019d rather forget."
+    },
+    {
+      "character": "narrator",
+      "text": "I go to sleep with my tail tucked between my legs."
+    },
+    {
+      "character": "narrator",
+      "text": "And I count down the days until those scissors help me cut my teeth at coping."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "springend3": {
+      "from": null,
+      "to": true
+    }
+  }
+}

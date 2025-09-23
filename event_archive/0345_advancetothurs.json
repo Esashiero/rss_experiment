@@ -1,0 +1,11 @@
+{
+  "event_id": 345,
+  "event_label": "advancetothurs",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "ERROR ADVANCING TO THURSDAY"
+    }
+  ],
+  "state_changes": {}
+}

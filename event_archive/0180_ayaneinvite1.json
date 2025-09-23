@@ -1,0 +1,604 @@
+{
+  "event_id": 180,
+  "event_label": "ayaneinvite1",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "I tap on Ayane\u2019s name in my phone and wait for her to answer. "
+    },
+    {
+      "character": "narrator",
+      "text": "I figure that if there\u2019s anyone who would be happy to receive an invite to the house from me directly, it would be her."
+    },
+    {
+      "character": "narrator",
+      "text": "But, then again, there\u2019s a good chance she\u2019s already there right now if she went home with Ami."
+    },
+    {
+      "character": "narrator",
+      "text": "If that were the case, I\u2019d feel a little strange about calling her right now...but I guess it\u2019s going to wind up being strange no matter what at this point."
+    },
+    {
+      "character": "narrator",
+      "text": "As long as she agrees, that is."
+    },
+    {
+      "character": "narrator",
+      "text": "Which she will because she is Ayane."
+    },
+    {
+      "character": "Ayane",
+      "text": "Yes! I will!"
+    },
+    {
+      "character": "Sensei",
+      "text": "What? I haven\u2019t even asked you anything yet."
+    },
+    {
+      "character": "Ayane",
+      "text": "Whatever you want, the answer is yes!"
+    },
+    {
+      "character": "Ayane",
+      "text": "Unless you are planning on ordering dinner from Wendy's! If that is the case, I don't want any!"
+    },
+    {
+      "character": "Sensei",
+      "text": "That is not what is happening here."
+    },
+    {
+      "character": "Ayane",
+      "text": "So, anyway, what was it you wanted?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I was going to see if you wanted to come over but now I might be having second-"
+    },
+    {
+      "character": "Ayane",
+      "text": "I\u2019m on my way!"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "Welp, any second thoughts I might have had don\u2019t matter now."
+    },
+    {
+      "character": "narrator",
+      "text": "Ayane is already on the way to the house...and since I'm the one who invited her over, a certain [niece] of mine might be a little taken aback by a sudden appearance from the bubble wrap princess."
+    },
+    {
+      "character": "narrator",
+      "text": "Especially an appearance that would likely begin with something along the lines of \u201cI am here for your [uncle],\u201d or whatever it is Ayane would say."
+    },
+    {
+      "character": "narrator",
+      "text": "So I guess I should hurry up and get home before something like that happens."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I manage to show up at the house before Ayane makes it here and find Ami microwaving something in the kitchen."
+    },
+    {
+      "character": "narrator",
+      "text": "She tries to start a conversation with me but, knowing how things like this tend to go, I dismiss her entirely and make it seem like I\u2019m in no mood to talk."
+    },
+    {
+      "character": "narrator",
+      "text": "An excellent strategy, if you ask me."
+    },
+    {
+      "character": "narrator",
+      "text": "This way, once Ayane makes it over, the two of us can quickly duck into my room before Ami has a chance to-"
+    },
+    {
+      "character": "Ayane",
+      "text": "Open up! I\u2019m ready for love!"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "Before Ami has a chance to find out that she\u2019s here."
+    },
+    {
+      "character": "narrator",
+      "text": "The lock suddenly...unlocks?"
+    },
+    {
+      "character": "Ayane",
+      "text": "Oh, good. You\u2019re right here."
+    },
+    {
+      "character": "Ayane",
+      "text": "I had to use my emergency key since you took too long to answer the door."
+    },
+    {
+      "character": "Sensei",
+      "text": "You walked in two seconds after knocking."
+    },
+    {
+      "character": "Ayane",
+      "text": "And they were the longest, most painful two seconds of my life."
+    },
+    {
+      "character": "Ayane",
+      "text": "Thanks for inviting me over today, Sensei."
+    },
+    {
+      "character": "Ayane",
+      "text": "Normally, it\u2019s Ami who asks me to come over and I need to think up creative ways to get to you instead."
+    },
+    {
+      "character": "Ayane",
+      "text": "I\u2019m glad that she isn\u2019t around and that I won\u2019t have to do that today."
+    },
+    {
+      "character": "Sensei",
+      "text": "Here\u2019s the thing, Ayane. Ami {i}is{/i} around today."
+    },
+    {
+      "character": "Ayane",
+      "text": "And you still invited me over?"
+    },
+    {
+      "character": "Ayane",
+      "text": "Do you have a deathwish?"
+    },
+    {
+      "character": "Sensei",
+      "text": "No. I do not have a deathwish."
+    },
+    {
+      "character": "Ayane",
+      "text": "Then are you trying to get {i}me{/i} killed? Because there is no way that one of those two things won\u2019t be happening."
+    },
+    {
+      "character": "Sensei",
+      "text": "I feel like you gravely misinterpreted the purpose of this meeting."
+    },
+    {
+      "character": "Ami",
+      "text": "Sensei? Is somebody else out here? I thought I heard-"
+    },
+    {
+      "character": "Ami",
+      "text": "Ayane? What are you doing here?"
+    },
+    {
+      "character": "Ami",
+      "text": "Did we have plans to hang out today?"
+    },
+    {
+      "character": "Ami",
+      "text": "I\u2019m really sorry. I completely forgot."
+    },
+    {
+      "character": "Ami",
+      "text": "If you want to come hang out in my room, I\u2019m watching this show about-"
+    },
+    {
+      "character": "Ayane",
+      "text": "A-Actually, Ami..."
+    },
+    {
+      "character": "Ayane",
+      "text": "I\u2019m...here to..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Ayane",
+      "text": "I\u2019m sorry. I don\u2019t want to be the one to break her heart."
+    },
+    {
+      "character": "Ayane",
+      "text": "Ami is my best friend and I could never hurt her like this."
+    },
+    {
+      "character": "Ami",
+      "text": "Hurt me like what? What are you talking about?"
+    },
+    {
+      "character": "Ami",
+      "text": "Also, what are you still doing out here, Sensei? "
+    },
+    {
+      "character": "Ami",
+      "text": "I thought you wanted to be left alone today?"
+    },
+    {
+      "character": "Ami",
+      "text": "This whole situation is starting to feel really-"
+    },
+    {
+      "character": "Ami",
+      "text": "Hey, wait a second! I see what\u2019s going on here!"
+    },
+    {
+      "character": "Ayane",
+      "text": "You...do?"
+    },
+    {
+      "character": "Ami",
+      "text": "You two were going to cook me a surprise dinner, weren\u2019t you?!"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Ayane",
+      "text": "..."
+    },
+    {
+      "character": "Ayane",
+      "text": "Yes."
+    },
+    {
+      "character": "Ayane",
+      "text": "I came here to cook food."
+    },
+    {
+      "character": "Ami",
+      "text": "Sensei...you weren't in a bad mood after all. You were just upset because you saw me microwaving food instead of cooking dinner..."
+    },
+    {
+      "character": "Ami",
+      "text": "So you probably called the first name in your phone and had them rush over here to help since you can\u2019t cook at all."
+    },
+    {
+      "character": "Ami",
+      "text": "And since Ayane is the first name to come after Ami in your contacts, you just threw a Hail Mary and prayed she\u2019d be free."
+    },
+    {
+      "character": "Ami",
+      "text": "I\u2019m so sorry that I worried you so much. "
+    },
+    {
+      "character": "Ami",
+      "text": "I\u2019m okay, Ayane. You can go home now and I will spend the rest of the night comforting my [uncle]."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Ayane",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Actually-"
+    },
+    {
+      "character": "Sensei",
+      "text": "I asked Ayane to hang out today."
+    },
+    {
+      "character": "Ayane",
+      "text": "Ah..."
+    },
+    {
+      "character": "Ami",
+      "text": "You...what?"
+    },
+    {
+      "character": "Ami",
+      "text": "You mean you tried to call me in your phone and then...pressed her name on accident and felt bad about turning her away...or?"
+    },
+    {
+      "character": "Ayane",
+      "text": "I really hope not. That would break my heart."
+    },
+    {
+      "character": "Sensei",
+      "text": "No, I called her intentionally because I wanted to see her."
+    },
+    {
+      "character": "Ayane",
+      "text": "..."
+    },
+    {
+      "character": "Ami",
+      "text": "So...you probably just assumed I was working or something then, right?"
+    },
+    {
+      "character": "Ami",
+      "text": "Cause there\u2019s no reason you\u2019d ever...call her instead of me..."
+    },
+    {
+      "character": "Ayane",
+      "text": "{i}Just roll with it, Sensei. This is the best escape route you\u2019re going to get.{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Ami",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah, sure. Why not."
+    },
+    {
+      "character": "Ami",
+      "text": "Jeez...Just check with me next time, Sensei...Do you really get lonely that easily?"
+    },
+    {
+      "character": "Ami",
+      "text": "You don\u2019t have to invite people here just because you think I\u2019m going to be away."
+    },
+    {
+      "character": "Ami",
+      "text": "In fact, if you close your eyes and think of me, it\u2019s almost like I\u2019m always there! Or something!"
+    },
+    {
+      "character": "Ami",
+      "text": "Hahaha...hahahahah..."
+    },
+    {
+      "character": "narrator",
+      "text": "This level of denial is something I\u2019d expect from a relapsing drug addict, not a girl catching her [uncle] spending time with one of her friends."
+    },
+    {
+      "character": "narrator",
+      "text": "Though, to be fair, both of those things sound kind of bad when put into words."
+    },
+    {
+      "character": "narrator",
+      "text": "If anything, mine might actually sound worse."
+    },
+    {
+      "character": "narrator",
+      "text": "But that doesn\u2019t change the fact that I {i}did{/i} invite Ayane to the house today, and abandoning her now of all times would be too rude even for me."
+    },
+    {
+      "character": "narrator",
+      "text": "I just have to think of a way to get Ami out of the picture- which might actually be a little harder than normal given that she\u2019s on high alert right now."
+    },
+    {
+      "character": "Sensei",
+      "text": "Well...I {i}did{/i} promise Ayane that the two of us could do something tonight, so if you could-"
+    },
+    {
+      "character": "Ayane",
+      "text": "Actually..."
+    },
+    {
+      "character": "Ayane",
+      "text": "How about we all just hang out together? Like old times."
+    },
+    {
+      "character": "Ami",
+      "text": "You mean like...when you first started coming over a billion years ago?"
+    },
+    {
+      "character": "Ayane",
+      "text": "Yeah, before Maya came into the picture."
+    },
+    {
+      "character": "Ami",
+      "text": "That makes it sound like you don\u2019t like Maya."
+    },
+    {
+      "character": "Ayane",
+      "text": "I love Maya. But you and Sensei are basically family to me."
+    },
+    {
+      "character": "Ayane",
+      "text": "So spending time with the two of you like how we used to is really all I could ask for."
+    },
+    {
+      "character": "narrator",
+      "text": "Ayane and I lock eyes for a moment and I honestly can\u2019t tell whether or not she\u2019s actually okay with this."
+    },
+    {
+      "character": "narrator",
+      "text": "Her words sound sincere but, just a few moments ago, she was over the moon at the prospect of hanging out alone with me."
+    },
+    {
+      "character": "narrator",
+      "text": "Taking that away from her now seems like it would just be adding more weight to the burden she already carries in hiding (Or at least {i}trying{/i} to hide) her feelings for me."
+    },
+    {
+      "character": "Sensei",
+      "text": "{i}Are you really okay with that?{/i}"
+    },
+    {
+      "character": "Ayane",
+      "text": "{i}Of course.{/i}"
+    },
+    {
+      "character": "Ami",
+      "text": "Uhh...guys?"
+    },
+    {
+      "character": "Ami",
+      "text": "If the {i}three{/i} of us are going to hang out, you should probably stop whispering to each other."
+    },
+    {
+      "character": "Ami",
+      "text": "I\u2019d like to be included too, you know."
+    },
+    {
+      "character": "Ayane",
+      "text": "Oh, of course! "
+    },
+    {
+      "character": "Ayane",
+      "text": "Sorry, Ami. I was just striking up a compromise with Sensei since we\u2019ve now included you in our plans."
+    },
+    {
+      "character": "Ami",
+      "text": "What kind of compromise?!"
+    },
+    {
+      "character": "Ami",
+      "text": "What happened to all that stuff about the \u201cold times\u201d or whatever?! Why is there suddenly a condition?!"
+    },
+    {
+      "character": "Ayane",
+      "text": "It\u2019s a simple condition."
+    },
+    {
+      "character": "Ayane",
+      "text": "All I ask is that I get to hold Sensei\u2019s hand for the rest of the day while you stay ten feet away from us."
+    },
+    {
+      "character": "Ami",
+      "text": "I might as well be in a different room at that point!"
+    },
+    {
+      "character": "Ayane",
+      "text": "Well, if that\u2019s what you\u2019d prefer, then feel free to-"
+    },
+    {
+      "character": "Ami",
+      "text": "Unhand my [uncle], Ayane! Your compromise is denied!"
+    },
+    {
+      "character": "Ami",
+      "text": "If anyone is holding Sensei\u2019s hand, it is his [niece] and your {i}alleged{/i} best friend!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Let the record show that I have two hands and can easily solve this problem for everyone."
+    },
+    {
+      "character": "Ayane",
+      "text": "See, Ami? I was even kind enough to leave his other hand available for you."
+    },
+    {
+      "character": "Ayane",
+      "text": "As long as you\u2019re able to remain ten feet away, that is."
+    },
+    {
+      "character": "Ami",
+      "text": "Sensei\u2019s super tall but even {i}his{/i} stupid hand won\u2019t reach that far! This is an unrealistic condition!"
+    },
+    {
+      "character": "Ayane",
+      "text": "Five feet?"
+    },
+    {
+      "character": "Ami",
+      "text": "No!"
+    },
+    {
+      "character": "Ayane",
+      "text": "Four?"
+    },
+    {
+      "character": "Ami",
+      "text": "Still no!"
+    },
+    {
+      "character": "Ayane",
+      "text": "Okay, okay. Fine. You\u2019re free to hold his other hand. But I also get to rest my head on his shoulder when we sit on the couch."
+    },
+    {
+      "character": "Ami",
+      "text": "Then so...do...I..."
+    },
+    {
+      "character": "Ayane",
+      "text": "Oh? Is that a challenge, Ami?"
+    },
+    {
+      "character": "Ayane",
+      "text": "I\u2019m sure you remember how our last challenge ended up, don\u2019t you?"
+    },
+    {
+      "character": "Ami",
+      "text": "You mean the cooking one?"
+    },
+    {
+      "character": "Ami",
+      "text": "I defeated you. I asserted dominance."
+    },
+    {
+      "character": "Ayane",
+      "text": "You may have won, yes..."
+    },
+    {
+      "character": "Ayane",
+      "text": "But who got to hold the giant banana?"
+    },
+    {
+      "character": "Ami",
+      "text": "A...ya...neeeeeeeeeeeeeeeeeeee!!!!!!!!!!!"
+    },
+    {
+      "character": "Ayane",
+      "text": "{i}This banana belongs to me...{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "And that basically explains how the rest of the night went."
+    },
+    {
+      "character": "narrator",
+      "text": "Ayane and Ami proceeded to fight over me for the next several hours, using my arms like some sort of tug-of-war rope and leaving me broken and bruised by the time the day ended."
+    },
+    {
+      "character": "narrator",
+      "text": "But even though it\u2019s become hard to feel my fingers, it was nice seeing two girls who care so much about me fight each other like that."
+    },
+    {
+      "character": "narrator",
+      "text": "I kind of wish they would have pulled each other's hair or something, though."
+    },
+    {
+      "character": "narrator",
+      "text": "That\u2019s what this night {i}really{/i} needed."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Ayane\u2019s affection has increased to [ayane_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "ayaneinvite1": {
+      "from": null,
+      "to": true
+    },
+    "ayane_love +": {
+      "from": 1,
+      "to": 3
+    }
+  }
+}

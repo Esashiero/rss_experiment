@@ -1,0 +1,11 @@
+{
+  "event_id": 289,
+  "event_label": "advancetomonch4",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "ERROR ADVANCING TO MONDAY"
+    }
+  ],
+  "state_changes": {}
+}

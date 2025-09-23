@@ -1,0 +1,296 @@
+{
+  "event_id": 112,
+  "event_label": "sanafirsthall",
+  "dialogue": [
+    {
+      "character": "Sensei",
+      "text": "Hey, Sana. Why are you just standing out here?"
+    },
+    {
+      "character": "Sana",
+      "text": "Oh...umm...hi, Sensei..."
+    },
+    {
+      "character": "Sana",
+      "text": "I don\u2019t...really know..."
+    },
+    {
+      "character": "Sana",
+      "text": "I just felt like...I was supposed to...for some reason..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Well, that's weird. But I guess I'm not really one to talk given my circumstances for being here."
+    },
+    {
+      "character": "Sana",
+      "text": "What...kind of circumstances are-"
+    },
+    {
+      "character": "Sensei",
+      "text": "Anyway, want to talk for a little while? Might help the two of us kill some time."
+    },
+    {
+      "character": "Sensei",
+      "text": "Assuming you're not busy, of course. Which I doubt you are since you're kind of just...standing here."
+    },
+    {
+      "character": "Sana",
+      "text": "Y-Yeah...I'm not doing anything..."
+    },
+    {
+      "character": "Sana",
+      "text": "My mom is handling the bar to...give me time to study, but..."
+    },
+    {
+      "character": "Sana",
+      "text": "Studying is kind of...really boring..."
+    },
+    {
+      "character": "Sensei",
+      "text": "I can help you if you want. You might not know this, but I'm actually a teacher."
+    },
+    {
+      "character": "Sana",
+      "text": "I had...no idea..."
+    },
+    {
+      "character": "Sana",
+      "text": "I think I\u2019ll...be okay, though..."
+    },
+    {
+      "character": "Sana",
+      "text": "We can talk about something else instead...Something that doesn't make me want to fall asleep..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Sounds good. Maybe you can tell me a little about what your mom is like?"
+    },
+    {
+      "character": "Sana",
+      "text": "My...mom? Why do you want to know about her?..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Just wondering if that\u2019s where you get any of your qualities from. The idea of an entire family of timid cyclops girls is quite amusing to me."
+    },
+    {
+      "character": "Sana",
+      "text": "You...do know I...have a second eye...right?..."
+    },
+    {
+      "character": "Sensei",
+      "text": "If you say so, Sana."
+    },
+    {
+      "character": "Sana",
+      "text": "..."
+    },
+    {
+      "character": "Sana",
+      "text": "Uhh...anyway..."
+    },
+    {
+      "character": "Sana",
+      "text": "My mom and I...aren't really that much alike..."
+    },
+    {
+      "character": "Sana",
+      "text": "I...do look like her, though..."
+    },
+    {
+      "character": "narrator",
+      "text": "As much as I like Sana for her current appearance, I can't help but wonder what an aged up version would look like."
+    },
+    {
+      "character": "narrator",
+      "text": "I'm sure I won't have to wonder for long, though. The two of us are bound to cross paths eventually."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m guessing your mom's a lot more talkative than you are?"
+    },
+    {
+      "character": "Sana",
+      "text": "That\u2019s...{i}one{/i} way to put it..."
+    },
+    {
+      "character": "Sana",
+      "text": "She\u2019s...umm..."
+    },
+    {
+      "character": "Sana",
+      "text": "Just...just go ahead and assume she's my...exact opposite..."
+    },
+    {
+      "character": "Sana",
+      "text": "You\u2019ll...find out whenever you meet her..."
+    },
+    {
+      "character": "Sana",
+      "text": "Any way I describe her would...make her sound a lot worse than...she actually is..."
+    },
+    {
+      "character": "Sensei",
+      "text": "That's...an interesting way to describe your mother. But I'll take your word for it."
+    },
+    {
+      "character": "Sensei",
+      "text": "How are things with Ayane, then? I'm a little curious as to how you two ended up in the same dorm together."
+    },
+    {
+      "character": "Sana",
+      "text": "That just...kind of happened, I guess?"
+    },
+    {
+      "character": "Sana",
+      "text": "I...don\u2019t really have any friends other than her...And Ami and Maya were already together, so..."
+    },
+    {
+      "character": "Sana",
+      "text": "Process of elimination?"
+    },
+    {
+      "character": "Sensei",
+      "text": "That makes it sound incredibly depressing."
+    },
+    {
+      "character": "Sana",
+      "text": "I know, but...it really isn't like that..."
+    },
+    {
+      "character": "Sana",
+      "text": "We...actually {i}are{/i} good friends, so..."
+    },
+    {
+      "character": "Sana",
+      "text": "You don't have to...feel bad for me or anything..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Great. Because that whole {i}sympathy{/i} thing isn't really one of my strong suits."
+    },
+    {
+      "character": "Sana",
+      "text": "I'm not sure if...I understand what you mean by that, but...I like living with Ayane..."
+    },
+    {
+      "character": "Sana",
+      "text": "She kind of...makes up for all of the things I'm lacking in..."
+    },
+    {
+      "character": "Sana",
+      "text": "I just wish...she'd listen to...better music every once in a while..."
+    },
+    {
+      "character": "narrator",
+      "text": "I guess there {i}is{/i} that whole saying about how opposites attract, so it's not bizarre to assume Ayane and Sana pair well together."
+    },
+    {
+      "character": "narrator",
+      "text": "Lump the quietest girl together with the most talkative one and there's sure to be some sort of...dynamic there."
+    },
+    {
+      "character": "narrator",
+      "text": "But to have both her best friend {i}and{/i} her mother be completely different from her?"
+    },
+    {
+      "character": "narrator",
+      "text": "I feel like that could get...exhausting."
+    },
+    {
+      "character": "Sensei",
+      "text": "Well, I\u2019m happy {i}you're{/i} comfortable around her. That makes one of us."
+    },
+    {
+      "character": "Sana",
+      "text": "I know she...comes on strong...especially with you..."
+    },
+    {
+      "character": "Sana",
+      "text": "But...I don't think you...have any reason to feel uncomfortable, Sensei..."
+    },
+    {
+      "character": "Sensei",
+      "text": "We'll see about that, I guess."
+    },
+    {
+      "character": "Sensei",
+      "text": "In the meantime, though, I'll let you get back to your compulsion to stand around the hall and neglect your education."
+    },
+    {
+      "character": "Sana",
+      "text": "Oh...okay...I..."
+    },
+    {
+      "character": "Sana",
+      "text": "I guess I'll...see you later, then?..."
+    },
+    {
+      "character": "Sensei",
+      "text": "I'm sure you will. I plan on spending a lot of time in this hallway."
+    },
+    {
+      "character": "Sana",
+      "text": "I..."
+    },
+    {
+      "character": "Sana",
+      "text": "I'm not really sure how I...feel about that..."
+    },
+    {
+      "character": "narrator",
+      "text": "Sana and I talk for another minute or so before I leave the dorms and get on with my night."
+    },
+    {
+      "character": "narrator",
+      "text": "She did mostly well this time, but I know that she's the type to get burned out by extensive conversations, so I figure it\u2019s best to just leave her alone after a while."
+    },
+    {
+      "character": "narrator",
+      "text": "As I step outside, I ponder what a fully adjusted and comfortable Sana Sakakibara would be like."
+    },
+    {
+      "character": "narrator",
+      "text": "There's no way she can stay so reclusive forever, is there?"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I wonder how long it will be until I can see a new side of her?"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I wonder if I'll like that one even more."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Sana\u2019s affection has increased to [sana_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "sanafirsthall": {
+      "from": null,
+      "to": true
+    }
+  }
+}

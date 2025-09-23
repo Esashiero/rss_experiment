@@ -1,0 +1,576 @@
+{
+  "event_id": 318,
+  "event_label": "springtime13",
+  "dialogue": [
+    {
+      "character": "Chika",
+      "text": "Like, seriously! What\u2019s even the point of a Christmas party without Sensei?! He\u2019s like, the only reason I get all dressed up and go to those in the first place!"
+    },
+    {
+      "character": "Yumi",
+      "text": "Hey, remember back when you had a life {i}without{/i} everything having to be about that guy? Those sure were the days. "
+    },
+    {
+      "character": "Yumi",
+      "text": "Also, the hell you on about with \u201cgettin\u2019 dressed up?\u201d Because I know you ain\u2019t talkin\u2019 about that skanky-ass Santa costume you keep stuffed in the closet 364 days out of the year."
+    },
+    {
+      "character": "Chika",
+      "text": "That\u2019s {i}exactly{/i} the costume I\u2019m talking about. And if it weren\u2019t for Ami, I\u2019d be wearing it again right now. Unless I\u2019ve gained weight. "
+    },
+    {
+      "character": "Chika",
+      "text": "Have I gained weight? Is that why Sensei\u2019s gone? Did he disappear because he didn\u2019t have the heart to tell me and now Ami is helping him stay off the grid so I can\u2019t learn the truth and win him back? Huh?"
+    },
+    {
+      "character": "Chika",
+      "text": "You know, don\u2019t you? You\u2019re keeping something hidden from me. I can tell."
+    },
+    {
+      "character": "Chinami",
+      "text": "Big sis, Chika! Can Chinami open another present?!"
+    },
+    {
+      "character": "Chika",
+      "text": "Of course, my precious little angel! Chinami can do whatever she wants because Chinami is a good girl who would never do anything to make her sister sad! I love you!"
+    },
+    {
+      "character": "Chinami",
+      "text": "Wahoo! Material goods!"
+    },
+    {
+      "character": "Yumi",
+      "text": "So, on a scale of one to ten, where do you think you\u2019d rank yourself right now in terms of utter insanity?"
+    },
+    {
+      "character": "Chika",
+      "text": "This many."
+    },
+    {
+      "character": "Yumi",
+      "text": "Aight. I think it might be time to take you to the doctor. "
+    },
+    {
+      "character": "Chika",
+      "text": "You\u2019re right. But if my lobotomy fails and I\u2019m put into a coma, just pull the plug and take care of Chinami yourself. I trust you."
+    },
+    {
+      "character": "Yumi",
+      "text": "I meant for like...brain shit, Chika. Whatever {i}this{/i} is ain\u2019t healthy."
+    },
+    {
+      "character": "Chika",
+      "text": "Yes, Yumi! I\u2019m well aware! If it was healthy, I wouldn\u2019t be screaming like this and gaining weight and losing sleep and screaming and...did I mention gaining weight?! God, how bad is it?! Just tell me!"
+    },
+    {
+      "character": "Yumi",
+      "text": "You look exactly the fu...frickin\u2019 same as always. Only difference is you finally went back to your natural hair color."
+    },
+    {
+      "character": "Chika",
+      "text": "Oh god! It\u2019s the hair, isn\u2019t it?! That\u2019s why he left!"
+    },
+    {
+      "character": "Yumi",
+      "text": "Bitch, he ain\u2019t even seen it yet."
+    },
+    {
+      "character": "Chika",
+      "text": "And he probably never will..."
+    },
+    {
+      "character": "Yumi",
+      "text": "Chika, the dude ain\u2019t tryin\u2019 to get away from you. He\u2019s just...all messed up in the head. It\u2019s probably like when I ran away for a while and he just needs some time to reset or something."
+    },
+    {
+      "character": "Chika",
+      "text": "But {i}why?{/i} I don\u2019t even know what happened! It\u2019s like, Halloween came and all of a sudden he was just {i}gone.{/i} And we all saw him leave with Ami that night, so it had to be something she did, right?"
+    },
+    {
+      "character": "Yumi",
+      "text": "Frick if I know. Maybe he {i}also{/i} beat the shit outta Nodoka and just none of us were around to see it."
+    },
+    {
+      "character": "Yumi",
+      "text": "Wish I was, though. That sounds hilarious."
+    },
+    {
+      "character": "Chika",
+      "text": "Yumi, I\u2019m being serious. I\u2019m starting to get really worried."
+    },
+    {
+      "character": "Yumi",
+      "text": "You said that same exact thing after he was gone for literally one day. "
+    },
+    {
+      "character": "Chika",
+      "text": "Yeah, but now it\u2019s {i}justified.{/i} This isn\u2019t normal. And all of us know it isn\u2019t normal, yet no one\u2019s been able to do anything about it and he\u2019s still {i}not here.{/i}"
+    },
+    {
+      "character": "Yumi",
+      "text": "I...ain\u2019t really sure what you want me to tell you, Chika. "
+    },
+    {
+      "character": "Yumi",
+      "text": "I just know it ain\u2019t good for you to keep freakin\u2019 out like this. You\u2019re gonna give yourself an aneurysm and then I really {i}will{/i} have to take care of the twerp on my own. And I ain\u2019t ready to be a single mom."
+    },
+    {
+      "character": "Chika",
+      "text": "What if he never comes back, Yumi? What if him and Ami just...up and leave?"
+    },
+    {
+      "character": "Yumi",
+      "text": "And go where? City\u2019s closed. "
+    },
+    {
+      "character": "Chika",
+      "text": "Yeah, but the city\u2019s {i}big.{/i} And Sensei is like, super charismatic and hard-working and awesome, so he\u2019d be able to find another job {i}easily!{/i} He doesn\u2019t {i}need{/i} to be a teacher."
+    },
+    {
+      "character": "Yumi",
+      "text": "You know, if the lobotomy thing and the crazy eyes didn\u2019t already put you over the edge, that \u201ccharismatic and hard-working\u201d comment would\u2019ve. Dude\u2019s a bum, Chika. You know it."
+    },
+    {
+      "character": "Chika",
+      "text": "Nuh-uh. He\u2019s just been away for so long by now that you\u2019re not remembering him correctly. "
+    },
+    {
+      "character": "Yumi",
+      "text": "You sure it ain\u2019t the other way around?"
+    },
+    {
+      "character": "Chika",
+      "text": "Is this really how my first relationship is going to end? With me never getting any closure and my boyfriend just straight up vanishing? Is my life really {i}that{/i} tragic? It can\u2019t be, right?"
+    },
+    {
+      "character": "Chika",
+      "text": "Like, something\u2019s gotta work out eventually. Doesn\u2019t it? Why can\u2019t it be this? Why can\u2019t it be him?"
+    },
+    {
+      "character": "Yumi",
+      "text": "Chika...I know this ain\u2019t what you wanna hear. But as your friend, I\u2019ve gotta be honest. "
+    },
+    {
+      "character": "Yumi",
+      "text": "Maybe fallin\u2019 for a dude in his thirties while you\u2019re still in high school wasn\u2019t the best bet in terms of findin\u2019 something that\u2019ll \u201cwork out.\u201d You know what I mean?"
+    },
+    {
+      "character": "Chika",
+      "text": "Age is just a number, Yumi. "
+    },
+    {
+      "character": "Yumi",
+      "text": "Seriously? Around the kid?"
+    },
+    {
+      "character": "Chika",
+      "text": "Chinami, you didn\u2019t hear that."
+    },
+    {
+      "character": "Chinami",
+      "text": "Chinami didn\u2019t hear anything...."
+    },
+    {
+      "character": "Yumi",
+      "text": "Listen, I ain\u2019t sayin\u2019 he\u2019s never comin\u2019 back. I obviously don\u2019t know him as well as you, but I don\u2019t think he\u2019s the type to just...leave all this shit behind, you know?"
+    },
+    {
+      "character": "Chika",
+      "text": "But he\u2019s done it once before. With Noriko. Which is probably why she\u2019s handling this so well while {i}I\u2019m{/i} drowning in misery."
+    },
+    {
+      "character": "Yumi",
+      "text": "Pinkie ain\u2019t doin\u2019 well at all. Girl is doubling down on all that righteous nonsense she\u2019s always pushin\u2019 and I caught her cryin\u2019 in the bathroom just last week."
+    },
+    {
+      "character": "Chika",
+      "text": "The one near the gym?"
+    },
+    {
+      "character": "Yumi",
+      "text": "Yeah, the one near the-"
+    },
+    {
+      "character": "Yumi",
+      "text": "Wait, why do {i}you{/i} know that?"
+    },
+    {
+      "character": "Chika",
+      "text": "That\u2019s the crying bathroom. It used to just be the gym bathroom, but our class took control of it in early November and repurposed it so we\u2019d have a safe space to think about death and other sad stuff."
+    },
+    {
+      "character": "Yumi",
+      "text": "Man, I can\u2019t help but feel like a lotta this shit would be totally avoidable if we had an actual class counselor instead of the world\u2019s most desirable predator."
+    },
+    {
+      "character": "Chika",
+      "text": "You want to talk about \u201cpredators?\u201d Fine. Let\u2019s talk about Ami \u2014 because there isn\u2019t a doubt in my mind that this is all her fault. There\u2019s no way she isn\u2019t the reason Sensei\u2019s still absent from school."
+    },
+    {
+      "character": "Yumi",
+      "text": "Heh? Don\u2019t just assume I {i}want{/i} to talk about them because I-"
+    },
+    {
+      "character": "Chika",
+      "text": "Ten thousand yen says that clingy psycho niece of his is taking advantage of Sensei\u2019s kindness as we speak. "
+    },
+    {
+      "character": "Chika",
+      "text": "She\u2019s been doing it forever and I\u2019m tired of giving her the benefit of the doubt just because I assumed making her like me would ultimately make it easier for me to marry Sensei after college."
+    },
+    {
+      "character": "Chika",
+      "text": "But you know what, Yumi? {i}Fuck{/i} Ami. The next time I see her, I\u2019m getting some answers \u2014 even if I have to squeeze them out of her damn neck."
+    },
+    {
+      "character": "Yumi",
+      "text": "Woah."
+    },
+    {
+      "character": "Chinami",
+      "text": "Big sis Chika said the forbidden word! Now Child Services is going to come and take Chinami away!"
+    },
+    {
+      "character": "Chika",
+      "text": "Chinami, go take a bath. Big sis Chika needs to vent to Yumi or she\u2019s going to pull all of her hair out and then she\u2019ll be bald and ugly {i}and{/i} fat."
+    },
+    {
+      "character": "Chinami",
+      "text": "But-"
+    },
+    {
+      "character": "Chika",
+      "text": "Chinami. No more presents until you take a bath. I mean it."
+    },
+    {
+      "character": "Chinami",
+      "text": "Aww...rats."
+    },
+    {
+      "character": "Yumi",
+      "text": "Now...I ain\u2019t the biggest fan of mini-Sensei either. But what makes you think she\u2019d be the one somehow responsible for all this bullshit?"
+    },
+    {
+      "character": "Chika",
+      "text": "Were you not paying attention earlier! She left the Halloween party with Sensei and nobody has seen him since. She obviously did something."
+    },
+    {
+      "character": "Yumi",
+      "text": "That ain\u2019t true. We saw him the day after Halloween, remember? "
+    },
+    {
+      "character": "Chika",
+      "text": "What? No. I don\u2019t remember that at all. Stop making shit up just to throw a wrench in my theory. You always do that."
+    },
+    {
+      "character": "Yumi",
+      "text": "I\u2019ve...literally never done that at any point ever. But we had school that day, Chika. I remember because I was actually there."
+    },
+    {
+      "character": "Chika",
+      "text": "Well {i}I{/i} was obviously not there because that never happened."
+    },
+    {
+      "character": "Yumi",
+      "text": "The hell are you talking about? We even had that project thing where-"
+    },
+    {
+      "character": "Chika",
+      "text": "..."
+    },
+    {
+      "character": "Yumi",
+      "text": "Where..."
+    },
+    {
+      "character": "Chika",
+      "text": "See? You can\u2019t remember because it never {i}happened.{/i} If you\u2019re going to make up stories like that, at least figure out the bullet-points before you start sharing them."
+    },
+    {
+      "character": "Yumi",
+      "text": "No, that\u2019s...I can\u2019t remember any of the details, but...I remember..."
+    },
+    {
+      "character": "Yumi",
+      "text": "A-Anyway, what about the rest of his little squadron? "
+    },
+    {
+      "character": "Yumi",
+      "text": "Cause I know for sure that Ponytail and Blondie have been goin\u2019 over to his place since they follow mini-Sensei home whenever she {i}does{/i} come to school."
+    },
+    {
+      "character": "Chika",
+      "text": "They {i}also{/i} left with him on Halloween. Sana too. I just left them out when I brought it up because Ami\u2019s the one I trust the least."
+    },
+    {
+      "character": "Chika",
+      "text": "That entire group is starting to piss me off, though. They\u2019re definitely hiding something. But any time I\u2019ve approached Ayane about it, she\u2019s seemed like...genuinely upset. "
+    },
+    {
+      "character": "Chika",
+      "text": "So either Ami\u2019s fucking {i}her{/i} over too or Ayane is going to win an Oscar one day. Maya and Sana I just...don\u2019t even see being attracted to Sensei, as crazy as that sounds."
+    },
+    {
+      "character": "Yumi",
+      "text": "Is that really enough reason to wring her neck, though? Cause, speakin\u2019 from experience, that\u2019s a thing you\u2019ve gotta be ready to deal with the fallout for."
+    },
+    {
+      "character": "Chika",
+      "text": "Honestly? If getting expelled is all that would come of it, yeah. I {i}do{/i} think that\u2019s enough of a reason."
+    },
+    {
+      "character": "Chika",
+      "text": "I\u2019ve ignored Ami\u2019s fucking...creepy incestuous passes at Sensei for way too long because I know he\u2019d never go through with any of it. "
+    },
+    {
+      "character": "Chika",
+      "text": "And if something actually happened that {i}did{/i} fuck him up mentally...and {i}she{/i} seized that opportunity to take what we {i}all{/i} know she wants from him..."
+    },
+    {
+      "character": "Chika",
+      "text": "I will fucking kill her, Yumi. I mean it."
+    },
+    {
+      "character": "Yumi",
+      "text": "Chika, you ain\u2019t {i}killing{/i} anybody. And gettin\u2019 expelled from school is gonna fuck with your future."
+    },
+    {
+      "character": "Yumi",
+      "text": "You\u2019ve got a little sister to take care of. You can\u2019t be doin\u2019 shit that {i}I{/i} would do. You\u2019re better than that. You\u2019ve {i}always{/i} been better than that."
+    },
+    {
+      "character": "Chika",
+      "text": "Yumi, let\u2019s be real for a second. Getting expelled from high school won\u2019t really do {i}anything{/i} to me or my future. "
+    },
+    {
+      "character": "Chika",
+      "text": "I don\u2019t have the money for college. And I was already considering getting my GED that year I left to focus on Chinami. Hell, I\u2019m lucky they let me come back in the first place."
+    },
+    {
+      "character": "Chika",
+      "text": "Maybe if my mom was still here, things would be different. Maybe I\u2019d be able to...I don\u2019t know- work harder in school and...bust my ass for a scholarship or something. "
+    },
+    {
+      "character": "Chika",
+      "text": "But I don\u2019t have the time for that while raising her with you. Neither one of us is...good enough at {i}anything{/i} to...{i}reach for the skies{/i} like Nodoka or Makoto..."
+    },
+    {
+      "character": "Chika",
+      "text": "Plus, I\u2019ve been making good money at the maid cafe. Especially with all the extra hours I\u2019ve been picking up with Ami away."
+    },
+    {
+      "character": "Chika",
+      "text": "Like, just look at all the presents I was able to get for Chinami this year. She\u2019s having an {i}actual{/i} Christmas for once."
+    },
+    {
+      "character": "Chika",
+      "text": "I did that without even {i}finishing{/i} high school. Which means there are avenues for me to take care of us {i}without{/i} having to spend more time on my education. "
+    },
+    {
+      "character": "Chika",
+      "text": "If anything, school is like...a {i}hindrance{/i} right now. Because I know I could be making even {i}more{/i} if I didn\u2019t have to spend like forty hours a week there. You know what I mean?"
+    },
+    {
+      "character": "Yumi",
+      "text": "I mean...yeah..."
+    },
+    {
+      "character": "Yumi",
+      "text": "All that makes really good sense to me, Chika. Especially as someone who was thinkin\u2019 the same way just a little while ago. Difference is that you actually {i}are{/i} good at shit, though."
+    },
+    {
+      "character": "Yumi",
+      "text": "And I don\u2019t want you throwin\u2019 away a chance at a better future for the sake of some dude who, again, don\u2019t wanna say this \u2014 might not {i}be{/i} who you want him to be."
+    },
+    {
+      "character": "Chika",
+      "text": "I just don\u2019t know what else to do, Yumi..."
+    },
+    {
+      "character": "Chika",
+      "text": "I feel so fucking...{i}helpless.{/i} Like, she won\u2019t even let me inside their house. I can\u2019t even say I miss him. And he hasn\u2019t responded to a single text in two months. I\u2019m out of options here."
+    },
+    {
+      "character": "Yumi",
+      "text": "You can always {i}wait,{/i} dude. We ain\u2019t got the faintest fuckin\u2019 idea what\u2019s goin\u2019 on with your creepy ass {i}boyfriend.{/i} And attackin\u2019 his damn niece could make that even worse."
+    },
+    {
+      "character": "Yumi",
+      "text": "Like, the hell would you gain if you beat the shit out of her and she straight up just...continued to not tell you anything? Cause the best case scenario there would be her leavin\u2019 the cops out of it. "
+    },
+    {
+      "character": "Chika",
+      "text": "Do you think...the cops would actually do anything if we tried to get them involved {i}now?{/i} Like, couldn\u2019t they go do a welfare check or something? "
+    },
+    {
+      "character": "Yumi",
+      "text": "Kumon-mi\u2019s cops? You kidding? Force is so thin with all the dudes up there in space that you can\u2019t even get \u2018em to show up for a robbery. How the hell do you think I landed so many TVs?"
+    },
+    {
+      "character": "Chika",
+      "text": "I thought you got those on the side of the road when people were throwing them away?"
+    },
+    {
+      "character": "Yumi",
+      "text": "Yeah, cause that\u2019s what I wanted you to think. "
+    },
+    {
+      "character": "Chika",
+      "text": "Oh god. I\u2019m harboring a criminal."
+    },
+    {
+      "character": "Yumi",
+      "text": "Listen, if you want {i}my{/i} advice...try makin\u2019 the guy a fuckin\u2019 card or something."
+    },
+    {
+      "character": "Chika",
+      "text": "A...card?"
+    },
+    {
+      "character": "Yumi",
+      "text": "Yeah. You know how in movies and shit, people will band together and make a card for somebody who\u2019s goin\u2019 through a tough time and then, like...that person\u2019s suddenly cured of cancer or whatever? Do that."
+    },
+    {
+      "character": "Chika",
+      "text": "Are you telling me Sensei has cancer?"
+    },
+    {
+      "character": "Yumi",
+      "text": "No, you fucking moron. I\u2019m telling you that, like...even if the dude\u2019s a heartless prick who preys on teenagers, he\u2019d probably feel {i}something{/i} getting a card like that."
+    },
+    {
+      "character": "Yumi",
+      "text": "Even if you all write simple shit like \u201cYo, miss you\u201d or whatever. It ain\u2019t a foolproof plan by any means, but it\u2019s better than beatin\u2019 the shit outta somebody, I think. And I speak from experience."
+    },
+    {
+      "character": "Chika",
+      "text": "How would we get it to him, though? Because we\u2019d have to give it to Ami and I refuse to believe she wouldn\u2019t just tear it up or set it on fire to make sure he keeps thinking of her and her alone."
+    },
+    {
+      "character": "Yumi",
+      "text": "Now, {i}that{/i} I don\u2019t know. And I\u2019ve gotta start gettin\u2019 ready for a thing, so I can\u2019t brainstorm now. But I\u2019ll text you if I think of something."
+    },
+    {
+      "character": "Chika",
+      "text": "A {i}thing?{/i} "
+    },
+    {
+      "character": "Yumi",
+      "text": "Don\u2019t worry about it."
+    },
+    {
+      "character": "Chika",
+      "text": "Oh my god! You\u2019re going to the Christmas party, aren\u2019t you?!"
+    },
+    {
+      "character": "Yumi",
+      "text": "I literally just told you not to worry about it."
+    },
+    {
+      "character": "Chinami",
+      "text": "{i}Big sis, Chika! Chinami\u2019s been waiting a long time for the water to get hot, but it\u2019s still cold! And she doesn\u2019t want to take a cold bath because she\u2019ll get a cough and then die!{/i}"
+    },
+    {
+      "character": "Chika",
+      "text": "Fuck...That\u2019s the fifth time this month. "
+    },
+    {
+      "character": "Yumi",
+      "text": "You forget to pay the bill or some shit?"
+    },
+    {
+      "character": "Chika",
+      "text": "No, I think the boiler is busted. "
+    },
+    {
+      "character": "Chika",
+      "text": "Chinami, just take a bath tomorrow! I\u2019m sorry for making you wait in there so long!"
+    },
+    {
+      "character": "Chinami",
+      "text": "{i}That\u2019s okay! Chinami played with her imaginary friend, Thomas!{/i}"
+    },
+    {
+      "character": "Chika",
+      "text": "Please don\u2019t take imaginary boys into the bathroom with you, Chinami!"
+    },
+    {
+      "character": "Yumi",
+      "text": "Need me to go knock some sense into your landlord? Or would you rather get some of that crazy bitch energy out and fight him yourself?"
+    },
+    {
+      "character": "Chika",
+      "text": "Don\u2019t worry about it. I\u2019ve got another Christmas present for {i}both{/i} of you that should be ready any day now. And when it is, we\u2019ll have all the hot water we\u2019ll ever need."
+    },
+    {
+      "character": "Yumi",
+      "text": "You\u2019re gonna fuckin\u2019 burn this place to the ground, aren\u2019t you?"
+    },
+    {
+      "character": "Chika",
+      "text": "Yumi, if I don\u2019t see my boyfriend soon, I am going to burn this entire fucking {i}city{/i} to the ground."
+    },
+    {
+      "character": "Yumi",
+      "text": "And on that note, I\u2019m out. Text me if you start thinking more about death and other sad stuff or whatever."
+    },
+    {
+      "character": "Chika",
+      "text": "Got it. Tell everybody at the party who doesn\u2019t also love Sensei that I said hi."
+    },
+    {
+      "character": "Yumi",
+      "text": "What\u2019s that? You want me to talk to absolutely no one? Got it. Later."
+    },
+    {
+      "character": "Chika",
+      "text": "Later, Yumi."
+    },
+    {
+      "character": "Chika",
+      "text": "And thank you..."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Chika\u2019s affection has decayed by 10!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Yumi\u2019s affection has decayed by 10!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Chinami\u2019s affection has decayed by 10!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "yumi_love -": {
+      "from": null,
+      "to": 10
+    },
+    "springtime13": {
+      "from": null,
+      "to": true
+    },
+    "chinami_love -": {
+      "from": null,
+      "to": 10
+    },
+    "chika_love -": {
+      "from": null,
+      "to": 10
+    }
+  }
+}

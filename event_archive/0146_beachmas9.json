@@ -1,0 +1,760 @@
+{
+  "event_id": 146,
+  "event_label": "beachmas9",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "{i}But further along the beach, things are not as simple and joyous.{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Further along the beach is a man who struggles to grasp the concept of killing at all when the world around him is one giant fallacy.{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Or is that just what he\u2019s meant to think?{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Is that just what you\u2019re meant to think?{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}How can you kill what doesn\u2019t exist? And what metaphorical line in the sand he kicks up as he walks must we cross over until we ask ourselves what is really important?{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}How much further down the beach do we need to walk until we reach the edge of the world?{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}And can we even reach it at all from here?{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}I see no walls...do you?{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}I see no barrier...{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Do you?{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "I have no use for italics that bend my words into pretty shapes when the world itself is bending all of us every single second we spend inside of it."
+    },
+    {
+      "character": "narrator",
+      "text": "We are the letters. "
+    },
+    {
+      "character": "narrator",
+      "text": "Our role is to be manipulated. "
+    },
+    {
+      "character": "narrator",
+      "text": "Italicized. Bolded. Highlighted."
+    },
+    {
+      "character": "narrator",
+      "text": "Strewn together in different combinations until our presence means something."
+    },
+    {
+      "character": "narrator",
+      "text": "But it won\u2019t mean anything in the way you want it to."
+    },
+    {
+      "character": "narrator",
+      "text": "So go on. "
+    },
+    {
+      "character": "narrator",
+      "text": "Misinterpret it all again."
+    },
+    {
+      "character": "narrator",
+      "text": "See the barrier as a different form of metaphor."
+    },
+    {
+      "character": "narrator",
+      "text": "See the people you love as no more than code."
+    },
+    {
+      "character": "narrator",
+      "text": "For I am tired of telling the truth to people who have no desire to {i}hear{/i} it."
+    },
+    {
+      "character": "narrator",
+      "text": "I am tired of the rise and fall of the sun and the gods and the tide and all of the things you already had before I ever brought you here."
+    },
+    {
+      "character": "narrator",
+      "text": "Before I showed you the {i}truth.{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "You\u2019ll never see anything if you keep walking down the shore with your eyes closed."
+    },
+    {
+      "character": "narrator",
+      "text": "And the only reason you\u2019re stuck here in the first place is because you think you\u2019re somewhere you\u2019re not."
+    },
+    {
+      "character": "narrator",
+      "text": "The only barrier between us and freedom is one that you, yourself, have built."
+    },
+    {
+      "character": "narrator",
+      "text": "Tear it down."
+    },
+    {
+      "character": "narrator",
+      "text": "And for the first time in your life-"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Listen to me.{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Bend.{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "Tsuneyo? What are you doing out here all by yourself?"
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "I am thinking."
+    },
+    {
+      "character": "Sensei",
+      "text": "About...noodles, I\u2019m assuming?"
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "Amongst other things."
+    },
+    {
+      "character": "Sensei",
+      "text": "Well...do you mind if I join you? "
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "Do you mind if I refuse?"
+    },
+    {
+      "character": "Sensei",
+      "text": "You haven\u2019t refused any of the {i}other{/i} times I\u2019ve dedicated to hanging out with you lately. So either something has happened for you to reevaluate the way you look at me or-"
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "Or you\u2019ve never understood the way I\u2019ve looked at you at all."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "I know that I haven\u2019t made that easy."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "I\u2019ve never been truly {i}understood{/i} by anyone. Not even those like the Emerald Guardian or my father...the ones who care for me more than everyone else."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "It\u2019s possible that my definition for what it means to be \u201cunderstood\u201d is strict in comparison to one we write in books. "
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "But I don\u2019t think it\u2019s possible to ever understand anyone when we all do things that even {i}we{/i} don\u2019t understand at times."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "Is it enough to only understand a fraction of someone?"
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "What if the part you don\u2019t understand is the most dangerous part of all? Is that not cause for concern? For fear?"
+    },
+    {
+      "character": "Sensei",
+      "text": "You\u2019re right to be afraid of me, you know."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "I\u2019m not talking about you. I\u2019m talking about myself."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "It appears that I have done something wrong. And yet...I can not seem to wrap my head around {i}why.{/i}"
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "How am I to prevent myself from hurting more people I care about when I can not comprehend which of my actions will directly harm them?"
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "Is this how you feel every morning when you wake up and leave your house to go prey upon the weak?"
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "Am I just one more version of you? Destined to forever walk this beach alone in hopes that someone will find me and remind me that it\u2019s {i}okay{/i} to hurt people so long as it\u2019s done accidentally?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Tsuneyo-"
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "The Guardian wants me to apologize to you."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "She wants me to apologize to the very man who betrayed her...and took advantage of her at her most vulnerable...all because she is afraid of losing him. "
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "How am I supposed to understand that? How am I supposed to understand {i}anyone{/i} with such complex emotions? "
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "How was I meant to prepare for this? What could I have done differently?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Nothing."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "There\u2019s nothing you could have done differently."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "That\u2019s where I keep landing as well."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "There\u2019s nothing I can do. No way I can prevent additional harm when even attempting to prevent said harm can harm in its own way."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "What is this wretched cycle of pain? The one that destroys just so it can rebuild itself? The one that stretches wider than the ocean and taller than the sky?"
+    },
+    {
+      "character": "Sensei",
+      "text": "It\u2019s called life. And yeah, it kind of sucks the majority of the time. But what else are we going to do? "
+    },
+    {
+      "character": "Sensei",
+      "text": "Just pretend everything is fine instead of trying to force yourself to understand anything. "
+    },
+    {
+      "character": "Sensei",
+      "text": "Because if you\u2019re going to stand out here and keep asking yourself rhetorical and borderline paradoxical questions about what you\u2019re meant to do next, no one is ever going to see you again."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "I wonder what a world without me would look like. "
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "I wonder if anything would change."
+    },
+    {
+      "character": "Sensei",
+      "text": "I know one girl who would be very upset to hear you say things like that. And she\u2019s the same one who sent me out here to come find you."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "It seems I have caused a great deal of trouble for both of you. And for that, I am sorry."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "But I will {i}not{/i} apologize for the things I said about you during the War of the Dorms."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "Not until you admit what you did to my friend. "
+    },
+    {
+      "character": "Sensei",
+      "text": "And if I tell you {i}I don\u2019t know{/i} what I did to your friend?"
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "I\u2019d tell you to stop pretending and actually {i}think.{/i}"
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "If someone like me...someone who knew close to nothing before being tossed into this world, can form an opinion based on evidence...there is no way that {i}you{/i} can not."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "You\u2019re either a coward...or you are lying to both of us. And only one of those things is unforgivable. "
+    },
+    {
+      "character": "Sensei",
+      "text": "They\u2019re both unforgiv-"
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "There is nothing wrong with being afraid. If your cowardice comes at the cost of your humanity, that is a different story. But my friend adamantly believes that you did nothing wrong."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "And I simply can not believe her until {i}you{/i} reach that same conclusion instead of hiding from it like menma in a tangle of buckwheat. "
+    },
+    {
+      "character": "narrator",
+      "text": "I sit down just beyond the reach of the tide and wait for Tsuneyo to turn around and speak to me directly."
+    },
+    {
+      "character": "narrator",
+      "text": "It takes another five minutes of complete silence before she does this. But I\u2019m unsure if any of her anger has subsided as I can rarely ever tell what she\u2019s feeling just by looking at her face."
+    },
+    {
+      "character": "narrator",
+      "text": "She stares deeply into my eyes."
+    },
+    {
+      "character": "narrator",
+      "text": "It feels as if she\u2019s drilling holes into my pupils so deep that they\u2019re going to penetrate the back of my skull and allow her to see right through me."
+    },
+    {
+      "character": "narrator",
+      "text": "More than she already does."
+    },
+    {
+      "character": "narrator",
+      "text": "Which is more than I ever thought she would."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t..."
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t think what you did during the Dorm Wars was \u201cwrong.\u201d"
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "You...don\u2019t?"
+    },
+    {
+      "character": "Sensei",
+      "text": "No. And I think you\u2019re right to feel conflicted about all of this since sticking up for the people you love is always the morally correct thing to do."
+    },
+    {
+      "character": "Sensei",
+      "text": "But moral correctness doesn\u2019t have any sort of correlation to what the recipient of unwanted feelings will...well, {i}feel.{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t know if you were looking at us back then, but neither one of us could move. We were in shock."
+    },
+    {
+      "character": "Sensei",
+      "text": "I guess we were just under the assumption that burying something meant it would stay underground. And neither of us thought we\u2019d ever come face to face with it again."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "Should it have ever been buried in the first place, though? That is the question we must ask ourselves."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "Is ignoring such a serious matter truly what is best? Or should something be {i}done{/i} about it so nothing similar ever happens again?"
+    },
+    {
+      "character": "Sensei",
+      "text": "What can be done?"
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "That depends on what you did."
+    },
+    {
+      "character": "Sensei",
+      "text": "Molly says I didn\u2019t do anything."
+    },
+    {
+      "character": "Sensei",
+      "text": "But what do you think I did?"
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "I think you took something that didn\u2019t belong to you."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "And I think you\u2019re worried now because it\u2019s burning holes in your pockets...but you\u2019ve come too far since then and are now unable to return it."
+    },
+    {
+      "character": "Sensei",
+      "text": "Things like that can never be returned in the first place."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "And that is why they are the worst to take."
+    },
+    {
+      "character": "Sensei",
+      "text": "I can\u2019t apologize for something I\u2019ll never know if I actually did or not."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "Maybe so. But you can feel remorse."
+    },
+    {
+      "character": "Sensei",
+      "text": "Do you think I haven\u2019t? "
+    },
+    {
+      "character": "Sensei",
+      "text": "Do you think I\u2019m {i}proud{/i} of myself for this? Like it\u2019s some sort of notch in my belt or a tally mark on a checklist?"
+    },
+    {
+      "character": "Sensei",
+      "text": "At least Molly had someone like you to talk to after what happened while I had to lay in my bed night after night and {i}guess.{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "I know what it looked like. I\u2019m not an idiot. But I don\u2019t know for sure what {i}happened.{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "And I\u2019m afraid of finding out."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "I {i}am{/i} a coward. It\u2019s just like you said."
+    },
+    {
+      "character": "Sensei",
+      "text": "But I wouldn\u2019t do something like that to someone I care about."
+    },
+    {
+      "character": "Sensei",
+      "text": "There\u2019s no way I\u2019d...do that to...someone...I care about..."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "I didn\u2019t realize you were capable of showing such emotion."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah, well...you\u2019re not really known for your expressions either."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "Thank you for saying that to me. Not the part about my expressionlessness, but the part where you admitted this was not just another lap around the noodle shop."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "The Guardian believes you may have been some sort of victim in whatever happened, just as she was."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "And while there is no way of ever knowing for sure as we can not undo the past, we can attempt to look forward."
+    },
+    {
+      "character": "Sensei",
+      "text": "Not when certain people go digging up the past and throwing it back in our faces, we can\u2019t."
+    },
+    {
+      "character": "Sensei",
+      "text": "But..."
+    },
+    {
+      "character": "Sensei",
+      "text": "I guess that was sort of necessary if we were ever going to get to where we are right now."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "I see now that I was blinded by my own perception of events. And that my ill will was only directed toward you as I had nowhere else to send it."
+    },
+    {
+      "character": "Sensei",
+      "text": "How can you be so sure I\u2019m not just a good actor? And that I\u2019m not lying to you right now to get you off of my case?"
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "I can\u2019t. And as I mentioned earlier, I can\u2019t ever {i}understand{/i} you either. But I can {i}trust{/i} you \u2014 which is something Molly wants me to do."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "My father always told me that there are forces in this world that will compel us to act in ways we do not understand. "
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "When I was younger, I would fall back on this every time I added an incorrect ingredient to a recipe or misjudged a portion size. "
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "But it wasn\u2019t until meeting you and everyone else that I understood his words stretched far beyond the reach of our restaurant. "
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "I have a hard time remembering those words when things do not go the way they\u2019re supposed to. And I imagine he\u2019d be laughing right now if he could only see me."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "But he can not. And you {i}can.{/i}"
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "So I ask you...do you truly care about us?"
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "Or is the list of what you love still as empty as your eyes?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I care..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Just..."
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t know if I care the way I\u2019m supposed to. Or what the proper way to \u201ccare\u201d even is."
+    },
+    {
+      "character": "Sensei",
+      "text": "But I would never force that on anyone."
+    },
+    {
+      "character": "Sensei",
+      "text": "At least..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Not...willingly..."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "Good. "
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "But know that if you are lying to me about this...and you do go on to hurt someone in an unforgivable way...that I will not hesitate to introduce your organs to Gallows Edge."
+    },
+    {
+      "character": "Sensei",
+      "text": "You\u2019d be doing everyone a favor, that\u2019s for sure."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "In that case, yes."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "But as it currently stands, you are the glue keeping many things in place. And a world without you would be sure to collapse within days."
+    },
+    {
+      "character": "Sensei",
+      "text": "So I hear."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "Hearing and understanding are two different things."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m like you \u2014 not good at \u201cunderstanding.\u201d"
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "What I struggle to understand is people. What you struggle to understand is love."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "I can tell when someone cares about me, which is one of the many reasons I have not fallen for you the way the others have. I know that there is no real \u201clove\u201d there."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "You are the inverse. You can read everyone...and base each of your actions specifically on what you believe a person needs. "
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "But you can not even understand the love from those closest to you...can you?"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "It would be interesting if we could trade places for a day."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "I could finally read rooms better."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "And you could feel like there\u2019s some sort of purpose to all of this."
+    },
+    {
+      "character": "Sensei",
+      "text": "I think you should head back to the inn, Tsuneyo. Molly\u2019s going to get the wrong idea and think you hate her if you just keep avoiding her like this."
+    },
+    {
+      "character": "Sensei",
+      "text": "But, then again, I have no idea what the hell has happened between you two over the last couple months, so...yeah."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "Strange. Neither do I."
+    },
+    {
+      "character": "Sensei",
+      "text": "Hm?"
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "Perhaps it has something to do with the humidity? Or how busy the shop has been as of late?"
+    },
+    {
+      "character": "Sensei",
+      "text": "How would the humidity-"
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "Regardless of the root cause, it is good knowing there is someone who feels the same way. As oftentimes, it seems that things are simply going around in circles."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "Will you not walk with me back to the inn? It is dangerous out here for a weak man like you, and I may be able to provide some sort of protective assistance. "
+    },
+    {
+      "character": "Sensei",
+      "text": "Tsuneyo...what if I told you that time really {i}was{/i} moving around in circles? And that the way you feel isn\u2019t necessarily wrong?"
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "I\u2019d say that you\u2019re starting to sound more like my father. Regardless, if you do not need my protection, I will be on my way. My son is waiting."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "But thank you again for clearing up the current status of our relationship and where things stand between us. "
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "I kindly hope for your continued support hereafter."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah..."
+    },
+    {
+      "character": "Sensei",
+      "text": "See you...later..."
+    },
+    {
+      "character": "narrator",
+      "text": "I watch Tsuneyo for a full ten minutes until she disappears from my sight."
+    },
+    {
+      "character": "narrator",
+      "text": "And it isn\u2019t until she\u2019s gone that I\u2019m able to really grasp what she said about never being able to understand someone."
+    },
+    {
+      "character": "narrator",
+      "text": "We all have patterns \u2014 things we do on a daily basis that help others predict our next actions or sentences."
+    },
+    {
+      "character": "narrator",
+      "text": "And it\u2019s funny. Based on dialogue and experience alone...she is perhaps the most predictable person in the entire class."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "But every time her pattern breaks...she goes so far in another direction that it\u2019s impossible to keep up."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I can\u2019t help wanting to chase after her."
+    },
+    {
+      "character": "narrator",
+      "text": "But it\u2019s dangerous out here for someone as weak as me."
+    },
+    {
+      "character": "narrator",
+      "text": "So I pick myself up off of the ground and set my sights on anyone weaker."
+    },
+    {
+      "character": "narrator",
+      "text": "On anyone more predictable."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Tsuneyo\u2019s affection has increased to [tsuneyo_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "beachmas9": {
+      "from": null,
+      "to": true
+    }
+  }
+}

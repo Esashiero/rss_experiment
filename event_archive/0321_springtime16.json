@@ -1,0 +1,672 @@
+{
+  "event_id": 321,
+  "event_label": "springtime16",
+  "dialogue": [
+    {
+      "character": "Imani",
+      "text": "Okay, girls! Listen up, because I\u2019m only going to announce this once! And if you miss out, you\u2019re screwed until next Christmas and have to donate your gift to a local charity!"
+    },
+    {
+      "character": "Karin",
+      "text": "Do we still have to donate our gift if we\u2019re volunteering at a soup kitchen tomorrow?"
+    },
+    {
+      "character": "Imani",
+      "text": "Bitch, you ain\u2019t even in this class. "
+    },
+    {
+      "character": "Karin",
+      "text": "I know. I just wanted to see if someone wanted to volunteer with me. It\u2019s from 9:00 AM to-"
+    },
+    {
+      "character": "Imani",
+      "text": "Yeah, we get it. You have a heart of gold and hands of soup. "
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "I wish I had soup hands. Work would be much easier. "
+    },
+    {
+      "character": "Imani",
+      "text": "Anyway, before I was blindsided by the world\u2019s sweetest interjection, what I was {i}trying{/i} to say is that it\u2019s getting late, so the time has come to start exchanging this year\u2019s Secret Santa presents."
+    },
+    {
+      "character": "Imani",
+      "text": "Now, as you may have noticed, the turnout for our party this year is a little...lackluster. So to the few of you who actually showed up, thanks. "
+    },
+    {
+      "character": "Imani",
+      "text": "I know I\u2019m not your {i}normal{/i} teacher, which I imagine is exactly {i}why{/i} Christmas is a bust this year, but I still care about all of you and hope you have, like...a great holiday and shit."
+    },
+    {
+      "character": "Futaba",
+      "text": "To be completely honest, we don\u2019t really have a {i}normal{/i} teacher. But I think I speak for all of us when I say \u201cthank you for being here.\u201d We\u2019re all really happy to have you."
+    },
+    {
+      "character": "Imani",
+      "text": "Except for all the girls who didn\u2019t show up and clearly hate me, you mean. But thanks, Futaba."
+    },
+    {
+      "character": "Imani",
+      "text": "Anyway, only half the class being here means that a lot of you are going to get snubbed. So I took it upon myself to bring a bunch of random cheap presents so no one leaves empty handed."
+    },
+    {
+      "character": "Imani",
+      "text": "If you wind up getting jipped out of a present or...just want some free shit, help yourself to a box beneath the tree. But please be warned that a lot of it sucks since teachers don\u2019t make much money."
+    },
+    {
+      "character": "Karin",
+      "text": "Sounds to me like somebody\u2019s in the mood to give back to the community! If you\u2019re not doing anything tomorrow-"
+    },
+    {
+      "character": "Imani",
+      "text": "I am. Sorry. "
+    },
+    {
+      "character": "Karin",
+      "text": "Looks like it will just be Touka and me, then..."
+    },
+    {
+      "character": "Imani",
+      "text": "Guess so. But anyway, feel free to mug the absentees the next time you see them in school."
+    },
+    {
+      "character": "Imani",
+      "text": "I had a feeling something like this might happen on account of your {i}actual{/i} teacher being MIA, so I\u2019ve got a list of who owes who you can ask about come tomorrow."
+    },
+    {
+      "character": "Imani",
+      "text": "But for now, feel free to start walking around and exchanging presents. Once that\u2019s said and done, you\u2019re free to either go home or spend the night. Sleeping bags are in the closet if you need them."
+    },
+    {
+      "character": "Kirin",
+      "text": "Are you staying here, Imani?"
+    },
+    {
+      "character": "Imani",
+      "text": "Hell nah. I\u2019m going home and drinking myself to sleep. Your sister\u2019s in charge once Secret Santa is over."
+    },
+    {
+      "character": "Karin",
+      "text": "Soup kitchen duty for everyone! Yay!"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Otoha",
+      "text": "Well, at least you lasted a couple hours before burying your face in another notebook. Good job, Nodoka."
+    },
+    {
+      "character": "Nodoka",
+      "text": "Thank you. I haven\u2019t exhibited this level of self control since the night you lost your virginity just a few doors down. "
+    },
+    {
+      "character": "Otoha",
+      "text": "I did not {i}lose my virginity.{/i} And I\u2019m pretty sure Rin didn\u2019t either. But I guess I\u2019m not really clear on the rules when it comes to how that works for lesbian couples."
+    },
+    {
+      "character": "Nodoka",
+      "text": "Now, that is a philosophical question even {i}I{/i} don\u2019t have a concrete answer to. Nonetheless, it was quite difficult not busting down the door and joining in myself."
+    },
+    {
+      "character": "Otoha",
+      "text": "Sure didn\u2019t sound like you were having a tough time from our room."
+    },
+    {
+      "character": "Nodoka",
+      "text": "Yes, well, {i}you{/i} try having a ten inch penis stuffed inside of you and see if {i}you{/i} manage to remain silent."
+    },
+    {
+      "character": "Nodoka",
+      "text": "Please. I\u2019d very much enjoy that."
+    },
+    {
+      "character": "Otoha",
+      "text": "{i}Ten?{/i}"
+    },
+    {
+      "character": "Nodoka",
+      "text": "Perhaps even larger. It was quite the spectacle, if I do say so myself. You should ask to see it now that you\u2019re no longer dutifully bound to a girl you never deserved in the first place."
+    },
+    {
+      "character": "Otoha",
+      "text": "Not saying you\u2019re wrong, but aren\u2019t you supposed to be {i}my{/i} friend?"
+    },
+    {
+      "character": "Nodoka",
+      "text": "Do friends not admit to one another when they do wrong? "
+    },
+    {
+      "character": "Nodoka",
+      "text": "That is a genuine question, by the way. I\u2019m still attempting to understand just what being someone\u2019s friend {i}means{/i} as I am apparently not very good at it. Based on recent history, at least."
+    },
+    {
+      "character": "Otoha",
+      "text": "You and Futaba still at odds? Thought things were starting to get better."
+    },
+    {
+      "character": "Nodoka",
+      "text": "She\u2019s walking this way now, so feel free to ask her yourself. Unfortunately, I am busy uncovering the secrets of the universe, so I will not be able to assist."
+    },
+    {
+      "character": "Nodoka",
+      "text": "Farewell."
+    },
+    {
+      "character": "Otoha",
+      "text": "Wow, you really {i}are{/i} bad at this."
+    },
+    {
+      "character": "Futaba",
+      "text": "Hey. Sorry to interrupt...but this is for you, Otoha."
+    },
+    {
+      "character": "Otoha",
+      "text": "For {i}me?{/i} Why? "
+    },
+    {
+      "character": "Futaba",
+      "text": "Secret Santa. But I\u2019d appreciate it if you could take it from me now so Rin doesn\u2019t see me handing it to you and think that I\u2019m betraying her."
+    },
+    {
+      "character": "Otoha",
+      "text": "Oh, yeah. Sure. But, like...shouldn\u2019t you hate me now? It\u2019s not a bomb in there, is it?"
+    },
+    {
+      "character": "Futaba",
+      "text": "I\u2019m not going to {i}hate{/i} you for not following through with a relationship you didn\u2019t believe in."
+    },
+    {
+      "character": "Futaba",
+      "text": "Besides, it was a {i}mutual{/i} breakup. Right?"
+    },
+    {
+      "character": "Otoha",
+      "text": "Oh...yeah. Mutual. "
+    },
+    {
+      "character": "Otoha",
+      "text": "Futaba...thanks. You really didn\u2019t have to do this."
+    },
+    {
+      "character": "Futaba",
+      "text": "Oh, stop. We were friends {i}before{/i} you two started dating. We don\u2019t need to {i}stop{/i} being friends just because you broke up."
+    },
+    {
+      "character": "Otoha",
+      "text": "Yeah, but still. It was probably awkward having to buy this for someone your roommate\u2019s probably been ranting about nonstop."
+    },
+    {
+      "character": "Futaba",
+      "text": "I mean, it could be worse. You could have published a book with all of my most intimate and personal secrets while not doing nearly enough to disguise the fact that the character is literally just {i}me.{/i}"
+    },
+    {
+      "character": "Nodoka",
+      "text": "Well, I suppose that answers your question, Otoha. "
+    },
+    {
+      "character": "Otoha",
+      "text": "Futaba, about that \u2014 I get that you\u2019ve known Nodoka way longer than I have, but please don\u2019t think she did any of that to {i}hurt{/i} you. "
+    },
+    {
+      "character": "Otoha",
+      "text": "Like, if you were around to hear the things she says about you when we\u2019re alone-"
+    },
+    {
+      "character": "Futaba",
+      "text": "Let\u2019s not talk about that tonight."
+    },
+    {
+      "character": "Futaba",
+      "text": "Merry Christmas, Otoha. Merry Christmas, Nodoka. "
+    },
+    {
+      "character": "Futaba",
+      "text": "Here\u2019s to another great year."
+    },
+    {
+      "character": "Nodoka",
+      "text": "Futaba, is Sensei\u2019s penis {i}ten{/i} inches? Or eleven? I\u2019m having trouble picturing it at the moment."
+    },
+    {
+      "character": "Otoha",
+      "text": "{i}Why?{/i} Why do you do this?"
+    },
+    {
+      "character": "Nodoka",
+      "text": "Simple. I\u2019m making a timeline and I\u2019m attempting to find out how much it\u2019s grown. And Futaba has a great deal of experience with-"
+    },
+    {
+      "character": "Nodoka",
+      "text": "Wait, Futaba. You forgot to answer my question."
+    },
+    {
+      "character": "Otoha",
+      "text": "{i}How are you this dumb?{/i} Aren\u2019t you supposed to be some kind of...super genius? What the fuck was that?"
+    },
+    {
+      "character": "Nodoka",
+      "text": "Hm..."
+    },
+    {
+      "character": "Nodoka",
+      "text": "I\u2019m just going to circle my original answer of ten and make a note to revisit it in the future. I\u2019m sure I\u2019ll have plenty of opportunities once Sensei returns to school."
+    },
+    {
+      "character": "Otoha",
+      "text": "Oh my fucking god..."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Miku",
+      "text": "Wha..."
+    },
+    {
+      "character": "Miku",
+      "text": "N..."
+    },
+    {
+      "character": "Miku",
+      "text": "S..."
+    },
+    {
+      "character": "Miku",
+      "text": "Are you frickin\u2019 joshin\u2019 me right now? Cause I ain\u2019t normally a fighter, but I\u2019m takin\u2019 you down if this is some kinda prank, Sana. "
+    },
+    {
+      "character": "Sana",
+      "text": "It\u2019s not a prank..."
+    },
+    {
+      "character": "Sana",
+      "text": "My mom got me a new one for Christmas since...she knows I like games and...I didn\u2019t have the heart to tell her she bought me one a few years ago as well..."
+    },
+    {
+      "character": "Sana",
+      "text": "So...since you like games and stuff too...I figured I could give {i}you{/i} the old one and...we could maybe, like...play together sometime?..."
+    },
+    {
+      "character": "Miku",
+      "text": "..."
+    },
+    {
+      "character": "Sana",
+      "text": "..."
+    },
+    {
+      "character": "Sana",
+      "text": "Um...Miku?..."
+    },
+    {
+      "character": "Miku",
+      "text": "Now, I ain\u2019t sexually attracted to girls-"
+    },
+    {
+      "character": "Sana",
+      "text": "Uh..."
+    },
+    {
+      "character": "Miku",
+      "text": "But I\u2019m about ready to make the same damn move Rin made on you earlier, Sana."
+    },
+    {
+      "character": "Sana",
+      "text": "That...won\u2019t be necessary?..."
+    },
+    {
+      "character": "Miku",
+      "text": "Prob\u2019ly not. But it ain\u2019t like I got the best track record when it comes to kisses and Secret Santa. Plus, goin\u2019 after you would sure make Makoto a lot happier than my last choice."
+    },
+    {
+      "character": "Miku",
+      "text": "You\u2019re really makin\u2019 me rethink some stuff right now. Wow."
+    },
+    {
+      "character": "Sana",
+      "text": "That wasn\u2019t...my intention..."
+    },
+    {
+      "character": "Miku",
+      "text": "Can I, like...{i}really{/i} have this?..."
+    },
+    {
+      "character": "Miku",
+      "text": "Cause even if it\u2019s used, that thing\u2019s way above the spending limit, ain\u2019t it? You could\u2019ve sold it, gotten me some cheap stuff, then pocketed the rest. Why you bein\u2019 so nice to me?"
+    },
+    {
+      "character": "Sana",
+      "text": "Maybe I just...give special treatment to...people I can speak to at eye-level?..."
+    },
+    {
+      "character": "Miku",
+      "text": "Well...there ain\u2019t many of us and...I guess we {i}do{/i} gotta stick together, but...{i}wow.{/i}"
+    },
+    {
+      "character": "Miku",
+      "text": "And I thought {i}Sensei's{/i} present was good."
+    },
+    {
+      "character": "Sana",
+      "text": "I\u2019m glad you like it...I worked extra hard on the bow since I don\u2019t have the original box anymore."
+    },
+    {
+      "character": "Miku",
+      "text": "It\u2019s gonna be a shame when it winds up in the trash twenty minutes from now."
+    },
+    {
+      "character": "Sana",
+      "text": "Yeah, but at least it got to look like a present again..."
+    },
+    {
+      "character": "Miku",
+      "text": "Yeah...{i}wow.{/i}"
+    },
+    {
+      "character": "Miku",
+      "text": "Ya know...you\u2019ve come a long way, Sana. I\u2019m real proud of ya."
+    },
+    {
+      "character": "Sana",
+      "text": "Huh? What do you mean?"
+    },
+    {
+      "character": "Miku",
+      "text": "You\u2019re like, way different than you were at the start of the school year. And I know talkin\u2019 to people ain\u2019t really been your strength since all that stuff went down way back when."
+    },
+    {
+      "character": "Miku",
+      "text": "But you\u2019re like a different person now. Ain\u2019t sure if I\u2019d call ya {i}outgoing{/i} yet, but I think you\u2019re gettin\u2019 there. And I\u2019m happy to see you\u2019re startin\u2019 to fit in a little more."
+    },
+    {
+      "character": "Sana",
+      "text": "I\u2019m not...the only one who\u2019s changed, you know. You\u2019re a lot different than...{i}you{/i} were at the start of the school year too."
+    },
+    {
+      "character": "Sana",
+      "text": "Like...I never would have imagined you...willingly wearing a dress to a Christmas party..."
+    },
+    {
+      "character": "Miku",
+      "text": "Yeah...to tell ya the truth, I ain\u2019t sure I\u2019m the biggest fan of wearin\u2019 clothes like this. I\u2019ve got a lot I still need to, like...figure out and stuff. "
+    },
+    {
+      "character": "Miku",
+      "text": "But it ain\u2019t like I {i}hate{/i} it, you know? I\u2019ve just always felt more normal in...yeah, I\u2019m sure ya get the point. You\u2019ve seen how I normally look."
+    },
+    {
+      "character": "Sana",
+      "text": "Mhm. But I think you look really pretty like this. And I like whatever it is that\u2019s causing you to change as long as you\u2019re still happy."
+    },
+    {
+      "character": "Miku",
+      "text": "Yeah...I like it too."
+    },
+    {
+      "character": "Miku",
+      "text": "Maybe a little {i}too{/i} much."
+    },
+    {
+      "character": "Sana",
+      "text": "Is it...something specific? Or..."
+    },
+    {
+      "character": "Miku",
+      "text": "Yeah, but...I ain\u2019t really allowed to talk about it. I\u2019ve already gone and blabbed to a few too many people, so I\u2019m on thin ice. "
+    },
+    {
+      "character": "Sana",
+      "text": "Ah. "
+    },
+    {
+      "character": "Miku",
+      "text": "Yeah...sorry for not bein\u2019 able to tell you any more. It\u2019s just-"
+    },
+    {
+      "character": "Sana",
+      "text": "No, it\u2019s okay."
+    },
+    {
+      "character": "Sana",
+      "text": "I don\u2019t need to know."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Imani",
+      "text": "{i}Hah...{/i}"
+    },
+    {
+      "character": "Imani",
+      "text": "Not sure what I was thinking when I decided to bring this here. "
+    },
+    {
+      "character": "Imani",
+      "text": "Of course you wouldn\u2019t show up....You {i}never{/i} show up anymore. You\u2019ve stopped giving a shit about {i}all{/i} of us..."
+    },
+    {
+      "character": "Imani",
+      "text": "But {i}why?...{/i}"
+    },
+    {
+      "character": "Imani",
+      "text": "{i}What happened?...{/i}"
+    },
+    {
+      "character": "Imani",
+      "text": "Where did we go wrong?..."
+    },
+    {
+      "character": "Imani",
+      "text": "How do we bring you back?..."
+    },
+    {
+      "character": "Imani",
+      "text": "But most importantly..."
+    },
+    {
+      "character": "Imani",
+      "text": "What the hell am I supposed to do with these stupid tickets now?!"
+    },
+    {
+      "character": "Yasu",
+      "text": "Hello!"
+    },
+    {
+      "character": "Imani",
+      "text": "Ah!"
+    },
+    {
+      "character": "Imani",
+      "text": "Oh...Yasu. Hello."
+    },
+    {
+      "character": "Yasu",
+      "text": "It appears that the darkness has begun to swallow you whole. "
+    },
+    {
+      "character": "Imani",
+      "text": "No, I\u2019m just black."
+    },
+    {
+      "character": "Yasu",
+      "text": "We are all black on the inside \u2014 and only His light can save us."
+    },
+    {
+      "character": "Imani",
+      "text": "Girl, I don\u2019t even know where to start with that one."
+    },
+    {
+      "character": "Yasu",
+      "text": "Sorrow clings to the air around you, circling your body and consuming you as you fall deeper and deeper into the depths of despair. But I know something that will cure you- temporary as it may be."
+    },
+    {
+      "character": "Imani",
+      "text": "I know you ain\u2019t about to start preaching to me at a Christmas party, Yasu. Tonight ain\u2019t the night."
+    },
+    {
+      "character": "Yasu",
+      "text": "Every night is the night when all nights belong to Him. "
+    },
+    {
+      "character": "Yasu",
+      "text": "But He is asleep right now...and these worthless hands can not find the light on their own."
+    },
+    {
+      "character": "Yasu",
+      "text": "They couldn\u2019t even spare the lamb they led astray."
+    },
+    {
+      "character": "Imani",
+      "text": "Hey, question. The fuck you doing with a crab?"
+    },
+    {
+      "character": "Yasu",
+      "text": "This is no crab."
+    },
+    {
+      "character": "Imani",
+      "text": "..."
+    },
+    {
+      "character": "Imani",
+      "text": "Nah...that\u2019s a crab, Yasu."
+    },
+    {
+      "character": "Yasu",
+      "text": "This is a gift."
+    },
+    {
+      "character": "Imani",
+      "text": "..."
+    },
+    {
+      "character": "Yasu",
+      "text": "..."
+    },
+    {
+      "character": "Imani",
+      "text": "I know you ain\u2019t about to give me a crab for Secret Santa."
+    },
+    {
+      "character": "Yasu",
+      "text": "What is \u201cSecret Santa?\u201d"
+    },
+    {
+      "character": "Imani",
+      "text": "Yasu, what do you think we\u2019re doing right now? Why do you think everyone is wandering around the room and giving each other presents? This ain\u2019t your first rodeo. You should know this."
+    },
+    {
+      "character": "Yasu",
+      "text": "Your darkness is all-consuming. It entrances me to the point where I am unable to focus on the happenings of the rest of the room, for I know that I must cleanse you."
+    },
+    {
+      "character": "Imani",
+      "text": "God damn. I really hope for your sake that you never leave this city."
+    },
+    {
+      "character": "Yasu",
+      "text": "There is no reason to leave this city, for He can not exist outside of its area of effect. And without Him, I am even closer to {i}nothing{/i} than I was the day I was born."
+    },
+    {
+      "character": "Imani",
+      "text": "Yasu...just tell me what you want, okay? I don\u2019t have the energy for this tonight."
+    },
+    {
+      "character": "Yasu",
+      "text": "I want to know why you\u2019re sad. "
+    },
+    {
+      "character": "Yasu",
+      "text": "For if I can not help, I can listen. And Touka says an ear is worth a thousand hands."
+    },
+    {
+      "character": "Imani",
+      "text": "I\u2019m having a hard time picturing those words coming out of Touka\u2019s mouth, but I think I get what you\u2019re saying."
+    },
+    {
+      "character": "Imani",
+      "text": "I\u2019m not gonna bother a teenage girl with my stupid problems, though. I\u2019m just a little...temperamental right now."
+    },
+    {
+      "character": "Yasu",
+      "text": "I understand...My blood {i}also{/i} curdles in the springtime."
+    },
+    {
+      "character": "Imani",
+      "text": "I...don\u2019t think you do. "
+    },
+    {
+      "character": "Imani",
+      "text": "But the gist of it is this..."
+    },
+    {
+      "character": "Imani",
+      "text": "{i}There\u2019s someone I want to see right now.{/i}"
+    },
+    {
+      "character": "Imani",
+      "text": "{i}And he feels further away than ever before.{/i}"
+    },
+    {
+      "character": "Yasu",
+      "text": "{i}You poor soul...{/i}"
+    },
+    {
+      "character": "Yasu",
+      "text": "{b}{i}I really do understand.{/i}{/b}"
+    },
+    {
+      "character": "Sensei",
+      "text": "Imani\u2019s affection has decayed by 10."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yasu\u2019s affection has decayed by 10."
+    }
+  ],
+  "state_changes": {
+    "imani_love -": {
+      "from": null,
+      "to": 10
+    },
+    "yasu_love -": {
+      "from": null,
+      "to": 10
+    },
+    "springtime16": {
+      "from": null,
+      "to": true
+    }
+  }
+}

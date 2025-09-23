@@ -1,0 +1,660 @@
+{
+  "event_id": 161,
+  "event_label": "slumberreset2",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "I spend a good thirty minutes or so attempting to get acquainted with the area surrounding my new apartment and quickly find that I have absolutely no idea where I am."
+    },
+    {
+      "character": "narrator",
+      "text": "What complicates things even further is the fact that my phone, which had just enough battery left to call Maya a short while ago, is now completely dead. "
+    },
+    {
+      "character": "narrator",
+      "text": "Thankfully, after aimlessly wandering the streets in hope of stumbling across a station (Or even somewhere I could charge my phone), I come across an empty bus stop and decide to wait there."
+    },
+    {
+      "character": "narrator",
+      "text": "I have no way of knowing when the next bus will arrive or where it will be headed when it gets here, but I figure that relying on public transportation is a lot smarter than leaving things to my intuition."
+    },
+    {
+      "character": "narrator",
+      "text": "Especially when my intuition has a tendency of leading me into the bedrooms of high school girls who then proceed to take their clothes off."
+    },
+    {
+      "character": "narrator",
+      "text": "I imagine this bus (If it ever comes) will not be so convenient."
+    },
+    {
+      "character": "narrator",
+      "text": "But, on the off chance it is, I will know for certain that I am {b}GOD{/b} and that everything in the entire universe revolves around my penis."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I eventually {i}do{/i} make it to the park I agreed to meet Maya in, albeit {i}significantly{/i} behind schedule- which may or may not explain why a certain someone else is now here as well."
+    },
+    {
+      "character": "Ayane",
+      "text": "Hey...surprise."
+    },
+    {
+      "character": "Sensei",
+      "text": "Surprise indeed."
+    },
+    {
+      "character": "Ayane",
+      "text": "Should I go? When Maya told me you called her, I kind of figured that you wanted this to be a thing for just you and her, but...she was suspiciously insistent that I come as well."
+    },
+    {
+      "character": "Sensei",
+      "text": "Is that so?"
+    },
+    {
+      "character": "narrator",
+      "text": "I attempt to look at Maya for confirmation and, despite her turning away immediately, I receive it."
+    },
+    {
+      "character": "Maya",
+      "text": "We were already together. I would have felt bad just leaving Ayane behind."
+    },
+    {
+      "character": "Sensei",
+      "text": "Since when do you feel bad for literally anyone other than yourself? In fact, I\u2019m pretty sure you\u2019re on record openly admitting to wanting to leave Ayane permanently behind to at least {i}some{/i} extent."
+    },
+    {
+      "character": "Maya",
+      "text": "That is a skewed, yet mildly accurate generalization of things I may have said in the past, yes."
+    },
+    {
+      "character": "Maya",
+      "text": "But given recent circumstances, I may or may not be currently attempting to be a bit more...{i}careful{/i} with my decisions."
+    },
+    {
+      "character": "Sensei",
+      "text": "Did you happen to tell Ayane what those {i}circumstances{/i} are as well?"
+    },
+    {
+      "character": "Ayane",
+      "text": "She...didn\u2019t need to. I more or less pieced things together when Ami and I ran into her last night. It was the first time I\u2019ve ever seen Maya look that-"
+    },
+    {
+      "character": "Maya",
+      "text": "Unfazed and disinterested? Why yes, I believe I {i}may{/i} have looked like that last night. Thank you for remembering, Ayane."
+    },
+    {
+      "character": "Sensei",
+      "text": "We really should talk alone for at least-"
+    },
+    {
+      "character": "Maya",
+      "text": "We most assuredly {i}will{/i} talk alone as the world seems to have no issue whatsoever in regard to forcing the two of us together. I just don't want to do that {i}right now.{/i}"
+    },
+    {
+      "character": "Maya",
+      "text": "But fear not, you\u2019ll have plenty more opportunities to torment me in the future."
+    },
+    {
+      "character": "Maya",
+      "text": "For now, there are much more {i}important{/i} matters we need to discuss."
+    },
+    {
+      "character": "Sensei",
+      "text": "I see. I guess I should have figured you\u2019d fall back on your tsun side for safety after last night."
+    },
+    {
+      "character": "Maya",
+      "text": "Call me {i}tsun{/i} again and-"
+    },
+    {
+      "character": "Ayane",
+      "text": "Sensei...can {i}you{/i} tell me what happened? Specifically, I mean. "
+    },
+    {
+      "character": "Sensei",
+      "text": "Have you not already learned enough?"
+    },
+    {
+      "character": "Maya",
+      "text": "Enough about what? What does that mean?"
+    },
+    {
+      "character": "Ayane",
+      "text": "Just...some bet we had. "
+    },
+    {
+      "character": "Ayane",
+      "text": "You know I wouldn\u2019t be mad at either one of you if you decided to...really start showing each other just how much you-"
+    },
+    {
+      "character": "Maya",
+      "text": "Can we {i}please{/i} not? I still have no idea where I\u2019d even start and-"
+    },
+    {
+      "character": "Sensei",
+      "text": "Maya and I almost kissed."
+    },
+    {
+      "character": "Maya",
+      "text": "{i}Ugh...{/i}"
+    },
+    {
+      "character": "Ayane",
+      "text": "What? That\u2019s {i}it?{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "Yup."
+    },
+    {
+      "character": "Ayane",
+      "text": "So...you two {i}didn\u2019t{/i} kiss...and you need to talk about it? "
+    },
+    {
+      "character": "Maya",
+      "text": "No. We don\u2019t. "
+    },
+    {
+      "character": "Sensei",
+      "text": "We do."
+    },
+    {
+      "character": "Ayane",
+      "text": "Huh...I really don\u2019t know the first thing about your relationship, do I?"
+    },
+    {
+      "character": "Ayane",
+      "text": "Cause you and I have had sex probably a million times and you\u2019ve never tried setting up a meeting like this with {i}me.{/i}"
+    },
+    {
+      "character": "Maya",
+      "text": "Okay, Ayane. You can go now. I suddenly realize how much of a mistake it was allowing you to tag along for this."
+    },
+    {
+      "character": "Sensei",
+      "text": "It\u2019s {i}because{/i} of how things are with Maya and me that we need to talk about it. Kind of like how {i}not{/i} having sex with you anymore is a thing we\u2019re both struggling with."
+    },
+    {
+      "character": "Maya",
+      "text": "Oh, you poor souls. How ever have you managed to make it a full {i}several months{/i} without such contact?"
+    },
+    {
+      "character": "Ayane",
+      "text": "I have no clue. But I hope that you know I am never doing this again as soon as we prove that I can hang with the Rooftop Apocalypse Squad without having a baby inside of me."
+    },
+    {
+      "character": "Maya",
+      "text": "Good. There. {i}That{/i} should be the topic for today\u2019s conversation. {i}Not{/i} me almost kissing the world\u2019s worst teacher and {i}not{/i} you two {i}not{/i} having sex with one another."
+    },
+    {
+      "character": "Ayane",
+      "text": "Not...{i}not{/i} having sex with each other...So what I\u2019m hearing is it\u2019s okay if we talk about doing it?"
+    },
+    {
+      "character": "Maya",
+      "text": "Absolutely not and shut up."
+    },
+    {
+      "character": "Sensei",
+      "text": "You realize you did this to yourself by bringing her here, right?"
+    },
+    {
+      "character": "Maya",
+      "text": "Like I said, we were already together. It\u2019s not like I would have asked her to come if you\u2019d called me while I was alone."
+    },
+    {
+      "character": "Sensei",
+      "text": "Well, why were you together?"
+    },
+    {
+      "character": "Maya",
+      "text": "Because we\u2019re friends and that\u2019s what friends do?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Sure, yeah...but you\u2019ve seemed to be at odds with one another lately over all of the reset business and your, you know, {i}\u201dnot wanting Ayane to be a part of it\u201d{/i} thing."
+    },
+    {
+      "character": "Ayane",
+      "text": "That\u2019s still true...and neither one of us has really changed our positions on the matter. Nor do I think we\u2019re going to due to the type of people we are."
+    },
+    {
+      "character": "Ayane",
+      "text": "We talked about it during Halloween for a little while...and then again this morning. But no matter what Maya wants to happen to me and no matter how much that hurts, she\u2019s still an important part of my life."
+    },
+    {
+      "character": "Ayane",
+      "text": "And if she\u2019s going through something hard, she should have someone there for her. Even if she doesn\u2019t want to admit that she needs it."
+    },
+    {
+      "character": "Maya",
+      "text": "Are we done being cute now? Can I rejoin the conversation?"
+    },
+    {
+      "character": "Ayane",
+      "text": "Yes, Maya. You may now proceed with your boring timey-wimey stuff."
+    },
+    {
+      "character": "Maya",
+      "text": "Excellent, because now that the prolonged and nauseating pleasantries are out of the way, I\u2019d like to announce that we are on the brink of yet another field trip for the \u201cRooftop Apocalypse Squad.\u201d"
+    },
+    {
+      "character": "Ayane",
+      "text": "I\u2019m glad that name stuck. I like it."
+    },
+    {
+      "character": "Ayane",
+      "text": "We should make shirts."
+    },
+    {
+      "character": "Sensei",
+      "text": "Already? Isn\u2019t it a little too soon?"
+    },
+    {
+      "character": "Ayane",
+      "text": "It\u2019s never too soon for shirts."
+    },
+    {
+      "character": "Sensei",
+      "text": "For the reset, Ayane."
+    },
+    {
+      "character": "Maya",
+      "text": "Not really. We {i}did{/i} lose nearly two months of time during the jump from Halloween to Christmas, remember?"
+    },
+    {
+      "character": "Maya",
+      "text": "I\u2019d say we\u2019re right on schedule but, with the lack of an {i}actual schedule{/i}, having a reset now seems like a decent approximation that\u2019s well in-line with the rate things normally move at."
+    },
+    {
+      "character": "Sensei",
+      "text": "How do you even know, by the way? Do you, like...feel something?"
+    },
+    {
+      "character": "Maya",
+      "text": "I...guess so? It\u2019s kind of hard to describe."
+    },
+    {
+      "character": "Maya",
+      "text": "I kind of just know when they\u2019re around the corner. Call it intuition based on iteration after iteration after iteration after-"
+    },
+    {
+      "character": "Ayane",
+      "text": "So...do we have a plan? Is there something we can do to, like...prepare for it?"
+    },
+    {
+      "character": "Maya",
+      "text": "There is...something I had in mind. It came to me between the various downward spirals I endured last night."
+    },
+    {
+      "character": "Sensei",
+      "text": "And that is?"
+    },
+    {
+      "character": "Maya",
+      "text": "You said that both Yumi and Tsuneyo showed signs of understanding that time isn\u2019t exactly as it seems, correct?"
+    },
+    {
+      "character": "Ayane",
+      "text": "Is that true? Why {i}those{/i} two?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I have no idea, but yes. Yumi seems more conscious of it than Tsuneyo does, though. "
+    },
+    {
+      "character": "Maya",
+      "text": "Conscious enough to endure a bit of a trial?"
+    },
+    {
+      "character": "Sensei",
+      "text": "What sort of trial, exactly?"
+    },
+    {
+      "character": "Maya",
+      "text": "Do you think she\u2019d listen if we were to sit down and attempt to explain things to her?"
+    },
+    {
+      "character": "Ayane",
+      "text": "Does Yumi even {i}have{/i} the ability to listen?"
+    },
+    {
+      "character": "Sensei",
+      "text": "When she wants to, she does. Unfortunately, that doesn\u2019t happen very often. "
+    },
+    {
+      "character": "Sensei",
+      "text": "But, given her reaction when I brought things up last night, I\u2019m sure she could spare some time to hear whatever it is you have to say."
+    },
+    {
+      "character": "Maya",
+      "text": "And Tsuneyo?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Just tell her there will be soup and she\u2019ll show up. She\u2019s easy."
+    },
+    {
+      "character": "Maya",
+      "text": "Oh, I\u2019m not telling her anything. You are. Same with Yumi."
+    },
+    {
+      "character": "Sensei",
+      "text": "What?"
+    },
+    {
+      "character": "Ayane",
+      "text": "Hold on...I thought you said you\u2019ve tried talking to people about this before? Why are you suddenly changing your mind?"
+    },
+    {
+      "character": "Maya",
+      "text": "Because none of the people I\u2019ve ever talked to about it showed any underlying signs of...contemplating the world\u2019s fuckery."
+    },
+    {
+      "character": "Maya",
+      "text": "If Yumi and Tsuneyo are already clued in to some extent, perhaps they\u2019d be more inclined to listen rather than immediately switching the topic like everyone else always does."
+    },
+    {
+      "character": "Maya",
+      "text": "At the very least, it\u2019s worth an attempt. I\u2019m just not sure what we\u2019d do {i}after{/i} we talk to them about it. And by \u201cwe\u201d I mean Sensei since I don\u2019t really like talking to either one of them."
+    },
+    {
+      "character": "Ayane",
+      "text": "Wait! I know what we can do! "
+    },
+    {
+      "character": "Maya",
+      "text": "You do?"
+    },
+    {
+      "character": "Ayane",
+      "text": "Yeah! And it\u2019s a super great idea! But you\u2019ve gotta hear me out."
+    },
+    {
+      "character": "Maya",
+      "text": "Is that...not what I'm already doing?"
+    },
+    {
+      "character": "Ayane",
+      "text": "The three of us...as well as Yumi and Tsuneyo..."
+    },
+    {
+      "character": "Ayane",
+      "text": "Will have a slumber party."
+    },
+    {
+      "character": "Maya",
+      "text": "You can\u2019t be serious..."
+    },
+    {
+      "character": "Ayane",
+      "text": "Oh, I am super serious."
+    },
+    {
+      "character": "Maya",
+      "text": "Ayane-"
+    },
+    {
+      "character": "Ayane",
+      "text": "Just think about it! If we\u2019re all in one place, we can keep an eye on one another in the event that everyone disappears again!"
+    },
+    {
+      "character": "Ayane",
+      "text": "The only issue is that we don\u2019t specifically know what {i}day{/i} it will happen, do we?"
+    },
+    {
+      "character": "Maya",
+      "text": "There are many, {i}many{/i} more issues than just that, Ayane."
+    },
+    {
+      "character": "Ayane",
+      "text": "Like what?"
+    },
+    {
+      "character": "Maya",
+      "text": "I\u2019m debating whether or not I should tell you or just let you see for yourself. "
+    },
+    {
+      "character": "Sensei",
+      "text": "If what Maya\u2019s told me is true, it\u2019s not exactly a good sight watching everyone around you \u201cdisappear.\u201d"
+    },
+    {
+      "character": "Ayane",
+      "text": "Is there more to it than just literally disappearing?"
+    },
+    {
+      "character": "Maya",
+      "text": "Very. I\u2019m basically desensitized to it by now but, if you\u2019re willing to give it a shot and don\u2019t mind seeing something you will very likely never forget unless you\u2019re fully reset, fine. We can have a \u201cslumber party.\u201d"
+    },
+    {
+      "character": "Maya",
+      "text": "But good luck trying to get Yumi and Tsuneyo to agree to it. And good luck finding a place to actually have it since getting Ami involved is basically asking to be cut off from engaging in any real conversation."
+    },
+    {
+      "character": "Ayane",
+      "text": "I\u2019d say we can use my house, but I know for a fact Geoffrey wouldn\u2019t let me have a sleepover with Sensei. He\u2019s been very protective ever since Todd disappeared."
+    },
+    {
+      "character": "Ayane",
+      "text": "But yeah...getting Yumi and Tsuneyo to agree to something like that does sound hard when we\u2019re not really close to them."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m not really close to them either, but...I\u2019ll see what I can do. "
+    },
+    {
+      "character": "Maya",
+      "text": "Will you find us a place to sleep as well? Preferably one we don\u2019t have to pay for since I am currently broke and Ayane\u2019s card is being declined everywhere."
+    },
+    {
+      "character": "Ayane",
+      "text": "Yup! Turns out that while the three of us were being tossed through time, my credit card was being tossed through every single terminal in Kumon-mi! "
+    },
+    {
+      "character": "Ayane",
+      "text": "I\u2019m cut off from spending anything until next month when the bank sorts everything out."
+    },
+    {
+      "character": "Sensei",
+      "text": "Wonderful. That extremely inconvenient coincidence is basically forcing me to reveal something I was {i}hoping{/i} I\u2019d be able to keep quiet for a full twenty-four hours. But fuck me, I guess."
+    },
+    {
+      "character": "Ayane",
+      "text": "I would if I could, Sensei. I would if I could."
+    },
+    {
+      "character": "Maya",
+      "text": "And what exactly do you have to reveal? A second home that none of us know about?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Yes."
+    },
+    {
+      "character": "Maya",
+      "text": "Funny. What {i}actually{/i} is it?"
+    },
+    {
+      "character": "Sensei",
+      "text": "A second home that none of you know about."
+    },
+    {
+      "character": "Maya",
+      "text": "What? When? Why?"
+    },
+    {
+      "character": "Ayane",
+      "text": "Wait a minute...who drew your name for Secret Santa this year?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Touka."
+    },
+    {
+      "character": "Ayane",
+      "text": "Mystery solved. Detective Ayane has successfully closed another case."
+    },
+    {
+      "character": "Maya",
+      "text": "She got you a {i}house?{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "An apartment, technically. And you two are now the only people who know about it other than her and Makoto."
+    },
+    {
+      "character": "Maya",
+      "text": "Wow. And I thought my cube-shaped watermelon was a good present."
+    },
+    {
+      "character": "Maya",
+      "text": "So...what then? You\u2019re just going to lure two girls you\u2019re not particularly close with to a secret apartment and keep them there until the world breaks?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Up until last night, I would have said that scenario sounds more plausible than the two of us kissing. And yet..."
+    },
+    {
+      "character": "Maya",
+      "text": "{i}Please{/i} stop bringing that up..."
+    },
+    {
+      "character": "Ayane",
+      "text": "What are we going to do about Ami? If all three of us leave her alone, she might explode. In fact, she might be exploding right now and none of us would even know."
+    },
+    {
+      "character": "Maya",
+      "text": "I\u2019ll think of something for Ami..."
+    },
+    {
+      "character": "Maya",
+      "text": "For now, we need to focus on getting the other two girls on board. "
+    },
+    {
+      "character": "Maya",
+      "text": "I\u2019m not sure how many nights we have left, so it\u2019s important we figure this out as soon as possible or we\u2019ll run the risk of their minds getting wiped along with their...potential recognition of the loops."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019d contact one of them right now, but my phone\u2019s dead."
+    },
+    {
+      "character": "Ayane",
+      "text": "Here. Take this one."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m not going to just take your phone, Ayane. Even if it {i}is{/i} a backup and you have ten more of them in your dorm room."
+    },
+    {
+      "character": "Ayane",
+      "text": "It\u2019s not just a \u201cbackup.\u201d It\u2019s an identical, up-to-date copy of your phone. Complete with all of your contacts and a suggestive picture of our class representative with a vibrator in her mouth."
+    },
+    {
+      "character": "Ayane",
+      "text": "Why {i}that{/i} is your background and not me, I don\u2019t know. And I don\u2019t {i}want{/i} to know. "
+    },
+    {
+      "character": "Sensei",
+      "text": "Well, speak for yourself because {i}I{/i} would like to know why you have an identical copy of my phone including but not limited to my contacts and Makoto wallpaper."
+    },
+    {
+      "character": "Ayane",
+      "text": "Sometimes, I get bored and send myself text messages from fake-you while waiting for real-you to text me instead."
+    },
+    {
+      "character": "Sensei",
+      "text": "Ayane-"
+    },
+    {
+      "character": "Ayane",
+      "text": "I have a problem. I know. But at least that problem is love and not drugs."
+    },
+    {
+      "character": "Maya",
+      "text": "Uhh..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Ayane",
+      "text": "Oh, and in case you were wondering, I don\u2019t have any of your text or call records. Apparently, having those copied as well would have been an invasion of privacy and is against the law."
+    },
+    {
+      "character": "Sensei",
+      "text": "I think my privacy has already been invaded, but thanks. I\u2019ll be taking that now."
+    },
+    {
+      "character": "Ayane",
+      "text": "Happy to help! And don\u2019t worry about giving it back. I have three more at home."
+    },
+    {
+      "character": "Sensei",
+      "text": "That\u2019s...great."
+    },
+    {
+      "character": "Maya",
+      "text": "Well...good luck, I guess? You\u2019re very likely going to need it."
+    },
+    {
+      "character": "Ayane",
+      "text": "Be in touch after you hear back from Yumi and Tsuneyo. Like Maya said, the sooner we can get them on board, the better."
+    },
+    {
+      "character": "Ayane",
+      "text": "Also, maybe...don\u2019t look at any of the messages that phone has sent to my number. I\u2019ve been going kind of crazy these past few months in more ways than I\u2019d like to admit."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019ll do my best, Ayane..."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I get a safe distance away from Maya and Ayane before unlocking my \u201cnew\u201d phone with, you guessed it, the same exact passcode I use for my {i}real{/i} phone before making sure all of my contacts are there."
+    },
+    {
+      "character": "narrator",
+      "text": "Worryingly, they are. And while I\u2019m extremely concerned as to how Ayane got her hands on my data in the first place, I don\u2019t really have time for that right now."
+    },
+    {
+      "character": "narrator",
+      "text": "If the next reset really is as close as Maya says, I need to act quickly. "
+    },
+    {
+      "character": "narrator",
+      "text": "So, without a clear idea in mind about {i}what{/i} I\u2019m going to say when I call...I scroll through a list of names and wind up landing on-"
+    }
+  ],
+  "state_changes": {
+    "slumberreset2": {
+      "from": null,
+      "to": true
+    }
+  }
+}

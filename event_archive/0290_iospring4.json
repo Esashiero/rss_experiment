@@ -1,0 +1,864 @@
+{
+  "event_id": 290,
+  "event_label": "iospring4",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "I did some cleaning today."
+    },
+    {
+      "character": "narrator",
+      "text": "Or tried to, at least. "
+    },
+    {
+      "character": "narrator",
+      "text": "Ami has always been better at that sort of thing. And Niki\u2019s good at anything if she puts her mind to it."
+    },
+    {
+      "character": "narrator",
+      "text": "It\u2019s still new to me, though."
+    },
+    {
+      "character": "narrator",
+      "text": "Pathetic, I know. But I\u2019ve yet to figure out which chemical concoctions best erase water stains. Or which type of vinegar is the one I\u2019m supposed to use to prevent mold."
+    },
+    {
+      "character": "narrator",
+      "text": "I can\u2019t be bothered to look it up either. I just can\u2019t find the motivation. I just don\u2019t care enough."
+    },
+    {
+      "character": "narrator",
+      "text": "It\u2019s satisfying, though."
+    },
+    {
+      "character": "narrator",
+      "text": "Not the act of cleaning itself, but taking a step back and looking at all you\u2019ve managed to accomplish in just a brief window of time."
+    },
+    {
+      "character": "narrator",
+      "text": "Or in my case \u2014 how you have accomplished nothing in a window so large that the house itself could fall through it."
+    },
+    {
+      "character": "narrator",
+      "text": "It\u2019s satisfying because it\u2019s validating. Just it validates that I am not cut out for this. And I am satisfied because I\u2019ve always loved the way it feels to be right."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019ve been using that word a lot lately."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Love.{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019ve been handing it out like candy."
+    },
+    {
+      "character": "narrator",
+      "text": "For some reason, when I close my eyes, I can almost taste it. "
+    },
+    {
+      "character": "narrator",
+      "text": "{i}That{/i} was like vinegar too."
+    },
+    {
+      "character": "narrator",
+      "text": "Just it didn\u2019t work the way it was supposed to."
+    },
+    {
+      "character": "narrator",
+      "text": "Mold still grows within me to this very day."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Come in."
+    },
+    {
+      "character": "Io",
+      "text": "Hi! Hello. I\u2019m here to annoy you again. This time, with the 1997 PC Classic, Theme Hospital."
+    },
+    {
+      "character": "Sensei",
+      "text": "Jumping back even further in time, huh? Don\u2019t girls your age typically like modern things more?"
+    },
+    {
+      "character": "Io",
+      "text": "I\u2019m going to give you a second to think about what you just said so you can find the flaws yourself without me having to point them out."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m glad you\u2019re here, Io."
+    },
+    {
+      "character": "Io",
+      "text": "You are? Why? I suck."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah, but so do I. So being around someone equally shitty makes me somehow feel a little {i}less{/i} shitty."
+    },
+    {
+      "character": "Io",
+      "text": "You\u2019re not shitty at all, though. You\u2019re like my cool, guardian angel \u2014 who watches over me and prevents me from feeling like I\u2019m the worst thing in the world."
+    },
+    {
+      "character": "Sensei",
+      "text": "I literally {i}just{/i} called you shitty."
+    },
+    {
+      "character": "Io",
+      "text": "Yeah, in comparison to {i}you{/i}, who is decidedly {i}un-{/i}shitty."
+    },
+    {
+      "character": "Io",
+      "text": "Either way! Let\u2019s go play games in your room so I stop feeling like I was only put here to suffer!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Is everything okay?"
+    },
+    {
+      "character": "Io",
+      "text": "No! Of course not! Nothing is ever okay! Which is a huge part of why a lot of people play games in the first place!"
+    },
+    {
+      "character": "Io",
+      "text": "But before I go on a tirade about how that statement applies to the endless rollercoaster, no pun intended, that is my life, how about you just agree and show me to your room?!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Io-"
+    },
+    {
+      "character": "Io",
+      "text": "If you\u2019re still feeling bad about what happened the last time I came over and did something like this, don\u2019t be. That was {i}my{/i} fault for putting myself in a situation where I knew it could happen."
+    },
+    {
+      "character": "Io",
+      "text": "But I know you aren\u2019t going to hurt me now. So there\u2019s nothing you need to worry about. Just sit back and let me bother you. I need you today."
+    },
+    {
+      "character": "Sensei",
+      "text": "You need me?"
+    },
+    {
+      "character": "Io",
+      "text": "I mean, realistically, I kind of need you {i}every{/i} day since when I\u2019m {i}not{/i} with you, I\u2019m still thinking about you. But, yeah. Today I guess I {i}really{/i} need you."
+    },
+    {
+      "character": "Sensei",
+      "text": "And you don\u2019t want to talk about {i}why?{/i}"
+    },
+    {
+      "character": "Io",
+      "text": "Nope. I just want to sit in the dark with my favorite person and forget all about it. Please help?"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Io",
+      "text": "Pleeeeeeease?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Okay, fine. And I promise not to invite you into bed this time."
+    },
+    {
+      "character": "Io",
+      "text": "Fuck yeah! Affection!"
+    },
+    {
+      "character": "Io",
+      "text": "You can totally invite me into bed if you want, though. I\u2019d let you hug the life out of me if you felt like it. It\u2019s just all that {i}other{/i} stuff I can\u2019t stomach. But you already know that, so-"
+    },
+    {
+      "character": "Sensei",
+      "text": "I sure do. Let\u2019s just go to my room, okay? "
+    },
+    {
+      "character": "Sensei",
+      "text": "You clearly want to talk more about your weird retro hospital game than your feelings right now and, as always, I am fully supportive of avoiding any and all trauma dumping."
+    },
+    {
+      "character": "Io",
+      "text": "Fuck yeah! Emotional cowardice!"
+    },
+    {
+      "character": "narrator",
+      "text": "I lead Io to the bedroom."
+    },
+    {
+      "character": "narrator",
+      "text": "She doesn\u2019t notice how unclean everything is."
+    },
+    {
+      "character": "narrator",
+      "text": "Or maybe she does and she just ignores it. Maybe she\u2019s being polite?"
+    },
+    {
+      "character": "narrator",
+      "text": "Maybe she\u2019s {i}used{/i} to filth by now after all that\u2019s happened to her? And how I\u2019ve surely only added to that by rubbing off on her over time. "
+    },
+    {
+      "character": "narrator",
+      "text": "We sit with our shoulders close together. They brush against each other every once in a while \u2014 each one accompanied by a small flinch before she remembers I don\u2019t {i}want{/i} to hurt her. I just {i}will.{/i}"
+    },
+    {
+      "character": "Io",
+      "text": "It needs to install first. It might take a second."
+    },
+    {
+      "character": "Sensei",
+      "text": "That\u2019s fine. I\u2019ll just be thankful for this moment of awkward silence in the meantime."
+    },
+    {
+      "character": "Io",
+      "text": "And {i}I\u2019ll{/i} be thankful your laptop still has a disc drive that allows me to install this in the first place. Those aren\u2019t exactly common anymore."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah, well, when it comes to being behind the times in terms of technology and...the Internet...and the concept of growing up as a whole, I\u2019m your guy."
+    },
+    {
+      "character": "Io",
+      "text": "What\u2019s in the \u201cMath Homework\u201d folder on your desktop?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Math homework. I am a very organized, intellectual man."
+    },
+    {
+      "character": "Io",
+      "text": "It\u2019s porn, isn\u2019t it?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t even know what that means. As I said, I am very behind the times in terms of technology and-"
+    },
+    {
+      "character": "Io",
+      "text": "So you don\u2019t mind if I open it then."
+    },
+    {
+      "character": "Sensei",
+      "text": "Please don\u2019t. A man\u2019s math homework folder should remain hidden from even those he trusts the most."
+    },
+    {
+      "character": "Io",
+      "text": "There\u2019s some weird stuff in there, isn\u2019t there?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m surprised you even want to know given who you are as a person."
+    },
+    {
+      "character": "Io",
+      "text": "I work in a bathhouse. I\u2019m used to nudity, Sensei. Besides, I think it\u2019s kind of funny. Like...porn as a whole. Would I watch it on my own? No. But I won\u2019t think less of you for doing it."
+    },
+    {
+      "character": "Io",
+      "text": "Unless you still have those pictures of Uta from when she was a kid in there."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Io",
+      "text": "Put you on the spot, huh?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Io-"
+    },
+    {
+      "character": "Io",
+      "text": "Don\u2019t worry. It\u2019s not really my place to weigh in anymore now that she\u2019s straight up told both of us that she\u2019s okay with you having them."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Io",
+      "text": "Oh, look! It finished installing."
+    },
+    {
+      "character": "Sensei",
+      "text": "You...{i}can{/i} weigh in if you want."
+    },
+    {
+      "character": "Sensei",
+      "text": "I think it\u2019s...great that you want to protect your friend. And I know that holding onto something I never should have had in the first place was wrong. "
+    },
+    {
+      "character": "Io",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "So...you can weigh in. You can call me out. I know you haven\u2019t gotten it all out of your system yet."
+    },
+    {
+      "character": "Sensei",
+      "text": "Just because I...left {i}you{/i} alone...doesn\u2019t mean I-"
+    },
+    {
+      "character": "Io",
+      "text": "There are a lot of really bad people in this world, Sensei."
+    },
+    {
+      "character": "Io",
+      "text": "We both know that."
+    },
+    {
+      "character": "Io",
+      "text": "But not all of them understand that what they\u2019re doing is even wrong to begin with. Like that douchebag who posted Uta\u2019s pictures online in the first place."
+    },
+    {
+      "character": "Io",
+      "text": "{i}Or the woman who used to torture me.{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "{i}You don\u2019t have to-{/i}"
+    },
+    {
+      "character": "Io",
+      "text": "{i}No, it\u2019s...{/i}"
+    },
+    {
+      "character": "Io",
+      "text": "{i}I mean, it\u2019s not fine. But there\u2019s no sense in hiding it from you anymore now that it\u2019s out in the open. {/i}"
+    },
+    {
+      "character": "Io",
+      "text": "{i}Like, shit, the whole fucking class probably knows after that stupid trivia show thing. And talking about it always just makes it worse, but...{/i}"
+    },
+    {
+      "character": "Io",
+      "text": "{i}On the off chance that a place like Heaven exists, cursing her any chance I get can remind the gods or...angels or...whoever makes the guest list to keep her off of it. {/i}"
+    },
+    {
+      "character": "Io",
+      "text": "{i}Even Hell would be too cold for a demon like her.{/i}"
+    },
+    {
+      "character": "{s}MOTHER{/s}",
+      "text": "You\u2019re going to be good, right?"
+    },
+    {
+      "character": "Io",
+      "text": "..."
+    },
+    {
+      "character": "{s}MOTHER{/s}",
+      "text": "Because you know what will happen if you {i}aren\u2019t{/i} good, right?"
+    },
+    {
+      "character": "Io",
+      "text": "You\u2019ll send Sir Meowington back to the shelter."
+    },
+    {
+      "character": "{s}MOTHER{/s}",
+      "text": "And?"
+    },
+    {
+      "character": "Io",
+      "text": "No dinner. No computer. No games. No anything."
+    },
+    {
+      "character": "{s}MOTHER{/s}",
+      "text": "And if the doctor asks you how you\u2019re feeling? Do you remember that too?"
+    },
+    {
+      "character": "Io",
+      "text": "I\u2019m having a hard time getting adjusted to my new school."
+    },
+    {
+      "character": "{s}MOTHER{/s}",
+      "text": "Because?"
+    },
+    {
+      "character": "Io",
+      "text": "Because everyone hates me."
+    },
+    {
+      "character": "{s}MOTHER{/s}",
+      "text": "That\u2019s not what we discussed."
+    },
+    {
+      "character": "Io",
+      "text": "It\u2019s the truth, though."
+    },
+    {
+      "character": "{s}MOTHER{/s}",
+      "text": "Do you know {i}why{/i} they hate you, Io?"
+    },
+    {
+      "character": "Io",
+      "text": "Because I\u2019m not like them."
+    },
+    {
+      "character": "{s}MOTHER{/s}",
+      "text": "Because you\u2019re an ungrateful, disobedient, obnoxious little brat who insists on ruining the lives of {i}everyone{/i} you speak to."
+    },
+    {
+      "character": "Io",
+      "text": "I\u2019m sorry."
+    },
+    {
+      "character": "{s}MOTHER{/s}",
+      "text": "Well, you won\u2019t have to be sorry for long..."
+    },
+    {
+      "character": "{s}MOTHER{/s}",
+      "text": "You\u2019ll be getting home-schooled as soon as that useless father of yours finishes the paperwork."
+    },
+    {
+      "character": "{s}MOTHER{/s}",
+      "text": "You know what that means, don\u2019t you?"
+    },
+    {
+      "character": "Io",
+      "text": "You\u2019ll be my teacher."
+    },
+    {
+      "character": "{s}MOTHER{/s}",
+      "text": "And Mommy\u2019s already taught you so much, hasn\u2019t she? Are you excited to learn more?"
+    },
+    {
+      "character": "Io",
+      "text": "Can we just move again instead?"
+    },
+    {
+      "character": "{s}MOTHER{/s}",
+      "text": "{i}What did you just say?{/i}"
+    },
+    {
+      "character": "Io",
+      "text": "..."
+    },
+    {
+      "character": "{s}MOTHER{/s}",
+      "text": "{i}This{/i} is why the kids at school hate you. {i}This{/i} is what makes you ungrateful."
+    },
+    {
+      "character": "{s}MOTHER{/s}",
+      "text": "I {i}made{/i} you. I put a roof over your head. I buy you nice clothes...all the games you want...those fucking {i}animals{/i} that {i}I{/i} have to feed, and {i}this{/i} is how you say thanks for all of that?"
+    },
+    {
+      "character": "Io",
+      "text": "I\u2019m sorry."
+    },
+    {
+      "character": "{s}MOTHER{/s}",
+      "text": "No, you\u2019re not. You\u2019re never sorry. You\u2019re a useless child who can\u2019t follow even the simplest of directions. The kind that only a mother could love."
+    },
+    {
+      "character": "{s}MOTHER{/s}",
+      "text": "What will you do if {i}I{/i} start to hate you next, Io? Where will you go? Are you going to live out on the street? Become a fucking {i}whore?{/i} Is {i}that{/i} your plan?"
+    },
+    {
+      "character": "Io",
+      "text": "I\u2019ll be good."
+    },
+    {
+      "character": "{s}MOTHER{/s}",
+      "text": "{i}Good.{/i} Because if you\u2019re not, I\u2019ll-"
+    },
+    {
+      "character": "{s}MOTHER{/s}",
+      "text": "Um...{i}excuse me?{/i} Can I help you?"
+    },
+    {
+      "character": "Yasu's Mother",
+      "text": "{i}Yasu! Move! What are you doing?!{/i}"
+    },
+    {
+      "character": "{s}MOTHER{/s}",
+      "text": "Would you mind controlling your child? My daughter has {i}anxiety.{/i} She\u2019s not equipped to speak to random, weird little girls who want to stare at her for no fucking reason."
+    },
+    {
+      "character": "Yasu's Mother",
+      "text": "I-I\u2019m sorry. She\u2019s not well. Yasu, move. {i}Now.{/i}"
+    },
+    {
+      "character": "Yasu",
+      "text": "Bad woman..."
+    },
+    {
+      "character": "{s}MOTHER{/s}",
+      "text": "{i}What?...{/i}"
+    },
+    {
+      "character": "Yasu's Mother",
+      "text": "I\u2019m so sorry! She thinks she sees things! And she\u2019s always hearing these {i}voices{/i} and-"
+    },
+    {
+      "character": "{s}MOTHER{/s}",
+      "text": "And you think I {i}care?!{/i} Get your fucking freak away from my little girl or I\u2019ll call the police. This is harassment. Who\u2019s your doctor? Are you even supposed to be here?"
+    },
+    {
+      "character": "Yasu's Mother",
+      "text": "S-Sorry! We were just leaving!"
+    },
+    {
+      "character": "Yasu",
+      "text": "But-"
+    },
+    {
+      "character": "Yasu's Mother",
+      "text": "{i}Shh! Will you ever stop embarrassing me?! You can't just stare at other girls like that! I don\u2019t care what you think you heard! Just...be normal!{/i}"
+    },
+    {
+      "character": "{s}MOTHER{/s}",
+      "text": "Tch. The nerve of some people."
+    },
+    {
+      "character": "{s}MOTHER{/s}",
+      "text": "Clearly, not everyone is cut out to be a mother."
+    },
+    {
+      "character": "{s}MOTHER{/s}",
+      "text": "Go to the bathroom and fix your hair before your appointment. We can stop for ice cream on the way home if you do a good job."
+    },
+    {
+      "character": "Io",
+      "text": "I\u2019m tired. I don\u2019t want ice cream."
+    },
+    {
+      "character": "{s}MOTHER{/s}",
+      "text": "Yes you do. You love ice cream. Now, go. You look like a fucking mess. Almost as bad as that other girl. People are going to think I abuse you. Do you {i}want{/i} that? Do you {i}want{/i} to make me look bad?"
+    },
+    {
+      "character": "Io",
+      "text": "I\u2019m sorry. I-"
+    },
+    {
+      "character": "{s}MOTHER{/s}",
+      "text": "That\u2019s it. No computer. No games. You\u2019ll sit in your room and read until Mommy has a job for you. Do you understand?"
+    },
+    {
+      "character": "Io",
+      "text": "..."
+    },
+    {
+      "character": "Io",
+      "text": "I\u2019m sorry."
+    },
+    {
+      "character": "Io",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "You\u2019ve been...sitting there in silence for like five minutes now, Io."
+    },
+    {
+      "character": "Io",
+      "text": "I\u2019m sorry."
+    },
+    {
+      "character": "Sensei",
+      "text": "{i}Why?{/i}"
+    },
+    {
+      "character": "Io",
+      "text": "Because I\u2019m sorry for everything. That\u2019s just...how I am."
+    },
+    {
+      "character": "Io",
+      "text": "I know it\u2019s not my fault. But I still can\u2019t help but say it. It\u2019s like...a reflex, almost."
+    },
+    {
+      "character": "Io",
+      "text": "Like, if I\u2019m not constantly apologizing, everything I care about is going to be taken away. And I\u2019ll be all alone in the dark...in the glow of some old laptop, waiting for my pills to kick in."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Io",
+      "text": "Why can\u2019t I be happy, Sensei?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I ask myself the same question all the time."
+    },
+    {
+      "character": "Io",
+      "text": "But you know what will {i}make{/i} you happy...."
+    },
+    {
+      "character": "Io",
+      "text": "And it\u2019s something {i}I{/i} can help with..."
+    },
+    {
+      "character": "Io",
+      "text": "So I will."
+    },
+    {
+      "character": "Sensei",
+      "text": "Io-"
+    },
+    {
+      "character": "Io",
+      "text": "It\u2019s hard."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Io",
+      "text": "Do you mind if it\u2019s under the table?..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Do I mind if {i}what{/i} is under the table, Io?"
+    },
+    {
+      "character": "Io",
+      "text": "Are you asking because you genuinely don\u2019t know? Or because you want to hear me say it?"
+    },
+    {
+      "character": "Sensei",
+      "text": "The latter \u2014 but only because I want you to snap out of whatever it is that\u2019s going on with you right now."
+    },
+    {
+      "character": "Io",
+      "text": "Let me make you happy, Sensei. As payment for spending time with me today. It's the least I can do."
+    },
+    {
+      "character": "Sensei",
+      "text": "You don\u2019t need to {i}pay{/i} me, Io. You don\u2019t need to do any of this."
+    },
+    {
+      "character": "Io",
+      "text": "But it\u2019s hard."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Io",
+      "text": "That means you want it, right?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Of course I {i}want{/i} it, but-"
+    },
+    {
+      "character": "Io",
+      "text": "It\u2019s just my hand..."
+    },
+    {
+      "character": "Io",
+      "text": "This much, I can stomach."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Io",
+      "text": "It\u2019s so big..."
+    },
+    {
+      "character": "Io",
+      "text": "You\u2019re so-"
+    },
+    {
+      "character": "Sensei",
+      "text": "No."
+    },
+    {
+      "character": "Io",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Io",
+      "text": "{i}No?{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "No."
+    },
+    {
+      "character": "Io",
+      "text": "But I..."
+    },
+    {
+      "character": "Io",
+      "text": "I started it. {i}I{/i} chose to do this. So you don\u2019t have to feel guilty about-"
+    },
+    {
+      "character": "Sensei",
+      "text": "I said no."
+    },
+    {
+      "character": "Io",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Do you know what that word means?"
+    },
+    {
+      "character": "Io",
+      "text": "To me, it meant nothing for a very long time."
+    },
+    {
+      "character": "Sensei",
+      "text": "And now?"
+    },
+    {
+      "character": "Io",
+      "text": "Now, I\u2019m just...confused."
+    },
+    {
+      "character": "Io",
+      "text": "Do you like me or...do you not like me?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I like you. But I\u2019m not going to force you to do anything."
+    },
+    {
+      "character": "Io",
+      "text": "But...you\u2019re not! Like I said, this is {i}my{/i} choice! {i}I{/i} intended to do this today!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Okay. Then I won\u2019t let you force {i}yourself{/i} either."
+    },
+    {
+      "character": "Io",
+      "text": "Why...not?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Because I never want to see you like that again."
+    },
+    {
+      "character": "Io",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Io",
+      "text": "I never want to see you like that again either..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Was it scary?"
+    },
+    {
+      "character": "Io",
+      "text": "Yeah."
+    },
+    {
+      "character": "Sensei",
+      "text": "But you still like me either way? You\u2019re not just lying about it because you\u2019re afraid of change?"
+    },
+    {
+      "character": "Io",
+      "text": "I like you...a lot."
+    },
+    {
+      "character": "Sensei",
+      "text": "Then take your hand off of me..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Okay?"
+    },
+    {
+      "character": "Io",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Io",
+      "text": "Okay..."
+    },
+    {
+      "character": "narrator",
+      "text": "Io and I spend the rest of the afternoon holding hands and playing video games in the dark."
+    },
+    {
+      "character": "narrator",
+      "text": "I feel like a kid again. I imagine she does too."
+    },
+    {
+      "character": "narrator",
+      "text": "But I\u2019m confused about why we like it."
+    },
+    {
+      "character": "narrator",
+      "text": "Eventually, she leaves. But she keeps the game here."
+    },
+    {
+      "character": "narrator",
+      "text": "I keep playing until it\u2019s dark everywhere, not just in my room."
+    },
+    {
+      "character": "narrator",
+      "text": "And before I know it, I\u2019m looking down at a chat window full of pictures of my progress, with her name plastered to the top of it."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Io\u2019s affection has increased by 5!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "io_love +": {
+      "from": 1,
+      "to": 5
+    },
+    "iospring4": {
+      "from": null,
+      "to": true
+    }
+  }
+}

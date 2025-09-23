@@ -1,0 +1,700 @@
+{
+  "event_id": 142,
+  "event_label": "beachmas5",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "My search for Yumi is as fruitless as the trees covering this beach as I make my way back to the area most of the girls have been hanging out at."
+    },
+    {
+      "character": "narrator",
+      "text": "Perhaps the gap in time between the last time I {i}truly{/i} hung out with her and now has depreciated my once great ability to always find her."
+    },
+    {
+      "character": "narrator",
+      "text": "Or perhaps the only reason I ever found her at all is because she wanted to be found."
+    },
+    {
+      "character": "narrator",
+      "text": "Now, I\u2019m not so sure anymore."
+    },
+    {
+      "character": "narrator",
+      "text": "Because not only did I abandon my blossoming desire to fight for her when it mattered most, I have forced myself upon her in a way different from what I\u2019ve done in the past."
+    },
+    {
+      "character": "narrator",
+      "text": "And it doesn\u2019t help that it seems she\u2019s given up on fighting for herself as well."
+    },
+    {
+      "character": "narrator",
+      "text": "But alas \u2014 I will resign myself to what was decided earlier and simply fall back into line."
+    },
+    {
+      "character": "narrator",
+      "text": "I will act normally. "
+    },
+    {
+      "character": "narrator",
+      "text": "I will disregard the jump in time that took me from one holiday to the next."
+    },
+    {
+      "character": "narrator",
+      "text": "And I will eagerly await the next instance of the world reverting to an earlier version of itself."
+    },
+    {
+      "character": "narrator",
+      "text": "Perhaps next time, something greater will happen."
+    },
+    {
+      "character": "narrator",
+      "text": "And things will go back to a time when they were easier."
+    },
+    {
+      "character": "Ami",
+      "text": "Yay! You\u2019re back!"
+    },
+    {
+      "character": "Ami",
+      "text": "Do you know how many seconds you were away?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Please tell me you didn\u2019t count them."
+    },
+    {
+      "character": "Ami",
+      "text": "Fine. I didn\u2019t count them."
+    },
+    {
+      "character": "Sensei",
+      "text": "You counted them, didn\u2019t you?"
+    },
+    {
+      "character": "Ami",
+      "text": "It\u2019s possible. But that\u2019s beside the point!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Right. And I\u2019m assuming the actual {i}point{/i} you\u2019re trying to make is the fact that you\u2019ve missed me despite my disappearance only lasting probably thirty minutes or so?"
+    },
+    {
+      "character": "Ami",
+      "text": "And also the fact that I think we should spend the rest of the day together because we love each other so very much."
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t see how that\u2019s different from your approach to every single day that has ever happened."
+    },
+    {
+      "character": "Ami",
+      "text": "It\u2019s different because I\u2019m wearing a swimsuit today and it makes me angry when you look at other girls who are doing the same."
+    },
+    {
+      "character": "Sensei",
+      "text": "Let go of my arm, Ami."
+    },
+    {
+      "character": "Ami",
+      "text": "No."
+    },
+    {
+      "character": "Ami",
+      "text": "You\u2019ve had your fun looking for class delinquents and hiding behind buildings with my friends. Now, it\u2019s Ami time. Which means that you must focus entirely on Ami and ignore anyone else who might show up."
+    },
+    {
+      "character": "Sensei",
+      "text": "Hi, Noriko."
+    },
+    {
+      "character": "Ami",
+      "text": "Ha ha ha. Very funny. Noriko would know better than to show up in the middle of Ami time. Especially since I would chop off her hands if she ever actually {i}did.{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "Maybe keep your dismemberment fetish to yourself while we\u2019re out in public."
+    },
+    {
+      "character": "Ami",
+      "text": "It\u2019s not a fetish, it\u2019s a necessity. Plus, does Noriko even really {i}need{/i} hands in the first-"
+    },
+    {
+      "character": "Ami",
+      "text": "PlaAAAaAAAce!?"
+    },
+    {
+      "character": "Ami",
+      "text": "That was assault! I\u2019m calling the police!"
+    },
+    {
+      "character": "Noriko",
+      "text": "Soft, yet quite firm upon squeezing. And so very smooth. I\u2019ve gotta say, Ami- you\u2019ve got a surprisingly nice ass. I\u2019d give it...an eight out of ten on the Noriko meter."
+    },
+    {
+      "character": "Ami",
+      "text": "Stop ranking my butt! What do you want?! You\u2019re interrupting Ami time!"
+    },
+    {
+      "character": "Noriko",
+      "text": "I just wanted to see what my non-blood-related little sister and future husband are up to."
+    },
+    {
+      "character": "Sensei",
+      "text": "But if Ami\u2019s your sister, wouldn\u2019t that make me-"
+    },
+    {
+      "character": "Noriko",
+      "text": "Shush. You know neither one of us really cares about that."
+    },
+    {
+      "character": "Sensei",
+      "text": "True. But on a more serious note, I feel like not enough people {i}do.{/i}"
+    },
+    {
+      "character": "Ami",
+      "text": "What I am \u201cup to\u201d is spending time with my beloved uncle. Time that should not be interrupted by-"
+    },
+    {
+      "character": "Ami",
+      "text": "Wha- and now you\u2019re hugging me?! Why?! "
+    },
+    {
+      "character": "Noriko",
+      "text": "Because I love you, obviously!"
+    },
+    {
+      "character": "Ami",
+      "text": "Well, stop! How am I supposed to hate you when you keep being this adorable and kind?!"
+    },
+    {
+      "character": "Noriko",
+      "text": "I need not your love, precious imouto. Just your pliable, berry-scented flesh and your 8/10 ass."
+    },
+    {
+      "character": "Noriko",
+      "text": "Oh, and I also need to borrow Sensei for a few minutes."
+    },
+    {
+      "character": "Ami",
+      "text": "There it is. You never cared about Ami time at all, did you?"
+    },
+    {
+      "character": "Noriko",
+      "text": "I will be a happy and willing participant in Ami time right after I can talk to Sensei."
+    },
+    {
+      "character": "Ami",
+      "text": "Anything you need to say to Sensei, you can say in front of me."
+    },
+    {
+      "character": "Noriko",
+      "text": "Not if I want to keep my hands, I can\u2019t. And I like my hands. What else am I supposed to rank butts with?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Am I allowed to ask who the current top scorer in the ass ranking is?"
+    },
+    {
+      "character": "Ami",
+      "text": "No. "
+    },
+    {
+      "character": "Noriko",
+      "text": "Unfortunately, my unbiased judging has Maya sitting at the very top of the list right now."
+    },
+    {
+      "character": "Sensei",
+      "text": "I can not imagine she would be happy to hear that."
+    },
+    {
+      "character": "Ami",
+      "text": "Is that why Maya hates you so much? Have you {i}assaulted{/i} her as well?"
+    },
+    {
+      "character": "Noriko",
+      "text": "Only with my eyes. But I stare for longer periods of time at the people I\u2019m jealous of and she has many {i}things{/i} I wish I could have as well."
+    },
+    {
+      "character": "Noriko",
+      "text": "But so do you, Ami! Which is why I was kind enough to once again ask for your permission to talk to Sensei rather than just stealing him away like everyone else always does."
+    },
+    {
+      "character": "Ami",
+      "text": "Well...I do like that you acknowledge your position in the pecking order. And if it weren\u2019t Ami time right now, I\u2019d be inclined to consider your plea."
+    },
+    {
+      "character": "Ami",
+      "text": "But unfortunately for you, the only person who can override Ami time other than me is Sensei and there is no way he would ever-"
+    },
+    {
+      "character": "Sensei",
+      "text": "We can talk."
+    },
+    {
+      "character": "Ami",
+      "text": "Why does nobody ever care about Ami time?! "
+    },
+    {
+      "character": "Sensei",
+      "text": "Because Noriko said whatever it is will only take a few minutes. After that, you can do whatever you want with me so long as it\u2019s legal."
+    },
+    {
+      "character": "Ami",
+      "text": "You\u2019re going to make me study the {i}law?!{/i} Since when do you care about what\u2019s legal and what\u2019s not?!"
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m just covering my bases now for when your ages are no longer indeterminate anymore."
+    },
+    {
+      "character": "Ami",
+      "text": "But you {i}know{/i} how old I am."
+    },
+    {
+      "character": "Sensei",
+      "text": "I do. But {i}they{/i} don\u2019t."
+    },
+    {
+      "character": "Ami",
+      "text": "Who are {i}they?!{/i} What are you talking about?! "
+    },
+    {
+      "character": "Noriko",
+      "text": "I have no idea what\u2019s going on, but follow me toward privacy! Or at least as close as we can get to it on a small beach with twenty-some-odd girls!"
+    },
+    {
+      "character": "narrator",
+      "text": "In complete disregard for her wishes, I leave Ami\u2019s side and follow Noriko further down the shoreline."
+    },
+    {
+      "character": "narrator",
+      "text": "You know that unspoken and mildly-sexist rule where the male in a relationship is always supposed to walk closer to the street so that if {b}ANYTHING HORRIBLE{/b} happens, it happens to {i}him?{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "Well, I\u2019m not sure if that rule applies to the ocean or not. But, if it does, I shatter it into a million pieces as Noriko is not only walking {i}closer{/i} to the ocean, but {i}in{/i} it."
+    },
+    {
+      "character": "narrator",
+      "text": "Her feet kick up water each time a wave forces its way into our group of two. And while she does this in a playful fashion, humming happily as she goes, I can not help but mutate the situation inside of my head."
+    },
+    {
+      "character": "narrator",
+      "text": "A body of water is chopped into pieces."
+    },
+    {
+      "character": "narrator",
+      "text": "I carry some of them with me as they soak into my jeans."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Noriko",
+      "text": "Sorry for pulling you away like that. I know just how important \u201cAmi time\u201d is to you."
+    },
+    {
+      "character": "Sensei",
+      "text": "I feel like my life is perpetually caught in \u201cAmi time,\u201d so I welcome all chances to slip away from that. Even if most of those chances are thwarted soon after. "
+    },
+    {
+      "character": "Noriko",
+      "text": "Then, what would you say if I offered you {i}another{/i} opportunity to break free from the chains that bind you tomorrow night?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019d ask what we\u2019re doing, where we\u2019re going, and what you\u2019ll be wearing. "
+    },
+    {
+      "character": "Noriko",
+      "text": "Hanging out, around here, and this. "
+    },
+    {
+      "character": "Sensei",
+      "text": "Not going to whisk me away to another seedy bar in the urban district?"
+    },
+    {
+      "character": "Noriko",
+      "text": "I {i}can{/i} if that\u2019s what you want. I just figured a more relaxing Christmas date would be a little more comfortable for you."
+    },
+    {
+      "character": "narrator",
+      "text": "Right...tomorrow is Christmas."
+    },
+    {
+      "character": "narrator",
+      "text": "But wasn\u2019t it Niki who asked me out first?"
+    },
+    {
+      "character": "narrator",
+      "text": "Granted, I never agreed to go on a date with {i}any{/i} of the three girls who asked me...but sticking with the {i}first{/i} person who did seems to me like it would be the best way to avoid conflict."
+    },
+    {
+      "character": "Sensei",
+      "text": "Just out of curiosity, is this something I agreed to do over the last...two-ish months?"
+    },
+    {
+      "character": "Noriko",
+      "text": "Hmm...to take advantage of your memory problems or to be honest...which one should I do?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019d prefer honesty but can\u2019t say that\u2019s the route I would take if I were in your shoes."
+    },
+    {
+      "character": "Noriko",
+      "text": "Eh. Both paths head to the same place anyway."
+    },
+    {
+      "character": "Noriko",
+      "text": "You never responded to any of our date requests. So Nee-chan went ahead with her normal Christmas concert while Chika and I hung back and accepted that it just wasn\u2019t something you were into."
+    },
+    {
+      "character": "Noriko",
+      "text": "Well...until now, that is. {i}Now,{/i} Noriko Nakayarakawayama is seizing the day! Or the...tomorrow..."
+    },
+    {
+      "character": "Noriko",
+      "text": "...and taking {i}you...{/i} yes, you...out on what is sure to be the most mildly romantic and decently interesting Christmas date of all time."
+    },
+    {
+      "character": "Sensei",
+      "text": "Wow, I\u2019m sold. What an amazing pitch."
+    },
+    {
+      "character": "Noriko",
+      "text": "I try."
+    },
+    {
+      "character": "Noriko",
+      "text": "On the real, though...there\u2019s a place I found that I want to take you."
+    },
+    {
+      "character": "Noriko",
+      "text": "It\u2019s pretty hidden, so the chances of anyone seeing us together are null so long as we go there at separate times. "
+    },
+    {
+      "character": "Sensei",
+      "text": "True. But you\u2019re overlooking the part where it will be Christmas night, a time we almost always spend as a group, and only the two of {i}us{/i} will be missing. "
+    },
+    {
+      "character": "Noriko",
+      "text": "I\u2019m not {i}overlooking{/i} that. I\u2019m accepting it as a necessary risk if I\u2019m ever going to get out of my prototype stage."
+    },
+    {
+      "character": "Noriko",
+      "text": "And with a brand new year on the horizon, it\u2019s about time I start doing some things for myself."
+    },
+    {
+      "character": "Sensei",
+      "text": "And what better thing to do for {i}yourself{/i} than throw everything you have at winning over a member of the \u201cpatriarchy\u201d you so vehemently despise."
+    },
+    {
+      "character": "Noriko",
+      "text": "I can fall in love and {i}still{/i} advocate for change, you know. Those things aren\u2019t mutually exclusive."
+    },
+    {
+      "character": "Sensei",
+      "text": "You don\u2019t want to fall in love with me, Noriko. "
+    },
+    {
+      "character": "Noriko",
+      "text": "No. {i}You{/i} don\u2019t want to fall in love with {i}me{/i} because you\u2019re worried you might break me. But I\u2019m not as fragile as you think."
+    },
+    {
+      "character": "Noriko",
+      "text": "And I\u2019m not just saying that because I\u2019d let you do the really rough stuff like choke me and strap me to weird sexual torture devices. "
+    },
+    {
+      "character": "Sensei",
+      "text": "Will any of those devices be at this secret spot you\u2019ve managed to find for the two of us?"
+    },
+    {
+      "character": "Noriko",
+      "text": "I might be able to make some arrangements."
+    },
+    {
+      "character": "Sensei",
+      "text": "Then sign me up. Nothing screams \u201cChristmas\u201d like taking the virginity of a teenage girl in an undisclosed location full of sex machines."
+    },
+    {
+      "character": "Noriko",
+      "text": "Just make sure nobody follows you, okay? Not because I\u2019m worried we\u2019ll get caught, but because I don\u2019t want them to be scarred for life after seeing what you\u2019re putting me through."
+    },
+    {
+      "character": "Sensei",
+      "text": "Jokes aside, I\u2019m not sure if it\u2019s a good idea or not."
+    },
+    {
+      "character": "Noriko",
+      "text": "Really? Not even for-"
+    },
+    {
+      "character": "Sensei",
+      "text": "But I\u2019ll do it anyway."
+    },
+    {
+      "character": "Noriko",
+      "text": "You...will? Really? "
+    },
+    {
+      "character": "Noriko",
+      "text": "I get to have you all to myself on the most romantic night of the year? You\u2019re not going to forget about me and go spend it with Maya or something?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Nope. Tonight is Maya night. Tomorrow night will be Noriko night."
+    },
+    {
+      "character": "Noriko",
+      "text": "Aww...how generous of you. Thanks, Sensei."
+    },
+    {
+      "character": "Sensei",
+      "text": "Jealous she beat you to the punch tonight as well? A more aggressive Noriko could have had dates two nights in a row."
+    },
+    {
+      "character": "Noriko",
+      "text": "I\u2019m not jealous, no. "
+    },
+    {
+      "character": "Noriko",
+      "text": "I\u2019m happy I get to have you for any amount of time at all..."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Noriko\u2019s affection has increased to [noriko_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Kirin",
+      "text": "What do you think they\u2019re talking about over there?"
+    },
+    {
+      "character": "Miku",
+      "text": "Sensei and Noriko? Beats me. But if I had to guess, probably somethin\u2019 about how she\u2019s loved him for like forty years or whatever it was."
+    },
+    {
+      "character": "Kirin",
+      "text": "Did you know they haven\u2019t even kissed yet? How ridiculous is that?"
+    },
+    {
+      "character": "Miku",
+      "text": "Crazy ridiculous. Like, even {i}I\u2019ve{/i} kissed Sensei. Way to drop the ball, Noriko. "
+    },
+    {
+      "character": "Kirin",
+      "text": "Right? Like, hurry the fuck up and-"
+    },
+    {
+      "character": "Kirin",
+      "text": "Wait, what?"
+    },
+    {
+      "character": "Miku",
+      "text": "What?"
+    },
+    {
+      "character": "Kirin",
+      "text": "You and Sensei...have kissed?"
+    },
+    {
+      "character": "Miku",
+      "text": "Mhm."
+    },
+    {
+      "character": "Kirin",
+      "text": "{i}When?{/i}"
+    },
+    {
+      "character": "Miku",
+      "text": "Almost a whole year ago at this point."
+    },
+    {
+      "character": "Kirin",
+      "text": "And you never told me about it?!"
+    },
+    {
+      "character": "Miku",
+      "text": "Was I supposed to?"
+    },
+    {
+      "character": "Kirin",
+      "text": "Well...we\u2019re friends, aren\u2019t we? I always thought I\u2019d be one of the first people to hear about something like that. "
+    },
+    {
+      "character": "Miku",
+      "text": "I don\u2019t really think I\u2019m supposed to be tellin\u2019 anybody. That kinda thing paints a target on your back \u2018round these parts."
+    },
+    {
+      "character": "Miku",
+      "text": "But as long as you don\u2019t go around tellin\u2019 anyone else, I don\u2019t think it\u2019ll be a problem. Only you and Makoto know right now."
+    },
+    {
+      "character": "Kirin",
+      "text": "Miku, what the fuck?"
+    },
+    {
+      "character": "Miku",
+      "text": "I don\u2019t really see what the big deal is with other people knowin\u2019, but if it keeps Sensei outta trouble and my kneecaps still workin\u2019, that\u2019s enough for me."
+    },
+    {
+      "character": "Kirin",
+      "text": "So, like...are you saying {i}you{/i} wouldn\u2019t get pissed off hearing about somebody {i}else{/i} making moves on the guy you like?"
+    },
+    {
+      "character": "Miku",
+      "text": "Mm-mm. Makoto\u2019s liked Sensei way longer than I have and I\u2019d be super happy if he ever decided to make her his girlfriend. I just also want to be that too. I think. I\u2019m not really sure."
+    },
+    {
+      "character": "Kirin",
+      "text": "Then...say if someone like me were to also...you know..."
+    },
+    {
+      "character": "Miku",
+      "text": "Kiss Sensei?"
+    },
+    {
+      "character": "Kirin",
+      "text": "Or do...{i}more...{/i}"
+    },
+    {
+      "character": "Miku",
+      "text": "More?"
+    },
+    {
+      "character": "Kirin",
+      "text": "Yeah...like..."
+    },
+    {
+      "character": "Miku",
+      "text": "Wait, did he do that fingering thing on you too?"
+    },
+    {
+      "character": "Kirin",
+      "text": "What the fuck is going on right now?!"
+    },
+    {
+      "character": "Miku",
+      "text": "Isn\u2019t it, like...really weird? But also kind of amazing? Unless you guys haven\u2019t done that yet. But if not, you\u2019ve gotta try it. He\u2019s {i}really{/i} good."
+    },
+    {
+      "character": "Miku",
+      "text": "Not like I\u2019ve got anythin\u2019 to compare it to, but still. "
+    },
+    {
+      "character": "Kirin",
+      "text": "Sensei...has fingered you?"
+    },
+    {
+      "character": "Miku",
+      "text": "Yeah. A bunch of times. It's friggin' awesome."
+    },
+    {
+      "character": "Kirin",
+      "text": "How am I only finding out about this right now?"
+    },
+    {
+      "character": "Miku",
+      "text": "Idunno. Guess I\u2019m just really good at keepin\u2019 secrets."
+    },
+    {
+      "character": "Miku",
+      "text": "This what they call bein\u2019 a side-piece? Cause it ain\u2019t half bad."
+    },
+    {
+      "character": "Kirin",
+      "text": "You two haven\u2019t...had sex yet, have you?"
+    },
+    {
+      "character": "Miku",
+      "text": "Sex? The whole shabang? You crazy? You have any idea how big that thing is, Kirin? Fingers are one thing, but I ain\u2019t about to let Sensei shove his whole forearm up there."
+    },
+    {
+      "character": "Miku",
+      "text": "Ain\u2019t no way I\u2019m ready for that. Nuh-uh. Nope."
+    },
+    {
+      "character": "Kirin",
+      "text": "Oh, thank god. You\u2019re not {i}entirely{/i} corrupted yet."
+    },
+    {
+      "character": "Miku",
+      "text": "I mean...it might just {i}feel{/i} bigger than it actually is since I ain\u2019t ever technically {i}seen{/i} it...but from what I felt back during Halloween a few years ago...no way. I like bein\u2019 able to walk."
+    },
+    {
+      "character": "Kirin",
+      "text": "Miku...between you and me..."
+    },
+    {
+      "character": "Kirin",
+      "text": "{i}It looks even bigger than it feels. You\u2019ve gotta see it up close.{/i}"
+    },
+    {
+      "character": "Miku",
+      "text": "Ah! I knew all that experience you\u2019re always talkin\u2019 about came from somewhere! I just always thought it was random guys you met in town and not our teacher!"
+    },
+    {
+      "character": "Kirin",
+      "text": "Miku, I\u2019m not going to have sex with random guys I meet in town! Even I\u2019m better than that!"
+    },
+    {
+      "character": "Miku",
+      "text": "You\u2019re only sayin\u2019 that cause there ain\u2019t any guys around! And wait a minute, you put that thing {i}inside{/i} of you?!"
+    },
+    {
+      "character": "Kirin",
+      "text": "SHH! Someone\u2019s going to hear you!"
+    },
+    {
+      "character": "Miku",
+      "text": "How can you still walk?!"
+    },
+    {
+      "character": "Miku",
+      "text": "Wait a minute! Is that why you were gonna quit the soccer team?! Because Sensei messed up your-"
+    },
+    {
+      "character": "Kirin",
+      "text": "Stop yelling about it like that! It\u2019s embarrassing!"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "beachmas5": {
+      "from": null,
+      "to": true
+    }
+  }
+}

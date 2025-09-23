@@ -1,0 +1,320 @@
+{
+  "event_id": 70,
+  "event_label": "kirinfirsthall",
+  "dialogue": [
+    {
+      "character": "Kirin",
+      "text": "Yo. "
+    },
+    {
+      "character": "Kirin",
+      "text": "Please tell me you\u2019re here for me. I\u2019m bored as shit."
+    },
+    {
+      "character": "Kirin",
+      "text": "I was actually just about to text you begging you to come over."
+    },
+    {
+      "character": "Sensei",
+      "text": "I am here for you, Kirin."
+    },
+    {
+      "character": "Kirin",
+      "text": "Thank fucking God."
+    },
+    {
+      "character": "Kirin",
+      "text": "Noriko\u2019s been blasting music for like two hours and I\u2019m about to pour liquid cement into my ears."
+    },
+    {
+      "character": "Sensei",
+      "text": "I take it things aren\u2019t going well in there?"
+    },
+    {
+      "character": "Kirin",
+      "text": "Oh, things are actually really great. Just kind of annoying at times. "
+    },
+    {
+      "character": "Kirin",
+      "text": "But it\u2019s not like I can tell her to chill when it\u2019s her room, too. She can do whatever she wants."
+    },
+    {
+      "character": "Kirin",
+      "text": "I\u2019m sure there will be plenty of times where {i}she\u2019ll{/i} get mad at me, so learning how to deal with that is a pretty logical first course of action."
+    },
+    {
+      "character": "Kirin",
+      "text": "Whatever the case, it sure beats staying at home. "
+    },
+    {
+      "character": "Sensei",
+      "text": "Ramping up to complain about your sister again?"
+    },
+    {
+      "character": "Kirin",
+      "text": "What do you mean, \u201cramping up?\u201d"
+    },
+    {
+      "character": "Kirin",
+      "text": "You make it sound like that\u2019s a thing I do all the time."
+    },
+    {
+      "character": "Sensei",
+      "text": "I mean...not {i}all{/i} the time."
+    },
+    {
+      "character": "Sensei",
+      "text": "You\u2019ve definitely made me aware of how much you hate living at home before, though."
+    },
+    {
+      "character": "Sensei",
+      "text": "But despite that, you still waited until you were put in my class to move into the dorms."
+    },
+    {
+      "character": "Sensei",
+      "text": "Why didn't you just bite the bullet and move into the other building?"
+    },
+    {
+      "character": "Kirin",
+      "text": "Are you {i}trying{/i} to be a dick to me right now, or is this just happening on accident?"
+    },
+    {
+      "character": "Kirin",
+      "text": "All I did was talk to you and now it\u2019s like you\u2019re fucking profiling me or something."
+    },
+    {
+      "character": "Sensei",
+      "text": "I didn\u2019t mean it like that. "
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m obviously glad you\u2019re here. I wouldn\u2019t have come to see you if I wasn\u2019t."
+    },
+    {
+      "character": "Sensei",
+      "text": "I just...also like your sister and wouldn\u2019t feel right if I didn\u2019t at least try to stand up for her."
+    },
+    {
+      "character": "Kirin",
+      "text": "Well...yeah...that makes sense."
+    },
+    {
+      "character": "Kirin",
+      "text": "Sorry for being so on edge or whatever. I shouldn\u2019t have exploded like that."
+    },
+    {
+      "character": "Kirin",
+      "text": "It\u2019s just weird, you know?"
+    },
+    {
+      "character": "Kirin",
+      "text": "Even though I love it here, it\u2019s still a huge frickin\u2019 transition going from your parents\u2019 house to living with some girl you literally just met."
+    },
+    {
+      "character": "Kirin",
+      "text": "Buuuuut...that\u2019s enough emotional Kirin for now. Help me take my mind off of that stuff, Sensei."
+    },
+    {
+      "character": "Kirin",
+      "text": "I\u2019m sure you didn\u2019t just come over here to hear me complain."
+    },
+    {
+      "character": "Sensei",
+      "text": "If you want to complain, it\u2019s fine-"
+    },
+    {
+      "character": "Kirin",
+      "text": "I {i}said{/i}...I\u2019m sure you didn\u2019t come all the way here to hear me complain."
+    },
+    {
+      "character": "Kirin",
+      "text": "Take my fucking mind off stuff. "
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "You can be really intimidating when you\u2019re in a bad mood, Kirin."
+    },
+    {
+      "character": "Kirin",
+      "text": "You just need to learn how to deal with me. Don\u2019t call me intimidating just because you haven\u2019t figured it out yet."
+    },
+    {
+      "character": "Sensei",
+      "text": "Well, here\u2019s hoping I\u2019m actually able to do that one day."
+    },
+    {
+      "character": "Kirin",
+      "text": "If there\u2019s anyone who can right now, it\u2019s definitely you."
+    },
+    {
+      "character": "Sensei",
+      "text": "Because I\u2019m the first boy you\u2019ve ever had feelings for?"
+    },
+    {
+      "character": "Kirin",
+      "text": "There\u2019s a difference between \u201chaving feelings\u201d and just wanting to hug somebody a whole bunch, you big jerk."
+    },
+    {
+      "character": "Sensei",
+      "text": "Anyway, have you been getting acclimated to life here apart from all of the Noriko stuff?"
+    },
+    {
+      "character": "Sensei",
+      "text": "It must be a lot easier getting to[school] now, right?"
+    },
+    {
+      "character": "Kirin",
+      "text": "I guess so, yeah."
+    },
+    {
+      "character": "Kirin",
+      "text": "Like, my parents\u2019 house is far enough away for them to send buses and whatnot, but Karin and I never really took them."
+    },
+    {
+      "character": "Sensei",
+      "text": "Is it because Karin thinks it\u2019s best to get exercise early in the morning to...set your body up for the rest of the day or something?"
+    },
+    {
+      "character": "Kirin",
+      "text": "I don\u2019t know, probably. That sounds like a thing she would say."
+    },
+    {
+      "character": "Kirin",
+      "text": "I just don\u2019t really like buses. Or trains, really."
+    },
+    {
+      "character": "Kirin",
+      "text": "Or any small space with a lot of people, I guess."
+    },
+    {
+      "character": "Kirin",
+      "text": "People suck. Why would I ever want to be surrounded by them? "
+    },
+    {
+      "character": "Kirin",
+      "text": "It also means that there\u2019s probably someone in that group who\u2019s going to think {i}I{/i} suck as well."
+    },
+    {
+      "character": "Sensei",
+      "text": "But you're so awesome and talented and your hair smells so nice."
+    },
+    {
+      "character": "Kirin",
+      "text": "But really, though. Fuck everybody."
+    },
+    {
+      "character": "Sensei",
+      "text": "Your attitude could use a little adjusting, though."
+    },
+    {
+      "character": "Sensei",
+      "text": "I thought growing platonically closer to you might fix that, but..."
+    },
+    {
+      "character": "Kirin",
+      "text": "Well, hey. It\u2019s definitely working, so it\u2019s not like I can really bash you for it."
+    },
+    {
+      "character": "Sensei",
+      "text": "Right. You can just call me out on it and make me question my morals."
+    },
+    {
+      "character": "Kirin",
+      "text": "Not only does our platonic relationship have nothing to do with your morals, the moral compass you {i}do{/i} have is infallible and unbreaking."
+    },
+    {
+      "character": "Kirin",
+      "text": "I truly do wish more people could be like you."
+    },
+    {
+      "character": "Sensei",
+      "text": "Thanks, Kirin."
+    },
+    {
+      "character": "Kirin",
+      "text": "No problem, boy'o. Now brace yourself because I'm gonna hit you with a random question."
+    },
+    {
+      "character": "Kirin",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Kirin",
+      "text": "Do you..."
+    },
+    {
+      "character": "Kirin",
+      "text": "Do you want to hug Ami?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Of course I want hug Ami. I want to hug everyone. And Ami is so soft and cute."
+    },
+    {
+      "character": "Sensei",
+      "text": "It's like hugging a large strawberry."
+    },
+    {
+      "character": "Kirin",
+      "text": "What kind of fruit do I remind you of, Sensei?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Maybe a...............................cantaloupe."
+    },
+    {
+      "character": "narrator",
+      "text": "Kirin sighs and presses her back up against her door."
+    },
+    {
+      "character": "narrator",
+      "text": "We talk for a short while after that, but the conversation loses steam and we ultimately wind up a little bored further down the line."
+    },
+    {
+      "character": "narrator",
+      "text": "I think about inviting her out to walk around town or something, but it\u2019s already getting really late and it would make more sense at this point to just go home."
+    },
+    {
+      "character": "narrator",
+      "text": "In the end, we exchange goodbyes and head our separate ways."
+    },
+    {
+      "character": "narrator",
+      "text": "I can hear another sigh from Kirin bleed into the sounds of rock music contaminating the hall once she opens the door."
+    },
+    {
+      "character": "narrator",
+      "text": "Here\u2019s hoping she can get some sleep tonight."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Kirin\u2019s affection has increased to [kirin_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "kirinfirsthall": {
+      "from": null,
+      "to": true
+    }
+  }
+}

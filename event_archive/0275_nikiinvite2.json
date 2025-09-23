@@ -1,0 +1,416 @@
+{
+  "event_id": 275,
+  "event_label": "nikiinvite2",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "I tap on Niki\u2019s name in my phone and wait for her to answer."
+    },
+    {
+      "character": "narrator",
+      "text": "And this time, I\u2019m going to clarify that I am inviting her over to hang out with {i}me{/i} rather than my [niece]."
+    },
+    {
+      "character": "narrator",
+      "text": "Granted, Ami should be off doing other stuff today anyway, so Niki wouldn\u2019t even be able to ditch me if she wanted to."
+    },
+    {
+      "character": "Niki",
+      "text": "Am I bossy?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Hello, Niki."
+    },
+    {
+      "character": "Niki",
+      "text": "Hi. Am I bossy?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Well, considering the last time you came over my house, you kicked me out...I\u2019m going to say yes."
+    },
+    {
+      "character": "Niki",
+      "text": "Damn it."
+    },
+    {
+      "character": "Sensei",
+      "text": "There was also that one time you stole my shirt and decided that it was yours. And then when I wanted it back you made me take you to small claims court."
+    },
+    {
+      "character": "Niki",
+      "text": "That last part never happened!"
+    },
+    {
+      "character": "Sensei",
+      "text": "That\u2019s not how I remember it. "
+    },
+    {
+      "character": "Niki",
+      "text": "Shut the fuck up."
+    },
+    {
+      "character": "Sensei",
+      "text": "See? You\u2019re being bossy again right now. "
+    },
+    {
+      "character": "Niki",
+      "text": "You fucking-"
+    },
+    {
+      "character": "Niki",
+      "text": "I was talking about my vocal coach. She quit today because, apparently, I\u2019m too bossy. "
+    },
+    {
+      "character": "Sensei",
+      "text": "Aren\u2019t you a vocal coach? Just teach yourself."
+    },
+    {
+      "character": "Niki",
+      "text": "You\u2019re a fucking idiot. I\u2019m coming over."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m getting mixed signals right now."
+    },
+    {
+      "character": "Niki",
+      "text": "Well, we\u2019ll fucking...unscramble them or whatever when I get there. Bye."
+    },
+    {
+      "character": "narrator",
+      "text": "Well, I forgot to have her confirm that she\u2019s coming over for {i}me{/i}, but I guess that with Ami being gone, there\u2019s no one else she {i}can{/i} be there for at the moment."
+    },
+    {
+      "character": "narrator",
+      "text": "Unless, of course, she brings her sister again."
+    },
+    {
+      "character": "narrator",
+      "text": "Which, if that\u2019s the case, I hope I have enough time to clean up the house first."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Niki",
+      "text": "Hi. Now, about me being bossy-"
+    },
+    {
+      "character": "Sensei",
+      "text": "No Noriko tonight?"
+    },
+    {
+      "character": "Niki",
+      "text": "Excuse me? Am I not good enough for you anymore? You require the smaller version with shitty taste in fashion as an added bonus? Give me a fucking break."
+    },
+    {
+      "character": "Sensei",
+      "text": "Jeez. If I had known you were in such a bad mood today, I wouldn\u2019t have invited you over."
+    },
+    {
+      "character": "Niki",
+      "text": "Oh please. I drove {i}myself{/i} here- and I probably would have done that whether you invited me or not."
+    },
+    {
+      "character": "Sensei",
+      "text": "You have a car?"
+    },
+    {
+      "character": "Niki",
+      "text": "I have three cars. I\u2019m famous. "
+    },
+    {
+      "character": "Niki",
+      "text": "Technically, I\u2019m not the title holder of any of them. They belong to the agency. But they\u2019re still {i}mine{/i}."
+    },
+    {
+      "character": "Sensei",
+      "text": "Cool. This means I don\u2019t have to take the bus anymore."
+    },
+    {
+      "character": "Niki",
+      "text": "Oh, so I\u2019m your chauffeur now? Fantastic. What a huge step up from the most popular public figure to ever emerge from Kumon-mi."
+    },
+    {
+      "character": "Niki",
+      "text": "Do you have Netflix?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Are you going to see if my [niece] wants to watch a movie?"
+    },
+    {
+      "character": "Niki",
+      "text": "Is she here?"
+    },
+    {
+      "character": "Sensei",
+      "text": "She is not."
+    },
+    {
+      "character": "Niki",
+      "text": "Good. I wanted to be alone. I missed you."
+    },
+    {
+      "character": "Sensei",
+      "text": "And I thought {i}Yumi{/i} was tsundere."
+    },
+    {
+      "character": "Niki",
+      "text": "Who the fuck is Yumi?! Are you cheating on-"
+    },
+    {
+      "character": "Niki",
+      "text": "Oh. Right. We\u2019re not dating anymore."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah. And it\u2019s probably good that you remind yourself of that before you say anything else embarrassing."
+    },
+    {
+      "character": "Niki",
+      "text": "Shut up. I hate you. Let\u2019s watch a movie or something."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yes, dear. Let me just put on the kettle and check our joint bank account first."
+    },
+    {
+      "character": "Niki",
+      "text": "That\u2019s not funny."
+    },
+    {
+      "character": "Sensei",
+      "text": "Would it be funnier if we {i}were{/i} dating?"
+    },
+    {
+      "character": "Niki",
+      "text": "Do you want to?"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Niki",
+      "text": "Just kidding. Where do you keep the remote?"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Right on the table..."
+    },
+    {
+      "character": "narrator",
+      "text": "Girls are confusing."
+    },
+    {
+      "character": "narrator",
+      "text": "Especially ones like Niki who always steal clothing and then force you to rack up millions of yen in legal fees trying to get your stuff back."
+    },
+    {
+      "character": "narrator",
+      "text": "Just kidding."
+    },
+    {
+      "character": "narrator",
+      "text": "It feels a little different being alone with Niki than it does...pretty much anyone else."
+    },
+    {
+      "character": "narrator",
+      "text": "You\u2019re free to call it lingering history if you want, but there\u2019s just something about her presence that makes me feel..."
+    },
+    {
+      "character": "narrator",
+      "text": "\u201cSafe\u201d isn\u2019t the right word."
+    },
+    {
+      "character": "narrator",
+      "text": "Nor is \u201ccomfortable.\u201d"
+    },
+    {
+      "character": "narrator",
+      "text": "But I feel a little closer to existing than I normally do when I\u2019m with her."
+    },
+    {
+      "character": "narrator",
+      "text": "Then again, it could always be something a little more primitive than that."
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019ve heard in the past that the sense that will whack you over the head with nostalgia harder than anything else out there is scent."
+    },
+    {
+      "character": "narrator",
+      "text": "Maybe it\u2019s {i}that{/i} that\u2019s causing me to feel the way I do?"
+    },
+    {
+      "character": "narrator",
+      "text": "And while I can\u2019t pinpoint {i}where{/i} I\u2019ve felt this way before, I know I\u2019ve felt it- which is more than I can say for most things or situations."
+    },
+    {
+      "character": "narrator",
+      "text": "So as the two of us sit shoulder to shoulder on this couch, watching a series of moving pictures combining to tell a partially intelligible story, I think about the past."
+    },
+    {
+      "character": "narrator",
+      "text": "Just, there\u2019s nothing there."
+    },
+    {
+      "character": "narrator",
+      "text": "I attempt to envision a younger version of Niki."
+    },
+    {
+      "character": "narrator",
+      "text": "But again-"
+    },
+    {
+      "character": "narrator",
+      "text": "There\u2019s nothing there."
+    },
+    {
+      "character": "narrator",
+      "text": "And it\u2019s almost as if I never existed at all."
+    },
+    {
+      "character": "narrator",
+      "text": "And that whatever scent brought on the prospect of me actually being {i}anywhere{/i} is all just a lie."
+    },
+    {
+      "character": "narrator",
+      "text": "I should focus on the television."
+    },
+    {
+      "character": "Niki",
+      "text": "Oh. They\u2019re hugging."
+    },
+    {
+      "character": "Niki",
+      "text": "That means someone is going to die soon."
+    },
+    {
+      "character": "Niki",
+      "text": "That\u2019s like, rule number one of horror movies."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Niki",
+      "text": "Do you remember that time you came to sleep over and we stayed up all night, watching Friday the 13th under the covers?"
+    },
+    {
+      "character": "Sensei",
+      "text": "What do you think, Niki?"
+    },
+    {
+      "character": "Niki",
+      "text": "Aww, really? That one\u2019s gone too?"
+    },
+    {
+      "character": "Sensei",
+      "text": "They\u2019re all gone. There\u2019s nothing there anymore."
+    },
+    {
+      "character": "Niki",
+      "text": "Man. That was such an awesome night. It was like {i}right{/i} before we started dating and our hands kept touching and it was so sweet and awkward and now thinking about it makes me want to die."
+    },
+    {
+      "character": "Niki",
+      "text": "Not like, sad dying, though. Embarrassment dying. Like it\u2019s just...really cringey and- oh. Yup. They\u2019re definitely dead now."
+    },
+    {
+      "character": "Sensei",
+      "text": "Your tangent made us miss the murder. Who knows when the next-"
+    },
+    {
+      "character": "Niki",
+      "text": "Look. More people hugging. I bet they\u2019re next."
+    },
+    {
+      "character": "Sensei",
+      "text": "Wow. People who write horror are really just...not that impressive, are they?"
+    },
+    {
+      "character": "Niki",
+      "text": "Not this kind, at least. But that\u2019s what makes slashers fun. You always know what\u2019s going to happen, so you never really get jump scared or anything."
+    },
+    {
+      "character": "Niki",
+      "text": "Fucking jumpscares. Such a lazy form of horror, don\u2019t you think?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I agree wholeheartedly. But I\u2019ve never really been a big fan of horror to begin with."
+    },
+    {
+      "character": "Niki",
+      "text": "What are you talking about? Yes you have. You used to love this stuff."
+    },
+    {
+      "character": "Sensei",
+      "text": "Oh. Well, not the version of me that I\u2019m familiar with. But it\u2019s not like my memories are that \u201cfull\u201d yet. So who knows what\u2019ll happen in the future?"
+    },
+    {
+      "character": "Niki",
+      "text": "You\u2019re weird. "
+    },
+    {
+      "character": "Sensei",
+      "text": "That\u2019s a fair assessment."
+    },
+    {
+      "character": "narrator",
+      "text": "The two of us continue to sit there watching the movie and-"
+    },
+    {
+      "character": "narrator",
+      "text": "It's actually a pretty good movie."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Niki\u2019s lust has increased to [niki_lust]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}You can now invite her over after[school] and on weekends!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "nikiinvite2": {
+      "from": null,
+      "to": true
+    },
+    "niki_lust +": {
+      "from": null,
+      "to": 1
+    }
+  }
+}

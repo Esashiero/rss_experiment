@@ -1,0 +1,928 @@
+{
+  "event_id": 133,
+  "event_label": "dormwartwo16",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "Hi."
+    },
+    {
+      "character": "narrator",
+      "text": "It\u2019s me again."
+    },
+    {
+      "character": "narrator",
+      "text": "A short while ago, you saw something you were not supposed to see."
+    },
+    {
+      "character": "narrator",
+      "text": "Forget about it."
+    },
+    {
+      "character": "narrator",
+      "text": "Not doing so is dangerous for a number of reasons...but, as I care deeply about you, I will go against the grain and share one of these despite the specific instructions I have been given."
+    },
+    {
+      "character": "narrator",
+      "text": "Because not doing so would be dangerous for {i}me.{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "And I like existing, you know?"
+    },
+    {
+      "character": "narrator",
+      "text": "I like where I am in life- looking down from the monorail and watching the asphalt centerlines blend together into one continuous stretch of white from my prefecture to yours."
+    },
+    {
+      "character": "narrator",
+      "text": "Riddled with cars that look like toys...and the wires above and beside me, shaking in the wind as I journey closer to you."
+    },
+    {
+      "character": "narrator",
+      "text": "Of course, that future hangs in the balance as is."
+    },
+    {
+      "character": "narrator",
+      "text": "Anyway, you\u2019re probably wondering what that thing I just told you I was going to tell you about is. So I\u2019ll tell you because I told you I\u2019d tell you. But don\u2019t tell anyone because there\u2019s no telling what that would do."
+    },
+    {
+      "character": "narrator",
+      "text": "The past itself isn\u2019t dangerous."
+    },
+    {
+      "character": "narrator",
+      "text": "It\u2019s the way it makes you feel that is."
+    },
+    {
+      "character": "narrator",
+      "text": "Take these words, reel them in through the crack underneath the door of that building I can\u2019t enter, and wrap them around your neck like a scarf, not a noose."
+    },
+    {
+      "character": "narrator",
+      "text": "Feel comfort in me, for I have felt comfort in you."
+    },
+    {
+      "character": "narrator",
+      "text": "Even when you thought I never would."
+    },
+    {
+      "character": "Otoha",
+      "text": "I wonder how much longer they\u2019re going to be in there for."
+    },
+    {
+      "character": "Otoha",
+      "text": "I figured Rin would have wiped the floor with Yasu by now. No offense, Touka."
+    },
+    {
+      "character": "Touka",
+      "text": "None taken. I also expect Rin to emerge victorious as Yasu sometimes forgets to even eat breakfast and I can\u2019t imagine her information retention is very good."
+    },
+    {
+      "character": "Imani",
+      "text": "We\u2019ve got this fancy word for \u201cinformation retention\u201d called \u201cmemory.\u201d Try saying that next time."
+    },
+    {
+      "character": "Touka",
+      "text": "Apologies for speaking in a way more befitting my status, Miss Imai. We can\u2019t all be-"
+    },
+    {
+      "character": "Imani",
+      "text": "Black? You trying to throw down?"
+    },
+    {
+      "character": "Touka",
+      "text": "What?! Heavens, no. That wasn\u2019t even remotely close to-"
+    },
+    {
+      "character": "Imani",
+      "text": "Relax, Mrs. Bezos. I\u2019m just screwing with you and trying to lighten the mood since there\u2019s no telling how long us three are gonna be stuck out here for."
+    },
+    {
+      "character": "Otoha",
+      "text": "Why don\u2019t we just go inside then? I doubt they locked the doors on us."
+    },
+    {
+      "character": "Touka",
+      "text": "Yasu has mentioned to me on many occasions that the doors are locked for anyone that her god does not acknowledge."
+    },
+    {
+      "character": "Otoha",
+      "text": "Does her god not acknowledge {i}you?{/i} Aren\u2019t you guys best friends?"
+    },
+    {
+      "character": "Touka",
+      "text": "I see her as more of a little sister at this point, but I believe your description is apt as well. Regardless, I see no good coming from acting out against the wishes of one of our classmates."
+    },
+    {
+      "character": "Imani",
+      "text": "Just make out with Rin later. Doing that in church is a no-go anyway. Too many dead saints watching you. Sounds pretty gross if you ask me."
+    },
+    {
+      "character": "Otoha",
+      "text": "I\u2019m not worried about {i}making out{/i} with her right now. It just feels weird being out {i}here{/i} when all of them are in there."
+    },
+    {
+      "character": "Imani",
+      "text": "Got it. {i}You\u2019re{/i} worried there\u2019s some crazy foursome going on and you ain\u2019t about to lose your woman to our babe-magnet teacher."
+    },
+    {
+      "character": "Otoha",
+      "text": "And that\u2019s another thing. Why is everyone in our class so...head over heels for him? Doesn\u2019t anyone have any issues with...you know, the whole age gap thing?"
+    },
+    {
+      "character": "Touka",
+      "text": "I see no issue with that. I believe the bulk of us are more than capable of making such decisions for ourselves."
+    },
+    {
+      "character": "Otoha",
+      "text": "Are you telling me {i}you\u2019re{/i} trying to get with him too, Touka? "
+    },
+    {
+      "character": "Touka",
+      "text": "Define \u201cget with.\u201d This is a term I don\u2019t believe I\u2019ve heard before."
+    },
+    {
+      "character": "Imani",
+      "text": "She means \u201cAre you trying to bang him?\u201d"
+    },
+    {
+      "character": "Touka",
+      "text": "Bang as in sexual intercourse, correct?"
+    },
+    {
+      "character": "Imani",
+      "text": "Correct."
+    },
+    {
+      "character": "Touka",
+      "text": "I see."
+    },
+    {
+      "character": "Touka",
+      "text": "Then apologies, Otoha- but I don't think you and I are close enough to be discussing such things."
+    },
+    {
+      "character": "Otoha",
+      "text": "Imani? How about you?"
+    },
+    {
+      "character": "Imani",
+      "text": "Excuse me, Otoha, but I am an adult and I am allowed to sleep with whatever attractive, consenting senpai I {i}want{/i} to sleep with."
+    },
+    {
+      "character": "Imani",
+      "text": "Besides, it\u2019s not like Sensei\u2019s {i}actually{/i} going around sleeping with the class. Not gonna fault the guy for not dodging a bunch of cute, hormonal teens who want to jump his bones."
+    },
+    {
+      "character": "Otoha",
+      "text": "He\u2019s our {i}teacher.{/i} That\u2019s exactly what he should be doing. And you don\u2019t know for sure that-"
+    },
+    {
+      "character": "Imani",
+      "text": "The more you deny it, the more I think {i}you{/i} just wanna bone him too."
+    },
+    {
+      "character": "Otoha",
+      "text": "Ugh...This is pointless. Just forget I said anything."
+    },
+    {
+      "character": "Touka",
+      "text": "Oh my. I think you may actually be onto something, Miss Imai."
+    },
+    {
+      "character": "Imani",
+      "text": "Otoha, in all seriousness, if you {i}know{/i} something, you can talk to me. But only if you {i}know{/i} something."
+    },
+    {
+      "character": "Imani",
+      "text": "Because if you don\u2019t, I\u2019m not going to just let you stand there and slander my friend when all he\u2019s done wrong is be mad creepy. That alone describes like, 98%% of guys."
+    },
+    {
+      "character": "Otoha",
+      "text": "Guess I\u2019m glad I dated a girl first, then."
+    },
+    {
+      "character": "Imani",
+      "text": "Do you know something or not? Speak up."
+    },
+    {
+      "character": "Otoha",
+      "text": "..."
+    },
+    {
+      "character": "Otoha",
+      "text": "I..."
+    },
+    {
+      "character": "Otoha",
+      "text": "..."
+    },
+    {
+      "character": "Otoha",
+      "text": "No..."
+    },
+    {
+      "character": "Otoha",
+      "text": "I barely even know him in the first place."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Imani",
+      "text": "Ay! Welcome back, guys! How did- woah. Why does everybody look so sad and exhausted?"
+    },
+    {
+      "character": "Sana",
+      "text": "Uhh...things...took a bit of a strange turn..."
+    },
+    {
+      "character": "Touka",
+      "text": "What kind of turn exactly?..."
+    },
+    {
+      "character": "Sana",
+      "text": "Well...first...Sensei, uhh..."
+    },
+    {
+      "character": "Sana",
+      "text": "Let\u2019s just say he had some trouble...umm...properly providing answers to...some of the questions..."
+    },
+    {
+      "character": "Sana",
+      "text": "But once that was over...we-"
+    },
+    {
+      "character": "Rin",
+      "text": "I lost."
+    },
+    {
+      "character": "Rin",
+      "text": "Yasu destroyed me and she barely even knows Sensei."
+    },
+    {
+      "character": "Yasu",
+      "text": "It is not me who knows him, but-"
+    },
+    {
+      "character": "Rin",
+      "text": "Don\u2019t try and make me feel better, Yasu. You won and you should get to be happy about that."
+    },
+    {
+      "character": "Rin",
+      "text": "But here I am, once again rushing face first into things I think I can handle only to find out that everything is a lot bigger and harder than I think it is and no I am not talking about a penis."
+    },
+    {
+      "character": "Sana",
+      "text": "It\u2019s...It\u2019s not like you didn\u2019t get {i}any{/i} right! You did really well...Yasu just...did better at the...hard questions..."
+    },
+    {
+      "character": "Rin",
+      "text": "Just doing \u201cwell\u201d isn\u2019t good enough."
+    },
+    {
+      "character": "Rin",
+      "text": "A while ago, there wasn\u2019t a single day that would go by without me thinking of Sensei."
+    },
+    {
+      "character": "Rin",
+      "text": "Whether it be some customer reminding me of him or something I saw on TV that I thought he\u2019d be interested in or...any of the secrets I wanted to tell him. Or any of the jokes I thought he\u2019d scoff at."
+    },
+    {
+      "character": "Rin",
+      "text": "What use do I even have anymore if I can\u2019t even be bothered to remember anything about him?"
+    },
+    {
+      "character": "Yasu",
+      "text": "You can not remember what you never learned in the first place..."
+    },
+    {
+      "character": "Rin",
+      "text": "Didn\u2019t stop {i}you...{/i}"
+    },
+    {
+      "character": "Sana",
+      "text": "Sensei...can you please...say something to Rin?..."
+    },
+    {
+      "character": "Sana",
+      "text": "She seems...really upset about all this..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Rin",
+      "text": "It\u2019s fine, Sana. "
+    },
+    {
+      "character": "Rin",
+      "text": "It\u2019s my fault for letting him down in the first place."
+    },
+    {
+      "character": "Rin",
+      "text": "I\u2019d be upset with me too..."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I walk to the left."
+    },
+    {
+      "character": "Imani",
+      "text": "Uhh..."
+    },
+    {
+      "character": "Imani",
+      "text": "You good, dude?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t know."
+    },
+    {
+      "character": "Otoha",
+      "text": "Uhh..."
+    },
+    {
+      "character": "Otoha",
+      "text": "Well, on the bright side, at least I don\u2019t have to be alone anymore! And that\u2019s cool, right?"
+    },
+    {
+      "character": "Otoha",
+      "text": "There\u2019s no use staying upset about something that\u2019s already in the past. So just...don\u2019t let it get to you, alright?"
+    },
+    {
+      "character": "Rin",
+      "text": "It\u2019s not exactly that easy."
+    },
+    {
+      "character": "Otoha",
+      "text": "Sure it is. We\u2019ve got plenty of stuff left that we can do before the night\u2019s over and...I\u2019m in a good mood today, so yeah!"
+    },
+    {
+      "character": "Rin",
+      "text": "I\u2019m just not really in the mood right now, Otoha."
+    },
+    {
+      "character": "Otoha",
+      "text": "Rin, seriously? It\u2019s just a stupid contest. It\u2019s not like it\u2019s the end of your life or anything. Just move on so we can have fun."
+    },
+    {
+      "character": "Imani",
+      "text": "Uh-oh."
+    },
+    {
+      "character": "Rin",
+      "text": "Stupid?"
+    },
+    {
+      "character": "Otoha",
+      "text": "Yeah. It was stupid. You were having a contest to see who pays more attention to our thirty-some-odd year old teacher. You should be happy you lost. It means you\u2019re not a creep."
+    },
+    {
+      "character": "Rin",
+      "text": "There\u2019s nothing creepy about caring about someone, Otoha! Someone I barely get to see anymore because the only one I pay attention to is you!"
+    },
+    {
+      "character": "Otoha",
+      "text": "And...And that\u2019s somehow {i}my{/i} problem?"
+    },
+    {
+      "character": "Rin",
+      "text": "No! It\u2019s mine! But it doesn\u2019t help when you just throw it in my face like that and call me names for getting upset about a thing that\u2019s very important to me!"
+    },
+    {
+      "character": "Otoha",
+      "text": "Yo, chill. I didn\u2019t mean it like-"
+    },
+    {
+      "character": "Rin",
+      "text": "Then how did you mean it?! Tell me!"
+    },
+    {
+      "character": "Yasu",
+      "text": "Was this fate inevitable?"
+    },
+    {
+      "character": "Yasu",
+      "text": "Or is the world among the lines where these ones do not form a knot?"
+    },
+    {
+      "character": "Sana",
+      "text": "Umm...I don\u2019t know for sure, but...I think they were...acting a little weird yesterday, too..."
+    },
+    {
+      "character": "Sana",
+      "text": "I don\u2019t...think it\u2019s your fault, Yasu...I think it\u2019s just...hard to...be in a relationship sometimes..."
+    },
+    {
+      "character": "Yasu",
+      "text": "The saddest part is...the real difficulties have yet to even arise..."
+    },
+    {
+      "character": "Yasu",
+      "text": "All that appears before us now is an aftereffect of the knowledge I was trusted with...being re-dispersed into the air and then your lungs..."
+    },
+    {
+      "character": "Yasu",
+      "text": "But I wanted it to make you happy."
+    },
+    {
+      "character": "Yasu",
+      "text": "I wanted to disbelieve those whispers in the wind."
+    },
+    {
+      "character": "Yasu",
+      "text": "Instead, I have let them grow so loud that we must now face a storm..."
+    },
+    {
+      "character": "Sana",
+      "text": "I...don\u2019t understand what any of that means..."
+    },
+    {
+      "character": "Yasu",
+      "text": "It means that I am sorry..."
+    },
+    {
+      "character": "Yasu",
+      "text": "And that even with these powers...and these ears...beneath the slimy facade that is my soft, pliable exoskeleton..."
+    },
+    {
+      "character": "Yasu",
+      "text": "I am still only human."
+    },
+    {
+      "character": "Otoha",
+      "text": "The fuck is your problem?! Literally all I wanted to do was hang out with you. Is that really so bad?"
+    },
+    {
+      "character": "Rin",
+      "text": "No! What\u2019s bad is you making me feel like shit all the time for thinking about anyone other than you!"
+    },
+    {
+      "character": "Otoha",
+      "text": "I\u2019m surprised you even {i}have{/i} time to think about me when all you {i}really{/i} ever do is think about yourself!"
+    },
+    {
+      "character": "Rin",
+      "text": "I left my club for you! I left my friends for you!"
+    },
+    {
+      "character": "Otoha",
+      "text": "You have other friends!"
+    },
+    {
+      "character": "Rin",
+      "text": "What have you given up for me, huh?! Why am I the only person who should have to sacrifice the things I love to make this work?!"
+    },
+    {
+      "character": "Otoha",
+      "text": "Do you love Sensei?"
+    },
+    {
+      "character": "Rin",
+      "text": "Yes! I do! Is that a problem?!"
+    },
+    {
+      "character": "Otoha",
+      "text": "How do you love him, Rin?"
+    },
+    {
+      "character": "Rin",
+      "text": "What the fuck are you even talking about? He\u2019s a precious friend."
+    },
+    {
+      "character": "Otoha",
+      "text": "{i}Was{/i} a precious friend. You\u2019re the one who decided to leave him behind to date me. Remember?"
+    },
+    {
+      "character": "Rin",
+      "text": "But who\u2019s the one who always tries to change the subject whenever I bring him up?"
+    },
+    {
+      "character": "Otoha",
+      "text": "Why do you need to bring him up?"
+    },
+    {
+      "character": "Rin",
+      "text": "Who\u2019s the one who gets jealous any time I make eye contact with someone I\u2019ve had a crush on before?"
+    },
+    {
+      "character": "Otoha",
+      "text": "Obviously me. But it\u2019s not wrong for me to feel that way when you\u2019re a walking mass of unrestrained hormones!"
+    },
+    {
+      "character": "Rin",
+      "text": "Do you think I\u2019m going to just forget I\u2019m dating you and spend those hormones on somebody else?!"
+    },
+    {
+      "character": "Otoha",
+      "text": "I don\u2019t know what you\u2019re going to do! That\u2019s the problem!"
+    },
+    {
+      "character": "Rin",
+      "text": "Besides, I wouldn\u2019t even {i}have{/i} all of those hormones if you\u2019d stop being A FUCKING PRUDE and just finger me already!"
+    },
+    {
+      "character": "Imani",
+      "text": "Okay, {i}that{/i} had to have snapped you out of it, right?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Snapped me out of what? What happened?"
+    },
+    {
+      "character": "Otoha",
+      "text": "W...What the fuck do you think you\u2019re yelling about?!"
+    },
+    {
+      "character": "Rin",
+      "text": "I\u2019m angry! And sad! And I feel like shit for fucking up the one thing I thought I\u2019d never fuck up! And it doesn\u2019t help to have you come over and be like \u201cHey, Rin! I\u2019m your girlfriend! Time to move on!\u201d"
+    },
+    {
+      "character": "Otoha",
+      "text": "That\u2019s not what I was trying to do!"
+    },
+    {
+      "character": "Rin",
+      "text": "Then try harder!"
+    },
+    {
+      "character": "Rin",
+      "text": "You should {i}know{/i} how important Sensei is to me! So when you tell me that I\u2019m getting upset over a \u201cstupid contest,\u201d yeah! I\u2019m going to be mad!"
+    },
+    {
+      "character": "Rin",
+      "text": "It\u2019s not like I lost to Ami or Ayane! I lost to {i}Yasu!{/i} YASU!"
+    },
+    {
+      "character": "Rin",
+      "text": "I\u2019m losing the only connection I\u2019ve {i}ever{/i} had with a male authority figure and you want me to just {i}move on{/i} and {i}hang out{/i} with you like nothing horrible is happening in the background?!"
+    },
+    {
+      "character": "Rin",
+      "text": "Things aren\u2019t that easy for everyone!"
+    },
+    {
+      "character": "Otoha",
+      "text": "What I {i}want{/i} is for you to stop getting so upset about relationships like that because it makes me feel like you\u2019re falling for {i}them{/i} instead of me!"
+    },
+    {
+      "character": "Rin",
+      "text": "Well, to paraphrase the magnificent and super-cool, {i}TOTALLY{/i} not prudish Otoha Okakura...that\u2019s your problem! Not mine!"
+    },
+    {
+      "character": "Otoha",
+      "text": "Oh, fuck this! I\u2019m going home!"
+    },
+    {
+      "character": "Rin",
+      "text": "Cool! Bye! Hope my \u201cunrestrained hormones\u201d don\u2019t explode all over Kumon-mi and spread a bajillion pheromones across the city that signal to everyone how it\u2019s okay to come put things in my vagina!"
+    },
+    {
+      "character": "Otoha",
+      "text": "What the fuck are you even yelling now?! What does that mean?!"
+    },
+    {
+      "character": "Rin",
+      "text": "I don\u2019t know! Just leave me alone!"
+    },
+    {
+      "character": "narrator",
+      "text": "Otoha walks off into the dark, but none of us follow her."
+    },
+    {
+      "character": "narrator",
+      "text": "We probably should have."
+    },
+    {
+      "character": "narrator",
+      "text": "This is not somewhere a young girl should be alone at night."
+    },
+    {
+      "character": "narrator",
+      "text": "But we all want to leave as well."
+    },
+    {
+      "character": "narrator",
+      "text": "And the bus stop is in the opposite direction."
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "When I sit down on the bus, I feel something poking out of my back pocket."
+    },
+    {
+      "character": "narrator",
+      "text": "I reach for it, paying close attention to my surroundings to make sure no one is watching."
+    },
+    {
+      "character": "narrator",
+      "text": "But when I inspect it, I find that it\u2019s just a picture of a flower."
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I hope the ride back is a quick one."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Meanwhile, in a functional lesbian relationship...{/i}"
+    },
+    {
+      "character": "Osako",
+      "text": "God...I have no idea how you have the patience to do this every single day. I feel like I\u2019ve poked myself in the eye a good seven hundred times by now."
+    },
+    {
+      "character": "Wakana",
+      "text": "And you\u2019ll poke yourself seven hundred more if it means I get my yearly dose of Gothsako. There are simply some sacrifices that must be made in the name of love, my darling."
+    },
+    {
+      "character": "Osako",
+      "text": "I wish you had more fantasies about me in jeans and no makeup."
+    },
+    {
+      "character": "Wakana",
+      "text": "I have fantasies about you in all forms of attire. But that does not mean I\u2019m going to make you indulge me by forcing you to dress as my third grade teacher, Ms. Takeda."
+    },
+    {
+      "character": "Osako",
+      "text": "Wakana, I love you, but we\u2019ve been together for years now and I\u2019m tired of hearing about Ms. Takeda."
+    },
+    {
+      "character": "Wakana",
+      "text": "Then talk about your first crush to even the playing field. Who was it again? Some sort of...actor? Musician?"
+    },
+    {
+      "character": "Osako",
+      "text": "Britney Spears."
+    },
+    {
+      "character": "Wakana",
+      "text": "Right, right. I forgot there was a time in your life where you weren\u2019t fully dedicated to being swallowed by the darkness that is Wakana Watabe."
+    },
+    {
+      "character": "Wakana",
+      "text": "Or at least being {i}licked{/i} by her."
+    },
+    {
+      "character": "Osako",
+      "text": "Not again. You\u2019ve {i}licked{/i} me to completion five times today and are the reason I am currently reapplying my makeup in the first place. Please contain yourself. We have plans."
+    },
+    {
+      "character": "Wakana",
+      "text": "But I can only have sex with Gothsako one day out of every year. I need to make it count."
+    },
+    {
+      "character": "Osako",
+      "text": "I already told you I\u2019d be more than willing to do this on a weekly basis. {i}Just not right before we go out.{/i}"
+    },
+    {
+      "character": "Wakana",
+      "text": "My darling, doing this on a weekly basis would cause it to lose its charm. I like having something to look forward to for the holidays."
+    },
+    {
+      "character": "Wakana",
+      "text": "Which is why I\u2019m particularly excited for my upcoming {i}excursions{/i} with your Christmas elf variant. Remind me to cover our apartment in mistletoe, please."
+    },
+    {
+      "character": "Osako",
+      "text": "You don\u2019t need me to remind you. What I have learned over the years is that there are only four shades of Wakana \u2014 sleep, sex, work, and interior design."
+    },
+    {
+      "character": "Osako",
+      "text": "The second I turn a blind eye to you, there will be mistletoe literally everywhere."
+    },
+    {
+      "character": "Wakana",
+      "text": "You should be happy you\u2019ve found yourself such a predictable woman. Many people love that sort of thing."
+    },
+    {
+      "character": "Osako",
+      "text": "I\u2019d be happier if you\u2019d actually help me with this instead of watching me struggle while fixing your hair."
+    },
+    {
+      "character": "Wakana",
+      "text": "Apologies, my sweet. But seeing as we have plans tonight, I can not allow my hair to be anything other than perfect."
+    },
+    {
+      "character": "Osako",
+      "text": "Why? Trying to impress someone?"
+    },
+    {
+      "character": "Wakana",
+      "text": "Of course."
+    },
+    {
+      "character": "Wakana",
+      "text": "I did take the liberty of inviting Ms. Takeda, after all."
+    },
+    {
+      "character": "Osako",
+      "text": "You drive me insane."
+    },
+    {
+      "character": "Wakana",
+      "text": "Don\u2019t worry, my kitten. I\u2019m willing to share her."
+    },
+    {
+      "character": "Osako",
+      "text": "Oh, are you now?"
+    },
+    {
+      "character": "Wakana",
+      "text": "I can\u2019t see why not. If anything, I welcome the challenge."
+    },
+    {
+      "character": "Wakana",
+      "text": "My skills with one woman are quite exemplary, as I\u2019m sure you\u2019ve noticed. I wonder if they\u2019d hold up with a second?"
+    },
+    {
+      "character": "Osako",
+      "text": "Is that something you\u2019re actually interested in?"
+    },
+    {
+      "character": "Wakana",
+      "text": "Osako?"
+    },
+    {
+      "character": "Osako",
+      "text": "Threesomes, I mean."
+    },
+    {
+      "character": "Osako",
+      "text": "We\u2019ve never really had that discussion before."
+    },
+    {
+      "character": "Wakana",
+      "text": "My dear...you {i}are{/i} aware that I was just kidding, aren\u2019t you?"
+    },
+    {
+      "character": "Osako",
+      "text": "Yeah, but like..."
+    },
+    {
+      "character": "Osako",
+      "text": "I mean, I\u2019d {i}get it{/i} if that\u2019s something you wanted to do. And if that will help with-"
+    },
+    {
+      "character": "Wakana",
+      "text": "Hah...this again?"
+    },
+    {
+      "character": "Osako",
+      "text": "I just want you to be happy, Wakana."
+    },
+    {
+      "character": "Wakana",
+      "text": "I {i}am{/i} happy, love. And I mean that from the bottom of my heart."
+    },
+    {
+      "character": "Osako",
+      "text": "There\u2019s a \u201cbut\u201d coming."
+    },
+    {
+      "character": "Wakana",
+      "text": "{i}But...{/i}"
+    },
+    {
+      "character": "Osako",
+      "text": "Knew it."
+    },
+    {
+      "character": "Wakana",
+      "text": "Do you know what would make me even {i}happier?{/i}"
+    },
+    {
+      "character": "Osako",
+      "text": "..."
+    },
+    {
+      "character": "Wakana",
+      "text": "..."
+    },
+    {
+      "character": "Osako",
+      "text": "Hah..."
+    },
+    {
+      "character": "Osako",
+      "text": "Bed or couch?"
+    },
+    {
+      "character": "Wakana",
+      "text": "Both?"
+    },
+    {
+      "character": "Osako",
+      "text": "We only have time for one."
+    },
+    {
+      "character": "Wakana",
+      "text": "Then..."
+    },
+    {
+      "character": "Wakana",
+      "text": "Kitchen."
+    },
+    {
+      "character": "Osako",
+      "text": "Fine."
+    },
+    {
+      "character": "Osako",
+      "text": "But if you\u2019re going to handcuff me to something, it can\u2019t be the cabinet with our pots and pans in it. The handle is still loose from last time."
+    },
+    {
+      "character": "Wakana",
+      "text": "It\u2019s okay to break things. We\u2019re adults."
+    },
+    {
+      "character": "Osako",
+      "text": "You know...sometimes, it really feels like all of the physical and stamina training I\u2019ve endured my entire life was all to prepare me for {i}you.{/i}"
+    },
+    {
+      "character": "Wakana",
+      "text": "And...would you change that if you could?"
+    },
+    {
+      "character": "Osako",
+      "text": "Absolutely not."
+    },
+    {
+      "character": "Osako",
+      "text": "Let\u2019s go break some cabinets."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Osako and Wakana\u2019s mutual lust for one another has increased to 9473056713254!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}First Floor: [dorm1war2points]\\nSecond Floor: [dorm2war2points]{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}About forty-five minutes later...{/i}"
+    }
+  ],
+  "state_changes": {
+    "dormwartwo16": {
+      "from": null,
+      "to": true
+    }
+  }
+}

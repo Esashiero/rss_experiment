@@ -1,0 +1,740 @@
+{
+  "event_id": 147,
+  "event_label": "beachmas10",
+  "dialogue": [
+    {
+      "character": "Ami",
+      "text": "{i}Okay, okay! It\u2019s my turn again...{/i}"
+    },
+    {
+      "character": "Ami",
+      "text": "{i}Two truths and a lie. I played with dolls until I was ten...I keep a secret journal somewhere in my house that no one has ever seen before...and I once had a crush on Molly.{/i}"
+    },
+    {
+      "character": "Kirin",
+      "text": "{i}It\u2019s gotta be the Molly one.{/i}"
+    },
+    {
+      "character": "Molly",
+      "text": "{i}Of course it\u2019s the heckin\u2019 Molly one! Arborea\u2019s had her sights set on the same man since childhood! But she didn\u2019t need to just blatantly rub it in like that!{/i}"
+    },
+    {
+      "character": "Ami",
+      "text": "{i}Hey, you don\u2019t know that for sure! What if I\u2019ve just been really good at holding it in? {/i}"
+    },
+    {
+      "character": "Ayane",
+      "text": "{i}Don\u2019t tempt her, Ami. She has a track record of kissing people during Christmas parties.{/i}"
+    },
+    {
+      "character": "Ami",
+      "text": "{i}So do you! Or have you already forgotten the trauma you inflicted on me?!{/i}"
+    },
+    {
+      "character": "Ayane",
+      "text": "{i}As if I\u2019d ever forget kissing you! Come here. Let\u2019s do it again for old time\u2019s sake.{/i}"
+    },
+    {
+      "character": "Nodoka",
+      "text": "{i}My, my. This game is proving to be significantly more exciting than truth or dare was.{/i}"
+    },
+    {
+      "character": "Kirin",
+      "text": "{i}No wonder Touka bailed right away. But at least we got- woah. Chika, where are you going? You were up next.{/i}"
+    },
+    {
+      "character": "Chika",
+      "text": "{i}Oh, I\u2019m done for now. You guys can play without me. I\u2019m gonna go take a break in the other room.{/i}"
+    },
+    {
+      "character": "Ami",
+      "text": "{i}Are you sure? I think Rin\u2019s in-{/i}"
+    },
+    {
+      "character": "Chika",
+      "text": "{i}Yup! I\u2019ll just chill with her while you guys have fun.{/i}"
+    },
+    {
+      "character": "Nodoka",
+      "text": "{i}Afraid of revealing too many truths? {/i}"
+    },
+    {
+      "character": "Chika",
+      "text": "{i}Pfft, as if. Laters.{/i}"
+    },
+    {
+      "character": "Chika",
+      "text": "Hey."
+    },
+    {
+      "character": "Rin",
+      "text": "..."
+    },
+    {
+      "character": "Chika",
+      "text": "You gonna sulk in here all night? Or do you want to maybe {i}try{/i} having some amount of fun before New Year's rolls around? "
+    },
+    {
+      "character": "Rin",
+      "text": "I was planning on sulking...so please feel free to go have fun without me."
+    },
+    {
+      "character": "Chika",
+      "text": "Is this depression talking? Or is this \u201cI wish my girlfriend was here\u201d talking?"
+    },
+    {
+      "character": "Rin",
+      "text": "I probably wouldn\u2019t be talking at all if it were depression. But it\u2019s a lot more complicated than just wishing Otoha was here."
+    },
+    {
+      "character": "Chika",
+      "text": "That so?"
+    },
+    {
+      "character": "Rin",
+      "text": "..."
+    },
+    {
+      "character": "Chika",
+      "text": "..."
+    },
+    {
+      "character": "Chika",
+      "text": "Move over."
+    },
+    {
+      "character": "Rin",
+      "text": "What?"
+    },
+    {
+      "character": "Chika",
+      "text": "I said move over. I\u2019ll lie with you if you\u2019re going to be so much of a buzzkill that you won\u2019t even play party games with your friends."
+    },
+    {
+      "character": "Rin",
+      "text": "I don\u2019t really think that\u2019s a good idea, Chika."
+    },
+    {
+      "character": "Chika",
+      "text": "Why not? Worried you might fall for me again?"
+    },
+    {
+      "character": "Chika",
+      "text": "Would it help if I threw a shirt on? Oh- but I left my bag in the other room. "
+    },
+    {
+      "character": "Chika",
+      "text": "Could I maybe borrow one of yours? Or would that make us look too much like girlfriends?"
+    },
+    {
+      "character": "Rin",
+      "text": "Borrow whatever you want. We\u2019re girls. Our clothes are basically made for trading."
+    },
+    {
+      "character": "Rin",
+      "text": "Just...don\u2019t lie down. Because if someone comes in and sees us and then Otoha finds out, it\u2019ll be a whole-"
+    },
+    {
+      "character": "Chika",
+      "text": "{i}Fuck{/i} Otoha."
+    },
+    {
+      "character": "Rin",
+      "text": "God, I wish it was that easy."
+    },
+    {
+      "character": "Chika",
+      "text": "First, eww. Second, aww. Third, move the fuck over, girl."
+    },
+    {
+      "character": "Rin",
+      "text": "Right after talking shit on my girlfriend? I don\u2019t think so."
+    },
+    {
+      "character": "Chika",
+      "text": "If your girlfriend is going to make you feel like {i}this,{/i} I think I\u2019ve got the right to say a few mean things about her. Come on. Let me take your mind off of stuff."
+    },
+    {
+      "character": "Rin",
+      "text": "Are you still going to want to take my mind off of stuff when I stay glued to my phone the entire time, hoping she texts me?"
+    },
+    {
+      "character": "Chika",
+      "text": "Yeah."
+    },
+    {
+      "character": "Rin",
+      "text": "..."
+    },
+    {
+      "character": "Chika",
+      "text": "And do you wanna know why?"
+    },
+    {
+      "character": "Rin",
+      "text": "Don\u2019t say it, Chika."
+    },
+    {
+      "character": "Chika",
+      "text": "Because I love you."
+    },
+    {
+      "character": "Chika",
+      "text": "And even if you don\u2019t feel tempted to sniff my hair every time I\u2019m opening my locker now, I know you love me too."
+    },
+    {
+      "character": "Rin",
+      "text": "But Otoha-"
+    },
+    {
+      "character": "Chika",
+      "text": "I knew you first. "
+    },
+    {
+      "character": "Rin",
+      "text": "But that doesn\u2019t make it okay to-"
+    },
+    {
+      "character": "Chika",
+      "text": "Platonically share the same bed with a girl who cares about you and wants to make you feel better? Gee, silly me. I can see now why you\u2019re so against the idea."
+    },
+    {
+      "character": "Rin",
+      "text": "..."
+    },
+    {
+      "character": "Chika",
+      "text": "Rin, either you move over...or I am going to come over there and use my crazy bitch strength to move you myself."
+    },
+    {
+      "character": "Rin",
+      "text": "Well, when you put it that way...guess I don\u2019t have much of a choice. "
+    },
+    {
+      "character": "Chika",
+      "text": "You never did and you never will. "
+    },
+    {
+      "character": "Chika",
+      "text": "Thanks for having me~"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Chika",
+      "text": "There. That wasn\u2019t so hard, was it?"
+    },
+    {
+      "character": "Rin",
+      "text": "No, obviously not. But that doesn\u2019t mean it doesn\u2019t feel weird for me."
+    },
+    {
+      "character": "Chika",
+      "text": "Does it {i}actually{/i} feel weird? Are you {i}actually{/i} tempted to climb on top of me right now? Or are you just {i}saying{/i} it feels weird because you know it would piss off Otoha if she walked in?"
+    },
+    {
+      "character": "Rin",
+      "text": "I don\u2019t know...I don\u2019t know anything anymore. "
+    },
+    {
+      "character": "Chika",
+      "text": "Ahh, the woes of love. "
+    },
+    {
+      "character": "Chika",
+      "text": "One minute, it\u2019s like you\u2019ve got the whole world in the palms of your hands. But the next, it\u2019s like all of the water on it\u2019s begun spilling through your fingers."
+    },
+    {
+      "character": "Chika",
+      "text": "It\u2019s disorienting and scary and you never know what\u2019s going to happen next. So you start thinking, \u201cHey...maybe I\u2019m not the right person to hold this thing?\u201d"
+    },
+    {
+      "character": "Chika",
+      "text": "But the more you think about someone else holding it, the worse everything starts to feel. "
+    },
+    {
+      "character": "Chika",
+      "text": "So you hang on as if your life depends on it...because it\u2019s better than the alternative. Better than never knowing."
+    },
+    {
+      "character": "Chika",
+      "text": "Sorry. That probably sounded a little cheesy, didn\u2019t it? I know I\u2019m not as good at writing as you or Otoha. "
+    },
+    {
+      "character": "Rin",
+      "text": "No, it...it was nice. And it made sense. I think. I don\u2019t know. I could probably make some sort of sense out of pretty much anything right now but that\u2019s just how desperate I am, I guess."
+    },
+    {
+      "character": "Chika",
+      "text": "Worried of what will happen if someone else gets to hold her instead of you?"
+    },
+    {
+      "character": "Rin",
+      "text": "Of course."
+    },
+    {
+      "character": "Chika",
+      "text": "Do you think she\u2019s worried of the same thing?"
+    },
+    {
+      "character": "Rin",
+      "text": "Maybe..."
+    },
+    {
+      "character": "Rin",
+      "text": "I mean...I think so? Why else would she get so jealous any time literally anyone else comes up?"
+    },
+    {
+      "character": "Chika",
+      "text": "Maybe cause she\u2019s...possessive? Or jealous? Or trying to overcompensate for something?"
+    },
+    {
+      "character": "Rin",
+      "text": "You really don\u2019t like her, do you?"
+    },
+    {
+      "character": "Chika",
+      "text": "I have this thing where I get kinda pissed off at people who make my loved ones sad. So yeah, Otoha\u2019s on my shit list until she starts getting her act together."
+    },
+    {
+      "character": "Chika",
+      "text": "To be honest, I don\u2019t really know much about the girl. So the majority of my opinion on her comes from the fact that I know you have good taste in women. "
+    },
+    {
+      "character": "Rin",
+      "text": "Do I?"
+    },
+    {
+      "character": "Chika",
+      "text": "Absolutely. But ignoring that blatant pat on the back I just gave myself...I want you to know that I\u2019ll always be here for you...and that anyone who would ever hurt you is fucking insane."
+    },
+    {
+      "character": "Rin",
+      "text": "Mhm. And are you counting yourself as one of those people? Or do you want to pat yourself on the back a little bit more?"
+    },
+    {
+      "character": "Chika",
+      "text": "Of course I count myself as one of those people. "
+    },
+    {
+      "character": "Chika",
+      "text": "All \u201clogic\u201d pointed toward you in my relationship with love. Same class. Close to the same age. Close to the same {i}size.{/i} You even live right across the hall from me."
+    },
+    {
+      "character": "Chika",
+      "text": "But the heart doesn\u2019t care about logic. Which is probably why you\u2019re still so down over a girl you\u2019ve been fighting with for two months now."
+    },
+    {
+      "character": "Rin",
+      "text": "Yeah, but..."
+    },
+    {
+      "character": "Rin",
+      "text": "It really doesn\u2019t feel like it\u2019s been that long to me."
+    },
+    {
+      "character": "Rin",
+      "text": "It\u2019s like I just woke up this morning and all of that time passed by without me even realizing it. "
+    },
+    {
+      "character": "Rin",
+      "text": "Maybe if...maybe if it really felt like two months...maybe then I\u2019d be able to wrap my head around this and think more rationally, but-"
+    },
+    {
+      "character": "Chika",
+      "text": "But the heart doesn\u2019t care about logic."
+    },
+    {
+      "character": "Chika",
+      "text": "It wants what it wants and throws a temper tantrum if it can\u2019t have it."
+    },
+    {
+      "character": "Rin",
+      "text": "Yeah..."
+    },
+    {
+      "character": "Chika",
+      "text": "Do you remember {i}why{/i} I turned you down, Rin?"
+    },
+    {
+      "character": "Chika",
+      "text": "It wasn\u2019t because I didn\u2019t like you. It was because-"
+    },
+    {
+      "character": "Rin",
+      "text": "Because you already had someone. I know."
+    },
+    {
+      "character": "Chika",
+      "text": "But did I ever tell you {i}who{/i} that person was? Or anything about them? Because if you knew, you\u2019d be calling it the least logical decision of all time. And you\u2019d see firsthand just how right I am."
+    },
+    {
+      "character": "Chika",
+      "text": "You\u2019re not the only one around here who\u2019s impulsive and lovestruck and powered by desire...I\u2019m all of those things too. Which is why I can lie here next to you right now and see where you\u2019re coming from."
+    },
+    {
+      "character": "Chika",
+      "text": "The guy I\u2019m with-"
+    },
+    {
+      "character": "Rin",
+      "text": "I know it\u2019s Sensei, Chika."
+    },
+    {
+      "character": "Chika",
+      "text": "You-"
+    },
+    {
+      "character": "Rin",
+      "text": "I\u2019ve known the whole time."
+    },
+    {
+      "character": "Rin",
+      "text": "I mean...who else would it be?"
+    },
+    {
+      "character": "Chika",
+      "text": "Rin-"
+    },
+    {
+      "character": "Rin",
+      "text": "I might have lost the stupid bullshit knowledge contest to Yasu fucking Yasui, but I still know Sensei better than almost anybody."
+    },
+    {
+      "character": "Rin",
+      "text": "And I\u2019ll admit that I wasn\u2019t even {i}close{/i} to cheering you guys on in the beginning. "
+    },
+    {
+      "character": "Rin",
+      "text": "I was jealous and bitter and mad and every other shitty thing a person can feel."
+    },
+    {
+      "character": "Rin",
+      "text": "But you guys managed to make it work, didn\u2019t you? You\u2019re still together all this time later while Otoha and I can\u2019t even celebrate a single holiday together without exploding into a million pieces."
+    },
+    {
+      "character": "Chika",
+      "text": "But...why didn\u2019t you ever-"
+    },
+    {
+      "character": "Rin",
+      "text": "What was I going to say?"
+    },
+    {
+      "character": "Rin",
+      "text": "\u201cHey, Chika. Having a good time dating the teacher?\u201d or \u201cHey, think I could borrow Sensei later if you guys aren\u2019t busy boning? I need help with math.\u201d"
+    },
+    {
+      "character": "Chika",
+      "text": "Rin...nobody else can know about this. It\u2019s serious. He could go to jail."
+    },
+    {
+      "character": "Rin",
+      "text": "Th...That\u2019s obvious, yeah. But...uhh...the...the point is that you don\u2019t need to go to all these lengths to explain heart logic and stuff like that to me because I already know."
+    },
+    {
+      "character": "Rin",
+      "text": "I know pain...and longing...and grief...because I\u2019ve been feeling and experiencing those things in tandem with everyone else."
+    },
+    {
+      "character": "Rin",
+      "text": "But none of that changes the position I\u2019m in now or where I\u2019m meant to go from here. The only one who can change any of that is me."
+    },
+    {
+      "character": "Rin",
+      "text": "I just wish it was a little fucking easier, you know?"
+    },
+    {
+      "character": "Rin",
+      "text": "I don\u2019t want to be stuck in here. I want...I want to have fun! And make memories with all of my friends {i}and{/i} Otoha."
+    },
+    {
+      "character": "Chika",
+      "text": "I know...I know."
+    },
+    {
+      "character": "Rin",
+      "text": "Why doesn\u2019t she want that too?! "
+    },
+    {
+      "character": "Rin",
+      "text": "Why does it always have to be about someone else when it can just be about us?!"
+    },
+    {
+      "character": "Rin",
+      "text": "I\u2019m not the one making things that way! I gave up all she wanted me to give up but I can\u2019t just rip you and Sensei out of my life like it\u2019s nothing! I love you guys!"
+    },
+    {
+      "character": "Rin",
+      "text": "Why can\u2019t she just let me love you?!"
+    },
+    {
+      "character": "Chika",
+      "text": "It\u2019s not up to her or {i}anyone{/i} else to ever tell you what you should and shouldn\u2019t feel. "
+    },
+    {
+      "character": "Rin",
+      "text": "That\u2019s what I\u2019ve been saying the whole time! But nope! Fuck Rin! She liked Chika {i}once{/i} so she obviously still likes her now! People never move on! That\u2019s impossible!"
+    },
+    {
+      "character": "Chika",
+      "text": "You can\u2019t help what you feel and she can\u2019t help what she feels either. The only options are learning to deal with it or moving on."
+    },
+    {
+      "character": "Rin",
+      "text": "But I don\u2019t want to move on and she doesn\u2019t want to learn! So what are we supposed to do now?!"
+    },
+    {
+      "character": "Chika",
+      "text": "Just cry and hold my hand. The pain will hurt a little less if you have someone to share it with. And I can take it."
+    },
+    {
+      "character": "Rin",
+      "text": "I know you can...you\u2019re amazing...you\u2019ve always been amazing...and that\u2019s why you can be happy and mature and know how to function as one half of a couple and all I can do is complain and cry."
+    },
+    {
+      "character": "Chika",
+      "text": "I\u2019m not always happy and I\u2019m not always mature. I\u2019m just lucky enough to have someone who\u2019s able to put up with that."
+    },
+    {
+      "character": "Chika",
+      "text": "And if Otoha can\u2019t be that person for you, {i}I{/i} will."
+    },
+    {
+      "character": "Rin",
+      "text": "But we\u2019re not {i}together.{/i} It\u2019s not {i}you{/i} I think of the second I wake up anymore. It\u2019s {i}her.{/i} "
+    },
+    {
+      "character": "Rin",
+      "text": "It\u2019s not you who comes to mind when I see an old couple happily eating together through the window of a family restaurant, it\u2019s {i}her.{/i}"
+    },
+    {
+      "character": "Rin",
+      "text": "When {i}she{/i} sees things like that...does she think of me at all?..."
+    },
+    {
+      "character": "Rin",
+      "text": "Or does she just keep walking?"
+    },
+    {
+      "character": "Rin",
+      "text": "How can she ignore me so easily, Chika? How doesn\u2019t it eat away at her? "
+    },
+    {
+      "character": "Rin",
+      "text": "What do you do when Sensei won\u2019t look at you? How do you catch his eye?"
+    },
+    {
+      "character": "Rin",
+      "text": "Apart from being really hot, I mean. But there\u2019s gotta be more to it than that."
+    },
+    {
+      "character": "Chika",
+      "text": "Pfft...thank you, Rin."
+    },
+    {
+      "character": "Chika",
+      "text": "I wish I had better advice to give you, but...getting someone to look my way isn\u2019t really a strong suit of mine."
+    },
+    {
+      "character": "Chika",
+      "text": "Sensei was looking at me before I even knew he was. And without even realizing what was happening, I just started looking at him as well."
+    },
+    {
+      "character": "Chika",
+      "text": "And yeah...there are times when his eyes wander somewhere else...but all I can do is sit there on the couch and have faith that he\u2019ll come back home. And you know what?...He always {i}does.{/i} "
+    },
+    {
+      "character": "Chika",
+      "text": "But that\u2019s not because of anything {i}I\u2019m{/i} doing. It\u2019s because he loves me. And because I love him enough to wait."
+    },
+    {
+      "character": "Chika",
+      "text": "So if you love Otoha...and you\u2019re okay with waiting, do it."
+    },
+    {
+      "character": "Chika",
+      "text": "But Rin?...I have to say this...and if you want to hate me for it, that\u2019s fine..."
+    },
+    {
+      "character": "Chika",
+      "text": "But you can do better. "
+    },
+    {
+      "character": "Chika",
+      "text": "You can do {i}so much{/i} better. You {i}deserve{/i} so much better."
+    },
+    {
+      "character": "Chika",
+      "text": "You shouldn\u2019t spend every night on the couch...waiting for someone to come home just to have them leave again a week later."
+    },
+    {
+      "character": "Chika",
+      "text": "You shouldn\u2019t have to explain yourself every time you have feelings...and you shouldn\u2019t be turned into a villain just because you have so much love to give. "
+    },
+    {
+      "character": "Chika",
+      "text": "You should be treasured. The way {i}I{/i} am treasured."
+    },
+    {
+      "character": "Rin",
+      "text": "Chika...are you...{i}really{/i} sure you\u2019re being treasured? Because-"
+    },
+    {
+      "character": "Chika",
+      "text": "Yes...I\u2019m sure. "
+    },
+    {
+      "character": "Chika",
+      "text": "I\u2019m sure."
+    },
+    {
+      "character": "Rin",
+      "text": "..."
+    },
+    {
+      "character": "Chika",
+      "text": "..."
+    },
+    {
+      "character": "Rin",
+      "text": "Okay..."
+    },
+    {
+      "character": "Rin",
+      "text": "Yeah..."
+    },
+    {
+      "character": "Rin",
+      "text": "As long as you\u2019re sure..."
+    },
+    {
+      "character": "Chika",
+      "text": "..."
+    },
+    {
+      "character": "Rin",
+      "text": "..."
+    },
+    {
+      "character": "Chika",
+      "text": "Rin, I\u2019m...I\u2019m not sure what your...pre-established limits for touching are...but you can come a little closer if my hand isn\u2019t enough."
+    },
+    {
+      "character": "Chika",
+      "text": "I\u2019d be happy to hold you tighter until you manage to calm down."
+    },
+    {
+      "character": "Rin",
+      "text": "{i}*Sniff*{/i} You\u2019re crying too, you know..."
+    },
+    {
+      "character": "Chika",
+      "text": "{i}*Sniff*{/i} Mhm. Which is why I made the suggestion..."
+    },
+    {
+      "character": "Rin",
+      "text": "I don\u2019t know if I\u2019m allowed to have a platonic cuddle buddy...especially one that I masturbated to for years. "
+    },
+    {
+      "character": "Chika",
+      "text": "You can masturbate to me whenever you want. I don\u2019t mind."
+    },
+    {
+      "character": "Rin",
+      "text": "..."
+    },
+    {
+      "character": "Chika",
+      "text": "..."
+    },
+    {
+      "character": "Rin",
+      "text": "On second thought, it\u2019s probably better if we just lie like this instead."
+    },
+    {
+      "character": "Chika",
+      "text": "Yeah...I probably shouldn\u2019t have said that. My bad."
+    },
+    {
+      "character": "Rin",
+      "text": "Thanks. Yeah. Just...gonna forget that happened."
+    },
+    {
+      "character": "Chika",
+      "text": "..."
+    },
+    {
+      "character": "Rin",
+      "text": "..."
+    },
+    {
+      "character": "Chika",
+      "text": "You, uhh...want a glass of water or something? I think I need some...fresh air..."
+    },
+    {
+      "character": "Rin",
+      "text": "One gallon of ice water, please. And if you could maybe slap me in the face a couple times too, that would be cool. "
+    },
+    {
+      "character": "Chika",
+      "text": "Didn\u2019t realize you liked it rough."
+    },
+    {
+      "character": "Rin",
+      "text": "Make that two gallons of ice water, please."
+    },
+    {
+      "character": "Chika",
+      "text": "Coming right up."
+    },
+    {
+      "character": "narrator",
+      "text": "We have come to associate places like this with tragedy based on prior experience."
+    },
+    {
+      "character": "narrator",
+      "text": "Patterns, if you will."
+    },
+    {
+      "character": "narrator",
+      "text": "Remember when we heard about those just a short while ago?"
+    },
+    {
+      "character": "narrator",
+      "text": "About how hard it is to judge when a pattern is going to break...and precisely what will happen once it {i}does?{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "How many other dark places do you link to tragedy? "
+    },
+    {
+      "character": "narrator",
+      "text": "How long does it take your eyes to adjust when nearly every trace of light has been killed off...like the limbs of animals in objects far too small or tight to support them?"
+    },
+    {
+      "character": "narrator",
+      "text": "To die in fragments is a beautiful way to go."
+    },
+    {
+      "character": "narrator",
+      "text": "But do you know what\u2019s even more beautiful?"
+    }
+  ],
+  "state_changes": {
+    "beachmas10": {
+      "from": null,
+      "to": true
+    }
+  }
+}

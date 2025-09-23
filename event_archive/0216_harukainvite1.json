@@ -1,0 +1,652 @@
+{
+  "event_id": 216,
+  "event_label": "harukainvite1",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "I tap on Haruka\u2019s name in my phone and wait for her to answer."
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019ve been to her place several times now, so I figure it\u2019s about time to show her the same sort of hospitality she\u2019s shown me."
+    },
+    {
+      "character": "narrator",
+      "text": "That and I feel kind of bad since she\u2019s always talking about how lonely she is and whatnot."
+    },
+    {
+      "character": "narrator",
+      "text": "But hey, we\u2019ve been gradually getting closer with one another lately. "
+    },
+    {
+      "character": "narrator",
+      "text": "And she\u2019s one of the few people I know that I don\u2019t feel strange about being seen in public with."
+    },
+    {
+      "character": "narrator",
+      "text": "Sure, Ami will likely react the same way she reacted when Sara came over for the first time, but it\u2019s not like I\u2019m going to just avoid everyone because of that."
+    },
+    {
+      "character": "narrator",
+      "text": "Besides, Ami and Sara {i}did{/i} get along by the end of that visit."
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019m sure something similar will happen with Haruka."
+    },
+    {
+      "character": "Haruka",
+      "text": "Hey! What\u2019s up?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Hey, Haruka. Do you have any plans tonight?"
+    },
+    {
+      "character": "Haruka",
+      "text": "Does eating an entire pint of ice cream count as a plan?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Not really, no."
+    },
+    {
+      "character": "Haruka",
+      "text": "Then I\u2019m totally free. Why?"
+    },
+    {
+      "character": "Haruka",
+      "text": "Do you want to hang out?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I do. How would you feel about coming over to my place for a change?"
+    },
+    {
+      "character": "Haruka",
+      "text": "Your place? Isn\u2019t that on like, the opposite side of town?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Don\u2019t you have a car?"
+    },
+    {
+      "character": "Haruka",
+      "text": "Yeah but...gas."
+    },
+    {
+      "character": "Sensei",
+      "text": "That sounds like a very minor struggle compared to me taking the bus to your place all the time."
+    },
+    {
+      "character": "Haruka",
+      "text": "Then you should get a car, too!"
+    },
+    {
+      "character": "Sensei",
+      "text": "But...gas."
+    },
+    {
+      "character": "Haruka",
+      "text": "Hahaha~ Okay, okay. I\u2019ll come over."
+    },
+    {
+      "character": "Haruka",
+      "text": "Can you text me the address?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Sure thing. See you soon."
+    },
+    {
+      "character": "Haruka",
+      "text": "Yup! See you!"
+    },
+    {
+      "character": "narrator",
+      "text": "I hang up and immediately type out my address to Haruka, who responds with a quick thumbs-up."
+    },
+    {
+      "character": "narrator",
+      "text": "From this point on, the night becomes a mission with the objective of only partially ruining Ami\u2019s life rather than full on destroying it."
+    },
+    {
+      "character": "narrator",
+      "text": "You see...in her eyes, each new woman that shows up is another obstacle separating the two of us."
+    },
+    {
+      "character": "narrator",
+      "text": "And, in addition to being much closer to my age, Haruka possesses one other thing that is sure to set Ami off almost immediately."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Your boobs really {i}are{/i} huge, Haruka."
+    },
+    {
+      "character": "Haruka",
+      "text": "Dude. What kind of greeting is that?"
+    },
+    {
+      "character": "Haruka",
+      "text": "You haven\u2019t even said hi yet."
+    },
+    {
+      "character": "Sensei",
+      "text": "Sorry. I wanted to, but it\u2019s been getting a lot harder keeping my thoughts to myself lately."
+    },
+    {
+      "character": "Haruka",
+      "text": "That sounds like something that could get you into serious trouble someday. "
+    },
+    {
+      "character": "Haruka",
+      "text": "Like, what if I got super offended by that and stormed out of here?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Would you have preferred if I called them small?"
+    },
+    {
+      "character": "Haruka",
+      "text": "I would have preferred if they were never the conversation topic to start off with."
+    },
+    {
+      "character": "Sensei",
+      "text": "Oh, okay. I think I\u2019m starting to see the issue."
+    },
+    {
+      "character": "Haruka",
+      "text": "I sure hope so. I kind of directly pointed it out for you."
+    },
+    {
+      "character": "Haruka",
+      "text": "It\u2019s one thing to stare, which you\u2019ve...very obviously been doing this entire time, but coming out and talking about them isn\u2019t exactly polite."
+    },
+    {
+      "character": "Haruka",
+      "text": "Like, you don\u2019t see me walking in and being like \u201cWow...Your shoulders are so broad and you\u2019ve got the figure of an ancient roman warrior.\u201d"
+    },
+    {
+      "character": "Sensei",
+      "text": "Please say things like that when you walk in. They will make me feel better about myself. Between you and me, I am very insecure."
+    },
+    {
+      "character": "Haruka",
+      "text": "Yeah I\u2019m just gonna stop talking before I say something else that makes me sound like a creep."
+    },
+    {
+      "character": "Sensei",
+      "text": "Looks like I\u2019m not the only one having trouble keeping my thoughts to myself."
+    },
+    {
+      "character": "Haruka",
+      "text": "I spend so much of my time inside the cafe that I\u2019m beginning to struggle in the outside world."
+    },
+    {
+      "character": "Haruka",
+      "text": "I think it might be time for an intervention or something."
+    },
+    {
+      "character": "Haruka",
+      "text": "Please save me from myself, Sensei."
+    },
+    {
+      "character": "Sensei",
+      "text": "Uhh, sure."
+    },
+    {
+      "character": "Sensei",
+      "text": "Where do you want to start?"
+    },
+    {
+      "character": "Haruka",
+      "text": "What do you mean? "
+    },
+    {
+      "character": "Haruka",
+      "text": "Do you not have a plan or anything for tonight?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I've gone to your house a bunch of times and {i}you've{/i} never had a plan. We always just sit there and watch TV."
+    },
+    {
+      "character": "Haruka",
+      "text": "Duh. That\u2019s my default setting. "
+    },
+    {
+      "character": "Haruka",
+      "text": "If nobody drags me out of the house, I\u2019ll just do that every day for the rest of my life."
+    },
+    {
+      "character": "Haruka",
+      "text": "I kind of need somebody to lead the way or I\u2019ll turn into a giant, pink blob who can recite all nine seasons of The Office by heart."
+    },
+    {
+      "character": "Sensei",
+      "text": "That show isn\u2019t even funny. "
+    },
+    {
+      "character": "Haruka",
+      "text": "The only people who say that are contrarians or those who think they\u2019re somehow too good for it because it doesn\u2019t appeal to their {i}superior intellect{/i}."
+    },
+    {
+      "character": "Sensei",
+      "text": "This sounds like a topic you feel very strongly about."
+    },
+    {
+      "character": "Haruka",
+      "text": "I\u2019m tired of people pretending The Office isn\u2019t funny. They should all die."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Okay, well anyway...I guess we can just watch TV since that seems to be the entirety of your comfort zone. "
+    },
+    {
+      "character": "Sensei",
+      "text": "But there is something I should warn you about beforehand."
+    },
+    {
+      "character": "Haruka",
+      "text": "You don\u2019t have one of those doors that I\u2019m not supposed to open under any circumstance, do you?"
+    },
+    {
+      "character": "Sensei",
+      "text": "What? No. "
+    },
+    {
+      "character": "Sensei",
+      "text": "Why would you assume that?"
+    },
+    {
+      "character": "Haruka",
+      "text": "If there\u2019s anything I\u2019ve learned from all that time I\u2019ve spent in my \u201ccomfort zone,\u201d it\u2019s that the people you {i}don\u2019t{/i} expect to have secret doors are always the ones that actually have them."
+    },
+    {
+      "character": "Haruka",
+      "text": "But...I guess you seem kind of like you\u2019d have one. So that means there shouldn\u2019t be one here after all."
+    },
+    {
+      "character": "Sensei",
+      "text": "Did you make the insult extremely elaborate on purpose or was that just accidental?"
+    },
+    {
+      "character": "Haruka",
+      "text": "A mixture of both, I guess?"
+    },
+    {
+      "character": "Haruka",
+      "text": "So, what\u2019s the thing you need to warn me about? "
+    },
+    {
+      "character": "Haruka",
+      "text": "You\u2019re not just renting this place out from some creepy old guy who\u2019s going to walk out of his room in nothing but his boxers, are you?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Again with the strange assumptions..."
+    },
+    {
+      "character": "Sensei",
+      "text": "The warning is that I\u2019m not sure where my [niece] is today and she could come home at any moment."
+    },
+    {
+      "character": "Haruka",
+      "text": "Then why didn\u2019t we just chill at my place?"
+    },
+    {
+      "character": "Haruka",
+      "text": "I\u2019m going to feel really awkward if she just comes in and sees us hanging out when I\u2019ve never even met her before."
+    },
+    {
+      "character": "Ami",
+      "text": "Who are you and why are your boobs so big?!"
+    },
+    {
+      "character": "Haruka",
+      "text": "See? This is totally weird for me now."
+    },
+    {
+      "character": "Sensei",
+      "text": "Ami, this is Haruka. She\u2019s a friend of mine."
+    },
+    {
+      "character": "Ami",
+      "text": "That still doesn\u2019t answer the second question!"
+    },
+    {
+      "character": "Haruka",
+      "text": "If she continues, I am going to melt her."
+    },
+    {
+      "character": "Sensei",
+      "text": "Please don't."
+    },
+    {
+      "character": "Haruka",
+      "text": "I have special melting powers."
+    },
+    {
+      "character": "Sensei",
+      "text": "Haruka no."
+    },
+    {
+      "character": "Ami",
+      "text": "People like you make me sick..."
+    },
+    {
+      "character": "Haruka",
+      "text": "I don\u2019t think she likes me very much."
+    },
+    {
+      "character": "Sensei",
+      "text": "She\u2019s like an animal. She\u2019ll warm up to you the more she sees you."
+    },
+    {
+      "character": "Ami",
+      "text": "I\u2019ve seen her plenty of times. That\u2019s the cafe lady."
+    },
+    {
+      "character": "Haruka",
+      "text": "Okay, people seriously need to find other things to say about me. This is getting obnoxious."
+    },
+    {
+      "character": "Sensei",
+      "text": "At least none of them are hiding their true feelings."
+    },
+    {
+      "character": "Haruka",
+      "text": "I kind of wish they would."
+    },
+    {
+      "character": "Ami",
+      "text": "What ever happened to Sara?! She was much nicer to me and her boobs were way smaller!"
+    },
+    {
+      "character": "Ami",
+      "text": "Did you cast her aside for a discount on coffee?! We have coffee at home!"
+    },
+    {
+      "character": "Haruka",
+      "text": "Sara\u2019s been here already?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah, I invited her over a while back. "
+    },
+    {
+      "character": "Haruka",
+      "text": "I see..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Ami, if you want to see Sara, you can just go visit her at the bar."
+    },
+    {
+      "character": "Ami",
+      "text": "No one likes me! I have no one to go with!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Molly likes you, I think."
+    },
+    {
+      "character": "Ami",
+      "text": "Molly has work so I {i}can't{/i} go with her!"
+    },
+    {
+      "character": "Haruka",
+      "text": "She\u2019s off today, so you probably could."
+    },
+    {
+      "character": "Ami",
+      "text": "Nevermind! Maybe I {i}will{/i} go with Molly!"
+    },
+    {
+      "character": "narrator",
+      "text": "Ami kicks her boots off at the door and tosses her scarf onto the couch, immediately taking a place beside Haruka right after."
+    },
+    {
+      "character": "Ami",
+      "text": "How long is she staying for?"
+    },
+    {
+      "character": "Haruka",
+      "text": "As long as I want. Right, Sensei?"
+    },
+    {
+      "character": "Ami",
+      "text": "I\u2019m not asking {i}you{/i}, cafe lady. I\u2019m asking my [uncle]."
+    },
+    {
+      "character": "Sensei",
+      "text": "As long as she wants."
+    },
+    {
+      "character": "Ami",
+      "text": "And that car parked outside of the house, is {i}that{/i} hers too?"
+    },
+    {
+      "character": "Haruka",
+      "text": "Yup! That\u2019s mine."
+    },
+    {
+      "character": "Ami",
+      "text": "I\u2019m asking-"
+    },
+    {
+      "character": "Sensei",
+      "text": "Yes. That is Haruka\u2019s car."
+    },
+    {
+      "character": "Ami",
+      "text": "Hah. Owning a car in an urban area like Kumon-mi? Sounds a lot like overcompensation to me."
+    },
+    {
+      "character": "Haruka",
+      "text": "Nah. I just had some extra money to spare and needed a way to commute back and forth between {i}my own apartment{/i} and my {i}independently owned business{/i}."
+    },
+    {
+      "character": "Ami",
+      "text": "Joke\u2019s on you. I\u2019m perfectly content living with my [uncle] and working part time at a place with super cute outfits instead of ugly green visors."
+    },
+    {
+      "character": "Haruka",
+      "text": "Hey! That shade of green was the result of an informed decision based on years of experience in marketing and service!"
+    },
+    {
+      "character": "Haruka",
+      "text": "Green and brown are earthy colors that create a relaxing atmosphere! "
+    },
+    {
+      "character": "Haruka",
+      "text": "Also, your sweater is like the same exact shade of green as the one in the cafe!"
+    },
+    {
+      "character": "Ami",
+      "text": "Nuh-uh! How can you even {i}get{/i} a business license if you can\u2019t tell the difference between your ugly shade of green and OLIVE?!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Wow. You two are getting along even better than I thought you\u2019d be."
+    },
+    {
+      "character": "Ami",
+      "text": "What do you see in this woman, Sensei?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I-"
+    },
+    {
+      "character": "Haruka",
+      "text": "If you say my boobs, I\u2019m going to kill you."
+    },
+    {
+      "character": "Sensei",
+      "text": "...I wasn\u2019t going to say that."
+    },
+    {
+      "character": "Sensei",
+      "text": "I was going to talk about how down to earth and chill you are."
+    },
+    {
+      "character": "Sensei",
+      "text": "Ami, you don\u2019t have to like Haruka, but what will being mean to her do at this point?"
+    },
+    {
+      "character": "Sensei",
+      "text": "The two of us are already friends, so it\u2019s not like you\u2019re going to get in the middle of that."
+    },
+    {
+      "character": "Ami",
+      "text": "But if I\u2019m mean to her and make her feel really weird, she won\u2019t want to come back and hang out with you again."
+    },
+    {
+      "character": "Haruka",
+      "text": "She\u2019s got a point. This isn\u2019t very fun."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah, but then that would just mean I\u2019d be going to her place instead. Doesn\u2019t that sound even worse?"
+    },
+    {
+      "character": "Ami",
+      "text": "You wouldn\u2019t..."
+    },
+    {
+      "character": "Sensei",
+      "text": "I already have."
+    },
+    {
+      "character": "Ami",
+      "text": "You have?!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Of course. It\u2019s not like I just saw her at the cafe one day and said, \u201cHey, wanna head back to my place?\u201d"
+    },
+    {
+      "character": "Ami",
+      "text": "Isn\u2019t that exactly how adults meet each other nowadays?!"
+    },
+    {
+      "character": "Haruka",
+      "text": "I mean, that\u2019s {i}kind of{/i} what happened."
+    },
+    {
+      "character": "Haruka",
+      "text": "I gave him my number under the pretense of checking on Rin when she was feeling down, but I really just wanted him to call me so we could get to know each other."
+    },
+    {
+      "character": "Haruka",
+      "text": "Looks like my plan worked out really well, huh? "
+    },
+    {
+      "character": "Haruka",
+      "text": "I\u2019m already meeting the family and everything."
+    },
+    {
+      "character": "Haruka",
+      "text": "Is there a dog I can pet anywhere? A cat?"
+    },
+    {
+      "character": "Haruka",
+      "text": "Should I just pet this thing instead? She seems kind of feisty."
+    },
+    {
+      "character": "Haruka",
+      "text": "She doesn\u2019t bite, does she? Cause if she does, I\u2019ll sue."
+    },
+    {
+      "character": "Ami",
+      "text": "That head is reserved for my [uncle]! I didn\u2019t give you permission to touch me!"
+    },
+    {
+      "character": "Haruka",
+      "text": "I\u2019m bigger and stronger than you. Try and stop me~"
+    },
+    {
+      "character": "Ami",
+      "text": "Sensei! Stop her! I am melting!"
+    },
+    {
+      "character": "Haruka",
+      "text": "Feel my wrath, accountant."
+    },
+    {
+      "character": "Sensei",
+      "text": "Haruka, that\u2019s terrifying."
+    },
+    {
+      "character": "Haruka",
+      "text": "What? She started it."
+    },
+    {
+      "character": "Haruka",
+      "text": "I\u2019m just trying to enjoy my time as an intruder here since we were so {i}rudely{/i} interrupted."
+    },
+    {
+      "character": "Ami",
+      "text": "I literally live here! Nothing I do is an interruption!"
+    },
+    {
+      "character": "narrator",
+      "text": "Haruka and I spend the next couple hours talking in the living room while Ami sits on the couch across from us, staring at her the entire time."
+    },
+    {
+      "character": "narrator",
+      "text": "Despite the death glare, however, Haruka remains completely unfazed- which I\u2019m sure makes Ami even angrier."
+    },
+    {
+      "character": "narrator",
+      "text": "I guess there was no way this visit could have ended as successfully as the one with Sara, but it definitely...could have been worse, I guess?..."
+    },
+    {
+      "character": "narrator",
+      "text": "No one died. And that\u2019s really all I can ask for when it comes to things like this."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Haruka\u2019s affection has increased to [haruka_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "haruka_love +": {
+      "from": null,
+      "to": 3
+    },
+    "harukainvite1": {
+      "from": null,
+      "to": true
+    }
+  }
+}

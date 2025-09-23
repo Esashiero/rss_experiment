@@ -1,0 +1,784 @@
+{
+  "event_id": 160,
+  "event_label": "slumberreset1",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "A noise at the front door pulls me from the first bit of rest I\u2019ve been able to obtain since my eyes closed late last night."
+    },
+    {
+      "character": "narrator",
+      "text": "I don\u2019t have it within me to open them and find out who it is that may be coming to either greet me or chop my body into pieces and, honestly, I\u2019m not sure which of those I\u2019d even prefer right now."
+    },
+    {
+      "character": "narrator",
+      "text": "I know you\u2019re probably thinking it\u2019s a bit too early for fatalism...and that I should just tear myself away from this much-needed slumber to either fuck or fuck off, but fuck you."
+    },
+    {
+      "character": "narrator",
+      "text": "Christmas is over. The beach trip is over. And without any idea of what to look forward to or {i}when{/i} to look forward to it, this unfamiliar bed is nothing more than a chamber I can lock myself into stasis with."
+    },
+    {
+      "character": "narrator",
+      "text": "Wake me up when this is all over- for I suddenly remember what it\u2019s like to dream."
+    },
+    {
+      "character": "narrator",
+      "text": "And I don\u2019t like it."
+    },
+    {
+      "character": "narrator",
+      "text": "I don\u2019t like it at all."
+    },
+    {
+      "character": "Touka",
+      "text": "{i}Makoto! What are you doing?{/i}"
+    },
+    {
+      "character": "Makoto",
+      "text": "What does it look like I\u2019m doing? I\u2019m going to wake him up. That\u2019s why we came here, isn\u2019t it?"
+    },
+    {
+      "character": "Touka",
+      "text": "{i}Well...yes. But to traipse right on over to him without any regard for his personal space is rather...rude. Don\u2019t you think?{/i}"
+    },
+    {
+      "character": "Makoto",
+      "text": "Does he even have any personal space {i}left{/i} after haphazardly distributing it between all twenty of us?"
+    },
+    {
+      "character": "Touka",
+      "text": "Mm. I suppose that is a fair point."
+    },
+    {
+      "character": "Touka",
+      "text": "Very well. Proceed. But know that I will not be able to help you if you are dragged under the covers in a fit of lustful, delirious rage."
+    },
+    {
+      "character": "Makoto",
+      "text": "I think I\u2019ll manage."
+    },
+    {
+      "character": "narrator",
+      "text": "The sensation of a fingertip repeatedly prodding at my cheek makes it clear to me that I am not about to be murdered or chopped up or whatever it is I {s}said{/i} thought before."
+    },
+    {
+      "character": "narrator",
+      "text": "It\u2019s unfortunate, really. For the last twelve or so hours and all of the thoughts and feelings brought on by them have reminded me of how much I hate feeling anything in the first place."
+    },
+    {
+      "character": "narrator",
+      "text": "This graphic becomes relevant again."
+    },
+    {
+      "character": "Makoto",
+      "text": "Hey. You. Wake up. "
+    },
+    {
+      "character": "narrator",
+      "text": "While it may not be the season anymore, I have a hard time believing its aftertaste will be departing my metaphorical tongue any time soon."
+    },
+    {
+      "character": "narrator",
+      "text": "If only there was another that could coat mine with foreign saliva and a taste reminiscent of something more enjoyable."
+    },
+    {
+      "character": "narrator",
+      "text": "Something like watermelon."
+    },
+    {
+      "character": "narrator",
+      "text": "But I suppose I\u2019ll have to settle for this instead."
+    },
+    {
+      "character": "narrator",
+      "text": "It\u2019s just unfortunate since her spit is the only thing I {i}haven\u2019t{/i} taken from her yet and watching her cling to her last bit of freedom has been nice thus far."
+    },
+    {
+      "character": "narrator",
+      "text": "All good things come to an end, I guess."
+    },
+    {
+      "character": "Makoto",
+      "text": "Oh, good. You\u2019re alive."
+    },
+    {
+      "character": "Sensei",
+      "text": "Barely."
+    },
+    {
+      "character": "Makoto",
+      "text": "Long night? "
+    },
+    {
+      "character": "Sensei",
+      "text": "Something like that."
+    },
+    {
+      "character": "Makoto",
+      "text": "Does it have anything to do with all of that crumpled up paper on the table? "
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah. Decided to leave the beach early so I could grade all of the assignments Imani has been giving you. I\u2019m turning over a new leaf."
+    },
+    {
+      "character": "Makoto",
+      "text": "Mhm. And I\u2019m suddenly a lesbian."
+    },
+    {
+      "character": "Sensei",
+      "text": "Congratulations, Makoto. "
+    },
+    {
+      "character": "Makoto",
+      "text": "Bite me."
+    },
+    {
+      "character": "Touka",
+      "text": "Um...good morning, Sensei. I\u2019d ask if you slept well, but...I get the feeling that was not the case."
+    },
+    {
+      "character": "Sensei",
+      "text": "And I get the feeling that I am waking up a lot later than normal right now."
+    },
+    {
+      "character": "Touka",
+      "text": "Last I checked it was about...1:00 PM. So I figured it would be best if I were to come here myself and make sure you were sleeping and not...well, dead."
+    },
+    {
+      "character": "Sensei",
+      "text": "Why would you bring Makoto here if my death was a real possibility in your mind?"
+    },
+    {
+      "character": "Touka",
+      "text": "I obviously wouldn\u2019t have been able to carry your body myself. You are exceedingly large for a Japanese man, Sensei."
+    },
+    {
+      "character": "Makoto",
+      "text": "Those papers...what are they?"
+    },
+    {
+      "character": "Sensei",
+      "text": "What?"
+    },
+    {
+      "character": "Makoto",
+      "text": "They\u2019re obviously not our assignments. And considering I haven\u2019t seen you so much as {i}lift{/i} a pen in what feels like years, I\u2019m a little...confused."
+    },
+    {
+      "character": "Makoto",
+      "text": "You haven\u2019t started writing again, have you?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t see why it matters."
+    },
+    {
+      "character": "Makoto",
+      "text": "It matters because it\u2019s a substantial change in what I would call an...incredibly predictable life pattern."
+    },
+    {
+      "character": "Makoto",
+      "text": "That paired with the fact that you disappeared for an entire night suggests something big might have happened in-"
+    },
+    {
+      "character": "Touka",
+      "text": "Now, now, Makoto. I\u2019m sure Sensei was just bored from having to spend the night in a brand new place without any of his...uhh...{i}belongings.{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "Belongings?"
+    },
+    {
+      "character": "Touka",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Are you talking about porn?"
+    },
+    {
+      "character": "Touka",
+      "text": "N...No! Though, I will admit that I am at least partially regretful in regard to not providing some sort of comparable...stash of magazines, as I am acutely aware of the male tendency to hide such material."
+    },
+    {
+      "character": "Sensei",
+      "text": "There\u2019s still time to right your wrongs, Touka."
+    },
+    {
+      "character": "Touka",
+      "text": "I\u2019d really rather not."
+    },
+    {
+      "character": "Makoto",
+      "text": "Sensei, seriously. If you\u2019re actually writing again, that\u2019s a big step. And it\u2019s one that I think we should talk about as it\u2019s one of the reasons I always looked up to you in the first-"
+    },
+    {
+      "character": "Sensei",
+      "text": "Drop it, Makoto. If I want to talk to you, I\u2019ll talk to you. But I am currently in the process of waking up after maybe one hour of sleep and I just...don\u2019t feel like it right now."
+    },
+    {
+      "character": "narrator",
+      "text": "There\u2019s a moment of silence as Makoto and Touka both cease conversation and stare at me like I\u2019m some sort of caged animal or art installation."
+    },
+    {
+      "character": "narrator",
+      "text": "But as I lean up in bed, they\u2019re reminded that I\u2019m only slightly less human than the two of them- and they bring themselves to their feet as I do my best to mimic that."
+    },
+    {
+      "character": "narrator",
+      "text": "The feeling of the bedroom\u2019s tatami on my soles startles me at first due to the night and day contrast between that and the cold, hard wood I\u2019ve grown accustomed to."
+    },
+    {
+      "character": "narrator",
+      "text": "Each of them sense this and take a half-step forward to try and catch me in the event that I fall before realizing that they\u2019re just being overly-cautious."
+    },
+    {
+      "character": "narrator",
+      "text": "It\u2019s annoying having people who care about you so much."
+    },
+    {
+      "character": "narrator",
+      "text": "Though, I assume I wouldn\u2019t be quite as annoyed if I understood why they\u2019d want to prevent me from falling in the first place."
+    },
+    {
+      "character": "narrator",
+      "text": "Some people are just naturally kind, I suppose."
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I wonder what that\u2019s like."
+    },
+    {
+      "character": "Makoto",
+      "text": "..."
+    },
+    {
+      "character": "Touka",
+      "text": "Is something wrong, Makoto?"
+    },
+    {
+      "character": "Makoto",
+      "text": "Hm? No. That painting just looks...eerily familiar."
+    },
+    {
+      "character": "Touka",
+      "text": "That\u2019s likely because it was created by the same artist who painted the one I gifted you last Christmas."
+    },
+    {
+      "character": "Makoto",
+      "text": "Oh, good. So now {i}Sensei{/i} has a near-priceless piece of art. What a great person to trust with such an important item."
+    },
+    {
+      "character": "Touka",
+      "text": "Don\u2019t be ridiculous. That one is a mere replica worth only a tenth of the original\u2019s value. "
+    },
+    {
+      "character": "Makoto",
+      "text": "And where is the original? Your bathroom?"
+    },
+    {
+      "character": "Touka",
+      "text": "My dorm room, actually. You should come visit one day. It would be nice having someone else to keep an eye on Yasu from time to time."
+    },
+    {
+      "character": "Makoto",
+      "text": "Am I visiting as a {i}friend{/i} or a babysitter? Because that greatly influences my answer."
+    },
+    {
+      "character": "Sensei",
+      "text": "Is my apartment your new hang-out spot or something? Are you two just going to chat here while I go on with my day?"
+    },
+    {
+      "character": "Makoto",
+      "text": "Oh, sorry. I forgot your self-esteem crumbles any time you\u2019re not the center of attention."
+    },
+    {
+      "character": "Touka",
+      "text": "Sensei does make a good point, though. It is quite rude for the two of us to make plans without him while we\u2019re guests in his home."
+    },
+    {
+      "character": "Makoto",
+      "text": "Don\u2019t you literally own the building?"
+    },
+    {
+      "character": "Touka",
+      "text": "It is probably best if we do not discuss which buildings I do and do not own. I would not like to make anyone feel insignificant in the face of my family\u2019s vast sphere of influence and wealth."
+    },
+    {
+      "character": "Makoto",
+      "text": "Yeah...it might be a little too late for that."
+    },
+    {
+      "character": "Sensei",
+      "text": "So...question. What did you tell everyone when I disappeared last night? Because there\u2019s no way our...{i}prolonged absence{/i} went unnoticed. "
+    },
+    {
+      "character": "Makoto",
+      "text": "I\u2019m not really a fan of the way you said {i}prolonged absence{/i} right there..."
+    },
+    {
+      "character": "Touka",
+      "text": "It\u2019s true that our absence was noted by several of the girls who tend to keep a closer eye on you, but I\u2019m sure I needn\u2019t remind you I wasn\u2019t the girl you {i}initially{/i} ran off with."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah...and what happened to her as well? "
+    },
+    {
+      "character": "Makoto",
+      "text": "Who is \u201cher?\u201d Who are you running around with now?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m afraid that\u2019s confidential, Makoto."
+    },
+    {
+      "character": "Makoto",
+      "text": "Yeah...what else is new?"
+    },
+    {
+      "character": "Touka",
+      "text": "I\u2019m actually quite surprised to find out that she didn\u2019t wind up here as well, considering she never made it back to the inn last night."
+    },
+    {
+      "character": "Sensei",
+      "text": "What?"
+    },
+    {
+      "character": "Touka",
+      "text": "There\u2019s no need to worry, though. Both Ayane and Ami have been in contact with her and she is fine."
+    },
+    {
+      "character": "Touka",
+      "text": "In regard to {i}your{/i} disappearance, you\u2019ll be pleased to know that I handled it to the best of my ability and that there was only {i}one{/i} search party that sprouted up as a result of your disappearance."
+    },
+    {
+      "character": "Sensei",
+      "text": "Oh, good. That\u2019s not nearly as bad as it could have been."
+    },
+    {
+      "character": "Makoto",
+      "text": "Some say that Ami is {i}still{/i} out there to this day..."
+    },
+    {
+      "character": "Sensei",
+      "text": "The day has barely changed, Makoto..."
+    },
+    {
+      "character": "Touka",
+      "text": "{i}Ahem.{/i} I believe this is the part where you praise me for both my reliability and proactivity. "
+    },
+    {
+      "character": "Makoto",
+      "text": "As if Sensei is going to praise anyone for literally any-"
+    },
+    {
+      "character": "Sensei",
+      "text": "Great job, Touka. You\u2019re a real life saver."
+    },
+    {
+      "character": "Touka",
+      "text": "Ah!"
+    },
+    {
+      "character": "Makoto",
+      "text": "Hey! What the fuck?!"
+    },
+    {
+      "character": "Touka",
+      "text": "You said my real name and everything!"
+    },
+    {
+      "character": "Makoto",
+      "text": "Praise me now! I\u2019ve done way more for you than Touka has!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Makoto, she bought me an apartment."
+    },
+    {
+      "character": "Makoto",
+      "text": "Yeah, and I've...done things I can't repeat out loud! How much more do I have to do until that's worth an apartment?!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Fine, here. You\u2019re very smart and very pretty and I\u2019d be nowhere without you. Happy?"
+    },
+    {
+      "character": "Makoto",
+      "text": "M...Maybe."
+    },
+    {
+      "character": "Touka",
+      "text": "Do you have any other questions, Sensei? "
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah. What did you tell everyone exactly?"
+    },
+    {
+      "character": "Touka",
+      "text": "That you had an important business meeting."
+    },
+    {
+      "character": "Sensei",
+      "text": "In the middle of the night on Christmas?"
+    },
+    {
+      "character": "Touka",
+      "text": "That\u2019s just how important the meeting was."
+    },
+    {
+      "character": "Sensei",
+      "text": "And people actually believed it?"
+    },
+    {
+      "character": "Touka",
+      "text": "Oh, not at all. But just knowing that you were safe seemed to be enough for most of them."
+    },
+    {
+      "character": "Touka",
+      "text": "Apart from the one search party, that is. Which still contained roughly half of the class. But seeing as you\u2019re still alive and well, I\u2019d say everything worked out just fine!"
+    },
+    {
+      "character": "Touka",
+      "text": "It might be good to lay low for a while, though. Ami is very mad."
+    },
+    {
+      "character": "Sensei",
+      "text": "Right..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Anyway, do you mind if I make a phone call? There\u2019s someone I should probably, uhh...follow up with."
+    },
+    {
+      "character": "Touka",
+      "text": "Go right ahead. Makoto and I will step out onto the balcony once she regains her senses."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Maya",
+      "text": "Huh?"
+    },
+    {
+      "character": "Maya",
+      "text": "..."
+    },
+    {
+      "character": "Maya",
+      "text": "..."
+    },
+    {
+      "character": "Maya",
+      "text": "Uhh...hi?"
+    },
+    {
+      "character": "Sensei",
+      "text": "{i}Why do you sound so concerned?{/i}"
+    },
+    {
+      "character": "Maya",
+      "text": "Because you\u2019re calling me? I don\u2019t remember giving you permission to do that."
+    },
+    {
+      "character": "Sensei",
+      "text": "{i}I didn\u2019t realize I needed permission.{/i}"
+    },
+    {
+      "character": "Maya",
+      "text": "Well...what do you want?"
+    },
+    {
+      "character": "Sensei",
+      "text": "{i}Why didn\u2019t you ever go back to the inn last night?{/i}"
+    },
+    {
+      "character": "Maya",
+      "text": "You realize I could ask you the same exact question, right?"
+    },
+    {
+      "character": "Sensei",
+      "text": "{i}Maya-{/i}"
+    },
+    {
+      "character": "Maya",
+      "text": "{i}Why the fuck do you think I never went back?{/i}"
+    },
+    {
+      "character": "Maya",
+      "text": "I obviously wasn\u2019t acting like myself. I was...sick. Or something."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Maya",
+      "text": "..."
+    },
+    {
+      "character": "Maya",
+      "text": "Hello?"
+    },
+    {
+      "character": "Sensei",
+      "text": "{i}I think we should probably talk about what happened.{/i}"
+    },
+    {
+      "character": "Maya",
+      "text": "Ugh...I hate talking."
+    },
+    {
+      "character": "Sensei",
+      "text": "{i}I can assure you I hate it just as much.{/i}"
+    },
+    {
+      "character": "Maya",
+      "text": "I propose that we ignore it and go back to despising one another. "
+    },
+    {
+      "character": "Sensei",
+      "text": "{i}That would certainly be the easiest route, wouldn\u2019t it?{/i}"
+    },
+    {
+      "character": "Maya",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "{i}Maya?{/i}"
+    },
+    {
+      "character": "Maya",
+      "text": "Yeah...uhh...I guess we can...{i}talk.{/i}"
+    },
+    {
+      "character": "Maya",
+      "text": "But I\u2019m kind of-"
+    },
+    {
+      "character": "Sensei",
+      "text": "{i}Great. Be at the park by my house in an hour.{/i}"
+    },
+    {
+      "character": "Maya",
+      "text": "Wait. I-"
+    },
+    {
+      "character": "Maya",
+      "text": "Sensei? Are you still there?"
+    },
+    {
+      "character": "Maya",
+      "text": "Did he seriously just hang up on me?"
+    },
+    {
+      "character": "Ayane",
+      "text": "Hm? He? Did Sensei call?"
+    },
+    {
+      "character": "Maya",
+      "text": "Worse. He {i}hung up{/i} on me."
+    },
+    {
+      "character": "Ayane",
+      "text": "Is he okay? How did his business meeting go?"
+    },
+    {
+      "character": "Maya",
+      "text": "Business meeting? What business meeting?"
+    },
+    {
+      "character": "Ayane",
+      "text": "It was the excuse Touka gave for why he suddenly disappeared last night. "
+    },
+    {
+      "character": "Maya",
+      "text": "And you believed it?"
+    },
+    {
+      "character": "Ayane",
+      "text": "No. I just didn\u2019t want to think about the alternative."
+    },
+    {
+      "character": "Maya",
+      "text": "Hah...well, whatever the case, we suddenly have somewhere else we need to be. Hurry up and eat your lunch so we can go."
+    },
+    {
+      "character": "Ayane",
+      "text": "Oh, I\u2019m not hungry. But you can take as much time as you need and-"
+    },
+    {
+      "character": "Ayane",
+      "text": "Wait, where\u2019d all of your food go? Weren\u2019t there three full takoyaki boats right next to you a second ago?"
+    },
+    {
+      "character": "Maya",
+      "text": "I\u2019m done. Let\u2019s go."
+    },
+    {
+      "character": "Ayane",
+      "text": "Wow...One day, you\u2019re going to tell me how you do that."
+    },
+    {
+      "character": "Maya",
+      "text": "Let\u2019s focus on fixing the world first..."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Touka",
+      "text": "Tell me, Makoto...how large is this \u201cshopping mall\u201d exactly? My mother told me stories about them was I was younger, but I didn\u2019t think I\u2019d ever get to {i}see{/i} one."
+    },
+    {
+      "character": "Makoto",
+      "text": "I...wouldn\u2019t get your hopes up too high. It\u2019s not {i}that{/i} exciting. Though, I\u2019m sure having Miku there will make it a lot more, um...{i}active{/i} than it would be otherwise."
+    },
+    {
+      "character": "Touka",
+      "text": "Splendid. I do hope Yasu doesn\u2019t get lost along the way. It will be her first time riding a bus alone."
+    },
+    {
+      "character": "Makoto",
+      "text": "Sensei, if you don\u2019t have anything else going on, why don\u2019t you come with us?"
+    },
+    {
+      "character": "Sensei",
+      "text": "When did you two get so close?"
+    },
+    {
+      "character": "Makoto",
+      "text": "When I realized Touka was a good person."
+    },
+    {
+      "character": "Sensei",
+      "text": "And this sudden cheerful attitude...is that thanks to her as well?"
+    },
+    {
+      "character": "Makoto",
+      "text": "Who knows?"
+    },
+    {
+      "character": "Makoto",
+      "text": "Who {i}cares?{/i}"
+    },
+    {
+      "character": "Touka",
+      "text": "If you do come along, will you promise not to teach me any more fake commoner rituals like your exceedingly {i}hilarious{/i} vending machine chant? "
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019ve got other plans, actually. Just made them while you two were out on the balcony."
+    },
+    {
+      "character": "Touka",
+      "text": "I see. Very well, then. "
+    },
+    {
+      "character": "Touka",
+      "text": "Tell Maya I said hello."
+    },
+    {
+      "character": "Makoto",
+      "text": "{i}Maya?{/i}"
+    },
+    {
+      "character": "Makoto",
+      "text": "Is {i}that{/i} who you were with before Touka showed up last night? "
+    },
+    {
+      "character": "Sensei",
+      "text": "Thanks, Tomonori. I appreciate that."
+    },
+    {
+      "character": "Touka",
+      "text": "Of all the names, why did it have to be that one?!"
+    },
+    {
+      "character": "narrator",
+      "text": "The three of us leave the apartment together, but head in different directions once we make it to the street."
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019m still not sure what purpose this apartment will serve in my life considering I don\u2019t plan on uprooting everything and just...keeping it here instead, but..."
+    },
+    {
+      "character": "narrator",
+      "text": "It might be nice having somewhere quiet that no one really knows about."
+    },
+    {
+      "character": "narrator",
+      "text": "Well, no one other than Makoto and Touka."
+    },
+    {
+      "character": "narrator",
+      "text": "But those two are different from the rest of the class."
+    },
+    {
+      "character": "narrator",
+      "text": "And I\u2019m not sure if there is any amount of weight I could place on them that would cause them to break or bend."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Makoto\u2019s affection has increased to [makoto_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Touka\u2019s affection has increased to [touka_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "day": {
+      "from": 2,
+      "to": 3
+    },
+    "slumberreset1": {
+      "from": null,
+      "to": true
+    }
+  }
+}

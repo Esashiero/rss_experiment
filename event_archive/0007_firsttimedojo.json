@@ -1,0 +1,444 @@
+{
+  "event_id": 7,
+  "event_label": "firsttimedojo",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "I decide to use this brand new lease on life to become a karate champion and check out the dojo."
+    },
+    {
+      "character": "narrator",
+      "text": "Just kidding."
+    },
+    {
+      "character": "narrator",
+      "text": "Well, about the karate champion part at least."
+    },
+    {
+      "character": "narrator",
+      "text": "I just figure that there's a relatively high likelihood of me bumping into someone from class here because..."
+    },
+    {
+      "character": "narrator",
+      "text": "Wait, why {i}do{/i} I feel like that?"
+    },
+    {
+      "character": "narrator",
+      "text": "I get lost in quiet contemplation for a moment and don't manage to shrug it off until I can hear the excited pounding of footsteps on the floor mat inching closer to me at a frighteningly rapid pace."
+    },
+    {
+      "character": "Ayane",
+      "text": "Sensei? What are {i}you{/i} doing here? I've never seen you come by the dojo before."
+    },
+    {
+      "character": "Sensei",
+      "text": "Better question: what are {i}you{/i} doing here? You just provided weight to an inner monologue I didn't fully understand and now I have to wrap my head around two things at once."
+    },
+    {
+      "character": "Ayane",
+      "text": "Me? I'm training."
+    },
+    {
+      "character": "Sensei",
+      "text": "Training for what, exactly?"
+    },
+    {
+      "character": "Ayane",
+      "text": "{i}Battle.{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "Well, good luck. I can't imagine there's a lot of that around here."
+    },
+    {
+      "character": "Ayane",
+      "text": "The first rule of karate is to be ready for anything, especially {i}war.{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "I thought the first rule of karate was to only use it as self-defense?"
+    },
+    {
+      "character": "Ayane",
+      "text": "Hmph. Of course that\u2019s what someone without any experience or training would think."
+    },
+    {
+      "character": "Ayane",
+      "text": "But me? I\u2019ve been here for centuries...honing the Amamiya family secret techniques...and waiting for the perfect moment to showcase my unwavering bravery and reclaim these lands."
+    },
+    {
+      "character": "Sensei",
+      "text": "Where was that {i}unwavering bravery{/i} when you ran away from my penis the other day?"
+    },
+    {
+      "character": "Ayane",
+      "text": "That was no normal penis! And I know a normal penis when I see one! I have done plenty of research!"
+    },
+    {
+      "character": "Karate Instructor",
+      "text": "Amamiya! What the fuck do you think you're yelling about over there?! And who's that guy with you?!"
+    },
+    {
+      "character": "Ayane",
+      "text": "Sorry, Miss Osaka! He's my...dad!"
+    },
+    {
+      "character": "Karate Instructor",
+      "text": "Your-"
+    },
+    {
+      "character": "Karate Instructor",
+      "text": "You know what? Fuck it. I don't want to deal with this right now. Tell him to either pay up or get out."
+    },
+    {
+      "character": "Ayane",
+      "text": "You need to pay up or get out, Sensei. I'm already on thin ice from bringing my chicken here all the time and can't afford another demerit."
+    },
+    {
+      "character": "Sensei",
+      "text": "I have so many questions and feel like none of them are going to be answered."
+    },
+    {
+      "character": "Ayane",
+      "text": "If you want to stick around, I wouldn't mind paying for you."
+    },
+    {
+      "character": "Ayane",
+      "text": "There's a 50%% discount on your first lesson here and, if you like it, it means we can start spending every single waking moment of every single day together."
+    },
+    {
+      "character": "Ayane",
+      "text": "Doesn't that sound amazing?"
+    },
+    {
+      "character": "Sensei",
+      "text": "No. It sounds loud."
+    },
+    {
+      "character": "Ayane",
+      "text": "Loud can be good. That's another thing I've learned from research."
+    },
+    {
+      "character": "Sensei",
+      "text": "Ayane, how exactly do you spend all of your free time?"
+    },
+    {
+      "character": "Ayane",
+      "text": "Thinking about you! Which is where all of the research comes into play. I need to be ready for when {i}you're{/i} ready to love me."
+    },
+    {
+      "character": "Sensei",
+      "text": "Again, you ran away from a solid opportunity to put that to the test and-"
+    },
+    {
+      "character": "Ayane",
+      "text": "Well, forgive me for not expecting the gateway to my dreams to open up in the middle of a sleepover!"
+    },
+    {
+      "character": "Ayane",
+      "text": "This isn't one of those sex games that Ami and I {i}accidentally{/i} downloaded while you weren't home, Sensei! Things like that don't happen in real life!"
+    },
+    {
+      "character": "Ayane",
+      "text": "I'm a real girl with real feelings and-"
+    },
+    {
+      "character": "Karate Instructor",
+      "text": "Amamiya!"
+    },
+    {
+      "character": "Ayane",
+      "text": "And a real dad who I am trying to convince to start karate right now!"
+    },
+    {
+      "character": "Sensei",
+      "text": "I know you're just covering up, but being called that twice in such quick succession is making me feel weird."
+    },
+    {
+      "character": "Ayane",
+      "text": "Well...then tell me what you're doing here. Because you still haven't answered that and it feels extremely random if it's not to see me."
+    },
+    {
+      "character": "Ayane",
+      "text": "And I haven't even been doing this for long, so I doubt anyone else told you."
+    },
+    {
+      "character": "Ayane",
+      "text": "Shouldn\u2019t you be like, spending time with Ami or something?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Ami is old enough to do things on her own, just like I\u2019m old enough to visit a random dojo in the middle of the afternoon."
+    },
+    {
+      "character": "Ayane",
+      "text": "So it {i}is{/i} just a completely random visit without any purpose or goal."
+    },
+    {
+      "character": "Sensei",
+      "text": "Humans are strange creatures, Ayane. We often do things we can't explain or understand."
+    },
+    {
+      "character": "Sensei",
+      "text": "Like, you're a teenager in a city nearly devoid of male life and you're spending your afternoon practicing self defense when I imagine all of your friends are off having fun."
+    },
+    {
+      "character": "Sensei",
+      "text": "What's your explanation for that?"
+    },
+    {
+      "character": "Ayane",
+      "text": "I-"
+    },
+    {
+      "character": "Sensei",
+      "text": "And don't give me that whole {i}it's to reclaim my land{/i} thing again. Why are you {i}really{/i} here?"
+    },
+    {
+      "character": "Ayane",
+      "text": "Humans are strange creatures, Sensei. We often do things we can't explain or understand."
+    },
+    {
+      "character": "Sensei",
+      "text": "See? I'm right. You're no different than me."
+    },
+    {
+      "character": "Sensei",
+      "text": "We're just two people who somehow landed in a place we don't belong and are now left to either abandon it or adapt."
+    },
+    {
+      "character": "Ayane",
+      "text": "I vote for adaptation."
+    },
+    {
+      "character": "Sensei",
+      "text": "I think we might be members of different parties, then."
+    },
+    {
+      "character": "Ayane",
+      "text": "No, no! Hear me out! Karate is crazy fun and {i}great{/i} for your body and mind!"
+    },
+    {
+      "character": "Ayane",
+      "text": "Just look what it's done for my muscles! Feel!"
+    },
+    {
+      "character": "narrator",
+      "text": "Ayane forcefully grabs my wrist and places my hand on one of her biceps."
+    },
+    {
+      "character": "narrator",
+      "text": "Her arms are so small that I\u2019m able to wrap my entire hand around them, but I {i}do{/i} feel a bit of definition there."
+    },
+    {
+      "character": "Ayane",
+      "text": "See? Aren't you impressed?"
+    },
+    {
+      "character": "Ayane",
+      "text": "I feel like it was just yesterday you were poking my arms and calling them squishy. Now, I could probably beat you to death blindfolded!"
+    },
+    {
+      "character": "Sensei",
+      "text": "That's an absurd amount of progress for still being relatively new to this."
+    },
+    {
+      "character": "Ayane",
+      "text": "I'm pretty great at stuff when I actually apply myself, you know. And, up until you showed up, I was trying really hard."
+    },
+    {
+      "character": "Sensei",
+      "text": "Are you saying that I'm the main obstacle preventing you from achieving your goals now?"
+    },
+    {
+      "character": "Ayane",
+      "text": "No, I'm saying that there are certain goals that take priority. And one of them decided to show up out of nowhere and surprise me."
+    },
+    {
+      "character": "narrator",
+      "text": "Unsure of how to respond to that, I shift my gaze across the room to find a good number of girls from all ages doing various drills or...techniques or...whatever you call karate practice."
+    },
+    {
+      "character": "narrator",
+      "text": "The instructor, who looks around my age (Give or take a few years), swiftly moves from group to group, skeptically locking eyes with me every once in a while as if to say {i}get out.{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "Which, to be fair, I probably should. I'm clearly not the...demographic this place is shooting for."
+    },
+    {
+      "character": "narrator",
+      "text": "But if this is where Ayane is going to be spending most of her time..."
+    },
+    {
+      "character": "narrator",
+      "text": "Maybe coming around a little more often wouldn't be all that bad?"
+    },
+    {
+      "character": "Ayane",
+      "text": "You know...I really wasn't kidding when I suggested that you should enroll here, Sensei."
+    },
+    {
+      "character": "Sensei",
+      "text": "Wouldn't it be weird, though? I'm the only male and probably the oldest person here."
+    },
+    {
+      "character": "Ayane",
+      "text": "I don\u2019t think it would be {i}that{/i} weird. We\u2019d just have to act normal and not be all over each other."
+    },
+    {
+      "character": "Sensei",
+      "text": "That sounds hard when a great deal of your personality seems to revolve around verbally suffocating me."
+    },
+    {
+      "character": "Ayane",
+      "text": "I can hold back if I have to."
+    },
+    {
+      "character": "Ayane",
+      "text": "If that's what it takes to get you here, I'll do it."
+    },
+    {
+      "character": "Sensei",
+      "text": "Ayane-"
+    },
+    {
+      "character": "Ayane",
+      "text": "I want more of you, Sensei. A lot more. And I don't just mean that in a weird way."
+    },
+    {
+      "character": "Ayane",
+      "text": "I do mean it in a {i}kind of{/i} weird way. But not entirely weird. Maybe like...fifty-fifty?"
+    },
+    {
+      "character": "Sensei",
+      "text": "And you think one of those fifties would be able to keep the other in check if I decide to start...doing karate or whatever?"
+    },
+    {
+      "character": "Ayane",
+      "text": "Isn't that the whole idea of halves? To balance each other out?"
+    },
+    {
+      "character": "Ayane",
+      "text": "Join the class, Sensei. I really don't mind paying for you. I put it all on my credit card anyway."
+    },
+    {
+      "character": "Sensei",
+      "text": "I just...can't foresee myself actually enjoying karate, Ayane."
+    },
+    {
+      "character": "Ayane",
+      "text": "Then enjoy my company- the same way I've been enjoying yours for years."
+    },
+    {
+      "character": "Ayane",
+      "text": "I'm not young and immature anymore."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yes you are."
+    },
+    {
+      "character": "Ayane",
+      "text": "Okay. Yes, I am...But I am {i}less{/i} young and {i}less{/i} immature."
+    },
+    {
+      "character": "Ayane",
+      "text": "And I'm ready to take things to the next level in the least creepy way I could possibly say that which, I admit, still probably sounds kind of creepy."
+    },
+    {
+      "character": "Sensei",
+      "text": "It's fine. I'm kind of creepy for not walking away by now anyway."
+    },
+    {
+      "character": "Ayane",
+      "text": "So..."
+    },
+    {
+      "character": "Ayane",
+      "text": "Does this mean we can be creeps together?"
+    },
+    {
+      "character": "narrator",
+      "text": "I take another look around the dojo and try to figure out if this is really where I want to be spending a good chunk of my time."
+    },
+    {
+      "character": "narrator",
+      "text": "And...I don't think it is."
+    },
+    {
+      "character": "narrator",
+      "text": "But when my eyes realign and I'm stuck staring directly ahead-"
+    },
+    {
+      "character": "narrator",
+      "text": "I make a decision."
+    },
+    {
+      "character": "narrator",
+      "text": "For sometimes, it's a matter less of {i}where{/i} you are and more {i}who{/i} you're with."
+    },
+    {
+      "character": "narrator",
+      "text": "And I struggle to say it in a way that wouldn't land me on a list somewhere-"
+    },
+    {
+      "character": "narrator",
+      "text": "But I think I want more of Ayane just as badly as she wants more of me."
+    },
+    {
+      "character": "Sensei",
+      "text": "I think it does."
+    },
+    {
+      "character": "Ayane",
+      "text": "Heck yeah, let's go!"
+    },
+    {
+      "character": "Ayane",
+      "text": "I'll sign the papers right now! You just wait right here, Sensei!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Wouldn't I need to sign them if-"
+    },
+    {
+      "character": "Ayane",
+      "text": "Nope! I've already memorized your signature and used it on several official documents, so you can just leave this part to me!"
+    },
+    {
+      "character": "Sensei",
+      "text": "What? What documents did-"
+    },
+    {
+      "character": "Sensei",
+      "text": "Ayane, come on. You can't just walk away without telling me that."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Ayane\u2019s affection has increased to [ayane_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "ayane_love +": {
+      "from": null,
+      "to": 1
+    },
+    "firsttimedojo": {
+      "from": null,
+      "to": true
+    }
+  }
+}

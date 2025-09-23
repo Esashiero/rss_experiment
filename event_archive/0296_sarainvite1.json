@@ -1,0 +1,756 @@
+{
+  "event_id": 296,
+  "event_label": "sarainvite1",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "I tap on Sara\u2019s name in my phone and wait for her to answer."
+    },
+    {
+      "character": "narrator",
+      "text": "I figure that the two of us know each other well enough at this point that it won\u2019t really be weird for me to invite her over."
+    },
+    {
+      "character": "narrator",
+      "text": "Sure, I don't really know what Ami will think about an older woman randomly showing up at the house, but I\u2019m the one who\u2019s paying the bills."
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019ll invite whoever I want over."
+    },
+    {
+      "character": "narrator",
+      "text": "This is what it means to be an adult."
+    },
+    {
+      "character": "Sara",
+      "text": "Hellooo~ Sensei?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Hey. What are you doing tonight?"
+    },
+    {
+      "character": "Sara",
+      "text": "Oh, you know. Just drinking half of my stock since no one else ever wants to show up."
+    },
+    {
+      "character": "Sara",
+      "text": "Do you want to come over and keep me company?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Actually, I was wondering if {i}you{/i} wanted to come over for a change."
+    },
+    {
+      "character": "Sara",
+      "text": "What, you mean like, to your place?"
+    },
+    {
+      "character": "Sara",
+      "text": "Is that really okay?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Sure. I come to the bar all the time. I figure it\u2019s about time for you to see where I live."
+    },
+    {
+      "character": "Sara",
+      "text": "Oh my God! Yeah! Definitely!"
+    },
+    {
+      "character": "Sara",
+      "text": "I-I\u2019ll have Sana take over for me and I'll head right over."
+    },
+    {
+      "character": "Sara",
+      "text": "I\u2019m so excited. I was starting to think you were ashamed of me and didn\u2019t want your [niece] knowing that we hang out and stuff."
+    },
+    {
+      "character": "Sara",
+      "text": "Am I sleeping over? Do I need an overnight bag?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Hey, now. Slow down. "
+    },
+    {
+      "character": "Sensei",
+      "text": "It\u2019s one thing to invite you over, but I\u2019m pretty sure Ami would kill both of us in the middle of the night if you stayed over your first time here."
+    },
+    {
+      "character": "Sara",
+      "text": "Oooooh, right. Right. Okay!"
+    },
+    {
+      "character": "Sara",
+      "text": "Can you send me the address? I\u2019ll meet you over there as soon as I can."
+    },
+    {
+      "character": "Sensei",
+      "text": "Sure thing. See you soon."
+    },
+    {
+      "character": "narrator",
+      "text": "I hang up the phone and quickly type out my address before sending it to Sara."
+    },
+    {
+      "character": "narrator",
+      "text": "It will be her first time seeing the place and I\u2019m pretty sure Ami will be around tonight."
+    },
+    {
+      "character": "narrator",
+      "text": "All I can really hope is that the two of them manage to get along."
+    },
+    {
+      "character": "narrator",
+      "text": "Sara, I\u2019m obviously not worried about. "
+    },
+    {
+      "character": "narrator",
+      "text": "She has a daughter, so she clearly knows (At least to some extent) how to deal with [young_girls]."
+    },
+    {
+      "character": "narrator",
+      "text": "Ami, on the other hand..."
+    },
+    {
+      "character": "narrator",
+      "text": "Well. I guess I\u2019ll just have to wait and see."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Come in."
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019m in the kitchen when Sara lets herself in."
+    },
+    {
+      "character": "narrator",
+      "text": "She immediately comes to meet me at the counter and props herself up on it using her elbows."
+    },
+    {
+      "character": "narrator",
+      "text": "She doesn\u2019t say anything, just smiles at me and waits for me to talk."
+    },
+    {
+      "character": "Sensei",
+      "text": "Uhh, welcome to my house, I guess."
+    },
+    {
+      "character": "Sara",
+      "text": "Thank you so much for having me."
+    },
+    {
+      "character": "Sara",
+      "text": "What are you making me for dinner?"
+    },
+    {
+      "character": "Sensei",
+      "text": "...I'm sorry. What?"
+    },
+    {
+      "character": "Sara",
+      "text": "You {i}are{/i} making me dinner, aren't you?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I...didn\u2019t plan on it?"
+    },
+    {
+      "character": "Sara",
+      "text": "You invited a girl over and aren\u2019t going to make her dinner? I thought your manners were better than this."
+    },
+    {
+      "character": "Sensei",
+      "text": "Trust me, you wouldn\u2019t want me making you dinner in the first place. I can barely cook an egg."
+    },
+    {
+      "character": "Sara",
+      "text": "It looks like the two of us would have to order out quite often if we ever moved in together."
+    },
+    {
+      "character": "Sensei",
+      "text": "A - It\u2019s way too early to be talking about moving in together."
+    },
+    {
+      "character": "Sensei",
+      "text": "B - You can\u2019t cook either?"
+    },
+    {
+      "character": "Sara",
+      "text": "I can use a microwave pretty well."
+    },
+    {
+      "character": "Sara",
+      "text": "Sana ate nothing but chicken nuggets until she was seven, so I\u2019ve memorized the cooking times for like twenty different brands."
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t know whether to be impressed or abhorred that you would allow your child to live off of nothing but microwaved chicken nuggets for so long."
+    },
+    {
+      "character": "Sara",
+      "text": "Hey, she turned out okay, didn\u2019t she?"
+    },
+    {
+      "character": "Sara",
+      "text": "I have the cutest daughter in all of Kumon-mi. And she\u2019s somehow still super tiny despite her diet."
+    },
+    {
+      "character": "Sensei",
+      "text": "Well that\u2019s obviously genetic. You\u2019re pretty small yourself."
+    },
+    {
+      "character": "Sensei",
+      "text": "Just like my accountant."
+    },
+    {
+      "character": "Sara",
+      "text": "Oh, how is she going to feel about this, by the way?"
+    },
+    {
+      "character": "Sara",
+      "text": "Won\u2019t it be a little weird for her to come home and see you talking to some woman she\u2019s never met before?"
+    },
+    {
+      "character": "Sara",
+      "text": "I\u2019m sure you at least warned her in advance, right?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Nahh. Ami is mature enough to handle being thrown into the fire every now and then."
+    },
+    {
+      "character": "Sensei",
+      "text": "She\u2019ll probably freeze at first, but I\u2019m sure she\u2019ll warm up to you in no time at all."
+    },
+    {
+      "character": "Sara",
+      "text": "You really think so?"
+    },
+    {
+      "character": "Sara",
+      "text": "Maybe I\u2019ll have a second daughter before I know it?..."
+    },
+    {
+      "character": "Sensei",
+      "text": "That...is not what I meant."
+    },
+    {
+      "character": "Ami",
+      "text": "I\u2019m home!"
+    },
+    {
+      "character": "narrator",
+      "text": "The sound of the door unlocking quickly breaks up our conversation as we fix our eyes on the door."
+    },
+    {
+      "character": "narrator",
+      "text": "The moment of truth approaches."
+    },
+    {
+      "character": "Sara",
+      "text": "Oh God. That\u2019s her, right? Do I look okay?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Why are you more focused on impressing my [niece] than me?"
+    },
+    {
+      "character": "Sara",
+      "text": "I already know you like me. I need to make her like me next and I\u2019ll be basically guaranteed a spot at her accounting firm."
+    },
+    {
+      "character": "Sara",
+      "text": "You know, since the whole bar thing obviously isn't working out."
+    },
+    {
+      "character": "Ami",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Sara",
+      "text": "..."
+    },
+    {
+      "character": "Ami",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Welcome home."
+    },
+    {
+      "character": "Sara",
+      "text": "Hi! You must be Ami. Your [uncle]\u2019s said so much about you."
+    },
+    {
+      "character": "narrator",
+      "text": "No, I don\u2019t think I have."
+    },
+    {
+      "character": "Ami",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "How was[school]?"
+    },
+    {
+      "character": "Ami",
+      "text": "..."
+    },
+    {
+      "character": "Sara",
+      "text": "..."
+    },
+    {
+      "character": "Ami",
+      "text": "I think I might have opened a door to the wrong dimension."
+    },
+    {
+      "character": "Ami",
+      "text": "I\u2019m going to leave and come back in and I\u2019m sure everything will go back to normal."
+    },
+    {
+      "character": "Sara",
+      "text": "That...didn\u2019t go as I expected it to."
+    },
+    {
+      "character": "Sensei",
+      "text": "It went exactly as I expected it to."
+    },
+    {
+      "character": "Ami",
+      "text": "I...I\u2019m home!"
+    },
+    {
+      "character": "Ami",
+      "text": "..."
+    },
+    {
+      "character": "Ami",
+      "text": "It...it's still here..."
+    },
+    {
+      "character": "Sensei",
+      "text": "{i}It?{/i}"
+    },
+    {
+      "character": "Sara",
+      "text": "Hi again~"
+    },
+    {
+      "character": "Sensei",
+      "text": "Welcome home."
+    },
+    {
+      "character": "Ami",
+      "text": "What...what\u2019s going on?"
+    },
+    {
+      "character": "Ami",
+      "text": "Why is there...a woman...in our house?..."
+    },
+    {
+      "character": "Sensei",
+      "text": "I invited her over. She\u2019s a friend of mine."
+    },
+    {
+      "character": "Sara",
+      "text": "It\u2019s nice to finally meet you, Ami! You\u2019re very pretty."
+    },
+    {
+      "character": "Ami",
+      "text": "...Thank you."
+    },
+    {
+      "character": "Sensei",
+      "text": "Good. Keep saying things like that. She loves compliments."
+    },
+    {
+      "character": "Sara",
+      "text": "You take care of your [uncle] too, don\u2019t you? Accountants are really useful nowadays, aren't they?"
+    },
+    {
+      "character": "Sara",
+      "text": "I wish my daughter would take care of me more."
+    },
+    {
+      "character": "Ami",
+      "text": "D...Daughter?..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Oh, right. This is Sana\u2019s mom."
+    },
+    {
+      "character": "Ami",
+      "text": "S-Sana\u2019s mom?!"
+    },
+    {
+      "character": "Ami",
+      "text": "Why is Sana\u2019s mom in our kitchen?!"
+    },
+    {
+      "character": "Ami",
+      "text": "Is Sana here too?!"
+    },
+    {
+      "character": "Ami",
+      "text": "How many girls are you hiding from me?!"
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m not hiding any. Sana\u2019s mom, {i}Sara{/i}, is right in front of you."
+    },
+    {
+      "character": "Sara",
+      "text": "I hope I\u2019m not intruding or anything."
+    },
+    {
+      "character": "Ami",
+      "text": "You are! Get out of my house!"
+    },
+    {
+      "character": "Sara",
+      "text": "Wow...I had a feeling you two were close but I didn\u2019t realize you were {i}this{/i} close."
+    },
+    {
+      "character": "Sara",
+      "text": "It\u2019s like she\u2019s afraid of women."
+    },
+    {
+      "character": "Ami",
+      "text": "S...Sensei...what is this?..."
+    },
+    {
+      "character": "Sara",
+      "text": "She even calls you Sensei?"
+    },
+    {
+      "character": "Sara",
+      "text": "You haven\u2019t brainwashed her, have you?"
+    },
+    {
+      "character": "Ami",
+      "text": "I...I\u2019m not brainwashed! I just don\u2019t want anyone stealing my [uncle] away from me!"
+    },
+    {
+      "character": "Sara",
+      "text": "Aww...You really love him, don\u2019t you?"
+    },
+    {
+      "character": "Ami",
+      "text": "O-Of course I do! He\u2019s my [uncle]! He\u2019s all I have!"
+    },
+    {
+      "character": "Sara",
+      "text": "Don\u2019t worry, dear. I won\u2019t steal him from you."
+    },
+    {
+      "character": "Sara",
+      "text": "The two of us were just chatting and he wanted me to meet you."
+    },
+    {
+      "character": "Sara",
+      "text": "In fact, when he invited me over, he specifically said, \u201cI need to prove to you that my [niece] is the cutest girl in all of Kumon-mi.\u201d"
+    },
+    {
+      "character": "Sara",
+      "text": "Now, being the mother of a cute girl, I couldn\u2019t help but dispute it. But now that I\u2019ve seen you in person..."
+    },
+    {
+      "character": "Sara",
+      "text": "I...I think I might have to agree."
+    },
+    {
+      "character": "narrator",
+      "text": "In an incredibly risky and rather impressive move, Sara swoops in for the kill and appeals to Ami\u2019s weakest point- validation."
+    },
+    {
+      "character": "Ami",
+      "text": "You..."
+    },
+    {
+      "character": "Ami",
+      "text": "You don\u2019t mean that..."
+    },
+    {
+      "character": "Sara",
+      "text": "No, no. I really do."
+    },
+    {
+      "character": "Ami",
+      "text": "...Well, thank you."
+    },
+    {
+      "character": "Ami",
+      "text": "But...you won\u2019t say anything to Sana...right?..."
+    },
+    {
+      "character": "Ami",
+      "text": "I wouldn\u2019t want her to feel bad..."
+    },
+    {
+      "character": "Ami",
+      "text": "She\u2019s...really cute too..."
+    },
+    {
+      "character": "Sara",
+      "text": "Of course not. I\u2019ll keep my opinion to myself for the rest of eternity."
+    },
+    {
+      "character": "Sara",
+      "text": "I just hope you can find it in your heart to forgive me for showing up unannounced..."
+    },
+    {
+      "character": "Ami",
+      "text": "Well...I guess it\u2019s okay as long as I can supervise you two..."
+    },
+    {
+      "character": "Sensei",
+      "text": "What? Why do we need a supervisor? We\u2019re adults."
+    },
+    {
+      "character": "Ami",
+      "text": "I\u2019m not a kid, you know! I\u2019m old enough to know what two consenting adults do when they\u2019re alone together!"
+    },
+    {
+      "character": "Sara",
+      "text": "Unfortunately for me, I can\u2019t imagine your [uncle] would ever consent to doing anything when his heart has already been taken by you."
+    },
+    {
+      "character": "Ami",
+      "text": "S...Sensei..."
+    },
+    {
+      "character": "Ami",
+      "text": "You\u2019d really...choose me over...someone as pretty as her?..."
+    },
+    {
+      "character": "Sara",
+      "text": "{i}Did I do well? I did well, right?{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I sigh to myself and take a seat at the dining room table."
+    },
+    {
+      "character": "narrator",
+      "text": "Sara follows suit and, after taking a minute to collect herself, Ami does as well..."
+    },
+    {
+      "character": "Sara",
+      "text": "Thanks for not kicking me out, Ami. I really hope the two of us can get along."
+    },
+    {
+      "character": "Ami",
+      "text": "Um...this still feels a little weird for me..."
+    },
+    {
+      "character": "Ami",
+      "text": "It\u2019s not exactly...common for someone Sensei\u2019s age to join us at the dinner table."
+    },
+    {
+      "character": "Ami",
+      "text": "Especially when there is no dinner..."
+    },
+    {
+      "character": "Sara",
+      "text": "I take it you do all of the cooking around here?"
+    },
+    {
+      "character": "Sara",
+      "text": "I thought Sensei was going to cook dinner for us tonight. I was totally surprised when I found out he wasn\u2019t."
+    },
+    {
+      "character": "Ami",
+      "text": "Sensei? My Sensei? Cooking dinner?"
+    },
+    {
+      "character": "Ami",
+      "text": "Never in a billion years. He needs me."
+    },
+    {
+      "character": "Sensei",
+      "text": "I want to be offended by that but it\u2019s really hard when it\u2019s 100%% true."
+    },
+    {
+      "character": "Sara",
+      "text": "Now...I don\u2019t mean to impose, but maybe one day you and I could make dinner together, Ami?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Wait...but I thought you said you couldn\u2019t-"
+    },
+    {
+      "character": "Ami",
+      "text": "T-Together?..."
+    },
+    {
+      "character": "Ami",
+      "text": "But...what about Sana? Shouldn\u2019t you be making dinner with her instead?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Am I just being ignored now?"
+    },
+    {
+      "character": "narrator",
+      "text": "Sara seems to be taking this firm-infiltration mission seriously. She\u2019s not even acknowledging me anymore."
+    },
+    {
+      "character": "narrator",
+      "text": "And she\u2019s almost completely won over Ami."
+    },
+    {
+      "character": "narrator",
+      "text": "What is happening right now?"
+    },
+    {
+      "character": "Sara",
+      "text": "What if Sana comes over as well?"
+    },
+    {
+      "character": "Sara",
+      "text": "In fact, what if we leave Sensei out of it entirely and have a little girls\u2019 night in? That sounds fun, doesn\u2019t it?"
+    },
+    {
+      "character": "Sara",
+      "text": "The blonde one can come too. Ayane, I think?"
+    },
+    {
+      "character": "Ami",
+      "text": "R-Really?! Just us girls?!"
+    },
+    {
+      "character": "Sara",
+      "text": "Of course! No boys allowed."
+    },
+    {
+      "character": "Ami",
+      "text": "That means...I won\u2019t have to worry about anyone stealing Sensei!"
+    },
+    {
+      "character": "narrator",
+      "text": "Is Ami unaware that there are girls in other locations? One of them could easily {i}steal{/i} me if she\u2019s not looking."
+    },
+    {
+      "character": "Ami",
+      "text": "Yes! Yes! I want to do that!"
+    },
+    {
+      "character": "Ami",
+      "text": "What was your name again?"
+    },
+    {
+      "character": "Ami",
+      "text": "I wasn\u2019t paying attention the first time I heard it because I already decided I hated you. But I\u2019ve changed my mind!"
+    },
+    {
+      "character": "Sara",
+      "text": "It\u2019s...Sara. Hahaha..."
+    },
+    {
+      "character": "Ami",
+      "text": "Sara...Sara...Okay. That\u2019s easy to remember."
+    },
+    {
+      "character": "Ami",
+      "text": "I promise not to tell Sana that you think I\u2019m cuter than her. That\u2019ll be a secret between you and me."
+    },
+    {
+      "character": "Sara",
+      "text": "Thanks. I really appreciate that..."
+    },
+    {
+      "character": "narrator",
+      "text": "The two of them carry on their conversation and ignore me all the way until night falls."
+    },
+    {
+      "character": "narrator",
+      "text": "I knew inviting Sara over would spark up some sort of confrontation with Ami, but I had no idea it would mean essentially locking me out of every discussion for the rest of the day."
+    },
+    {
+      "character": "narrator",
+      "text": "But oh well."
+    },
+    {
+      "character": "narrator",
+      "text": "I guess this just means it will be easier to invite Sara over in the future."
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "Sara winds up calling a cab to drive her home once it gets dark out."
+    },
+    {
+      "character": "narrator",
+      "text": "I offer to walk her back myself but she shrugs it off when she wants to stay on good terms with my [niece]."
+    },
+    {
+      "character": "narrator",
+      "text": "It\u2019s strange, though."
+    },
+    {
+      "character": "narrator",
+      "text": "Even though the two of us didn\u2019t get to spend much time actually {i}talking{/i} to one another, I still feel like I know Sara a lot better than I did before..."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Sara\u2019s affection has increased to [sara_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "sara_love +": {
+      "from": null,
+      "to": 3
+    },
+    "sarainvite1": {
+      "from": null,
+      "to": true
+    }
+  }
+}

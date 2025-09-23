@@ -1,0 +1,696 @@
+{
+  "event_id": 192,
+  "event_label": "amiinvite1",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "I tap on Ami\u2019s name in my phone and wait for her to answer."
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019m feeling a bit out of it today, so it would probably be nice to just lounge around the house with her."
+    },
+    {
+      "character": "narrator",
+      "text": "Plus, something like this is definitely easier and significantly less risky than inviting anyone else over."
+    },
+    {
+      "character": "narrator",
+      "text": "Slightly strange, considering that she lives {i}with{/i} me and inviting her to her own house is conceptually weird-"
+    },
+    {
+      "character": "narrator",
+      "text": "But yeah, definitely easier."
+    },
+    {
+      "character": "Ami",
+      "text": "Hello? [amimaster]? What\u2019s up?"
+    },
+    {
+      "character": "Ami",
+      "text": "Did you need something?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Hey, Ami. Are you doing anything today?"
+    },
+    {
+      "character": "Ami",
+      "text": "Hm? I\u2019m just making dinner right now. Are you coming home early?"
+    },
+    {
+      "character": "Ami",
+      "text": "Want me to save you some?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Actually, I was wondering if you\u2019d want to come over today."
+    },
+    {
+      "character": "Ami",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Ami",
+      "text": "Come over where?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Come over our house."
+    },
+    {
+      "character": "Ami",
+      "text": "You\u2019re...inviting me to...our house?"
+    },
+    {
+      "character": "Ami",
+      "text": "But I...just told you I'm here."
+    },
+    {
+      "character": "Ami",
+      "text": "Are you okay? Did you hit your head somewhere?!"
+    },
+    {
+      "character": "Ami",
+      "text": "Hold on, [amimaster]! I\u2019ll call an ambulance!"
+    },
+    {
+      "character": "Sensei",
+      "text": "No ambulance needed. "
+    },
+    {
+      "character": "Sensei",
+      "text": "I just wanted to make sure you were okay with visiting your own house."
+    },
+    {
+      "character": "Ami",
+      "text": "The ambulance is on the way, [amimaster]! Just hold on!"
+    },
+    {
+      "character": "narrator",
+      "text": "I manage to convince Ami to call off the ambulance as I walk home."
+    },
+    {
+      "character": "narrator",
+      "text": "Thankfully, we don\u2019t live in the US and thus incur no additional fees after she has one dispatched."
+    },
+    {
+      "character": "narrator",
+      "text": "I end the phone call as I make my way to the door, sliding my cell back into my pocket as I turn the handle."
+    },
+    {
+      "character": "narrator",
+      "text": "Ami greets me with a hug and sets out a plate for me on the table that I promptly devour."
+    },
+    {
+      "character": "narrator",
+      "text": "Once she finishes hers (Which takes exponentially longer- that girl eats very slowly), we make our way into {i}my{/i} room for once."
+    },
+    {
+      "character": "narrator",
+      "text": "Typically, if the two of us were going to hang out, it would be in either the living room or, in some rare cases, her room."
+    },
+    {
+      "character": "narrator",
+      "text": "So having her in here is actually kind of odd now that I think about it."
+    },
+    {
+      "character": "Ami",
+      "text": "Wow...I can\u2019t even remember the last time I was in here."
+    },
+    {
+      "character": "Sensei",
+      "text": "Probably the last time you had to come wake me up or clean my room."
+    },
+    {
+      "character": "Ami",
+      "text": "Besides those times, obviously. "
+    },
+    {
+      "character": "Ami",
+      "text": "I mean just...hanging out in here."
+    },
+    {
+      "character": "Ami",
+      "text": "You\u2019ve been getting better at waking up when I call out to you anyway. There\u2019s barely a reason for me to actually come in anymore."
+    },
+    {
+      "character": "Ami",
+      "text": "So...why are we in here today?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019ve been feeling really tired all day, so I kind of wanted to just relax and hang out with my one and only [niece]."
+    },
+    {
+      "character": "Ami",
+      "text": "Why are you specifying that I\u2019m your one and only [niece]? Wording it like that makes me think you\u2019re hiding something."
+    },
+    {
+      "character": "Ami",
+      "text": "[amimaster], if you\u2019re hiding any extra [niece]s from me, I {i}will{/i} destroy them. I want you to know that."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah, that\u2019s...not a thing you need to worry about."
+    },
+    {
+      "character": "Ami",
+      "text": "Hooray! Now I don\u2019t have to worry about anyone taking you from me!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Calm down, Ami."
+    },
+    {
+      "character": "Sensei",
+      "text": "What you and I have together is special."
+    },
+    {
+      "character": "Sensei",
+      "text": "There's no one who could ever take your place."
+    },
+    {
+      "character": "Ami",
+      "text": "Okay, something\u2019s going on, isn\u2019t it?"
+    },
+    {
+      "character": "Ami",
+      "text": "First, you come home on time. Then you take me into your room...and {i}now{/i} you\u2019re saying adorable stuff to me."
+    },
+    {
+      "character": "Ami",
+      "text": "Is everything okay, [amimaster]? I don\u2019t know if the ambulance made it back to the hospital yet, but-"
+    },
+    {
+      "character": "Sensei",
+      "text": "Again, I\u2019m okay. Stop threatening to call ambulances each time I act out of character."
+    },
+    {
+      "character": "Ami",
+      "text": "Sorry. I\u2019ve just gotten so used to you neglecting me lately that the sudden increase in attention is making me nervous."
+    },
+    {
+      "character": "Ami",
+      "text": "Like you\u2019re about to break some bad news to me or something."
+    },
+    {
+      "character": "Sensei",
+      "text": "Actually, now that you mention it, I do have some bad news."
+    },
+    {
+      "character": "Ami",
+      "text": "Ah! Here it comes! I thought I was ready but I\u2019m really not!"
+    },
+    {
+      "character": "Sensei",
+      "text": "You, see Ami...I-"
+    },
+    {
+      "character": "Ami",
+      "text": "You {i}do{/i} have other accountants, don\u2019t you?!"
+    },
+    {
+      "character": "Ami",
+      "text": "How many of them have twintails?! "
+    },
+    {
+      "character": "Ami",
+      "text": "Tell me or I\u2019ll kill myself!"
+    },
+    {
+      "character": "Sensei",
+      "text": "I was just going to say my legs are tired from walking all the way home and that I want to sit down."
+    },
+    {
+      "character": "Ami",
+      "text": "Oh."
+    },
+    {
+      "character": "Ami",
+      "text": "Your definition of \u201cbad news\u201d is a lot different from mine."
+    },
+    {
+      "character": "Sensei",
+      "text": "I can see that."
+    },
+    {
+      "character": "Ami",
+      "text": "How\u2019s that even bad, [amimaster]? "
+    },
+    {
+      "character": "Sensei",
+      "text": "You had just gotten so into voicing your concern for me that I felt a little bad about having to interrupt you."
+    },
+    {
+      "character": "Sensei",
+      "text": "But if you\u2019d like to keep talking about how awesome I am, feel free. I\u2019m just going to sit down for it."
+    },
+    {
+      "character": "Ami",
+      "text": "Then I\u2019ll sit down with you! I\u2019m not just gonna stand here and keep shouting across the room. That would be weird."
+    },
+    {
+      "character": "Ami",
+      "text": "In fact, I\u2019m gonna get all up in your space and rub up against you to mark my territory."
+    },
+    {
+      "character": "Sensei",
+      "text": "Are you an animal now?"
+    },
+    {
+      "character": "Ami",
+      "text": "Do you have a purrrrrroblem with that, [amimaster]?~"
+    },
+    {
+      "character": "Sensei",
+      "text": "Not as long as I can feed you out of a bowl and keep you up to date on your shots."
+    },
+    {
+      "character": "Ami",
+      "text": "Heheh, I knew you\u2019d li-"
+    },
+    {
+      "character": "Ami",
+      "text": "Wait, why is {i}that{/i} the first thing your mind went to? Don\u2019t you wanna pet me or scratch my chin or something?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Once I confirm you\u2019re properly vaccinated, of course."
+    },
+    {
+      "character": "Ami",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Ami",
+      "text": "Just go sit down, already. Clearly the cat thing isn\u2019t something you\u2019re interested in right now."
+    },
+    {
+      "character": "narrator",
+      "text": "Ami follows me as I make my way to the bed, waiting for me to sit down before-"
+    },
+    {
+      "character": "Ami",
+      "text": "Move your legs a little."
+    },
+    {
+      "character": "Sensei",
+      "text": "What, why?"
+    },
+    {
+      "character": "Ami",
+      "text": "I said move \u2018em, mister!"
+    },
+    {
+      "character": "Ami",
+      "text": "Here, I\u2019ll do it for you-"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Ami",
+      "text": "Welp, this is better than nothing, I guess."
+    },
+    {
+      "character": "Ami",
+      "text": "So, where were we?"
+    },
+    {
+      "character": "Ami",
+      "text": "You were talking about how much you love me, right?"
+    },
+    {
+      "character": "Sensei",
+      "text": "That is not a thing I have said even once today."
+    },
+    {
+      "character": "Ami",
+      "text": "Are you sure? I distinctly heard an \u201cI love you, Ami\u201d as soon as you came home tonight."
+    },
+    {
+      "character": "Sensei",
+      "text": "Probably just the voices inside of your head or something."
+    },
+    {
+      "character": "Ami",
+      "text": "I don\u2019t think so. Those are a lot less reserved."
+    },
+    {
+      "character": "Sensei",
+      "text": "Wait, you don\u2019t actually have-"
+    },
+    {
+      "character": "Ami",
+      "text": "Hey, [amimaster]...do you remember how this room used to look before I moved in?"
+    },
+    {
+      "character": "narrator",
+      "text": "I can\u2019t even remember my name, let alone something that happened before I \u201cexisted\u201d here."
+    },
+    {
+      "character": "Sensei",
+      "text": "I can\u2019t say I do."
+    },
+    {
+      "character": "Ami",
+      "text": "Really? "
+    },
+    {
+      "character": "Ami",
+      "text": "I guess that makes sense, though. "
+    },
+    {
+      "character": "Ami",
+      "text": "You were a lot different back then. A lot more...spacious?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Are you calling me fat?"
+    },
+    {
+      "character": "Ami",
+      "text": "No, no. What\u2019s the word for when somebody like, wanders around and doesn\u2019t really have any idea what they\u2019re doing and stuff?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Oh. I think you\u2019re thinking of \u201cspaced out.\u201d"
+    },
+    {
+      "character": "Ami",
+      "text": "Yeah, yeah! That!"
+    },
+    {
+      "character": "Ami",
+      "text": "You were always super spaced out. To the point where you\u2019d have food from like, weeks ago still out on your desk and bottles all over the floor and stuff."
+    },
+    {
+      "character": "Ami",
+      "text": "But you weren\u2019t exactly in the best state of mind back then. And, to be fair, neither was I."
+    },
+    {
+      "character": "Ami",
+      "text": "We were both really lazy for way longer than we ever should have been."
+    },
+    {
+      "character": "Ami",
+      "text": "I guess it\u2019s kind of good that we wound up breaking each other out of it, huh?"
+    },
+    {
+      "character": "Ami",
+      "text": "Imagine how things would be if the house was still like that?"
+    },
+    {
+      "character": "Ami",
+      "text": "Filled with rotting food and discarded tissues from all of our tears..."
+    },
+    {
+      "character": "Ami",
+      "text": "Well, my tissues were from tears. Yours were probably from a few things."
+    },
+    {
+      "character": "Sensei",
+      "text": "This conversation went from sentimental and cute to mildly disturbing within a matter of seconds."
+    },
+    {
+      "character": "Ami",
+      "text": "Heheh~ You\u2019re a growing boy, [amimaster]. Things like that are natural."
+    },
+    {
+      "character": "Sensei",
+      "text": "Okay, well, on a slightly different note, I\u2019m glad that things aren\u2019t like that anymore."
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t think I\u2019d be able to live if the house was that filthy."
+    },
+    {
+      "character": "Ami",
+      "text": "What we were doing back then could barely be called \u201cliving\u201d anyway. "
+    },
+    {
+      "character": "Ami",
+      "text": "We were kinda just drifting along from one day to the next, surviving off of garlic bread and soda."
+    },
+    {
+      "character": "Sensei",
+      "text": "So I {i}was{/i} spacious after all..."
+    },
+    {
+      "character": "Ami",
+      "text": "Hahaha~ Maybe a teensy bit."
+    },
+    {
+      "character": "Ami",
+      "text": "But now you\u2019re big and strong and can protect me if I ever get attacked by a rottweiler."
+    },
+    {
+      "character": "Sensei",
+      "text": "You say some really strange things sometimes, you know?"
+    },
+    {
+      "character": "Ami",
+      "text": "61 6c 62 61 74 72 6f 73 73"
+    },
+    {
+      "character": "narrator",
+      "text": "///////////////////////////////////////////CONNECTION WEAK"
+    },
+    {
+      "character": "narrator",
+      "text": "///////////////////////////////////////////PLEASE MAKE SURE ALL WIRES ARE PROPERLY CONNECTED"
+    },
+    {
+      "character": "narrator",
+      "text": "///////////////////////////////////////////................................."
+    },
+    {
+      "character": "narrator",
+      "text": "///////////////////////////////////////////ATTEMPTING TO RESTORE CONNECTION"
+    },
+    {
+      "character": "narrator",
+      "text": "///////////////////////////////////////////................................."
+    },
+    {
+      "character": "narrator",
+      "text": "///////////////////////////////////////////................................."
+    },
+    {
+      "character": "narrator",
+      "text": "///////////////////////////////////////////TESTING CONNECTION"
+    },
+    {
+      "character": "narrator",
+      "text": "///////////////////////////////////////////3"
+    },
+    {
+      "character": "narrator",
+      "text": "///////////////////////////////////////////2"
+    },
+    {
+      "character": "narrator",
+      "text": "///////////////////////////////////////////1"
+    },
+    {
+      "character": "narrator",
+      "text": "///////////////////////////////////////////................................."
+    },
+    {
+      "character": "narrator",
+      "text": "///////////////////////////////////////////CONNECTION RESTORED"
+    },
+    {
+      "character": "Ami",
+      "text": "I\u2019m not the only one who says strange things, [amimaster]."
+    },
+    {
+      "character": "Ami",
+      "text": "Like, remember how you fell asleep in the classroom a few months ago and didn\u2019t even know who I was when you woke up?"
+    },
+    {
+      "character": "Ami",
+      "text": "What was up with that?"
+    },
+    {
+      "character": "Ami",
+      "text": "It\u2019s like you were a different person all of a sudden."
+    },
+    {
+      "character": "narrator",
+      "text": "What Ami still doesn\u2019t understand is that I {i}was{/i} a different person all of a sudden."
+    },
+    {
+      "character": "narrator",
+      "text": "My life changed dramatically that day."
+    },
+    {
+      "character": "narrator",
+      "text": "Just as hers did when her parents were turned into a roadside sculpture of steel and shattered bones."
+    },
+    {
+      "character": "narrator",
+      "text": "Life changes for everyone."
+    },
+    {
+      "character": "narrator",
+      "text": "Sometimes, you grow fat and pace around your room for months on end as a result."
+    },
+    {
+      "character": "narrator",
+      "text": "You leave food out on your desk."
+    },
+    {
+      "character": "narrator",
+      "text": "Flies find it and lay eggs."
+    },
+    {
+      "character": "narrator",
+      "text": "The eggs hatch."
+    },
+    {
+      "character": "narrator",
+      "text": "But surprise! Chickens come out! There were never any fleas at all!"
+    },
+    {
+      "character": "Ami",
+      "text": "Mm..."
+    },
+    {
+      "character": "Ami",
+      "text": "I\u2019m feeling really tired now that I get to lay like this, [amimaster]."
+    },
+    {
+      "character": "Sensei",
+      "text": "Really? It doesn\u2019t seem like a very comfortable position."
+    },
+    {
+      "character": "Ami",
+      "text": "Any position is fine as long as you\u2019re with me."
+    },
+    {
+      "character": "Ami",
+      "text": "I could probably sleep standing up as long as you\u2019re in the same room."
+    },
+    {
+      "character": "Ami",
+      "text": "But, then again, I\u2019m also kind of crazy for you, so that might just be a special thing only I would be able to do."
+    },
+    {
+      "character": "Ami",
+      "text": "Do I make you comfortable as well, [amimaster]?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Of course."
+    },
+    {
+      "character": "Ami",
+      "text": "Really?"
+    },
+    {
+      "character": "Ami",
+      "text": "That makes me really happy."
+    },
+    {
+      "character": "Ami",
+      "text": "The fact that the two of us can be ourselves together now..."
+    },
+    {
+      "character": "Ami",
+      "text": "It\u2019s unlike anything I would have ever wished for."
+    },
+    {
+      "character": "Ami",
+      "text": "I\u2019ll admit, even though it was super weird, my heart skipped a beat when you \u201cinvited me over\u201d today."
+    },
+    {
+      "character": "Ami",
+      "text": "It was almost like being asked out on a date- just the date was to your room and all we did was talk."
+    },
+    {
+      "character": "Ami",
+      "text": "But I got to lay on my favorite bed in the whole wide world with my favorite man in the whole wide world."
+    },
+    {
+      "character": "Ami",
+      "text": "And there\u2019s nothing else that I\u2019d have rather done."
+    },
+    {
+      "character": "Ami",
+      "text": "Stay with me forever, [amimaster]."
+    },
+    {
+      "character": "Ami",
+      "text": "Stay with me forever and I\u2019ll make you happier than anyone has ever made anyone in the history of the universe."
+    },
+    {
+      "character": "narrator",
+      "text": "Ami falls asleep several minutes later."
+    },
+    {
+      "character": "narrator",
+      "text": "Her hand drops to the side and hangs just an inch or two off of the floor."
+    },
+    {
+      "character": "narrator",
+      "text": "I think more about how she said that floor used to be, covered in trash from neglect, and I wonder what it must have been like for her and the old Sensei during those dark, hopeless times. "
+    },
+    {
+      "character": "narrator",
+      "text": "I imagine it must have been hard."
+    },
+    {
+      "character": "narrator",
+      "text": "And in imagining that-"
+    },
+    {
+      "character": "narrator",
+      "text": "I wonder if it would ever be possible for me to feel that much all at once."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Ami\u2019s affection has increased to [ami_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "ami_love +": {
+      "from": 1,
+      "to": 3
+    },
+    "amiinvite1": {
+      "from": null,
+      "to": true
+    }
+  }
+}

@@ -1,0 +1,644 @@
+{
+  "event_id": 119,
+  "event_label": "wakanadate1",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "I tap on Wakana\u2019s name in my phone and wait for her to answer."
+    },
+    {
+      "character": "narrator",
+      "text": "I don\u2019t really understand how things got to this point...but here we are."
+    },
+    {
+      "character": "narrator",
+      "text": "Granted, I doubt she\u2019ll answer in the first place. But at least it\u2019s worth a shot."
+    },
+    {
+      "character": "narrator",
+      "text": "Worse comes to worst, I can always just...go find someone else inherently sad to spend time with."
+    },
+    {
+      "character": "narrator",
+      "text": "That sure sounds like a lot of fun."
+    },
+    {
+      "character": "Wakana",
+      "text": "I want to fucking die."
+    },
+    {
+      "character": "Sensei",
+      "text": "I had a feeling you were going to answer the phone like that."
+    },
+    {
+      "character": "Wakana",
+      "text": "Oh. It\u2019s you."
+    },
+    {
+      "character": "Sensei",
+      "text": "So, that wasn\u2019t a personalized greeting and is just the way you answer the phone for everyone?"
+    },
+    {
+      "character": "Wakana",
+      "text": "What do you want?"
+    },
+    {
+      "character": "Wakana",
+      "text": "Do you have any idea what time it is?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Early. Let\u2019s hang out."
+    },
+    {
+      "character": "Wakana",
+      "text": "Okay."
+    },
+    {
+      "character": "Sensei",
+      "text": "Now, before you say no, let me give you a list of the pros when it comes to spending time with me. I-"
+    },
+    {
+      "character": "Wakana",
+      "text": "I said okay."
+    },
+    {
+      "character": "Wakana",
+      "text": "Are you truly this incapable of simply listening to someone when they speak?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Wait, really? I don\u2019t even have to convince you?"
+    },
+    {
+      "character": "Wakana",
+      "text": "I\u2019m in my office. Come here."
+    },
+    {
+      "character": "Sensei",
+      "text": "Your office? Like, at[school]?"
+    },
+    {
+      "character": "Wakana",
+      "text": "Correct. Now, goodbye. "
+    },
+    {
+      "character": "Sensei",
+      "text": "But-"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "Why is Wakana at[school] on the weekend?"
+    },
+    {
+      "character": "narrator",
+      "text": "And why this early?"
+    },
+    {
+      "character": "narrator",
+      "text": "Am I really going to spend the little free time I have going back to the same place I\u2019m forced to \u201cteach\u201d five days out of every week?"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "Of course I am- because there is an attractive girl there who wants to see me."
+    },
+    {
+      "character": "narrator",
+      "text": "Or, at the very least, is {i}okay{/i} with seeing me."
+    },
+    {
+      "character": "narrator",
+      "text": "And also has a girlfriend who could break my arm in five seconds if she wanted to."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I should probably be careful with what I say to Wakana this morning."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Hey, Wakana. You\u2019re looking awfully beautiful this morning."
+    },
+    {
+      "character": "narrator",
+      "text": "I fail immediately."
+    },
+    {
+      "character": "Wakana",
+      "text": "Thank you. I appreciate that."
+    },
+    {
+      "character": "Sensei",
+      "text": "I'm sorry. I know I-"
+    },
+    {
+      "character": "Wakana",
+      "text": "I said...{i}I appreciate that{/i}."
+    },
+    {
+      "character": "Sensei",
+      "text": "Wait, you do?"
+    },
+    {
+      "character": "Wakana",
+      "text": "Do you believe me to be so dead inside that I\u2019m incapable of receiving a compliment?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Kind of, yeah."
+    },
+    {
+      "character": "Wakana",
+      "text": "Fair enough."
+    },
+    {
+      "character": "Wakana",
+      "text": "Any more than that would have been entirely unprofessional and unwarranted, though."
+    },
+    {
+      "character": "Wakana",
+      "text": "Especially given that my significant other could snap your arm like a toothpick in less than ten seconds."
+    },
+    {
+      "character": "Sensei",
+      "text": "Less than five, actually. I already confirmed this in my thoughts a little bit earlier."
+    },
+    {
+      "character": "Wakana",
+      "text": "How exciting."
+    },
+    {
+      "character": "Wakana",
+      "text": "Anyway, thank you for coming here to do my bidding."
+    },
+    {
+      "character": "Sensei",
+      "text": "Your...what?"
+    },
+    {
+      "character": "Wakana",
+      "text": "My bidding."
+    },
+    {
+      "character": "Sensei",
+      "text": "Like...on a horse race?"
+    },
+    {
+      "character": "Wakana",
+      "text": "You\u2019ve been spending too much time with that Nagasawa girl. "
+    },
+    {
+      "character": "Sensei",
+      "text": "Hey, your favorite student of mine is no saint either."
+    },
+    {
+      "character": "Wakana",
+      "text": "You leave Miyamura out of this. She\u2019s as pure as the whitest snow."
+    },
+    {
+      "character": "Sensei",
+      "text": "Wakana, she works in a porn shop."
+    },
+    {
+      "character": "Wakana",
+      "text": "Nonsense. The girl her age who works at the local porn shop does not wear glasses. They are entirely different people."
+    },
+    {
+      "character": "Sensei",
+      "text": "I didn\u2019t realize you were a customer there."
+    },
+    {
+      "character": "Wakana",
+      "text": "I walked in once on accident."
+    },
+    {
+      "character": "Wakana",
+      "text": "Now, take these and make yourself useful."
+    },
+    {
+      "character": "Sensei",
+      "text": "You know, maybe the reason you always want to die is because you spend so much time-"
+    },
+    {
+      "character": "Wakana",
+      "text": "Doing my job?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Being anti-fun."
+    },
+    {
+      "character": "Wakana",
+      "text": "I don\u2019t have time for fun. I\u2019m responsible for the education of a multitude of [young_girls] who may or may not wind up turning into more Nodoka Nagasawas as they get older."
+    },
+    {
+      "character": "Wakana",
+      "text": "For the sake of our future generations, I must repeatedly kill myself on a daily basis."
+    },
+    {
+      "character": "Wakana",
+      "text": "This is the road I must take. "
+    },
+    {
+      "character": "Sensei",
+      "text": "Some might even say the {i}road less traveled by.{/i}"
+    },
+    {
+      "character": "Wakana",
+      "text": "Don\u2019t try to appeal to me through overrated literary references. Frost was a hack."
+    },
+    {
+      "character": "Wakana",
+      "text": "Why spend so much time writing about {i}nature{/i} of all things when essentially every other topic known to man is both far more interesting and far more...not fucking stupid."
+    },
+    {
+      "character": "Wakana",
+      "text": "The outside world is nothing but a hellish landscape even in the coldest of winters and I will not sit idly by as you quote a man who would probably hug a tree if given the opportunity."
+    },
+    {
+      "character": "Sensei",
+      "text": "I would also hug a tree, but I am the huggy boy so-"
+    },
+    {
+      "character": "Wakana",
+      "text": "Are you going to help me grade these tests or not?"
+    },
+    {
+      "character": "Sensei",
+      "text": "This is a pretty nice office you\u2019ve got here, Wakana."
+    },
+    {
+      "character": "Wakana",
+      "text": "Oh my fucking god. Why do you even work here?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I think it\u2019s a little smaller than mine overall, though."
+    },
+    {
+      "character": "Wakana",
+      "text": "Yes. It\u2019s almost as if the Japanese work force values male employees more than it does female ones."
+    },
+    {
+      "character": "Sensei",
+      "text": "We should work together to change that one day."
+    },
+    {
+      "character": "Wakana",
+      "text": "I'll add it to my to-do list."
+    },
+    {
+      "character": "Sensei",
+      "text": "Really, though. You should stop being so serious all the time."
+    },
+    {
+      "character": "Wakana",
+      "text": "I think you may be misinterpreting how much \u201ctime\u201d we have left. "
+    },
+    {
+      "character": "Wakana",
+      "text": "Every day, we slip further and further into a pit of despair that even the most seasoned of climbers will one day struggle to find their way out of."
+    },
+    {
+      "character": "Sensei",
+      "text": "So you\u2019re trying to get out by just subjecting yourself to {i}more{/i} despair?"
+    },
+    {
+      "character": "Sensei",
+      "text": "What\u2019s the strategy here?"
+    },
+    {
+      "character": "Wakana",
+      "text": "The strategy is that you mind your own fucking business."
+    },
+    {
+      "character": "Sensei",
+      "text": "Oh, I know- why don't we talk a little more about poetry?"
+    },
+    {
+      "character": "Wakana",
+      "text": "You? The person who quoted the fucking \u201cRoad Not Taken?\u201d "
+    },
+    {
+      "character": "Wakana",
+      "text": "What\u2019s next? Plums?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I just want to spend some time with a Wakana Watabe who isn\u2019t killing herself over a job she doesn\u2019t even like."
+    },
+    {
+      "character": "Wakana",
+      "text": "It\u2019s not as if I don\u2019t {i}like{/i} it. I just...don\u2019t like it?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Deep."
+    },
+    {
+      "character": "Wakana",
+      "text": "What I mean to say is that it\u2019s as if there\u2019s no true payoff anymore."
+    },
+    {
+      "character": "Wakana",
+      "text": "You\u2019re not a teacher, so you likely won\u2019t understand, but the most satisfying part of this job is watching the flowers you've cultivated finally being plucked and stuck into vases all over Japan."
+    },
+    {
+      "character": "Wakana",
+      "text": "The sense of accomplishment in knowing that you were able to impact the lives of others in some form."
+    },
+    {
+      "character": "Wakana",
+      "text": "And...for some reason-"
+    },
+    {
+      "character": "Wakana",
+      "text": "It feels as if that \u201cpayoff\u201d is further away than ever before."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "From out of Wakana\u2019s mouth crawls an invisible spider in the form of a thought."
+    },
+    {
+      "character": "narrator",
+      "text": "It quickly makes its way over to me and sinks its fangs into my skin, injecting me with the question of what effect the distortion of time has in scenarios like this."
+    },
+    {
+      "character": "narrator",
+      "text": "If Wakana\u2019s memories carry over from one reset to the next, the same way everyone else\u2019s seem to-"
+    },
+    {
+      "character": "narrator",
+      "text": "And her outlook on her profession is centered entirely around the relief that is provided once a[school] year comes to an end-"
+    },
+    {
+      "character": "narrator",
+      "text": "Wouldn\u2019t something like this put her into limbo?"
+    },
+    {
+      "character": "narrator",
+      "text": "Endlessly chasing after a goal that\u2019s impossible to obtain, yet clinging onto the belief that it\u2019s just around the corner."
+    },
+    {
+      "character": "Wakana",
+      "text": "What\u2019s this? {i}You{/i}, of all people, turning silent?"
+    },
+    {
+      "character": "Wakana",
+      "text": "Don\u2019t tell me that...you were able to understand what I was saying after all?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Do you have a favorite poet, Wakana?"
+    },
+    {
+      "character": "Wakana",
+      "text": "You\u2019re still going on about that?"
+    },
+    {
+      "character": "Wakana",
+      "text": "Just help me grade my fucking tests so we can get out of this place."
+    },
+    {
+      "character": "Sensei",
+      "text": "I just want to know what sorts of things inspire {i}you{/i}- a person who, somehow or another, still gets up in the morning to try and inspire others."
+    },
+    {
+      "character": "Wakana",
+      "text": "Hah..."
+    },
+    {
+      "character": "Wakana",
+      "text": "You can probably tell just by looking at me. "
+    },
+    {
+      "character": "Wakana",
+      "text": "{i}But when within thy wave she looks-\\nWhich glistens then, and trembles-{/i}"
+    },
+    {
+      "character": "Wakana",
+      "text": "{i}Why, then, the prettiest of brooks\\nHer worshipper resembles;{/i}"
+    },
+    {
+      "character": "Wakana",
+      "text": "{i}For in his heart, as in thy stream,\\nHer image deeply lies-{/i}"
+    },
+    {
+      "character": "Wakana",
+      "text": "{i}His heart which trembles at the beam\\nOf her soul-searching eyes.{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "Edgar Allan Poe."
+    },
+    {
+      "character": "Wakana",
+      "text": "Did you actually know that one? Or was it just my choice of clothing after all?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I knew it."
+    },
+    {
+      "character": "Sensei",
+      "text": "Just because I vehemently refuse to do my job doesn\u2019t mean I\u2019m not actually smart."
+    },
+    {
+      "character": "Wakana",
+      "text": "Do you believe there to be a correlation between one\u2019s level of intellect and how many lines of poetry they\u2019ve memorized?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Not really. But I know stuff and knowing stuff makes me cool."
+    },
+    {
+      "character": "Wakana",
+      "text": "Hm."
+    },
+    {
+      "character": "Sensei",
+      "text": "Are you impressed? Have I finally convinced you to take a break from doing your job on your day off?"
+    },
+    {
+      "character": "Wakana",
+      "text": "Absolutely not."
+    },
+    {
+      "character": "Wakana",
+      "text": "Though, I suppose it wouldn\u2019t hurt to spare five minutes or so."
+    },
+    {
+      "character": "narrator",
+      "text": "Wakana makes her way over to a bookshelf on the side of the room and drags her finger across a number of what appear to be anthologies."
+    },
+    {
+      "character": "narrator",
+      "text": "She eventually stops on one and removes it from the shelf, leaning up against it and popping the book open as if she\u2019s already memorized where a certain poem is located."
+    },
+    {
+      "character": "narrator",
+      "text": "Either that or she\u2019s just reading a random poem she opened to- but I'd like to believe that there was at least some level of tact or calculation to it."
+    },
+    {
+      "character": "Wakana",
+      "text": "{i}She walks in beauty, like the night\\nOf cloudless climes and starry skies;{/i}"
+    },
+    {
+      "character": "Wakana",
+      "text": "{i}And all that\u2019s best of dark and bright\\nMeet in her aspect and her eyes;{/i}"
+    },
+    {
+      "character": "Wakana",
+      "text": "{i}Thus mellowed to that tender light\\nWhich heaven to gaudy day denies.{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "That\u2019s not Poe. Isn\u2019t that-"
+    },
+    {
+      "character": "Wakana",
+      "text": "Lord Byron. "
+    },
+    {
+      "character": "Wakana",
+      "text": "You asked me for a favorite poet, to which the answer was Poe."
+    },
+    {
+      "character": "Wakana",
+      "text": "But if I were to choose a favorite poem, it would be this one."
+    },
+    {
+      "character": "Sensei",
+      "text": "Why this one?"
+    },
+    {
+      "character": "Wakana",
+      "text": "The answer is quite embarrassing, so I\u2019d rather not say."
+    },
+    {
+      "character": "Sensei",
+      "text": "Why even read it in the first place then? We're supposed to be using this opportunity to deepen our relationship."
+    },
+    {
+      "character": "Wakana",
+      "text": "Why, I believe we just did."
+    },
+    {
+      "character": "Wakana",
+      "text": "Now-"
+    },
+    {
+      "character": "Wakana",
+      "text": "Back to work."
+    },
+    {
+      "character": "narrator",
+      "text": "As quickly as she had found the book and thus the poem, she slides it back into place and makes her way over to her desk."
+    },
+    {
+      "character": "narrator",
+      "text": "Without even drawing a breath, she once again holds out a file containing a bunch of tests and...expects me to know what to do with them."
+    },
+    {
+      "character": "Wakana",
+      "text": "Playtime is over. Either help me or get out."
+    },
+    {
+      "character": "Sensei",
+      "text": "You are an entirely unexciting friend to have, Wakana."
+    },
+    {
+      "character": "Wakana",
+      "text": "And you are proving to be an entirely useless one."
+    },
+    {
+      "character": "Wakana",
+      "text": "Though, I can\u2019t say I\u2019m at all surprised."
+    },
+    {
+      "character": "Wakana",
+      "text": "Even if you do have surprisingly decent taste in poetry apart from that fucking Robert Frost guy."
+    },
+    {
+      "character": "Sensei",
+      "text": "What in the world did Robert Frost do to you to make you hate him so much?"
+    },
+    {
+      "character": "Wakana",
+      "text": "Existed. "
+    },
+    {
+      "character": "Wakana",
+      "text": "Now, take these fucking tests. My arm is getting tired."
+    },
+    {
+      "character": "narrator",
+      "text": "Surprisingly enough, I {i}do{/i} take the tests from Wakana."
+    },
+    {
+      "character": "narrator",
+      "text": "However, I\u2019m only able to grade three of them before getting bored and deciding to head home."
+    },
+    {
+      "character": "narrator",
+      "text": "I also just mindlessly marked a few of them off instead of actually paying attention to them, so I apologize in advance to anyone who may have failed because of me."
+    },
+    {
+      "character": "narrator",
+      "text": "But I\u2019d also like to thank those people for allowing me to get a little closer to Wakana- something I didn\u2019t really ever think I\u2019d be able to do."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Wakana\u2019s affection has increased to [wakana_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "wakanadate1": {
+      "from": null,
+      "to": true
+    },
+    "wakana_love +": {
+      "from": null,
+      "to": 1
+    }
+  }
+}

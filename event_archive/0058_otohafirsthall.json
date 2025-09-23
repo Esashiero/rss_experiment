@@ -1,0 +1,336 @@
+{
+  "event_id": 58,
+  "event_label": "otohafirsthall",
+  "dialogue": [
+    {
+      "character": "Otoha",
+      "text": "Oh, hey. What\u2019s up?"
+    },
+    {
+      "character": "Otoha",
+      "text": "You looking for somebody?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Yes. Her name is Otoha Okakura. Have you seen her anywhere?"
+    },
+    {
+      "character": "Otoha",
+      "text": "Cool name. Sounds like she\u2019d be a really good singer."
+    },
+    {
+      "character": "Otoha",
+      "text": "Want to look for her together?"
+    },
+    {
+      "character": "Sensei",
+      "text": "No need. I\u2019m pretty sure I just found her."
+    },
+    {
+      "character": "Otoha",
+      "text": "What? Where?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Right in front of me..."
+    },
+    {
+      "character": "Otoha",
+      "text": "Aww, shucks. You know what? Now that you mention it, that {i}is{/i} me."
+    },
+    {
+      "character": "Otoha",
+      "text": "What do you need with {i}me{/i}, though? I didn\u2019t like...break any rules or anything, did I?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Rules? I\u2019m not even sure if these dorms have rules."
+    },
+    {
+      "character": "Sensei",
+      "text": "And if they do, I\u2019m definitely not the person you should be asking about them."
+    },
+    {
+      "character": "Sensei",
+      "text": "I just came over to see how you were doing."
+    },
+    {
+      "character": "Otoha",
+      "text": "I\u2019m great. But like, what do you mean there aren\u2019t any rules?"
+    },
+    {
+      "character": "Otoha",
+      "text": "We\u2019re [teenage]girls living in a dorm room without a permanent supervisor. Surely there have to be like...{i}some{/i} rules?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Just make up your own rules if you want them so much."
+    },
+    {
+      "character": "Otoha",
+      "text": "I don\u2019t {i}want{/i} them but like...it\u2019s just weird that there {i}aren\u2019t{/i} any."
+    },
+    {
+      "character": "Otoha",
+      "text": "Like, what if I wanted to play my keyboard really loud at 2:00 AM. Wouldn\u2019t I get in trouble?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Probably not. But I can\u2019t imagine Nodoka or any of the other girls would like you very much after that."
+    },
+    {
+      "character": "Otoha",
+      "text": "I\u2019m pretty sure Nodoka doesn\u2019t sleep, so she\u2019d be fine with it."
+    },
+    {
+      "character": "Otoha",
+      "text": "And it\u2019s not like I\u2019d do something like that anyway. I need peace and quiet after a certain point of the night or I just...can\u2019t get anything done."
+    },
+    {
+      "character": "Otoha",
+      "text": "This definitely isn\u2019t me saying I want to go back or anything, but one of the things I liked about staying with my parents was that it was always quiet as soon as dinner was over."
+    },
+    {
+      "character": "Otoha",
+      "text": "So I\u2019d get to just...sit around and write whatever came to my mind."
+    },
+    {
+      "character": "Otoha",
+      "text": "Here, it\u2019s like...the complete opposite."
+    },
+    {
+      "character": "Otoha",
+      "text": "I'm also literally {i}right{/i} next to Molly\u2019s room and I\u2019m pretty sure her volume knob is busted."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m pretty sure most of her is busted."
+    },
+    {
+      "character": "Molly",
+      "text": "I can hear you two, you know?!"
+    },
+    {
+      "character": "Otoha",
+      "text": "Hey, Molly! If it makes you feel better, I think your Japanese is really good!"
+    },
+    {
+      "character": "Otoha",
+      "text": "And you like, barely even have an accent, so...good job!"
+    },
+    {
+      "character": "Molly",
+      "text": "I will...forgive these transgressions for now!"
+    },
+    {
+      "character": "Molly",
+      "text": "But please wait until I am out of range if you\u2019re going to use vicious mockery on me!"
+    },
+    {
+      "character": "Otoha",
+      "text": "I don\u2019t know what that is, but okay!"
+    },
+    {
+      "character": "Sensei",
+      "text": "At least you seem to be getting along well."
+    },
+    {
+      "character": "Otoha",
+      "text": "I\u2019m like, weirdly good at making friends."
+    },
+    {
+      "character": "Otoha",
+      "text": "I\u2019ve gotten along with basically everybody here so far."
+    },
+    {
+      "character": "Sensei",
+      "text": "Are you sure that's not just everyone having a crush on you by now?"
+    },
+    {
+      "character": "Otoha",
+      "text": "Oh God, I hope not. I have no idea how I\u2019d go about rejecting so many people at once."
+    },
+    {
+      "character": "Otoha",
+      "text": "Should I like, send out a newsletter or something?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Yes. That is absolutely something you should do. I\u2019ll give you my email address so you can copy me on it as well."
+    },
+    {
+      "character": "Otoha",
+      "text": "Don\u2019t tell me {i}you{/i} have a crush on me, too..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Absolutely not. I have never once even thought of you that way."
+    },
+    {
+      "character": "Otoha",
+      "text": "Rin would kill me if I ever dated you anyway. So, yeah. Sorry but..."
+    },
+    {
+      "character": "Otoha",
+      "text": "Actually, just wait for the newsletter. That will explain everything."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m pretty sure Rin would be a little more upset about you not dating {i}her{/i} than dating me, so she definitely won\u2019t kill you."
+    },
+    {
+      "character": "Otoha",
+      "text": "I don\u2019t know about that, Sensei."
+    },
+    {
+      "character": "Otoha",
+      "text": "I know I\u2019ve only seen you two together a handful of times but...she\u2019s different with you than she is with anybody else. Myself included."
+    },
+    {
+      "character": "Sensei",
+      "text": "You know what? It probably wouldn\u2019t be smart to carry on this conversation with Molly standing right behind us, so..."
+    },
+    {
+      "character": "Otoha",
+      "text": "She started playing something on her phone, so I\u2019m sure she\u2019s not paying much attention. "
+    },
+    {
+      "character": "Otoha",
+      "text": "But yeah, I agree. I feel weird talking about people when they\u2019re not around anyway."
+    },
+    {
+      "character": "Sensei",
+      "text": "Any suggestions for a new topic then?"
+    },
+    {
+      "character": "Otoha",
+      "text": "Hmm...how about you tell me why you're suddenly so interested in {i}how I\u2019m doing?{/i}"
+    },
+    {
+      "character": "Otoha",
+      "text": "You\u2019re not worried about me feeling homesick or something, are you?"
+    },
+    {
+      "character": "Sensei",
+      "text": "No, but...are you?"
+    },
+    {
+      "character": "Otoha",
+      "text": "I\u2019m not."
+    },
+    {
+      "character": "Otoha",
+      "text": "I...think I like it here."
+    },
+    {
+      "character": "Otoha",
+      "text": "I had no idea that living with people similar to me could be so...exhilarating. "
+    },
+    {
+      "character": "Otoha",
+      "text": "And even if it gets loud and I have a hard time focusing on my work...it\u2019s fun. "
+    },
+    {
+      "character": "Otoha",
+      "text": "Like there\u2019s always some sort of...mystery behind every door."
+    },
+    {
+      "character": "Sensei",
+      "text": "There is a mystery behind every door. Sometimes even more than one."
+    },
+    {
+      "character": "Sensei",
+      "text": "Just make sure you knock on them before entering if you want to avoid ever walking in on something weird."
+    },
+    {
+      "character": "Otoha",
+      "text": "Like what?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Every third Saturday of the month, if you wait until approximately 3:00 AM and very quietly walk into any of the dorms on the first floor, you will find that room's inhabitants sacrificing a lamb."
+    },
+    {
+      "character": "Otoha",
+      "text": "This[school] is...weird."
+    },
+    {
+      "character": "Sensei",
+      "text": "Very much so. But you must be weird too since you\u2019re a part of it now."
+    },
+    {
+      "character": "Otoha",
+      "text": "Pfft. Maybe so. No one\u2019s perfect after all."
+    },
+    {
+      "character": "Otoha",
+      "text": "I just hope you don\u2019t lose sight of me amidst all the huge personalities on this floor."
+    },
+    {
+      "character": "Sensei",
+      "text": "Wait a minute...You {i}want{/i} me to be worried about you, don\u2019t you?"
+    },
+    {
+      "character": "Otoha",
+      "text": "Hey, there are no rules up here. I need {i}someone{/i} to worry in case anyone tries to kidnap me in the middle of the night or something."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m glad we never went with Plan B because that would have already happened by now."
+    },
+    {
+      "character": "Otoha",
+      "text": "Wait, what?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Later, Otoha. It was nice talking to you."
+    },
+    {
+      "character": "Otoha",
+      "text": "Hold on! What was Plan B?!"
+    },
+    {
+      "character": "Otoha",
+      "text": "And...what was Plan A?!"
+    },
+    {
+      "character": "Otoha",
+      "text": "What were you going to do to me?!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Enjoy the rest of your night. Hopefully no one comes to kidnap you."
+    },
+    {
+      "character": "Otoha",
+      "text": "Sensei! This is making me feel really weird!"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Otoha\u2019s affection has increased to [otoha_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "otohafirsthall": {
+      "from": null,
+      "to": true
+    },
+    "otoha_love +": {
+      "from": null,
+      "to": 1
+    }
+  }
+}

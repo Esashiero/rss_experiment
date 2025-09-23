@@ -1,0 +1,1016 @@
+{
+  "event_id": 123,
+  "event_label": "secondbeach9",
+  "dialogue": [
+    {
+      "character": "Ayane",
+      "text": "Molly! Wait up!"
+    },
+    {
+      "character": "Noriko",
+      "text": "What\u2019s going on? What the hell happened in the like, five minutes I was out of the room for?"
+    },
+    {
+      "character": "Molly",
+      "text": "Stop following me!"
+    },
+    {
+      "character": "Ayane",
+      "text": "No! If you\u2019re feeling down, it\u2019s okay to talk about it!"
+    },
+    {
+      "character": "Noriko",
+      "text": "Uhh, Molly? I have no idea what happened, but Ayane is right. "
+    },
+    {
+      "character": "Noriko",
+      "text": "I\u2019m sure that whatever it is is just temporary. Life is too short to spend on negative emotions like this."
+    },
+    {
+      "character": "Molly",
+      "text": "I frickin\u2019 know that! I just wanna cry alone!"
+    },
+    {
+      "character": "Noriko",
+      "text": "Mind cluing me in on what happened exactly? Molly\u2019s kinda got a right to cry by herself if she wants to."
+    },
+    {
+      "character": "Ayane",
+      "text": "I know, I know. That\u2019s what I do to handle basically everything ever."
+    },
+    {
+      "character": "Ayane",
+      "text": "But there\u2019s clearly a little more going on than just her wanting to cry...and I want to make sure it isn\u2019t something that\u2019s going to wind up ruining or destroying any friendships in the process."
+    },
+    {
+      "character": "Molly",
+      "text": "I\u2019m not destroying anything! It\u2019s not me!"
+    },
+    {
+      "character": "Ayane",
+      "text": "That\u2019s not what I was saying, Molly..."
+    },
+    {
+      "character": "Molly",
+      "text": "Rin\u2019s the one who shouldn\u2019t have gotten mad! It\u2019s {i}my{/i} campaign that {i}I{/i} made for {i}us!{/i}"
+    },
+    {
+      "character": "Molly",
+      "text": "Yeah, it might be kind of immature! But it\u2019s really important to me and she clearly doesn\u2019t care about it!"
+    },
+    {
+      "character": "Noriko",
+      "text": "I think Rin cares, Molly. She just-"
+    },
+    {
+      "character": "Molly",
+      "text": "What do you know?! You weren\u2019t even there!"
+    },
+    {
+      "character": "Noriko",
+      "text": "Uhh...right. Good point."
+    },
+    {
+      "character": "Ayane",
+      "text": "She\u2019s right, though. Rin really does care."
+    },
+    {
+      "character": "Ayane",
+      "text": "About the campaign. About spending time with everyone."
+    },
+    {
+      "character": "Ayane",
+      "text": "About you."
+    },
+    {
+      "character": "Ayane",
+      "text": "She just wanted to share some of that fun with a new friend of hers. And all of us were okay with it."
+    },
+    {
+      "character": "Ayane",
+      "text": "You normally {i}love{/i} the idea of anyone joining in on the campaign. How come Otoha was an exception to that?"
+    },
+    {
+      "character": "Molly",
+      "text": "I...I don\u2019t have to explain myself to you!"
+    },
+    {
+      "character": "Ayane",
+      "text": "No, you don\u2019t. "
+    },
+    {
+      "character": "Ayane",
+      "text": "But I\u2019d really appreciate it if you tried."
+    },
+    {
+      "character": "Molly",
+      "text": "{i}*Sniff*{/i}"
+    },
+    {
+      "character": "Molly",
+      "text": "I don\u2019t think my charisma is high enough to get it out in a way that will make sense."
+    },
+    {
+      "character": "Molly",
+      "text": "This was just the one thing I didn\u2019t think would be touched by...someone else."
+    },
+    {
+      "character": "Molly",
+      "text": "Was I mean? Maybe a little bit. But you\u2019re on {i}my{/i} side, right? "
+    },
+    {
+      "character": "Molly",
+      "text": "Like...letting someone else just jump in like that defeats the purpose of the...campaign, and..."
+    },
+    {
+      "character": "Ayane",
+      "text": "Why do there have to be sides?"
+    },
+    {
+      "character": "Ayane",
+      "text": "Why can\u2019t we just go back, apologize to Otoha for yelling at her, and then keep playing?"
+    },
+    {
+      "character": "Ayane",
+      "text": "You were looking forward to this, weren\u2019t you? Just like all of {i}us{/i} were looking forward to it."
+    },
+    {
+      "character": "Ayane",
+      "text": "We don\u2019t want to let something like this get in the way of that."
+    },
+    {
+      "character": "Molly",
+      "text": "You think {i}I\u2019m{/i} the one who should apologize?"
+    },
+    {
+      "character": "Ayane",
+      "text": "Not for getting upset, of course not. But you yelled at someone who basically just sat there and took it."
+    },
+    {
+      "character": "Ayane",
+      "text": "Otoha gave up on playing as soon as you said you didn\u2019t want her to. She was just going to watch."
+    },
+    {
+      "character": "Ayane",
+      "text": "And Sensei\u2019s watched us a few times in the past, so there\u2019s clearly no problem with being spectated."
+    },
+    {
+      "character": "Ayane",
+      "text": "I just don\u2019t understand why you\u2019re acting like this all of a sudden."
+    },
+    {
+      "character": "Molly",
+      "text": "It\u2019s a free country! I can cry if I want and I don\u2019t have to explain myself!"
+    },
+    {
+      "character": "Ayane",
+      "text": "You\u2019re not understanding, Molly. It\u2019s fine to cry, but not when it\u2019s going to hurt other-"
+    },
+    {
+      "character": "Noriko",
+      "text": "Sorry, Ayane. But I think I might know what\u2019s going on here."
+    },
+    {
+      "character": "Molly",
+      "text": "What could you possibly know? You weren\u2019t even in the room for two minutes."
+    },
+    {
+      "character": "Noriko",
+      "text": "So you\u2019re {i}not{/i} jealous of Otoha because Rin is crushing on her? "
+    },
+    {
+      "character": "Molly",
+      "text": "Wha-"
+    },
+    {
+      "character": "Molly",
+      "text": "I...I have no idea what you\u2019re talking about!"
+    },
+    {
+      "character": "Ayane",
+      "text": "Oh my God..."
+    },
+    {
+      "character": "Ayane",
+      "text": "Of course..."
+    },
+    {
+      "character": "Ayane",
+      "text": "How didn\u2019t I notice?"
+    },
+    {
+      "character": "Ayane",
+      "text": "That would explain everything."
+    },
+    {
+      "character": "Noriko",
+      "text": "Molly, we\u2019re three girls alone on the beach. We\u2019re not going to judge you for having a crush on a friend."
+    },
+    {
+      "character": "Molly",
+      "text": "I don\u2019t have a crush on anyone!"
+    },
+    {
+      "character": "Noriko",
+      "text": "Are you denying it because she\u2019s a friend? Or because she\u2019s a girl? "
+    },
+    {
+      "character": "Noriko",
+      "text": "Because if you\u2019re worried about the latter part, I like girls too. That sort of thing just happens at all girls[school]s...and in the world in general. "
+    },
+    {
+      "character": "Noriko",
+      "text": "There\u2019s nothing to be ashamed of."
+    },
+    {
+      "character": "Molly",
+      "text": "I\u2019m not ashamed of anything! Stop following me!"
+    },
+    {
+      "character": "Ayane",
+      "text": "Molly...I\u2019m so sorry I didn\u2019t notice earlier. I wouldn\u2019t have even chased after you if I knew that\u2019s what it was."
+    },
+    {
+      "character": "Molly",
+      "text": "..."
+    },
+    {
+      "character": "Molly",
+      "text": "I never said that\u2019s what it was."
+    },
+    {
+      "character": "Noriko",
+      "text": "Well, if I\u2019m making a mistake, I\u2019m really sorry."
+    },
+    {
+      "character": "Noriko",
+      "text": "But, to anyone out there who might be listening in from behind a tree or something, it\u2019s okay to like whoever you want."
+    },
+    {
+      "character": "Noriko",
+      "text": "You don\u2019t have to feel bad about it just because they\u2019re interested in someone else."
+    },
+    {
+      "character": "Noriko",
+      "text": "Sometimes, the hardest ones to get are worth the chase. Even when you know it\u2019s going to hurt at times."
+    },
+    {
+      "character": "Noriko",
+      "text": "Right, Ayane?"
+    },
+    {
+      "character": "Ayane",
+      "text": "Huh?"
+    },
+    {
+      "character": "Noriko",
+      "text": "What? You and I are rivals in love."
+    },
+    {
+      "character": "Noriko",
+      "text": "You don\u2019t mean to tell me that I\u2019m the only one that's been getting jealous whenever Sensei is with other girls, do you?"
+    },
+    {
+      "character": "Ayane",
+      "text": "..."
+    },
+    {
+      "character": "Ayane",
+      "text": "No. You're definitely not."
+    },
+    {
+      "character": "Ayane",
+      "text": "In fact, even the thought of you knowing him longer than me makes me sick to my stomach."
+    },
+    {
+      "character": "Ayane",
+      "text": "But I\u2019m not ashamed to follow my heart. And I know that I have a better chance at ending up with Sensei than anyone."
+    },
+    {
+      "character": "Noriko",
+      "text": "And I wish you luck in that regard."
+    },
+    {
+      "character": "Noriko",
+      "text": "But I\u2019m going to beat you."
+    },
+    {
+      "character": "Noriko",
+      "text": "See, Molly? If Ayane and I can have feelings for someone without destroying any relationships in the process, what\u2019s stopping you from owning up to your feelings as well?"
+    },
+    {
+      "character": "Noriko",
+      "text": "Unless I actually {i}am{/i} wrong and you don\u2019t like Rin. If that\u2019s really the case, this is probably a very awkward situation for you right now."
+    },
+    {
+      "character": "Molly",
+      "text": "{i}*Sniff*{/i}"
+    },
+    {
+      "character": "Molly",
+      "text": "I\u2019m not admitting anything, but..."
+    },
+    {
+      "character": "Molly",
+      "text": "I\u2019m...flattered you two have followed me this far..."
+    },
+    {
+      "character": "Molly",
+      "text": "But...in the event that I actually {i}did{/i}...feel that way about her...it would be a much different scenario..."
+    },
+    {
+      "character": "Molly",
+      "text": "You two have loved Sensei for as long as you can remember. "
+    },
+    {
+      "character": "Molly",
+      "text": "I\u2019m not even a romanceable character in Rin\u2019s metaphorical dating sim. That\u2019s how far off the map I am in her eyes."
+    },
+    {
+      "character": "Noriko",
+      "text": "That\u2019s not true. "
+    },
+    {
+      "character": "Noriko",
+      "text": "Even if you two are just friends, I\u2019m sure she\u2019s at least contemplated putting your tongue in a jar before."
+    },
+    {
+      "character": "Noriko",
+      "text": "Hell, I have that dream with virtually everyone. And I'm pretty sure that's just a normal thing for girls."
+    },
+    {
+      "character": "Molly",
+      "text": "I...beg your pardon?"
+    },
+    {
+      "character": "Ayane",
+      "text": "Um..."
+    },
+    {
+      "character": "Noriko",
+      "text": "You too, Ayane."
+    },
+    {
+      "character": "Noriko",
+      "text": "Sensei was there for that fantasy, though."
+    },
+    {
+      "character": "Ayane",
+      "text": "..."
+    },
+    {
+      "character": "Noriko",
+      "text": "..."
+    },
+    {
+      "character": "Ayane",
+      "text": "Uhh...I think what Noriko is trying to say is that...nothing is impossible!"
+    },
+    {
+      "character": "Ayane",
+      "text": "And even if you\u2019re feeling like an undisclosed friend of yours that you may or may not have feelings for is out of reach...he or she never really is!"
+    },
+    {
+      "character": "Noriko",
+      "text": "Yeah! That!"
+    },
+    {
+      "character": "Molly",
+      "text": "..."
+    },
+    {
+      "character": "Molly",
+      "text": "Hah..."
+    },
+    {
+      "character": "Molly",
+      "text": "You two are clearly less versed in the world of RPGs than I am, so allow me to do a little bit of explaining."
+    },
+    {
+      "character": "Molly",
+      "text": "There are many boss fights out there in which the player character is scripted to lose. "
+    },
+    {
+      "character": "Molly",
+      "text": "And if I {i}am{/i} feeling like an undisclosed friend of mine that I may or may not have feelings for is out of reach...he or she really is."
+    },
+    {
+      "character": "Molly",
+      "text": "Do you know how it feels to share clothes with the person you secretly love?"
+    },
+    {
+      "character": "Molly",
+      "text": "To help fit them for costumes, hiding the redness of your face and how easily it gives away your intentions or desires?"
+    },
+    {
+      "character": "Molly",
+      "text": "To smell the scent of her lotion when she puts it on in your dorm room?"
+    },
+    {
+      "character": "Molly",
+      "text": "Or how to rid your brain of the image of her as she storms into the shower and asks to borrow your conditioner?"
+    },
+    {
+      "character": "Molly",
+      "text": "How she sees or feels {i}nothing{/i} for you, but {i}everything{/i} for everyone else?"
+    },
+    {
+      "character": "Molly",
+      "text": "This is all rhetorical, of course."
+    },
+    {
+      "character": "Molly",
+      "text": "I\u2019m just basing this off of...some game I played."
+    },
+    {
+      "character": "Noriko",
+      "text": "Again, tongue jar. I'm being super serious right now. It's a thing."
+    },
+    {
+      "character": "Ayane",
+      "text": "I think that might just be a {i}you{/i} thing, Noriko."
+    },
+    {
+      "character": "Noriko",
+      "text": "Really?"
+    },
+    {
+      "character": "Noriko",
+      "text": "Look me in the eyes and tell me with a straight face that you wouldn't put my tongue in a jar."
+    },
+    {
+      "character": "Ayane",
+      "text": "I\u2019m sorry. But I just love Sensei so much that those fantasies are reserved for him and him only."
+    },
+    {
+      "character": "Noriko",
+      "text": "Oh you son of a bitch."
+    },
+    {
+      "character": "Molly",
+      "text": "If you are going to follow me around the beach...could you perhaps attempt to avoid the discussion of tongues?...I am deathly afraid of them."
+    },
+    {
+      "character": "Osako",
+      "text": "Oooookay. Looks like I may have picked a weird time to go for a walk."
+    },
+    {
+      "character": "Ayane",
+      "text": "Osako! Perfect!"
+    },
+    {
+      "character": "Osako",
+      "text": "Huh? What?"
+    },
+    {
+      "character": "Osako",
+      "text": "What\u2019s perfect?"
+    },
+    {
+      "character": "Noriko",
+      "text": "How it's totally normal to fantasize about taking a friend's tongue off and then putting it on display for all of your other friends to see."
+    },
+    {
+      "character": "Osako",
+      "text": "Uhh...what?"
+    },
+    {
+      "character": "Molly",
+      "text": "Ayane...I was okay with you two following me around, but a person I\u2019ve never met before is-"
+    },
+    {
+      "character": "Ayane",
+      "text": "Is even better! Here. Come."
+    },
+    {
+      "character": "Molly",
+      "text": "Hey! Wait!"
+    },
+    {
+      "character": "Ayane",
+      "text": "If you have no idea who a person is, wouldn\u2019t that make it a little easier to talk to them about this?"
+    },
+    {
+      "character": "Ayane",
+      "text": "Your worry seems to be about ruining relationships- but without a relationship to ruin, what\u2019s there to be afraid of?"
+    },
+    {
+      "character": "Osako",
+      "text": "Can someone tell me what\u2019s going on here?"
+    },
+    {
+      "character": "Ayane",
+      "text": "My friend here may or may not have undisclosed feelings for an undisclosed friend of an undisclosed gender."
+    },
+    {
+      "character": "Osako",
+      "text": "Oh."
+    },
+    {
+      "character": "Osako",
+      "text": "Well, you\u2019ve certainly bumped into the right person, then."
+    },
+    {
+      "character": "Ayane",
+      "text": "Can you maybe talk to her for a little while? Just to kinda help her take her mind off of things."
+    },
+    {
+      "character": "Molly",
+      "text": "I...don\u2019t want to talk..."
+    },
+    {
+      "character": "Osako",
+      "text": "Then don\u2019t."
+    },
+    {
+      "character": "Osako",
+      "text": "But, as someone who was very likely in the same position as you at one point, I\u2019d be fine with sitting next to you in silence for a little while."
+    },
+    {
+      "character": "Osako",
+      "text": "Kinda why I\u2019m out here in the first place."
+    },
+    {
+      "character": "Molly",
+      "text": "Do you..."
+    },
+    {
+      "character": "Molly",
+      "text": "Do you like video games?"
+    },
+    {
+      "character": "Osako",
+      "text": "Uhhhhhhhh I\u2019m...really good at pinball?"
+    },
+    {
+      "character": "Molly",
+      "text": "Hah...I guess I\u2019ll take what I can get..."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Ayane",
+      "text": "I feel like such an idiot."
+    },
+    {
+      "character": "Noriko",
+      "text": "For not realizing the Rin thing?"
+    },
+    {
+      "character": "Ayane",
+      "text": "It\u2019s so obvious in hindsight. "
+    },
+    {
+      "character": "Ayane",
+      "text": "Rin\u2019s consistently the first person Molly asks to do anything with."
+    },
+    {
+      "character": "Ayane",
+      "text": "And whenever she\u2019s not around, Molly\u2019s mood totally changes. "
+    },
+    {
+      "character": "Ayane",
+      "text": "Kinda like she\u2019s distracted or...something like that."
+    },
+    {
+      "character": "Ayane",
+      "text": "And all this time I thought it was just because the two of them were close, but..."
+    },
+    {
+      "character": "Noriko",
+      "text": "So...I obviously wasn\u2019t around for whatever went down-"
+    },
+    {
+      "character": "Noriko",
+      "text": "But how did Otoha handle it?"
+    },
+    {
+      "character": "Ayane",
+      "text": "Like anyone would have, I guess."
+    },
+    {
+      "character": "Ayane",
+      "text": "She didn\u2019t really say anything. She just kind of sat there and let Molly go off on her."
+    },
+    {
+      "character": "Ayane",
+      "text": "Rin was the one who started getting Molly really heated up when she stuck up for her instead of just letting her get yelled at."
+    },
+    {
+      "character": "Noriko",
+      "text": "I see..."
+    },
+    {
+      "character": "Noriko",
+      "text": "Do you know what they\u2019re up to now?"
+    },
+    {
+      "character": "Ayane",
+      "text": "No clue. I chased after Molly as soon as she stormed out."
+    },
+    {
+      "character": "Ayane",
+      "text": "I imagine they\u2019re probably still in the room."
+    },
+    {
+      "character": "Noriko",
+      "text": "Gotcha..."
+    },
+    {
+      "character": "Ayane",
+      "text": "..."
+    },
+    {
+      "character": "Noriko",
+      "text": "..."
+    },
+    {
+      "character": "Ayane",
+      "text": "Have you really had dreams about taking my tongue before?"
+    },
+    {
+      "character": "Noriko",
+      "text": "Oh, no. I was just fucking around."
+    },
+    {
+      "character": "Ayane",
+      "text": "Oh."
+    },
+    {
+      "character": "Noriko",
+      "text": "..."
+    },
+    {
+      "character": "Ayane",
+      "text": "..."
+    },
+    {
+      "character": "Noriko",
+      "text": "{i}Unless...{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Osako",
+      "text": "..."
+    },
+    {
+      "character": "Molly",
+      "text": "..."
+    },
+    {
+      "character": "Molly",
+      "text": "Are you really just going to sit there?"
+    },
+    {
+      "character": "Osako",
+      "text": "This is what you wanted, isn\u2019t it?"
+    },
+    {
+      "character": "Osako",
+      "text": "Sometimes, the best way to make yourself feel better is to take a deep breath and just reflect on the things you could have done differently."
+    },
+    {
+      "character": "Molly",
+      "text": "..."
+    },
+    {
+      "character": "Molly",
+      "text": "But I don\u2019t really know what I could have done differently."
+    },
+    {
+      "character": "Osako",
+      "text": "Well...what did you do in the first place?"
+    },
+    {
+      "character": "Molly",
+      "text": "Nothing, really. "
+    },
+    {
+      "character": "Osako",
+      "text": "There\u2019s your answer then."
+    },
+    {
+      "character": "Molly",
+      "text": "I...don\u2019t get it."
+    },
+    {
+      "character": "Osako",
+      "text": "Well, uhh...like I said, I\u2019m kind of a pinball person and not a game person, but I know enough about some older ones that I can probably cook up some kind of metaphor."
+    },
+    {
+      "character": "Osako",
+      "text": "You know those little block things in Mario Kart that give you turtle shells and shit once you drive into \u2018em?"
+    },
+    {
+      "character": "Molly",
+      "text": "Of course."
+    },
+    {
+      "character": "Osako",
+      "text": "Well...you can\u2019t ever really come in first place if you don\u2019t use those powerups, right?"
+    },
+    {
+      "character": "Osako",
+      "text": "And if you don\u2019t use 'em shortly after you get them, you\u2019ll wind up passing by other blocks and missing out on {i}more{/i} of the powerups."
+    },
+    {
+      "character": "Osako",
+      "text": "That\u2019s kinda what love is like."
+    },
+    {
+      "character": "Osako",
+      "text": "If you don\u2019t jump on every single opportunity to try and put yourself in a better position, everyone is gonna just cruise right by you."
+    },
+    {
+      "character": "Osako",
+      "text": "For a long while, that\u2019s kind of...exactly what I did."
+    },
+    {
+      "character": "Osako",
+      "text": "There was this one girl I was head over heels in love with."
+    },
+    {
+      "character": "Osako",
+      "text": "And it was really scary at first...you know, trying to get her to understand that I saw her as more than just...her."
+    },
+    {
+      "character": "Osako",
+      "text": "But...as time went by, the desire to hold her and make her mine just started festering and eating me alive from the inside out."
+    },
+    {
+      "character": "Osako",
+      "text": "And the first turtle shell box thing I ever encountered was some poetry assignment we had in[school]."
+    },
+    {
+      "character": "Osako",
+      "text": "She loved poetry."
+    },
+    {
+      "character": "Osako",
+      "text": "Well, still loves. It\u2019s one of her favorite things."
+    },
+    {
+      "character": "Osako",
+      "text": "But...dorky old me back then was like...what if I memorized something she\u2019d like and...maybe made eye contact with her or something while reading it? "
+    },
+    {
+      "character": "Osako",
+      "text": "So I did. Eye contact and all."
+    },
+    {
+      "character": "Osako",
+      "text": "And the second her eyes met mine...it became an addiction."
+    },
+    {
+      "character": "Osako",
+      "text": "I started finding every fuckin\u2019 turtle shell I could get my hands on, frantically pushing buttons and moving from one place to the next trying to get her to notice me."
+    },
+    {
+      "character": "Osako",
+      "text": "If I\u2019d never started taking that approach..."
+    },
+    {
+      "character": "Osako",
+      "text": "Well, I don\u2019t really know if I\u2019d be here today."
+    },
+    {
+      "character": "Molly",
+      "text": "You...contemplated suicide?"
+    },
+    {
+      "character": "Osako",
+      "text": "What? Oh. No. Sorry. I just meant that...we literally came here today together."
+    },
+    {
+      "character": "Osako",
+      "text": "And she\u2019s here as a chaperone, so..."
+    },
+    {
+      "character": "Molly",
+      "text": "Chap-"
+    },
+    {
+      "character": "Molly",
+      "text": "Are you Miss Watabe\u2019s girlfriend?!"
+    },
+    {
+      "character": "Osako",
+      "text": "I am. "
+    },
+    {
+      "character": "Osako",
+      "text": "But I never would have become that without working for it."
+    },
+    {
+      "character": "Molly",
+      "text": "Wow..."
+    },
+    {
+      "character": "Molly",
+      "text": "You are...not at all what I was expecting."
+    },
+    {
+      "character": "Osako",
+      "text": "Yeah...I get that a lot."
+    },
+    {
+      "character": "Osako",
+      "text": "This, uhh...{i}undisclosed friend{/i} of yours..."
+    },
+    {
+      "character": "Osako",
+      "text": "Does she have a name?"
+    },
+    {
+      "character": "Molly",
+      "text": "She doesn\u2019t exist. But if she did, her name would likely be something like...Ren or...Ran..."
+    },
+    {
+      "character": "Osako",
+      "text": "Well, whatever her name {i}would{/i} be, some people just won\u2019t understand things unless you tell them."
+    },
+    {
+      "character": "Osako",
+      "text": "And if you want her to know, that might be what you have to do."
+    },
+    {
+      "character": "Molly",
+      "text": "What do I do if I {i}don\u2019t{/i} want her to know?"
+    },
+    {
+      "character": "Osako",
+      "text": "Why wouldn\u2019t you want her to know?"
+    },
+    {
+      "character": "Molly",
+      "text": "Because I\u2019m not her type."
+    },
+    {
+      "character": "Molly",
+      "text": "And it might make things weird."
+    },
+    {
+      "character": "Osako",
+      "text": "Aren\u2019t things weird now?"
+    },
+    {
+      "character": "Molly",
+      "text": "Only because I made them that way."
+    },
+    {
+      "character": "Osako",
+      "text": "Then you\u2019ve got two options. Either apologize and move past it-"
+    },
+    {
+      "character": "Osako",
+      "text": "Or make things even weirder and hope that she\u2019s a weird enough person to not inherently hate it."
+    },
+    {
+      "character": "Molly",
+      "text": "She {i}is{/i} pretty weird..."
+    },
+    {
+      "character": "Molly",
+      "text": "Or would be if she actually existed. Which she doesn\u2019t."
+    },
+    {
+      "character": "Osako",
+      "text": "I\u2019m sure."
+    },
+    {
+      "character": "Osako",
+      "text": "At the end of the day, all you can really do is try. Maybe it works out, maybe it doesn\u2019t."
+    },
+    {
+      "character": "Osako",
+      "text": "But if you\u2019re already wandering down the beach crying and talking to strangers, I think it\u2019s safe to say that, as-is, things {i}aren\u2019t{/i} working out."
+    },
+    {
+      "character": "Osako",
+      "text": "And that, personally, I\u2019d try to do something about it."
+    },
+    {
+      "character": "Molly",
+      "text": "..."
+    },
+    {
+      "character": "Molly",
+      "text": "Thank you, Miss Watabe\u2019s girlfriend."
+    },
+    {
+      "character": "Osako",
+      "text": "Osako. "
+    },
+    {
+      "character": "Molly",
+      "text": "Thank you, Osako."
+    },
+    {
+      "character": "Osako",
+      "text": "Don\u2019t mention it, random upset foreigner girl."
+    },
+    {
+      "character": "Molly",
+      "text": "Molly."
+    },
+    {
+      "character": "Osako",
+      "text": "Don\u2019t mention it, Molly."
+    },
+    {
+      "character": "Osako",
+      "text": "Now, if you\u2019ll please excuse me, I\u2019d like to silently stare at the stars reflecting off of the water for a little while longer before heading back to my room."
+    },
+    {
+      "character": "Osako",
+      "text": "But if you ever need someone to talk to and there isn\u2019t a beach around to bump into randoms, Ayane\u2019s a good bet as well."
+    },
+    {
+      "character": "Osako",
+      "text": "She can be a little pushy, but she\u2019s got a good heart."
+    },
+    {
+      "character": "Molly",
+      "text": "I know..."
+    },
+    {
+      "character": "Molly",
+      "text": "Her wisdom is rather high for a rogue as well."
+    },
+    {
+      "character": "Osako",
+      "text": "Sure. Whatever that means."
+    },
+    {
+      "character": "Osako",
+      "text": "You\u2019re welcome to stay here, you know. Being broody and reflective is surprisingly helpful at times like this."
+    },
+    {
+      "character": "Molly",
+      "text": "I suppose a fair bit of brooding won\u2019t do any harm if it\u2019s only occasional."
+    },
+    {
+      "character": "Molly",
+      "text": "Though, it\u2019s hard for me to look up at the stars without grieving over the destruction of Alderaan."
+    },
+    {
+      "character": "Molly",
+      "text": "Oh. Alderaan is-"
+    },
+    {
+      "character": "Osako",
+      "text": "Star Wars. I know."
+    },
+    {
+      "character": "Molly",
+      "text": "Rip in peace, Alderaan."
+    },
+    {
+      "character": "Molly",
+      "text": "Rip in peace..."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Somewhere else...{/i}"
+    }
+  ],
+  "state_changes": {
+    "secondbeach9": {
+      "from": null,
+      "to": true
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "event_id": 231,
+  "event_label": "kirininvite2",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "I tap on Kirin\u2019s name in my phone and wait for her to answer."
+    },
+    {
+      "character": "narrator",
+      "text": "Our last meeting didn\u2019t exactly go anywhere on account of Ami\u2019s plans being cut short, but I\u2019ve already confirmed that she will {i}definitely{/i} be gone this time around."
+    },
+    {
+      "character": "narrator",
+      "text": "Unless...of course, she decides to cut things short again."
+    },
+    {
+      "character": "narrator",
+      "text": "But that\u2019s a chance I\u2019m willing to take if it means getting some alone time with Kirin."
+    },
+    {
+      "character": "Kirin",
+      "text": "Heya! I'm in Mexico right now."
+    },
+    {
+      "character": "Sensei",
+      "text": "What? But I thought we weren't allowed to leave Kumon-mi."
+    },
+    {
+      "character": "Kirin",
+      "text": "We can in the Patreon version."
+    },
+    {
+      "character": "Sensei",
+      "text": "Oh. Well, uhh...have fun?"
+    },
+    {
+      "character": "Kirin",
+      "text": "Will do! Talk to ya later, Sensei!"
+    },
+    {
+      "character": "narrator",
+      "text": "I'm unable to hang out with Kirin because she went to Mexico =/"
+    },
+    {
+      "character": "narrator",
+      "text": "I'll just print out a picture of her face and tape it to one of my pillows and hang out with that instead."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Kirin\u2019s lust has increased to [kirin_lust]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}You can now invite her over to the house on nights and choose to raise your affection or hug her!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "kirin_lust +": {
+      "from": null,
+      "to": 3
+    },
+    "kirininvite2": {
+      "from": null,
+      "to": true
+    }
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "event_id": 246,
+  "event_label": "makotoinvite2",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "I decide to invite Makoto over and tap on her name in my phone."
+    },
+    {
+      "character": "narrator",
+      "text": "Being that last time didn\u2019t exactly go {i}well{/i}, I figure that I might need to do something about Ami if I want tonight to end in success."
+    },
+    {
+      "character": "narrator",
+      "text": "But I need to at least figure out if Makoto is able to get out of work first."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "Makoto",
+      "text": "Hello? Sensei?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Hey. You wouldn\u2019t happen to be free right now, would you?"
+    },
+    {
+      "character": "Makoto",
+      "text": "Umm...I {i}could{/i} be free, I suppose. My mom and I are both in the shop right now."
+    },
+    {
+      "character": "Sensei",
+      "text": "Does she know that I'm the one calling you?"
+    },
+    {
+      "character": "Makoto",
+      "text": "No. She\u2019s in the back room at the moment. She probably didn't even hear my phone ring."
+    },
+    {
+      "character": "Sensei",
+      "text": "Cool. Tell her you need to study again or something."
+    },
+    {
+      "character": "Makoto",
+      "text": "Just to clarify, you {i}are{/i} inviting me over...Correct?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Correct."
+    },
+    {
+      "character": "Makoto",
+      "text": "Is your demon-spawn of a [niece] there right now?"
+    },
+    {
+      "character": "Sensei",
+      "text": "She isn\u2019t a demon-spawn...but probably. I\u2019ll figure out a way to deal with her, though."
+    },
+    {
+      "character": "Makoto",
+      "text": "Good. Because I\u2019d very much like to actually be {i}alone{/i} with you if we\u2019re going to be in your house."
+    },
+    {
+      "character": "Sensei",
+      "text": "Are you trying to seduce me over the phone?"
+    },
+    {
+      "character": "Makoto",
+      "text": "N-No! I just...you know! It\u2019s {i}your{/i} house! "
+    },
+    {
+      "character": "Makoto",
+      "text": "I\u2019m obviously going to...expect certain things if you invite me over."
+    },
+    {
+      "character": "Sensei",
+      "text": "What are you expecting, Makoto?"
+    },
+    {
+      "character": "narrator",
+      "text": "Makoto hangs up the phone without responding to my question, which I\u2019m assuming means that she is, in fact, going to come over."
+    },
+    {
+      "character": "narrator",
+      "text": "I begin my trip home right away and type out a convincing text message to Ami about how I need her to go grocery shopping."
+    },
+    {
+      "character": "narrator",
+      "text": "Being as dedicated to pleasing me as she is, I know that she\u2019ll do virtually anything I ask."
+    },
+    {
+      "character": "narrator",
+      "text": "Which is precisely why I come up with a list of imaginary ingredients for her to procure in order to extend the time Makoto and I will be together for."
+    },
+    {
+      "character": "narrator",
+      "text": "I truly am a genius when I want to be."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Makoto",
+      "text": "Excuse me..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Hey. How was your walk over?"
+    },
+    {
+      "character": "Makoto",
+      "text": "It would be a lot nicer if you were a normal adult and had a car to pick me up in."
+    },
+    {
+      "character": "Sensei",
+      "text": "If I had a car to pick you up in, there wouldn\u2019t be much of a reason for us to come {i}here{/i} in the first place."
+    },
+    {
+      "character": "Makoto",
+      "text": "I\u2019m not sure what you mean by that, Sensei. Please clarify."
+    },
+    {
+      "character": "Sensei",
+      "text": "If I had a car, I would never let anything come between you and me and the act of hugging."
+    },
+    {
+      "character": "Makoto",
+      "text": "Uhh...I knew that\u2019s what you were insinuating, but I thought you were at least going to be a little less...direct about it."
+    },
+    {
+      "character": "Sensei",
+      "text": "No point. You\u2019re smart enough to know that I wouldn\u2019t get Ami out of here unless there was something I wanted from you."
+    },
+    {
+      "character": "Makoto",
+      "text": "{i}From{/i} me? Or {i}with{/i} me?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Whichever. It doesn\u2019t really matter to me."
+    },
+    {
+      "character": "Makoto",
+      "text": "Come on! At least be nice when you\u2019re trying to hook up with me!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Woah, chill. I just want to hug."
+    },
+    {
+      "character": "Sensei",
+      "text": "Aren\u2019t you my classroom assistant or whatever? Do I really need consent from you?"
+    },
+    {
+      "character": "Makoto",
+      "text": "Obviously. The student handbook says nothing about how classroom assistants are to hug their teachers."
+    },
+    {
+      "character": "Sensei",
+      "text": "If it doesn\u2019t specifically say anything about that, doesn\u2019t it mean it\u2019s allowed to a certain extent?"
+    },
+    {
+      "character": "Makoto",
+      "text": "Well, there is something in the generic section prohibiting physical relationships between teachers and students, so I\u2019m pretty sure this would just fall under that."
+    },
+    {
+      "character": "Sensei",
+      "text": "You\u2019re such a buzzkill, Makoto."
+    },
+    {
+      "character": "Makoto",
+      "text": "Of course I am. That\u2019s my job."
+    },
+    {
+      "character": "Makoto",
+      "text": "If I don\u2019t keep you in-line, who else will?"
+    },
+    {
+      "character": "Makoto",
+      "text": "And don\u2019t say Ami because she doesn\u2019t count as an actual human being."
+    },
+    {
+      "character": "Sensei",
+      "text": "I think you two really need to resolve your differences."
+    },
+    {
+      "character": "Makoto",
+      "text": "It\u2019s not our differences that make us adversaries- it\u2019s our similarities."
+    },
+    {
+      "character": "Makoto",
+      "text": "She can sense how the relationship you and I have is special, and that makes her worried given that she has a different type of special relationship with you."
+    },
+    {
+      "character": "Makoto",
+      "text": "Obviously, the one you two have is more of a...business relationship while the one you and I have is more..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Huggy?"
+    },
+    {
+      "character": "Makoto",
+      "text": "Sure. Huggy."
+    },
+    {
+      "character": "Sensei",
+      "text": "Bring it in, Makoto."
+    },
+    {
+      "character": "Makoto",
+      "text": "Thanks. This will make me feel less bad about not being able to see my dad anymore."
+    },
+    {
+      "character": "narrator",
+      "text": "A hug happens and Makoto cries a little."
+    },
+    {
+      "character": "narrator",
+      "text": "I console her because I am a little nicer in this version of the game."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Makoto\u2019s lust has increased to [makoto_lust]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}You can now choose between affection and hugging when inviting her over!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "makoto_lust +": {
+      "from": null,
+      "to": 3
+    },
+    "makotoinvite2": {
+      "from": null,
+      "to": true
+    }
+  }
+}

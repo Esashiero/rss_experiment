@@ -1,0 +1,840 @@
+{
+  "event_id": 43,
+  "event_label": "nikidate1",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "I tap on Niki\u2019s name in my phone and wait for her to answer."
+    },
+    {
+      "character": "narrator",
+      "text": "I feel like I\u2019m supposed to be a little nervous about doing this considering she is my apparent ex-girlfriend as well as a pop star, but-"
+    },
+    {
+      "character": "narrator",
+      "text": "Eh."
+    },
+    {
+      "character": "narrator",
+      "text": "It just feels like any other phone call to me."
+    },
+    {
+      "character": "narrator",
+      "text": "And if this call is going to be anything like our \u201cfirst\u201d meeting the other day, I imagine she\u2019s just going to yell at me or something like that."
+    },
+    {
+      "character": "???",
+      "text": "Thank you for calling 567 Productions. How can I help you?"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "???",
+      "text": "Hello?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019d like to speak with Niki Nakayama, please."
+    },
+    {
+      "character": "???",
+      "text": "..."
+    },
+    {
+      "character": "???",
+      "text": "No."
+    },
+    {
+      "character": "Sensei",
+      "text": "But I\u2019m her ex."
+    },
+    {
+      "character": "???",
+      "text": "That\u2019s even worse."
+    },
+    {
+      "character": "???",
+      "text": "Please do not call here anymore."
+    },
+    {
+      "character": "Sensei",
+      "text": "Wait, I think you\u2019re misunderstanding something."
+    },
+    {
+      "character": "Sensei",
+      "text": "She\u2019s the one who gave me this number."
+    },
+    {
+      "character": "???",
+      "text": "Then she clearly doesn\u2019t want to talk with you."
+    },
+    {
+      "character": "???",
+      "text": "You are aware that she has her own phone, correct?"
+    },
+    {
+      "character": "narrator",
+      "text": "That fucking bitch."
+    },
+    {
+      "character": "Sensei",
+      "text": "Listen...is she around? Just tell her I\u2019m calling and if she doesn\u2019t want to take it then...hang up on me or something."
+    },
+    {
+      "character": "???",
+      "text": "...Okay, fine."
+    },
+    {
+      "character": "???",
+      "text": "Can I have your name?"
+    },
+    {
+      "character": "Sensei",
+      "text": "It\u2019s...uhh..."
+    },
+    {
+      "character": "Sensei",
+      "text": "My name is Noodles."
+    },
+    {
+      "character": "Sensei",
+      "text": "Noodles the Bird."
+    },
+    {
+      "character": "???",
+      "text": "Your name is not Noodles the Bird."
+    },
+    {
+      "character": "Sensei",
+      "text": "Tell her my name is Noodles the Bird."
+    },
+    {
+      "character": "???",
+      "text": "Is this some sort of inside joke between the two of you?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Yes. Now, tell her."
+    },
+    {
+      "character": "???",
+      "text": "Okay...fine. "
+    },
+    {
+      "character": "???",
+      "text": "Please hold."
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019m placed on hold for several minutes while the receptionist or manager or whoever it was that I was just speaking with tries to find Niki."
+    },
+    {
+      "character": "narrator",
+      "text": "Hopefully, the original Sensei also had an amazing sense of humor that she will be able to quickly identify immediately upon hearing that she\u2019s received a call."
+    },
+    {
+      "character": "narrator",
+      "text": "But, more than likely, I just expect to get yelled at again."
+    },
+    {
+      "character": "Niki",
+      "text": "Well good morning, {i}[nikitemp]{/i}..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Hey. So nice of you to pick up."
+    },
+    {
+      "character": "Sensei",
+      "text": "Why did you give me a fake number?"
+    },
+    {
+      "character": "Niki",
+      "text": "It\u2019s not fake, asshole. It\u2019s the number to my agency."
+    },
+    {
+      "character": "Niki",
+      "text": "You were just on the phone with my manager."
+    },
+    {
+      "character": "Niki",
+      "text": "Also, why wouldn\u2019t you use your normal fucking name?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I can\u2019t remember my normal name."
+    },
+    {
+      "character": "Niki",
+      "text": "{i}Hah{/i}...amnesia card again?"
+    },
+    {
+      "character": "Sensei",
+      "text": "You know me so well."
+    },
+    {
+      "character": "Sensei",
+      "text": "Almost well enough to give me your normal phone number."
+    },
+    {
+      "character": "Niki",
+      "text": "Oh my fucking God, shut up. Why are you even calling?"
+    },
+    {
+      "character": "Niki",
+      "text": "I\u2019m not sure if you\u2019ve realized, but I\u2019m extremely busy right now and-"
+    },
+    {
+      "character": "Sensei",
+      "text": "Let\u2019s go out to breakfast."
+    },
+    {
+      "character": "Niki",
+      "text": "At least let me finish my sentence, dick!"
+    },
+    {
+      "character": "Sensei",
+      "text": "It\u2019s not Dick, it\u2019s {i}[nikitemp]{/i}."
+    },
+    {
+      "character": "Niki",
+      "text": "You\u2019re not funny."
+    },
+    {
+      "character": "Sensei",
+      "text": "So, are you able to sneak away for a while and catch up? "
+    },
+    {
+      "character": "Niki",
+      "text": "..."
+    },
+    {
+      "character": "Niki",
+      "text": "Can I choose where we go?"
+    },
+    {
+      "character": "Sensei",
+      "text": "If that\u2019s what makes you happy."
+    },
+    {
+      "character": "Niki",
+      "text": "..."
+    },
+    {
+      "character": "Niki",
+      "text": "Fine. But {i}only{/i} for a little while. I have a class today."
+    },
+    {
+      "character": "narrator",
+      "text": "The two of us talk for another minute or two and Niki winds up giving me an address to a diner somewhere in the middle of the city."
+    },
+    {
+      "character": "narrator",
+      "text": "I didn\u2019t really plan on going that far out today, but I guess you need to make certain sacrifices if you\u2019re going to date someone famous."
+    },
+    {
+      "character": "narrator",
+      "text": "Or at least, {i}go{/i} on a date with someone famous."
+    },
+    {
+      "character": "narrator",
+      "text": "I doubt Niki would ever want to see me again after I apparently abandoned her for years."
+    },
+    {
+      "character": "narrator",
+      "text": "But hey, she\u2019s also apparently been waiting around for closure or something, so..."
+    },
+    {
+      "character": "narrator",
+      "text": "I guess we\u2019ll just have to see how things go."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "What the fuck are you wearing?"
+    },
+    {
+      "character": "Niki",
+      "text": "I\u2019m a big fucking deal, {i}[nikitemp]{/i}. I need to wear this so people don\u2019t recognize me."
+    },
+    {
+      "character": "Sensei",
+      "text": "How are you going to eat with that on?"
+    },
+    {
+      "character": "Niki",
+      "text": "I\u2019m obviously going to take it off to eat! Have you never been on a date with an idol before?!"
+    },
+    {
+      "character": "Niki",
+      "text": "Oh, what am I saying? Of course you haven\u2019t. Sorry. Sometimes, I just forget how-"
+    },
+    {
+      "character": "Sensei",
+      "text": "So what do you want to eat?"
+    },
+    {
+      "character": "Niki",
+      "text": "STOP INTERRUPTING ME!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Take the disguise off, then. I want to actually talk to {i}you{/i}, not a mask and a cheap pair of sunglasses."
+    },
+    {
+      "character": "Niki",
+      "text": "Cheap?! Those cost me a fucking fortune!"
+    },
+    {
+      "character": "Niki",
+      "text": "Well...I actually got them for free as a gift from the agency. But they cost {i}someone{/i} a fortune!"
+    },
+    {
+      "character": "narrator",
+      "text": "Niki takes off her mask and her glasses and stuffs them into an oversized bag she placed beside her when she arrived."
+    },
+    {
+      "character": "narrator",
+      "text": "The two of us got here around the same time, so there was no awkward waiting at the table or anything like that beforehand."
+    },
+    {
+      "character": "narrator",
+      "text": "Just...two people who used to date out for breakfast at a diner that totally isn\u2019t something out of a popular first person shooter game."
+    },
+    {
+      "character": "Sensei",
+      "text": "There. You look so much prettier now."
+    },
+    {
+      "character": "Niki",
+      "text": "Shut up..."
+    },
+    {
+      "character": "Niki",
+      "text": "You..."
+    },
+    {
+      "character": "Niki",
+      "text": "You don\u2019t look half bad yourself."
+    },
+    {
+      "character": "Niki",
+      "text": "I kind of expected you to be huge and fat and all scraggly or something by now."
+    },
+    {
+      "character": "Niki",
+      "text": "But I guess you\u2019ve been doing alright the last few years."
+    },
+    {
+      "character": "Niki",
+      "text": "Even if you managed to make it through them without turning your fucking TV on even {i}once{/i}."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019ve definitely turned the TV on. I just haven\u2019t seen you."
+    },
+    {
+      "character": "Sensei",
+      "text": "Maybe you\u2019re just not as famous as you think you are?"
+    },
+    {
+      "character": "Niki",
+      "text": "Want to bet on that? "
+    },
+    {
+      "character": "Niki",
+      "text": "I can {i}guarantee{/i} you that our waitress will recognize me right away. "
+    },
+    {
+      "character": "Sensei",
+      "text": "That\u2019s not fair. You chose this place. For all I know, you could be a regular here."
+    },
+    {
+      "character": "Niki",
+      "text": "I just wanted to choose some place that no one would ever expect me to come to. "
+    },
+    {
+      "character": "Niki",
+      "text": "Which is exactly why I\u2019m expecting our waitress to fall flat on her face the second she realizes she\u2019s serving a pop star."
+    },
+    {
+      "character": "Sensei",
+      "text": "You\u2019re even more of an egomaniac than I am and I\u2019m one of the last remaining males in Kumon-mi."
+    },
+    {
+      "character": "Niki",
+      "text": "I {i}worked{/i} for this ego, {i}[nikitemp]{/i}. "
+    },
+    {
+      "character": "Niki",
+      "text": "But of course you\u2019re still pretending to have amnesia so you don\u2019t have to remember how self-conscious I always was when we were younger."
+    },
+    {
+      "character": "Niki",
+      "text": "Oh, perfect! Here comes our waitress now."
+    },
+    {
+      "character": "Niki",
+      "text": "Watch and prepare to be amazed by my popularity."
+    },
+    {
+      "character": "Niki",
+      "text": "Hi there! I\u2019m sooo sorry for showing up unannounced. I hope I didn\u2019t attract any paparazzi-"
+    },
+    {
+      "character": "Kaori",
+      "text": "Friendburger Man!"
+    },
+    {
+      "character": "Niki",
+      "text": "..."
+    },
+    {
+      "character": "Niki",
+      "text": "I beg your pardon?"
+    },
+    {
+      "character": "Kaori",
+      "text": "Hello! I am Kaori! But you may call me the Queen of Spiders or the Mistress of the Dark if you\u2019d like."
+    },
+    {
+      "character": "Kaori",
+      "text": "Are you on a date with my Friendburger?"
+    },
+    {
+      "character": "Sensei",
+      "text": "This is actually my ex-girlfriend, Kaori."
+    },
+    {
+      "character": "Kaori",
+      "text": "Girlfriendburger?!"
+    },
+    {
+      "character": "Niki",
+      "text": "You..."
+    },
+    {
+      "character": "Niki",
+      "text": "You really don\u2019t recognize me?"
+    },
+    {
+      "character": "Niki",
+      "text": "Niki Nakayama? Household name?"
+    },
+    {
+      "character": "Niki",
+      "text": "I\u2019m on billboards and..."
+    },
+    {
+      "character": "Kaori",
+      "text": "You hugged this creature?!"
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019ll let her answer that question. I don\u2019t think I\u2019m at liberty to discuss my previous...{i}encounters{/i} with a celebrity."
+    },
+    {
+      "character": "Kaori",
+      "text": "You are a celebrity? "
+    },
+    {
+      "character": "Kaori",
+      "text": "I apologize for not recognizing you, but I do not know many of the popular cultures."
+    },
+    {
+      "character": "Niki",
+      "text": "You don\u2019t...have to apologize. I\u2019m just a little taken aback."
+    },
+    {
+      "character": "Niki",
+      "text": "Normally people have all sorts of questions for me when we first meet, so...this is actually a pleasant surprise, I guess?"
+    },
+    {
+      "character": "Kaori",
+      "text": "I have two questions for you, actually. "
+    },
+    {
+      "character": "Kaori",
+      "text": "Number one-"
+    },
+    {
+      "character": "Kaori",
+      "text": "Is your hair made of cotton candy?"
+    },
+    {
+      "character": "Niki",
+      "text": "...No."
+    },
+    {
+      "character": "Kaori",
+      "text": "I see. "
+    },
+    {
+      "character": "Kaori",
+      "text": "Number two-"
+    },
+    {
+      "character": "Kaori",
+      "text": "Can you describe to me how much you enjoyed doing the human hug move with this man?"
+    },
+    {
+      "character": "Niki",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Kaori, are you...curious about hugs?"
+    },
+    {
+      "character": "Kaori",
+      "text": "I am curious about many things. But this is the first female I have encountered with actual experience."
+    },
+    {
+      "character": "Kaori",
+      "text": "Let alone experience with my friend! I must know!"
+    },
+    {
+      "character": "Kaori",
+      "text": "Describe to me in vivid detail the things you experienced, Cotton Candy Girl!"
+    },
+    {
+      "character": "Niki",
+      "text": "Was this all just some ploy to get me on one of those candid reaction shows?"
+    },
+    {
+      "character": "Niki",
+      "text": "There\u2019s no way any of this is actually happening, right?"
+    },
+    {
+      "character": "Sensei",
+      "text": "You get used to it after a while. "
+    },
+    {
+      "character": "Sensei",
+      "text": "I found myself thinking something similar the first few times I encountered Kaori."
+    },
+    {
+      "character": "Niki",
+      "text": "Did she like...hit her head a little too hard?"
+    },
+    {
+      "character": "Sensei",
+      "text": "There is a high likelihood of that, yes."
+    },
+    {
+      "character": "Niki",
+      "text": "Listen...Kaori, was it?"
+    },
+    {
+      "character": "Niki",
+      "text": "I think your curiosity is quite charming, I really do."
+    },
+    {
+      "character": "Niki",
+      "text": "But if you ask either one of us about our {i}personal{/i} affairs again, I will not hesitate to destroy you."
+    },
+    {
+      "character": "Niki",
+      "text": "Now, please make yourself useful and take our orders."
+    },
+    {
+      "character": "Kaori",
+      "text": "I can not do that, Cotton Candy Girl!"
+    },
+    {
+      "character": "Kaori",
+      "text": "I will remain quiet about your mating rituals, but this restaurant only serves one thing! Taking your order would be a waste of time!"
+    },
+    {
+      "character": "Kaori",
+      "text": "Friend. Your taste in women is very diverse."
+    },
+    {
+      "character": "Kaori",
+      "text": "I had no idea you were the type who enjoyed being bossed around."
+    },
+    {
+      "character": "Sensei",
+      "text": "It was a long time ago. I think my tastes may have been a little different back then."
+    },
+    {
+      "character": "Kaori",
+      "text": "Whatever the case, Cotton Candy Girl has expressed her hunger and so I must do my duty as the number one waitress in Kumon-mi to please her."
+    },
+    {
+      "character": "Kaori",
+      "text": "You can continue to please her in ways that I am not allowed to talk about."
+    },
+    {
+      "character": "Kaori",
+      "text": "Until we meet again in several minutes."
+    },
+    {
+      "character": "narrator",
+      "text": "Kaori darts away from the table and the atmosphere between Niki and I suddenly grows even more...uncomfortable."
+    },
+    {
+      "character": "narrator",
+      "text": "For her, at least. "
+    },
+    {
+      "character": "narrator",
+      "text": "I think this is the closest I\u2019ve come to having fun in quite some time."
+    },
+    {
+      "character": "Niki",
+      "text": "Ahem..."
+    },
+    {
+      "character": "Niki",
+      "text": "I know it\u2019s been a long time since the two of us have hung out like this."
+    },
+    {
+      "character": "Sensei",
+      "text": "I feel a \u201cbut\u201d coming."
+    },
+    {
+      "character": "Niki",
+      "text": "{i}But{/i} would you mind explaining to me exactly {i}how{/i} you know that girl and why she is so interested in us {i}mating{/i}?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Explain Kaori? You\u2019ve got a lot to learn."
+    },
+    {
+      "character": "Sensei",
+      "text": "That\u2019s just not possible."
+    },
+    {
+      "character": "Niki",
+      "text": "You are aware that even being {i}seen{/i} in public with a man could destroy my reputation, correct?"
+    },
+    {
+      "character": "Niki",
+      "text": "Do you have any idea what would happen to me if someone overheard that conversation?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I can\u2019t imagine it would be anything good."
+    },
+    {
+      "character": "Niki",
+      "text": "It would make the last several years of my life meaningless. "
+    },
+    {
+      "character": "Niki",
+      "text": "The idol world is cutthroat. One wrong move and you\u2019re done for good."
+    },
+    {
+      "character": "Niki",
+      "text": "So if we\u2019re going to continue going out together, {i}please{/i} make sure that nothing like that ever happens again."
+    },
+    {
+      "character": "Sensei",
+      "text": "I think you just accidentally admitted that you want to keep seeing me."
+    },
+    {
+      "character": "Niki",
+      "text": "Of course I do..."
+    },
+    {
+      "character": "Niki",
+      "text": "Not as a couple or anything...you ruined that."
+    },
+    {
+      "character": "Niki",
+      "text": "But I\u2019d be...really hurt or whatever if we didn\u2019t at least keep in touch."
+    },
+    {
+      "character": "Niki",
+      "text": "Oh! And you owe me an apology! A real one!"
+    },
+    {
+      "character": "Niki",
+      "text": "It\u2019s not fair that you get to just walk back into my life and start talking about mating and...giving yourself weird names!"
+    },
+    {
+      "character": "Niki",
+      "text": "We\u2019re not teenagers anymore. We are grown adults and should be acting like that."
+    },
+    {
+      "character": "Niki",
+      "text": "It doesn\u2019t have to be today since...I know you\u2019re still trying to come up with a better explanation than this whole \u201camnesia\u201d thing, but..."
+    },
+    {
+      "character": "Niki",
+      "text": "Whenever you\u2019re ready to actually {i}talk{/i}...that\u2019s fine."
+    },
+    {
+      "character": "Niki",
+      "text": "We can just keep going out to breakfast or something until then."
+    },
+    {
+      "character": "Sensei",
+      "text": "And if I have no idea how long that will take?"
+    },
+    {
+      "character": "Niki",
+      "text": "Then you\u2019re going to be buying me a lot of breakfasts."
+    },
+    {
+      "character": "Kaori",
+      "text": "I present to you, the Route 69 Diner\u2019s special {i}and only{/i} item, the sausage-fest!"
+    },
+    {
+      "character": "Niki",
+      "text": "Wha-"
+    },
+    {
+      "character": "Niki",
+      "text": "People actually...{i}eat{/i} this?"
+    },
+    {
+      "character": "Kaori",
+      "text": "Friend. Your ex-girlfriend does not seem to grasp the concept of food."
+    },
+    {
+      "character": "Kaori",
+      "text": "Is this what ended your previous relationship?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Yes. This is exactly why we broke up."
+    },
+    {
+      "character": "Sensei",
+      "text": "Niki, enjoy the sausage-fest."
+    },
+    {
+      "character": "Niki",
+      "text": "Actually, I already ate breakfast this morning. And that\u2019s way too much food."
+    },
+    {
+      "character": "Niki",
+      "text": "This is all you. "
+    },
+    {
+      "character": "Sensei",
+      "text": "Kaori, are you hungry?"
+    },
+    {
+      "character": "Kaori",
+      "text": "Wieners make my mouth feel funny. I think they are too big for me."
+    },
+    {
+      "character": "Sensei",
+      "text": "Can you say that one more time but a little slower?"
+    },
+    {
+      "character": "narrator",
+      "text": "I take out my phone to record and-"
+    },
+    {
+      "character": "Niki",
+      "text": "Stop hitting on the fucking waitress right in front of me!"
+    },
+    {
+      "character": "Kaori",
+      "text": "Enjoy your wieners! I must help another customer now!"
+    },
+    {
+      "character": "Kaori",
+      "text": "Let us hang the outs again soon, Friend! John misses you!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Sounds good, Kaori. Thanks for your service."
+    },
+    {
+      "character": "Kaori",
+      "text": "Of course! Please remember to like, comment and subscribe!"
+    },
+    {
+      "character": "Niki",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Niki",
+      "text": "Really, though. I\u2019m not hungry at all. I can\u2019t eat that."
+    },
+    {
+      "character": "narrator",
+      "text": "I take one last look at the colossal pile of food before me..."
+    },
+    {
+      "character": "narrator",
+      "text": "And surrender myself to the sausage-fest."
+    },
+    {
+      "character": "narrator",
+      "text": "Of course, I\u2019m barely able to finish any of it. "
+    },
+    {
+      "character": "narrator",
+      "text": "And apparently this diner doesn\u2019t offer to-go boxes either, so a good thirty pounds of food are left on the table by the time we leave."
+    },
+    {
+      "character": "narrator",
+      "text": "But at least Niki and I got to \u201creconnect\u201d a bit. "
+    },
+    {
+      "character": "narrator",
+      "text": "She\u2019s not much different from how I pictured her after our first meeting in the studio, but..."
+    },
+    {
+      "character": "narrator",
+      "text": "I guess I can see why the old Sensei might have fallen for her."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Congratulations! You now have Niki\u2019s real phone number and don\u2019t have to lie about your name anymore!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Niki\u2019s affection has increased to [niki_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "nikitemp": {
+      "from": null,
+      "to": "Noodles"
+    },
+    "nikidate1": {
+      "from": null,
+      "to": true
+    },
+    "niki_love +": {
+      "from": null,
+      "to": 1
+    }
+  }
+}

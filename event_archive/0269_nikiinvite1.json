@@ -1,0 +1,872 @@
+{
+  "event_id": 269,
+  "event_label": "nikiinvite1",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "I tap on Niki\u2019s name in my phone and wait for her to answer."
+    },
+    {
+      "character": "narrator",
+      "text": "And, of course, I prepare myself for the worst since she is very rarely able to make any time for me given her incredibly busy schedule as a famous person or whatever."
+    },
+    {
+      "character": "narrator",
+      "text": "In fact, even if she {i}does{/i} answer by some stretch of the imagination, I doubt she\u2019ll be willing to accept an invite over to-"
+    },
+    {
+      "character": "Niki",
+      "text": "Hey. What\u2019s up?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Oh, you answered."
+    },
+    {
+      "character": "Niki",
+      "text": "What? Were you starting to think I\u2019m too good for you now or something?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I wonder what would have given me that idea. "
+    },
+    {
+      "character": "Niki",
+      "text": "I would have given you that idea- because I {i}am{/i} too good for you now."
+    },
+    {
+      "character": "Sensei",
+      "text": "This is a fun conversation."
+    },
+    {
+      "character": "Niki",
+      "text": "It truly is. "
+    },
+    {
+      "character": "Niki",
+      "text": "Anyway, what are you doing right now?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m working up the courage to invite you over, but your idolic presence is so commanding and intimidating that I\u2019m having trouble finding the words."
+    },
+    {
+      "character": "Niki",
+      "text": "Wow, are you actually going to tell me where you live after all of these years away?"
+    },
+    {
+      "character": "Sensei",
+      "text": "If I say yes, will you come over and hug me?"
+    },
+    {
+      "character": "Niki",
+      "text": "What, like now? Fuck off. No."
+    },
+    {
+      "character": "Niki",
+      "text": "I\u2019ll come say hi, though."
+    },
+    {
+      "character": "Sensei",
+      "text": "You\u2019re actually able to?"
+    },
+    {
+      "character": "Niki",
+      "text": "I\u2019m taking the night off, so yeah."
+    },
+    {
+      "character": "Niki",
+      "text": "Just text me the address and I\u2019ll have my driver take me."
+    },
+    {
+      "character": "Niki",
+      "text": "Oh- and before I forget, is Ami home?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I...think so?"
+    },
+    {
+      "character": "Niki",
+      "text": "Even better. See you soon."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "Welp, it looks like Niki {i}is{/i} going to come over after all. "
+    },
+    {
+      "character": "narrator",
+      "text": "As I type out my address to her, I think to myself about what it must be like to have people willing to wait on your every beck and call."
+    },
+    {
+      "character": "narrator",
+      "text": "But, then I remember that Ami exists and realize that Niki just isn\u2019t that special after all."
+    },
+    {
+      "character": "narrator",
+      "text": "No amount of drivers or bodyguards can live up to the calming, yet mildly intimidating presence of a red-haired [niece]."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "The doorbell rings shortly after I take my shoes off and I pat myself on the back for making it here in time."
+    },
+    {
+      "character": "narrator",
+      "text": "I can only imagine how Ami would have reacted if she answered the door to find her icon just...standing there."
+    },
+    {
+      "character": "Niki",
+      "text": "Stop monologuing and open the fucking door."
+    },
+    {
+      "character": "Sensei",
+      "text": "Well, that\u2019s just plain rude."
+    },
+    {
+      "character": "Noriko",
+      "text": "Sensei! Let us in!"
+    },
+    {
+      "character": "narrator",
+      "text": "What? Noriko is here too?"
+    },
+    {
+      "character": "narrator",
+      "text": "What a pleasant surprise! The more, the merrier!"
+    },
+    {
+      "character": "Niki",
+      "text": "Hi. Your neighborhood sucks. "
+    },
+    {
+      "character": "Sensei",
+      "text": "Thanks. Why did you even need my address if Noriko was coming? She could have just shown you the way."
+    },
+    {
+      "character": "Noriko",
+      "text": "I didn\u2019t even know I was coming until a little while ago."
+    },
+    {
+      "character": "Niki",
+      "text": "Also, I had no idea that you routinely invited my little sister over to your house."
+    },
+    {
+      "character": "Sensei",
+      "text": "I mean...I wouldn\u2019t call it {i}routinely{/i}."
+    },
+    {
+      "character": "Noriko",
+      "text": "This is where Sensei does his laundry!"
+    },
+    {
+      "character": "Noriko",
+      "text": "I know this because there is a secret tube inside of his dryer that sends me one of his socks every time he uses it."
+    },
+    {
+      "character": "Niki",
+      "text": "Very funny. "
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m confused."
+    },
+    {
+      "character": "Niki",
+      "text": "About what, exactly?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Well, the sock thing for starters."
+    },
+    {
+      "character": "Niki",
+      "text": "Ooookay. Now {i}I\u2019m{/i} confused."
+    },
+    {
+      "character": "Niki",
+      "text": "The bags just have some stuff I brought over for Ami. Mostly old clothes and extra merchandise that I didn\u2019t have a use for anymore."
+    },
+    {
+      "character": "Noriko",
+      "text": "And also a bunch of stuff that she bought because she wants Ami to like her."
+    },
+    {
+      "character": "Niki",
+      "text": "Noriko! Shut the fuck up or I\u2019m not paying you for this!"
+    },
+    {
+      "character": "Noriko",
+      "text": "Yes, Nee-chan. Anything you say. "
+    },
+    {
+      "character": "Sensei",
+      "text": "You actually bought stuff for Ami? Even I don\u2019t buy stuff for Ami."
+    },
+    {
+      "character": "Niki",
+      "text": "Yeah, well you\u2019re an asshole and I\u2019m a thoughtful and caring person."
+    },
+    {
+      "character": "Niki",
+      "text": "Where is she, by the way? "
+    },
+    {
+      "character": "Sensei",
+      "text": "She\u2019ll be here any second now. The scent of females probably set off an alarm in her brain and caused her defense mode to start."
+    },
+    {
+      "character": "Ami",
+      "text": "Sensei! Are there girls here?! You know how I feel about you inviting-"
+    },
+    {
+      "character": "Ami",
+      "text": "Ah! Niki! My queen!"
+    },
+    {
+      "character": "Ami",
+      "text": "My mind says attack but my heart says love!"
+    },
+    {
+      "character": "Niki",
+      "text": "Hi, Ami! Are you free right now?"
+    },
+    {
+      "character": "Ami",
+      "text": "Me?! Yes! I am always free for you! I will kill for you! Just say the word!"
+    },
+    {
+      "character": "Noriko",
+      "text": "Uhh...where should I put these bags? They\u2019re getting kinda heavy."
+    },
+    {
+      "character": "Niki",
+      "text": "Wonderful. Because I was hoping that the two of us would be able to get to know each other a little better if that\u2019s okay with you."
+    },
+    {
+      "character": "Sensei",
+      "text": "Wait, what?"
+    },
+    {
+      "character": "Niki",
+      "text": "What\u2019s wrong?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I mean...I just expected this to be a more private or personal invitation."
+    },
+    {
+      "character": "Niki",
+      "text": "Private or-"
+    },
+    {
+      "character": "Niki",
+      "text": "Wait- did you think I came here for {i}you?!{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "Well...considering I was the one who invited you..."
+    },
+    {
+      "character": "Niki",
+      "text": "Oh, you sweet summer child. I\u2019m just here to talk to Ami."
+    },
+    {
+      "character": "Sensei",
+      "text": "Why am I the sweet summer child? I\u2019m supposed to be the protagonist. "
+    },
+    {
+      "character": "Niki",
+      "text": "Well then, Mr. Protagonist, why don\u2019t you make yourself useful and go on a little side quest to the convenience store and get us some snacks while we have a bit of a girls\u2019 night in?"
+    },
+    {
+      "character": "Ami",
+      "text": "A...girls\u2019 night with...Niki?"
+    },
+    {
+      "character": "Noriko",
+      "text": "And Noriko! I\u2019m here too!"
+    },
+    {
+      "character": "Niki",
+      "text": "Do you like french fries, Ami? We stopped at a fast food place before coming over."
+    },
+    {
+      "character": "Ami",
+      "text": "I love you! I mean- I {i}love{/i} french fries!"
+    },
+    {
+      "character": "Sensei",
+      "text": "But surely your love for me outweighs the chance to hang out with Niki and eat fast-"
+    },
+    {
+      "character": "Ami",
+      "text": "This way to the living room!"
+    },
+    {
+      "character": "Ami",
+      "text": "If I had known you were coming, I would have cleaned up first!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Didn\u2019t you clean this morning?"
+    },
+    {
+      "character": "Niki",
+      "text": "I\u2019m sorry, were you not listening when I asked you to run along and leave us alone?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I was listening. I just assumed it was a joke on account of {i}this being my house.{/i}"
+    },
+    {
+      "character": "Noriko",
+      "text": "I vote that Sensei stays!"
+    },
+    {
+      "character": "Sensei",
+      "text": "See? Noriko and Ami both want me to stay."
+    },
+    {
+      "character": "Niki",
+      "text": "Funny. I don\u2019t remember Ami saying anything like that."
+    },
+    {
+      "character": "Sensei",
+      "text": "It\u2019s Ami. She doesn\u2019t have to say it. It\u2019s just always true. Right, Ami?"
+    },
+    {
+      "character": "Ami",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Niki",
+      "text": "Well, would you look at that?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Of all the times to betray me..."
+    },
+    {
+      "character": "Noriko",
+      "text": "I tried, Sensei. I really did."
+    },
+    {
+      "character": "Sensei",
+      "text": "Okay, I\u2019ll go. But I\u2019m taking Noriko with me."
+    },
+    {
+      "character": "Niki",
+      "text": "No, you\u2019re not. Noriko\u2019s on the clock."
+    },
+    {
+      "character": "Noriko",
+      "text": "She\u2019s right. I am but a slave to the machine that is the idol industry right now."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "I won\u2019t forget this, Niki."
+    },
+    {
+      "character": "Niki",
+      "text": "Ooooh, so you won\u2019t forget {i}this{/i}, but you\u2019ll forget the five years we dated and how you ruined my life. I\u2019m glad to understand your priorities a little better now."
+    },
+    {
+      "character": "Sensei",
+      "text": "Hey, in a roundabout way, if it wasn\u2019t for me-"
+    },
+    {
+      "character": "Niki",
+      "text": "If you are about to take credit for all of the hard work I\u2019ve invested into reforming myself, I\u2019m just going to steal Ami and never give her back."
+    },
+    {
+      "character": "Sensei",
+      "text": "But then who will do the dishes?"
+    },
+    {
+      "character": "Noriko",
+      "text": "Oh! Me! Me! Noriko will do them!"
+    },
+    {
+      "character": "Niki",
+      "text": "Goodbye, [nikitemp]. Walk slowly, because if you\u2019re back in any less than two hours, I\u2019m not undoing the chain lock."
+    },
+    {
+      "character": "Sensei",
+      "text": "But the convenience store is only a few minutes-"
+    },
+    {
+      "character": "Niki",
+      "text": "One more word out of you and it\u2019ll be {i}three{/i} hours."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Niki",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "You know..."
+    },
+    {
+      "character": "narrator",
+      "text": "This is really not how I planned on tonight going."
+    },
+    {
+      "character": "narrator",
+      "text": "The next time I invite Niki over, I should make her clarify that she will be spending her time with {i}me{/i} rather than trying to poach my [niece]."
+    },
+    {
+      "character": "narrator",
+      "text": "I begrudgingly exit the house- but as I glance back inside to see if Ami is maybe having second thoughts about letting me leave, I see nothing."
+    },
+    {
+      "character": "narrator",
+      "text": "Just an empty space where my [niece] once stood, only to be stolen away by a girl with cotton candy hair."
+    },
+    {
+      "character": "narrator",
+      "text": "First my shirt...now this?"
+    },
+    {
+      "character": "narrator",
+      "text": "Ex-girlfriends really are terrifying..."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Niki",
+      "text": "Why do you look so nervous?"
+    },
+    {
+      "character": "Ami",
+      "text": "Um...because you\u2019re Niki Nakayama and I\u2019m just some random girl who can\u2019t even get a high score on any of your songs in the karaoke booth?"
+    },
+    {
+      "character": "Niki",
+      "text": "Okay, so...that might be who I {i}normally{/i} am. But right now, you can look at me as a...family friend."
+    },
+    {
+      "character": "Ami",
+      "text": "That\u2019s...the part that\u2019s hard for me to do, though."
+    },
+    {
+      "character": "Ami",
+      "text": "Even if you did date my [uncle] in the past, I don\u2019t think I was really old enough to remember it."
+    },
+    {
+      "character": "Niki",
+      "text": "And I wouldn\u2019t expect you to. But since {i}I{/i} remember you, that\u2019s really all that matters."
+    },
+    {
+      "character": "Noriko",
+      "text": "Nee-chan owes you a big debt of gratitude for managing to keep Sensei on his feet after all these years."
+    },
+    {
+      "character": "Niki",
+      "text": "I don\u2019t give two shits about whether he\u2019s on his feet or not. I just want to make sure that Ami is doing okay since I...feel bad that {i}he{/i} had to be her guardian."
+    },
+    {
+      "character": "Ami",
+      "text": "I\u2019m doing great. I\u2019ve actually never been happier."
+    },
+    {
+      "character": "Ami",
+      "text": "It\u2019s true that things were really bad for a while, but we were there for each other when we had to be."
+    },
+    {
+      "character": "Ami",
+      "text": "And even if Sensei isn\u2019t the best guardian and I had to get a job because he wouldn\u2019t buy me things, I can tell he loves me."
+    },
+    {
+      "character": "Ami",
+      "text": "In fact, I can tell he loves me even more than {i}he{/i} thinks he loves me. "
+    },
+    {
+      "character": "Niki",
+      "text": "That\u2019s kind of just how it is with that guy. Never understood why, but it\u2019s like he\u2019s always kept how he really feels locked up so tightly that it looks more like he feels nothing at all."
+    },
+    {
+      "character": "Noriko",
+      "text": "Is that why you\u2019ve always bossed him around?"
+    },
+    {
+      "character": "Niki",
+      "text": "I never {i}bossed him around.{/i}"
+    },
+    {
+      "character": "Noriko",
+      "text": "Nee-chan, you are {i}still{/i} bossing him around. You just kicked him out of his own house so we could talk to Ami."
+    },
+    {
+      "character": "Niki",
+      "text": "There\u2019s a difference between bossing him around and having to make decisions for him! I\u2019m sure Ami knows, but sometimes you {i}have{/i} to push him in a certain direction or he'll just get lost."
+    },
+    {
+      "character": "Noriko",
+      "text": "And today...that direction was the convenience store."
+    },
+    {
+      "character": "Niki",
+      "text": "..."
+    },
+    {
+      "character": "Niki",
+      "text": "Okay. Maybe {i}that{/i} was bossy."
+    },
+    {
+      "character": "Niki",
+      "text": "But I did it to get closer to Ami, so it was all worth it."
+    },
+    {
+      "character": "Ami",
+      "text": "I don\u2019t understand, though...why do you want to get closer to me? It can\u2019t just be because you think Sensei is a bad guardian or that...you want to thank me."
+    },
+    {
+      "character": "Ami",
+      "text": "I just did what any other girl in my position would do because...Sensei\u2019s the only client I have."
+    },
+    {
+      "character": "Niki",
+      "text": "But he doesn\u2019t have to be."
+    },
+    {
+      "character": "Ami",
+      "text": "Are you trying to marry him?!"
+    },
+    {
+      "character": "Noriko",
+      "text": "Uhhhhhh..."
+    },
+    {
+      "character": "Niki",
+      "text": "What? No. I\u2019m not even trying to date him."
+    },
+    {
+      "character": "Niki",
+      "text": "I\u2019m just trying to say that I wouldn\u2019t mind if...you helped me with my taxes as well..."
+    },
+    {
+      "character": "Niki",
+      "text": "Even if we\u2019re not as close to [nikitemp] as we used to be, he\u2019s still an important part of our lives that\u2019s never going to go away. And Ami deserves a lot more than just him."
+    },
+    {
+      "character": "Noriko",
+      "text": "Why do you keep calling him [nikitemp]?"
+    },
+    {
+      "character": "Ami",
+      "text": "I was wondering that, too."
+    },
+    {
+      "character": "Niki",
+      "text": "Unimportant. "
+    },
+    {
+      "character": "Niki",
+      "text": "I just want to do my part for both an unofficial family member {i}and{/i} one of my biggest fans in letting her know that I\u2019ll always be here for her."
+    },
+    {
+      "character": "Niki",
+      "text": "Even when her [uncle] manages to fuck things up all over again, which he definitely will."
+    },
+    {
+      "character": "Noriko",
+      "text": "I\u2019ll be here, too. "
+    },
+    {
+      "character": "Noriko",
+      "text": "Obviously, that\u2019s probably not as cool as my sister saying it, but you really are like family to us."
+    },
+    {
+      "character": "Ami",
+      "text": "I...um..."
+    },
+    {
+      "character": "Ami",
+      "text": "I don\u2019t really know what to say..."
+    },
+    {
+      "character": "Ami",
+      "text": "This is all really sudden and it feels kinda like a dream. "
+    },
+    {
+      "character": "Niki",
+      "text": "Just a...convenient side effect of us growing up in the house next door to your [uncle]. "
+    },
+    {
+      "character": "Niki",
+      "text": "I always wanted to do something like this if we ever wound up walking into your life again, so consider it my way of making amends for not being there earlier...when I wanted to be."
+    },
+    {
+      "character": "Ami",
+      "text": "..."
+    },
+    {
+      "character": "Niki",
+      "text": "..."
+    },
+    {
+      "character": "Ami",
+      "text": "Are you sure you\u2019re not trying to marry him?"
+    },
+    {
+      "character": "Niki",
+      "text": "Uh...yeah."
+    },
+    {
+      "character": "Ami",
+      "text": "Because if you do, I won\u2019t let you use your big sister powers to get rid of me."
+    },
+    {
+      "character": "Ami",
+      "text": "Marrying Sensei includes promising to look after me for the rest of my life, as I have sworn to be there for him whether he wants me to or not."
+    },
+    {
+      "character": "Niki",
+      "text": "That\u2019s...fine?"
+    },
+    {
+      "character": "Ami",
+      "text": "Don\u2019t get me wrong, I\u2019d still prefer that you {i}don\u2019t{/i} marry Sensei. But if there is going to be anyone I would make an exception for, it\u2019s you."
+    },
+    {
+      "character": "Ami",
+      "text": "As long as you also agree to the thing I said, I mean."
+    },
+    {
+      "character": "Noriko",
+      "text": "What do you think? She seems like she\u2019ll be even higher maintenance as a sister than I am and I {i}still{/i} steal your clothes without telling you sometimes."
+    },
+    {
+      "character": "Niki",
+      "text": "I don\u2019t care how \u201chigh maintenance\u201d she is. I just want her to have somebody else to rely on."
+    },
+    {
+      "character": "Ami",
+      "text": "Well...I\u2019m not sure {i}how{/i} I\u2019m supposed to rely on you when I\u2019m already happy with how things are..."
+    },
+    {
+      "character": "Ami",
+      "text": "But I...would like to see you more, if that\u2019s okay."
+    },
+    {
+      "character": "Ami",
+      "text": "I don\u2019t know if I\u2019ll ever be able to look at you as family...but I know that you really do care about my [uncle] and...that I can\u2019t ignore your past with each other no matter how much I want to."
+    },
+    {
+      "character": "Niki",
+      "text": "Why would you want-"
+    },
+    {
+      "character": "Ami",
+      "text": "At the end of the day...I\u2019m just happy to have you two on my side. "
+    },
+    {
+      "character": "Noriko",
+      "text": "Your side as opposed to what?"
+    },
+    {
+      "character": "Ami",
+      "text": "Any side that wants to get rid of me."
+    },
+    {
+      "character": "Ami",
+      "text": "Sensei is my entire life- and neither of you think that\u2019s a problem."
+    },
+    {
+      "character": "Niki",
+      "text": "I mean...he\u2019s not your {i}entire{/i} life, is he?"
+    },
+    {
+      "character": "Ami",
+      "text": "He is. And if either of you two hurt him, I will be very, {i}very{/i} unkind to you."
+    },
+    {
+      "character": "Ami",
+      "text": "If you are okay with that...then I\u2019m okay with letting you two in."
+    },
+    {
+      "character": "Niki",
+      "text": "Any objections, Noriko?"
+    },
+    {
+      "character": "Noriko",
+      "text": "Do you even have to ask?"
+    },
+    {
+      "character": "Niki",
+      "text": "I hate that I don\u2019t."
+    },
+    {
+      "character": "Niki",
+      "text": "Besides, I doubt it\u2019s even possible to hurt him at this point."
+    },
+    {
+      "character": "Niki",
+      "text": "If anything {i}does{/i} hurt him, he\u2019ll just rationalize it in whatever twisted way his weirdo brain wants to come up with and come out totally fine within a matter of days."
+    },
+    {
+      "character": "Ami",
+      "text": "It\u2019s settled, then! "
+    },
+    {
+      "character": "Ami",
+      "text": "From now on, the two of you can come over as much as you like as long as you don\u2019t touch my [uncle]!"
+    },
+    {
+      "character": "Noriko",
+      "text": "A step in the right direction! Hooray!"
+    },
+    {
+      "character": "Niki",
+      "text": "I\u2019m happy to hear that, Ami. "
+    },
+    {
+      "character": "Niki",
+      "text": "I really hope that the two of us can grow closer."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Ami",
+      "text": "Sensei! I have sisters now!"
+    },
+    {
+      "character": "Noriko",
+      "text": "We're going to Disneyland!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Can I come, at least?"
+    },
+    {
+      "character": "Niki",
+      "text": "No. But you can put on a pot of coffee for us, if you\u2019d be so kind."
+    },
+    {
+      "character": "Ami",
+      "text": "Niki bought me clothes! I\u2019m going to be pretty!"
+    },
+    {
+      "character": "Sensei",
+      "text": "You {i}are{/i} pretty, Ami. "
+    },
+    {
+      "character": "Ami",
+      "text": "Not pretty enough!"
+    },
+    {
+      "character": "Niki",
+      "text": "Come on, Ami! Let\u2019s get those clothes off!"
+    },
+    {
+      "character": "Ami",
+      "text": "Yes, Niki! Anything for you!"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Noriko",
+      "text": "..."
+    },
+    {
+      "character": "Niki",
+      "text": "NORIKO! BAGS!"
+    },
+    {
+      "character": "Sensei",
+      "text": "I think you\u2019re being summoned."
+    },
+    {
+      "character": "Noriko",
+      "text": "Yes. But, before I go, I would like to remind you that there are roughly 750 million pus cells in every litre of milk!"
+    },
+    {
+      "character": "Niki",
+      "text": "NORIKO! GET THE FUCKING BAGS!"
+    },
+    {
+      "character": "Noriko",
+      "text": "Coming, Nee-chan!"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I think it might be time for me to move out."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Niki\u2019s affection has increased to [niki_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "nikiinvite1": {
+      "from": null,
+      "to": true
+    }
+  }
+}

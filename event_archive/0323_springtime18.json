@@ -1,0 +1,648 @@
+{
+  "event_id": 323,
+  "event_label": "springtime18",
+  "dialogue": [
+    {
+      "character": "Sensei",
+      "text": "Affection........decay..........ten points..........everyone........leaving........."
+    },
+    {
+      "character": "Ami",
+      "text": "Not everyone! I\u2019m still here! You\u2019re okay! "
+    },
+    {
+      "character": "Ami",
+      "text": "They didn\u2019t hurt you, did they? {b}Let me see your hands.{/b} I want to make sure you didn\u2019t get any glass stuck in them."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Ami",
+      "text": "I know! I\u2019m sorry! I shouldn\u2019t have left you! I thought they\u2019d be at the party! I didn\u2019t expect them to come here! Not today!"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Ami",
+      "text": "You\u2019re right. It isn\u2019t safe here anymore..."
+    },
+    {
+      "character": "Ami",
+      "text": "If those two are going to try stealing you away from me, it means others might try something as well."
+    },
+    {
+      "character": "Ami",
+      "text": "Ayane\u2019s already here every day. And Niki and Noriko keep trying to get inside too. Which means it\u2019s only a matter of time before Chika and Makoto and everyone else comes breaking in next."
+    },
+    {
+      "character": "Ami",
+      "text": "It\u2019s you and me against the world. {i}Again.{/i} But we\u2019ve fought this fight before. We just need to hang on a little bit longer and we\u2019ll have the life we\u2019ve always wanted."
+    },
+    {
+      "character": "Ami",
+      "text": "Doesn\u2019t that sound great?! It\u2019ll be like the last two months, just it\u2019ll go on forever and ever and ever and ever and ever-"
+    },
+    {
+      "character": "Sensei",
+      "text": "Where........she?..........."
+    },
+    {
+      "character": "Ami",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Where?............"
+    },
+    {
+      "character": "Ami",
+      "text": "I\u2019m afraid I don\u2019t know what you\u2019re talking about, [amimaster]. And I imagine that, right now, you\u2019re so shaken up from the house being broken into that {i}you{/i} don\u2019t know either."
+    },
+    {
+      "character": "Ami",
+      "text": "So why don\u2019t you just lay back down while I clean up the glass and figure out how to replace a window? "
+    },
+    {
+      "character": "Sensei",
+      "text": "My fault..........."
+    },
+    {
+      "character": "Sensei",
+      "text": "She\u2019s gone.......because of-"
+    },
+    {
+      "character": "Ami",
+      "text": "Stop blaming yourself for everything! "
+    },
+    {
+      "character": "Ami",
+      "text": "You always do that, but you\u2019ve never done a {i}thing{/i} wrong in your life! You\u2019re a good person! It\u2019s everyone else who\u2019s evil, not you!"
+    },
+    {
+      "character": "Ami",
+      "text": "And if anyone {i}did{/i} leave, it\u2019s probably because they realized they never deserved you in the first place! Or that they never loved you at all!"
+    },
+    {
+      "character": "Ami",
+      "text": "All those girls! All those messages and dirty pictures! They were all trying to take advantage of you! Every single one of them! But they failed!"
+    },
+    {
+      "character": "Ami",
+      "text": "They failed because you still chose me in the end! Like you\u2019re supposed to! Because you know that I\u2019m the only one for you! The only one who will ever get it!"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Ami",
+      "text": "I know..."
+    },
+    {
+      "character": "Ami",
+      "text": "I tell myself I\u2019m the perfect niece, but I know better than anyone how perfection\u2019s just a lie now that Mom is gone."
+    },
+    {
+      "character": "Ami",
+      "text": "I\u2019m trying really hard to be just like her...but it seems impossible, [amimaster]. How could one half ever replace a whole? "
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Ami",
+      "text": "What?..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Ami",
+      "text": "You {i}saw{/i} her?"
+    },
+    {
+      "character": "Ami",
+      "text": "Where?...How?..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Ami",
+      "text": "In a dream?...Because, if that\u2019s the case, I see her too. Every night when I close my eyes. "
+    },
+    {
+      "character": "Ami",
+      "text": "Well, maybe not {i}every{/i} night because I always {i}always{/i} dream of you too. But when it\u2019s not you, which it always is, it\u2019s her."
+    },
+    {
+      "character": "Ami",
+      "text": "Sometimes, it\u2019s the three of us. Sometimes my dad is there too."
+    },
+    {
+      "character": "Ami",
+      "text": "But...you know what, Sensei? You\u2019re just as much of a dad to me as he was. Maybe even more so."
+    },
+    {
+      "character": "Ami",
+      "text": "You\u2019ve been with me longer, after all. Not by much, but by enough. And you\u2019ve seen me grow into a special girl who-"
+    },
+    {
+      "character": "Ami",
+      "text": "Shut up!"
+    },
+    {
+      "character": "Ami",
+      "text": "You\u2019ve seen me grow into a special girl who would do anything to make you happy. {i}Anything.{/i} So if there\u2019s anyone you want me to get rid of, all you have to do is tell me. [amimaster]."
+    },
+    {
+      "character": "Ami",
+      "text": "It\u2019s either that, or we leave everyone behind and go somewhere no one can find us. "
+    },
+    {
+      "character": "Ami",
+      "text": "Somewhere {i}outside{/i} the barrier."
+    },
+    {
+      "character": "Ami",
+      "text": "I\u2019m sure it\u2019ll be scary, but-"
+    },
+    {
+      "character": "Sensei",
+      "text": "No..."
+    },
+    {
+      "character": "Ami",
+      "text": "No?..."
+    },
+    {
+      "character": "Ami",
+      "text": "Why \u201cno?\u201d Don\u2019t tell me you {i}want{/i} all those evil girls chasing after you all day? Because we both know that would be a lie. "
+    },
+    {
+      "character": "Ami",
+      "text": "And right now, anything you {i}think{/i} you want is a thought you\u2019re only thinking \u2018cause you\u2019re cornered."
+    },
+    {
+      "character": "Ami",
+      "text": "Close your eyes. Close your eyes and think back to the moment you were happiest. "
+    },
+    {
+      "character": "Ami",
+      "text": "What is it you see, [amimaster]?"
+    },
+    {
+      "character": "Maya",
+      "text": "{b}Don\u2019t talk. You\u2019ll just ruin everything.{/b}"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Ami",
+      "text": "You see {i}me,{/i} don\u2019t you?"
+    },
+    {
+      "character": "Ami",
+      "text": "You\u2019ve seen so many things, yet it\u2019s {i}me{/i} who\u2019s at the forefront of your happiest memory."
+    },
+    {
+      "character": "Ami",
+      "text": "You probably see the two of us...cuddled together on the couch...your body pressing up against mine..."
+    },
+    {
+      "character": "Ami",
+      "text": "You can feel my warmth...smell my shampoo...and I can hear your heartbeat."
+    },
+    {
+      "character": "Ami",
+      "text": "Thump thump...thump thump...like it\u2019s the soundtrack to a brighter day. And all my troubles melt a-"
+    },
+    {
+      "character": "Sensei",
+      "text": "Ahh.........aaaah......."
+    },
+    {
+      "character": "Ami",
+      "text": "Don\u2019t cry! Don\u2019t cry! I\u2019m right here! I\u2019ve got you..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Is it..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Is it really over?..."
+    },
+    {
+      "character": "Ami",
+      "text": "Is {i}what{/i} over? The...home intrusion? Yeah. Yeah, I sent them away before they could hurt you. You\u2019re safe now."
+    },
+    {
+      "character": "Sensei",
+      "text": "No...that\u2019s not..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Is..."
+    },
+    {
+      "character": "Sensei",
+      "text": "{b}Maya...{/b}"
+    },
+    {
+      "character": "Sensei",
+      "text": "Is she..."
+    },
+    {
+      "character": "Ami",
+      "text": "{i}Stop{/i} bringing her up."
+    },
+    {
+      "character": "Ami",
+      "text": "Maya never cared about you. And she never {i}will{/i} care about you because she\u2019s a filthy liar who manipulates people into doing what she wants them to do. Plus, she-"
+    },
+    {
+      "character": "Ami",
+      "text": "I told you to shut up!"
+    },
+    {
+      "character": "Ami",
+      "text": "Plus, she\u2019s changed a lot these last couple months. I guess her true colors are really coming out now that her favorite {i}toy{/i} has been taken away."
+    },
+    {
+      "character": "Sensei",
+      "text": "I..."
+    },
+    {
+      "character": "Sensei",
+      "text": "I will be a toy if it means..."
+    },
+    {
+      "character": "Ami",
+      "text": "You will do nothing of the sort. Your brain is going haywire right now and you\u2019re saying things you don\u2019t mean. But that\u2019s {i}my{/i} fault for leaving you alone in a place where people can find you. "
+    },
+    {
+      "character": "Ami",
+      "text": "I should have worked harder to keep the bugs out. "
+    },
+    {
+      "character": "Ami",
+      "text": "But I\u2019ll learn from this mistake."
+    },
+    {
+      "character": "Ami",
+      "text": "I\u2019ll learn from this mistake and take you somewhere no one will be able to find you...so you can rest and recover in peace and remember just who it is you {i}really{/i} are."
+    },
+    {
+      "character": "Ami",
+      "text": "But until then...until you\u2019re {i}you{/i} again...you\u2019re just going to have to trust me."
+    },
+    {
+      "character": "Ami",
+      "text": "Only {i}I{/i} can fix you. Not Ayane. Not {i}Maya.{/i} And sure as hell not Uta and Io, who are probably blabbing to the rest of the girls as we speak. "
+    },
+    {
+      "character": "Ami",
+      "text": "It was only a matter of time until the lot of them started forcing their way in, just like they forced themselves into your contacts and your life. Into {i}our{/i} life. A life I\u2019ve wanted back for {i}years.{/i}"
+    },
+    {
+      "character": "Ami",
+      "text": "I won\u2019t give it up again, [amimaster]. The sting of loneliness is a bit too much for a frail little girl like me to bear."
+    },
+    {
+      "character": "Ami",
+      "text": "And you don\u2019t want to see me {i}break,{/i} do you?"
+    },
+    {
+      "character": "Ami",
+      "text": "You want to keep me {i}happy,{/i} don\u2019t you?"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Ami",
+      "text": "Exactly."
+    },
+    {
+      "character": "Sensei",
+      "text": "I didn\u2019t...say anything..."
+    },
+    {
+      "character": "Ami",
+      "text": "You don\u2019t need to. "
+    },
+    {
+      "character": "Ami",
+      "text": "I understand you better than {i}you{/i} ever will. "
+    },
+    {
+      "character": "Ami",
+      "text": "Now close your eyes and drink your milk while I read you another Christmas story."
+    },
+    {
+      "character": "Ami",
+      "text": "When the morning comes, you\u2019ll feel much better. Every day you grow some more."
+    },
+    {
+      "character": "Ami",
+      "text": "A perfect season, perfect weather-"
+    },
+    {
+      "character": "Ami",
+      "text": "On the way to twenty-four."
+    },
+    {
+      "character": "narrator",
+      "text": "Miles away, we\u2019re reunited with a very peculiar family as they carefully inspect a building purchased by the eldest child. "
+    },
+    {
+      "character": "narrator",
+      "text": "While she initially claimed the reason for this was to better prepare her for the future ahead, the truth is that it was a concerted effort to make an adult male like her more."
+    },
+    {
+      "character": "narrator",
+      "text": "The thing is, this truth wasn\u2019t even known by her at the time the property was purchased \u2014 and it wouldn\u2019t become relevant until days later on a hidden beach inhabited by glowing insects."
+    },
+    {
+      "character": "narrator",
+      "text": "There, bathed in neon light, she would take inadvertent notice of the beating of her heart \u2014 thump thump, thump thump \u2014 as she subconsciously thanked God that she showed up when she did."
+    },
+    {
+      "character": "narrator",
+      "text": "It was a selfish thought. And she hated having selfish feelings, so she shelved it the best she could and pretended to be apologetic about the interruption."
+    },
+    {
+      "character": "narrator",
+      "text": "But she was lying."
+    },
+    {
+      "character": "narrator",
+      "text": "She didn\u2019t have much experience with lying, but she didn\u2019t {i}need{/i} it as she had acquired the skill at birth."
+    },
+    {
+      "character": "narrator",
+      "text": "You see, her mother was exceptional at it. So exceptional that her daughters still believed her to be pure of heart despite the organ pumping sludge through her veins on a near constant basis."
+    },
+    {
+      "character": "narrator",
+      "text": "It was this sludge that was passed on to her daughters. And while it had not fully corrupted them yet, it was sure to do so over time."
+    },
+    {
+      "character": "narrator",
+      "text": "Some might say it had already gotten to the youngest of the three \u2014 but those who {i}would{/i} say that have neglected her feelings just as much as her family has."
+    },
+    {
+      "character": "narrator",
+      "text": "Another truth is that the young one was disposable. There was no need for a second child in the Tsukioka family. Their existence was naught more than a failsafe should the eldest perish."
+    },
+    {
+      "character": "narrator",
+      "text": "Tsukasa Tsukioka knew this. And some nights, she prayed that a terrible fate would befall her older sister because she knew it would make her more loved without needing to act out."
+    },
+    {
+      "character": "narrator",
+      "text": "But she was also kind at heart, so these thoughts made her cry. And she would keep them to herself,  subconsciously unearthing them only during fits of anger or jealousy."
+    },
+    {
+      "character": "narrator",
+      "text": "The three made an interesting trio. A solar system, if you will \u2014 with two small planets orbiting a sun that, if it wanted to, could destroy everything in its path."
+    },
+    {
+      "character": "narrator",
+      "text": "But tonight was a night for creation. Or at least the {i}support{/i} of creation as one of the planets in the solar system was in the process of building its very own moon."
+    },
+    {
+      "character": "narrator",
+      "text": "Or perhaps it was a space station. Maybe even a satellite of sorts. Regardless, it was being put there not for aesthetic or tidal purposes, but for safety."
+    },
+    {
+      "character": "narrator",
+      "text": "It could be a meatless meat shield for unlucky asteroids \u2014 or shelter should humanity\u2019s decline inch ever closer to zero."
+    },
+    {
+      "character": "narrator",
+      "text": "But whatever it was, it was dangerous since the kindness of one heart often incites nearby ones to latch on like cardiovascular lampreys."
+    },
+    {
+      "character": "narrator",
+      "text": "These creatures would not know they were sucking sludge out of arterial straws. "
+    },
+    {
+      "character": "narrator",
+      "text": "And the world would turn black as the spread of this substance would no longer be avoidable."
+    },
+    {
+      "character": "narrator",
+      "text": "But I suppose that\u2019s all conjecture. "
+    },
+    {
+      "character": "narrator",
+      "text": "I suppose that\u2019s just one of many potential outcomes."
+    },
+    {
+      "character": "narrator",
+      "text": "After all, predicting the future means nothing when the past and the present so often rewrite themselves."
+    },
+    {
+      "character": "narrator",
+      "text": "But it {i}does{/i} keep things interesting. "
+    },
+    {
+      "character": "narrator",
+      "text": "And that was all the sun wanted at the end of the day."
+    },
+    {
+      "character": "Tsubasa",
+      "text": "Hmm..."
+    },
+    {
+      "character": "narrator",
+      "text": "Unless even {i}I\u2019ve{/i} been lied to."
+    },
+    {
+      "character": "Tsubasa",
+      "text": "Touka dear, you\u2019ve contacted a contractor about the walls, correct? I\u2019ve noticed cracks in several of them and I\u2019m beginning to question just what was used to construct this building."
+    },
+    {
+      "character": "Touka",
+      "text": "Yes, Mother. I have several quotes for repairs on file and three more inspections scheduled for tomorrow morning. "
+    },
+    {
+      "character": "Tsubasa",
+      "text": "Excellent. And Chika? Have you spoken with her recently?"
+    },
+    {
+      "character": "Touka",
+      "text": "Not as recently as {i}you,{/i} I presume. I\u2019ve been a bit preoccupied with {i}this.{/i}"
+    },
+    {
+      "character": "Tsubasa",
+      "text": "Yes, well, {i}she\u2019s{/i} been a bit preoccupied with the apparent disappearance of your teacher. Which I assume is a contributing factor to your recent {i}attitude{/i} as well, my dear."
+    },
+    {
+      "character": "Tsukasa",
+      "text": "Mother, the television keeps breaking! I can\u2019t get any channel to stay on!"
+    },
+    {
+      "character": "Tsukasa",
+      "text": "I wonder if it\u2019s because it\u2019s so small? "
+    },
+    {
+      "character": "Tsubasa",
+      "text": "Don\u2019t worry, darling. I\u2019m sure your sister has someone coming to look at {i}that{/i} tomorrow as well."
+    },
+    {
+      "character": "Touka",
+      "text": "I do not have an {i}attitude,{/i} Mother. I am simply overwhelmed with the amount of work I\u2019ve had to do as of late. And I would greatly appreciate it if you would not take {i}your{/i} attitude out on {i}me.{/i}"
+    },
+    {
+      "character": "Tsubasa",
+      "text": "I\u2019m doing no such thing. I just don\u2019t understand why you haven\u2019t asked me to step in at all if the absence of your beloved teacher is causing you so much distress."
+    },
+    {
+      "character": "Touka",
+      "text": "Aren\u2019t we only meant to use our {i}influence{/i} when it means bettering something? Because, regardless of my personal feelings on the matter, Sensei\u2019s absence does little measurable {i}harm{/i} to anyone."
+    },
+    {
+      "character": "Tsubasa",
+      "text": "Yes, but don\u2019t you think things have been awfully {i}boring{/i} these last two months? Even {i}I{/i} had more fun when he was around. Why, I\u2019ve checked his room twice tonight in hopes of encountering him."
+    },
+    {
+      "character": "Touka",
+      "text": "Please stay out of my tenant\u2019s rooms, Mother. It\u2019s an invasion of their privacy and goes against several important terms in the rental agreement."
+    },
+    {
+      "character": "Tsukasa",
+      "text": "Mother! The television\u2019s back on!"
+    },
+    {
+      "character": "Tsukasa",
+      "text": "This show looks kind of weird, though."
+    },
+    {
+      "character": "Tsubasa",
+      "text": "That\u2019s very nice, Tsukasa. And Touka, need I remind you that you only have {i}one{/i} tenant at the moment? And I doubt Ak...{i}ahem...{/i}Arakawa-sensei would mind me going through his things."
+    },
+    {
+      "character": "Touka",
+      "text": "It\u2019s {i}about{/i} to be two. And Sensei doesn\u2019t {i}have{/i} anything for you to go through, Mother. He barely even uses this place."
+    },
+    {
+      "character": "Tsubasa",
+      "text": "Oh my, it sounds as if you\u2019ve done a fair bit of exploring in his room as well. Haven\u2019t you, dear?"
+    },
+    {
+      "character": "Touka",
+      "text": "Only when necessary."
+    },
+    {
+      "character": "Tsubasa",
+      "text": "So you concede that we can get our hands dirty when it\u2019s {i}necessary,{/i} do you? In that case, how much longer do you think we should wait before doing a little...{i}interference{/i} in his affairs?"
+    },
+    {
+      "character": "Tsubasa",
+      "text": "For the greater good, of course. That greater good being {i}us.{/i}"
+    },
+    {
+      "character": "Touka",
+      "text": "Don\u2019t you mean {i}me?{/i} He\u2019s my teacher, after all. And unless you don\u2019t trust me, you have little reason to even communicate with him."
+    },
+    {
+      "character": "Tsubasa",
+      "text": "Well, that\u2019s not true at all. He\u2019s become quite a good friend of mine. And soon, he\u2019ll be tutoring your little sister. Isn\u2019t that right, Tsukasa?"
+    },
+    {
+      "character": "Tsukasa",
+      "text": "Yes, Mother. And, is it okay if I stand next to you now? This show is really weird."
+    },
+    {
+      "character": "Tsubasa",
+      "text": "Of course, dear. And you don\u2019t need permission to stand next to me."
+    },
+    {
+      "character": "Touka",
+      "text": "Could you not find her a different tutor? It\u2019s one thing to delay her studies for two months, but to do so because you\u2019re waiting for {i}my{/i} teacher to become available is just...well, it\u2019s odd."
+    },
+    {
+      "character": "Tsubasa",
+      "text": "Nonsense, dear. Tsukasa\u2019s taken quite the liking to Arakawa-sensei. Haven\u2019t you, Tsukasa?"
+    },
+    {
+      "character": "Tsukasa",
+      "text": "That\u2019s right, Mother. He {i}is{/i} my future husband after all. I will most likely {i}have{/i} to like him at some point. "
+    },
+    {
+      "character": "Tsubasa",
+      "text": "Hahah! My, how adorable!"
+    },
+    {
+      "character": "Touka",
+      "text": "Is there anything else the two of you need? Or can I go back to finalizing the listings for my apartment now?"
+    },
+    {
+      "character": "Touka",
+      "text": "I advised Chika the room would be ready for her come the new year. And I\u2019m beginning to worry it might take at least another three months to get you two {i}out{/i} of it."
+    },
+    {
+      "character": "Tsubasa",
+      "text": "My, you\u2019re awfully catty tonight, aren\u2019t you? Who\u2019d have known that my darling daughter\u2019s first rebellious phase would be due to {i}love?{/i}"
+    },
+    {
+      "character": "Touka",
+      "text": "Out! Now!"
+    },
+    {
+      "character": "Tsubasa",
+      "text": "Hahah! Come, Tsukasa. Let\u2019s get you to bed."
+    },
+    {
+      "character": "Tsukasa",
+      "text": "But...Mother! Touka just raised her voice at you! We\u2019re never supposed to do that!"
+    },
+    {
+      "character": "Tsubasa",
+      "text": "Your big sister is going through a {i}very{/i} stressful time in her life right now, dear. It\u2019s probably best if we keep our noses out of it until she\u2019s feeling a little better."
+    },
+    {
+      "character": "Tsukasa",
+      "text": "But that could take forever! What if she stays miserable for the rest of her life like all of my servants?"
+    },
+    {
+      "character": "Tsubasa",
+      "text": "I\u2019m sure she\u2019ll go right back to normal once her teacher\u2019s {i}vacation{/i} comes to an end."
+    },
+    {
+      "character": "Touka",
+      "text": "I said get out!"
+    }
+  ],
+  "state_changes": {
+    "tsubasa_love -": {
+      "from": null,
+      "to": 10
+    },
+    "tsukasa_love -": {
+      "from": null,
+      "to": 10
+    },
+    "springtime18": {
+      "from": null,
+      "to": true
+    },
+    "touka_love -": {
+      "from": null,
+      "to": 10
+    }
+  }
+}

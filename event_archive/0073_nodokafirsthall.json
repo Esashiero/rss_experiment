@@ -1,0 +1,208 @@
+{
+  "event_id": 73,
+  "event_label": "nodokafirsthall",
+  "dialogue": [
+    {
+      "character": "Nodoka",
+      "text": "Oh. Well, hello there."
+    },
+    {
+      "character": "Nodoka",
+      "text": "To what do I owe the pleasure, Sensei?"
+    },
+    {
+      "character": "Sensei",
+      "text": "No pleasure involved, just here to kill some time."
+    },
+    {
+      "character": "Nodoka",
+      "text": "No pleasure involved? Not even a little bit?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I mean...if you want there to be pleasure..."
+    },
+    {
+      "character": "Nodoka",
+      "text": "Of course I want there to be pleasure. "
+    },
+    {
+      "character": "Nodoka",
+      "text": "Why else would I have this word-coated rectangular object in my hands?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Weird way to say \u201cbook\u201d but okay."
+    },
+    {
+      "character": "Nodoka",
+      "text": "What I mean to ask is why bother indulging yourself in anything if there is nothing to leech from it?"
+    },
+    {
+      "character": "Nodoka",
+      "text": "We are all but leeches, Sensei. Digging our tiny, jagged teeth into anything they\u2019ll latch onto in search of the essence of life."
+    },
+    {
+      "character": "Sensei",
+      "text": "Weird way to say \u201cblood\u201d but okay again."
+    },
+    {
+      "character": "Nodoka",
+      "text": "Would you at least agree that words without experience are meaningless?"
+    },
+    {
+      "character": "Nodoka",
+      "text": "It\u2019s something that appeared inside of this very rectangle and I\u2019d be a liar if I were to say it didn\u2019t provoke some impure thoughts in this old noggin of mine."
+    },
+    {
+      "character": "Sensei",
+      "text": "You\u2019re still in [high_school]. Your noggin is absolutely not \u201cold.\u201d"
+    },
+    {
+      "character": "Nodoka",
+      "text": "No, it is not."
+    },
+    {
+      "character": "Nodoka",
+      "text": "But that calls into question exactly why I am reading {i}this{/i} specific piece of literature despite having no experience in its subject matter."
+    },
+    {
+      "character": "Nodoka",
+      "text": "If words without experience are meaningless, shouldn\u2019t {i}these{/i} words, which I have no experience {i}with{/i}, simply bounce off the walls of my brain without so much as leaving a minor bruise?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Can brains even bruise?"
+    },
+    {
+      "character": "Nodoka",
+      "text": "Probably? I can\u2019t imagine it would feel very nice, though."
+    },
+    {
+      "character": "Sensei",
+      "text": "What are you reading anyway?"
+    },
+    {
+      "character": "Nodoka",
+      "text": "\u201cClifford the Big Red Dog.\u201d Are you familiar with it?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Vaguely. I feel like I read that a long time ago but I\u2019m kind of hazy on the details."
+    },
+    {
+      "character": "Nodoka",
+      "text": "I\u2019m not surprised you\u2019ve read it given your...demeanor so far."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah. I really do present myself as a Clifford lover, don't I?"
+    },
+    {
+      "character": "Nodoka",
+      "text": "There's so much about you I can deduce just from that little factoid alone."
+    },
+    {
+      "character": "Sensei",
+      "text": "Are you suggesting something about me, Nodoka?"
+    },
+    {
+      "character": "Nodoka",
+      "text": "I'm not {i}not{/i} suggesting something about you, dog lover."
+    },
+    {
+      "character": "Sensei",
+      "text": "Is this a manipulation tactic?"
+    },
+    {
+      "character": "Nodoka",
+      "text": "What would I possibly manipulate you into doing that you wouldn\u2019t already do on your own?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Reading more books."
+    },
+    {
+      "character": "Nodoka",
+      "text": "Ahh, yes. The consumption of knowledge has become more taboo than any illicit relationship out there."
+    },
+    {
+      "character": "Nodoka",
+      "text": "It\u2019s certainly starting to feel like that, at least."
+    },
+    {
+      "character": "Nodoka",
+      "text": "I\u2019m surprised you\u2019ve managed to go so long without diving into a word-maze, though."
+    },
+    {
+      "character": "Sensei",
+      "text": "Jesus, Nodoka. Just use the word \u201cbook.\u201d"
+    },
+    {
+      "character": "Nodoka",
+      "text": "Well now I\u2019m just going to continue abstaining out of sheer spite."
+    },
+    {
+      "character": "Sensei",
+      "text": "Of course you are..."
+    },
+    {
+      "character": "Nodoka",
+      "text": "Futaba tells me you used to be a writer, Sensei. "
+    },
+    {
+      "character": "Nodoka",
+      "text": "Why is it that you\u2019ve given up on that? "
+    },
+    {
+      "character": "Sensei",
+      "text": "At this point, my brain is so all over the place that I feel like anything I write would come out twisted and indiscernible."
+    },
+    {
+      "character": "Nodoka",
+      "text": "Clifford's really gotten to you, huh?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Why is he so big? They never explain it."
+    },
+    {
+      "character": "Nodoka",
+      "text": "Sensei...you\u2019re {i}really{/i} trying to excite me now, aren\u2019t you?"
+    },
+    {
+      "character": "Sensei",
+      "text": "What? No. I'm trying to open up to you about what the book series has done to me."
+    },
+    {
+      "character": "Sensei",
+      "text": "What the fuck. Don't just leave."
+    },
+    {
+      "character": "Nodoka",
+      "text": "{i}Can't hear you!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "I feel so alone all of a sudden."
+    },
+    {
+      "character": "narrator",
+      "text": "Either way, I decide to simply go home and rest."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Nodoka's affection has increased to [nodoka_love]!{/i}"
+    }
+  ],
+  "state_changes": {
+    "nodoka_love +": {
+      "from": null,
+      "to": 1
+    },
+    "nodokafirsthall": {
+      "from": null,
+      "to": true
+    }
+  }
+}

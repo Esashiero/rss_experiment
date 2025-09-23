@@ -1,0 +1,988 @@
+{
+  "event_id": 158,
+  "event_label": "beachmas20",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "Somehow, I wind up in the backseat of a limousine heading to who-knows-where when, just moments ago, I was less than an inch from flipping the world on its head."
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019m not sure when I switched to auto-pilot, but it feels like every minute since leaving Noriko alone in her orange-tinted clearing has been the first minute of my life."
+    },
+    {
+      "character": "narrator",
+      "text": "So I ask you-"
+    },
+    {
+      "character": "narrator",
+      "text": "When was the last time {i}you{/i} felt alive?"
+    },
+    {
+      "character": "narrator",
+      "text": "Because for me, it..."
+    },
+    {
+      "character": "narrator",
+      "text": "Fuck it."
+    },
+    {
+      "character": "narrator",
+      "text": "I don\u2019t want to talk to you anymore."
+    },
+    {
+      "character": "Sensei",
+      "text": "You know...you\u2019re one of the last people I would have expected to end the night with."
+    },
+    {
+      "character": "Touka",
+      "text": "Oh? And why is that?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Because I\u2019ve been having a nonstop marathon of melancholy with girls that I know much better than you over the last forty-eight hours- in which I have barely seen {i}you{/i} at all."
+    },
+    {
+      "character": "Touka",
+      "text": "That problem could be easily remedied by looking at me a little more, Sensei."
+    },
+    {
+      "character": "Sensei",
+      "text": "My bad, Tobiko. I guess I just had other things on my mind."
+    },
+    {
+      "character": "Touka",
+      "text": "If you\u2019re going to start playing the name replacement game again, please at least give me a {i}human{/i} name. I like to believe I\u2019m a tier or two above {i}fish eggs.{/i}"
+    },
+    {
+      "character": "Touka",
+      "text": "As for your {i}mind{/i} and what could have been on it, I apologize again for interrupting you and Maya. But I hope that what I am about to show you will make it at least {i}somewhat{/i} worth it."
+    },
+    {
+      "character": "Sensei",
+      "text": "Me too. Opportunities like that haven\u2019t really been all that common for me."
+    },
+    {
+      "character": "Touka",
+      "text": "Nonsense. You have plenty of opportunities to push the boundaries of what is and isn\u2019t acceptable with your students every single day. I have heard the things they say about you, you know? I have ears."
+    },
+    {
+      "character": "Sensei",
+      "text": "Sure, but that\u2019s not {i}Maya.{/i}"
+    },
+    {
+      "character": "Touka",
+      "text": "Is there something special about Maya? Something {i}she{/i} has that the rest of us do not?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Well..."
+    },
+    {
+      "character": "Sensei",
+      "text": "There was."
+    },
+    {
+      "character": "Touka",
+      "text": "And there\u2019s not anymore?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Things have changed a little, but...there probably still is. Explaining it would take a lot longer than a drive to...wherever it is you\u2019re taking me right now, though."
+    },
+    {
+      "character": "Touka",
+      "text": "Then I suppose I\u2019ll be waiting with bated breath for whenever that time comes."
+    },
+    {
+      "character": "Touka",
+      "text": "For now, I\u2019m unfortunately going to have to blindfold you."
+    },
+    {
+      "character": "Sensei",
+      "text": "What is it with your family and blindfolding people? Is Imani in the trunk? Who is going to try and sell me things this time?"
+    },
+    {
+      "character": "Touka",
+      "text": "Shush. Surely, you don\u2019t mind covering your eyes for a few minutes to repay me for all of the trouble I went through in order to ensure that we got away undetected."
+    },
+    {
+      "character": "Sensei",
+      "text": "I hope you realize how much trouble this is going to get {i}me{/i} into. I already disappeared last night. There\u2019s no way pulling that two nights in a row is going to end well."
+    },
+    {
+      "character": "Touka",
+      "text": "I suppose I\u2019m a bit of a troublemaker now, aren\u2019t I? "
+    },
+    {
+      "character": "Sensei",
+      "text": "\u201cKidnapper\u201d is probably more accurate."
+    },
+    {
+      "character": "Touka",
+      "text": "I wonder who it is that\u2019s been such a bad influence on me?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I saw you talking to Molly earlier, so probably her."
+    },
+    {
+      "character": "Touka",
+      "text": "Oh good. So you did look at me at least once. "
+    },
+    {
+      "character": "Touka",
+      "text": "Was it on purpose? Or did you just happen to catch a glance while you were looking for Maya?"
+    },
+    {
+      "character": "Sensei",
+      "text": "What happened to pretending you never saw anything?"
+    },
+    {
+      "character": "Touka",
+      "text": "Rest assured, I won\u2019t tell anyone else. But I seldom get opportunities to push {i}your{/i} buttons and I think you look awfully cute when you\u2019re on the defensive."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m not defending anything."
+    },
+    {
+      "character": "Touka",
+      "text": "Adorable. It\u2019s like you\u2019re a real, living thing all of a sudden."
+    },
+    {
+      "character": "Sensei",
+      "text": "Says the fish eggs."
+    },
+    {
+      "character": "Touka",
+      "text": "Close your eyes, Sensei."
+    },
+    {
+      "character": "Sensei",
+      "text": "Fine. But the last time somebody told me to do that, I wound up with a tongue in my mouth."
+    },
+    {
+      "character": "Touka",
+      "text": "But there is always a tongue in- oh. Ew. Stop that."
+    },
+    {
+      "character": "narrator",
+      "text": "Touka leans over and wraps a blindfold around my head."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}And then I take over again!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Hi there! Everybody\u2019s favorite narrator here to bash you over the head with as many life lessons as I\u2019m able to fit in these scrawny little arms of mine.{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Or should I say...Lessons IN LOVE?! Ha! I kid, I kid. But only because I know breaking whatever wall that title lies behind will get your brain chugging.{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}So, it appears that our third beach vacation is coming to a close. And while a handful of doors have both opened AND closed over the last couple days, it\u2019s important to remember that doors are just doors!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}What I mean by that is that there\u2019s almost always something on the other side.{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}It doesn\u2019t matter if it\u2019s closed or open so long as there is latent awareness that objects exist on both sides! Right? Right!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}The lesson? That following your heart is a double-edged sword! Especially when your heart keeps leading you toward a dead end with a face.{/i} "
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Take it away, Noriko!{/i}"
+    },
+    {
+      "character": "Noriko",
+      "text": "Kirin!"
+    },
+    {
+      "character": "Kirin",
+      "text": "Uhh...hi? Aren\u2019t you supposed to be hanging out with Sensei right now?"
+    },
+    {
+      "character": "Noriko",
+      "text": "I did! And then we made out! And then we dry humped for like ten minutes! And then I came!"
+    },
+    {
+      "character": "Kirin",
+      "text": "Woah, really?! Then what?!"
+    },
+    {
+      "character": "Noriko",
+      "text": "Then he left!"
+    },
+    {
+      "character": "Kirin",
+      "text": "What?! Why?! "
+    },
+    {
+      "character": "Kirin",
+      "text": "Don\u2019t tell me you were gonna force him to wear one of those stupid-"
+    },
+    {
+      "character": "Noriko",
+      "text": "No, no. I would have let him do whatever. He just had...other plans, I guess."
+    },
+    {
+      "character": "Kirin",
+      "text": "..."
+    },
+    {
+      "character": "Noriko",
+      "text": "..."
+    },
+    {
+      "character": "Kirin",
+      "text": "Are you okay?"
+    },
+    {
+      "character": "Noriko",
+      "text": "Yeah. I\u2019m okay."
+    },
+    {
+      "character": "Kirin",
+      "text": "Noriko-"
+    },
+    {
+      "character": "Noriko",
+      "text": "Seriously. I\u2019m good. Progress is progress and I\u2019m not about to rush him when he\u2019s been so patient with me. "
+    },
+    {
+      "character": "Kirin",
+      "text": "Are you just saying that because you think it\u2019ll make it hurt less?"
+    },
+    {
+      "character": "Noriko",
+      "text": "It works for you, doesn\u2019t it?"
+    },
+    {
+      "character": "Kirin",
+      "text": "It\u2019ll...hold you over for a little while."
+    },
+    {
+      "character": "Noriko",
+      "text": "Do you think it\u2019ll last until we make it back home? Because I\u2019d much rather cry on my bed than a random beach chair."
+    },
+    {
+      "character": "Kirin",
+      "text": "Hah...what about a beach chair with your best friend on it?"
+    },
+    {
+      "character": "Noriko",
+      "text": "That doesn\u2019t really change how random the chair is."
+    },
+    {
+      "character": "Kirin",
+      "text": "Get on."
+    },
+    {
+      "character": "Noriko",
+      "text": "Will you rub my head?"
+    },
+    {
+      "character": "Kirin",
+      "text": "Yes, but you\u2019ll owe me a back massage before the year ends."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}The short and easy answer would be that things are easier when you work as a team! And that two heads are always better than one!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}But the longer, more complicated answer involves a series of painful, psychological discussions in which we evaluate the concepts of codependency, adultery, honesty, and most importantly...hormones! Yay!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Take it away, gals!{/i}"
+    },
+    {
+      "character": "Rin",
+      "text": "Hah...come on, Otoha. At least give me a \u201cMerry Christmas\u201d or something. Anything."
+    },
+    {
+      "character": "Futaba",
+      "text": "Nodoka, what did you give Sana for Christmas? She\u2019s been freaking out for almost an hour now."
+    },
+    {
+      "character": "Nodoka",
+      "text": "The only thing that could possibly benefit her at such a confusing time in her life, of course."
+    },
+    {
+      "character": "Futaba",
+      "text": "..."
+    },
+    {
+      "character": "Nodoka",
+      "text": "..."
+    },
+    {
+      "character": "Futaba",
+      "text": "You didn\u2019t."
+    },
+    {
+      "character": "Nodoka",
+      "text": "If that is what you wish to believe, my beloved Futaba. But know that any gift I give to {i}anyone{/i} is done with only the most excessive amount of care."
+    },
+    {
+      "character": "Rin",
+      "text": "Ah! Guys! Guys! She finally texted back! And with...two hours and thirteen minutes to spare!"
+    },
+    {
+      "character": "Rin",
+      "text": "But what does it say? What does-"
+    },
+    {
+      "character": "Rin",
+      "text": "Ooooooh...my god..."
+    },
+    {
+      "character": "Futaba",
+      "text": "I\u2019m so happy for you, Rin! Even though it probably wasn\u2019t worth the time investment and-"
+    },
+    {
+      "character": "Nodoka",
+      "text": "Oh my. I\u2019d recognize those breasts anywhere."
+    },
+    {
+      "character": "Nodoka",
+      "text": "I should probably look a little closer just to be sure, though."
+    },
+    {
+      "character": "Futaba",
+      "text": "What?! Why?! Who ignores someone for two days and then sends them naughty pictures?! That doesn\u2019t make any sense at all!"
+    },
+    {
+      "character": "Rin",
+      "text": "Nodoka! Stop looking! And Futaba, this doesn\u2019t make any sense to me either! But I am definitely not about to argue!"
+    },
+    {
+      "character": "Rin",
+      "text": "Maybe this is her way of apologizing?! Or telling me she\u2019s ready to start doing other stuff?!"
+    },
+    {
+      "character": "Rin",
+      "text": "Either way! I suddenly have to go to the bathroom! Goodbye!"
+    },
+    {
+      "character": "Nodoka",
+      "text": "Oh, I\u2019ll come. It\u2019s safer to go in groups after all."
+    },
+    {
+      "character": "Rin",
+      "text": "No thanks, Nodoka! Please don\u2019t come looking for me either!"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}What lesson did we learn this time, friends?{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}That\u2019s right! That hiding the truth when it\u2019s going to hurt someone isn\u2019t always bad! In fact, sometimes it fixes everything! Hooray!{/i}"
+    },
+    {
+      "character": "Touka",
+      "text": "Okay...you can open your eyes now."
+    },
+    {
+      "character": "narrator",
+      "text": "I open my eyes and..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "And I still have no idea where I am."
+    },
+    {
+      "character": "Touka",
+      "text": "Hmm...it\u2019s smaller than it looked in the pictures. But I suppose this will do. "
+    },
+    {
+      "character": "Sensei",
+      "text": "Do {i}what?{/i} Where are we?"
+    },
+    {
+      "character": "Touka",
+      "text": "Your new apartment."
+    },
+    {
+      "character": "Sensei",
+      "text": "My {i}what?{/i}"
+    },
+    {
+      "character": "Touka",
+      "text": "Apartment. It\u2019s like a smaller, temporary housing unit in a-"
+    },
+    {
+      "character": "Sensei",
+      "text": "I know what a fucking apartment is, Touka. What I\u2019m asking is why you bought me one."
+    },
+    {
+      "character": "Touka",
+      "text": "Do you not like it?"
+    },
+    {
+      "character": "Sensei",
+      "text": "That\u2019s not the problem here. This is way too huge of a gift. And I already own a house."
+    },
+    {
+      "character": "Touka",
+      "text": "Yes, but this one is much closer to {i}my{/i} house. And I have seen your home. It is rather outdated, Sensei. No offense."
+    },
+    {
+      "character": "Sensei",
+      "text": "I can\u2019t accept this. There\u2019s no way. Void the lease or something."
+    },
+    {
+      "character": "Touka",
+      "text": "There is no lease. I bought the entire building."
+    },
+    {
+      "character": "Sensei",
+      "text": "Oh my god."
+    },
+    {
+      "character": "Touka",
+      "text": "I thought it would be a good means of training myself to handle part of the family\u2019s hospitality business once I enter college. "
+    },
+    {
+      "character": "Sensei",
+      "text": "So...you\u2019re my landlord?"
+    },
+    {
+      "character": "Touka",
+      "text": "Land{i}lady.{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "Who else knows about this?"
+    },
+    {
+      "character": "Touka",
+      "text": "Just Makoto. She told me it was a bad idea. But by the time I was informed of that, it was already too late."
+    },
+    {
+      "character": "Sensei",
+      "text": "You really need to start getting your presents approved ahead of time. This is insane."
+    },
+    {
+      "character": "Touka",
+      "text": "I think it\u2019s rather fun, actually! "
+    },
+    {
+      "character": "Touka",
+      "text": "Come! We can test out the bed together!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Do you not hear yourself right now?"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}The lesson this time is that things ARE more complicated than we think. And also that I\u2019m only a little bit jealous of Yumi\u2019s chest. Wowza.{/i}"
+    },
+    {
+      "character": "Chika",
+      "text": "Hey. How\u2019d it go? That took a lot longer than I thought it would."
+    },
+    {
+      "character": "Yumi",
+      "text": "Sensei left a while ago...I was just over there thinkin\u2019 about shit."
+    },
+    {
+      "character": "Chika",
+      "text": "What kind of shit?"
+    },
+    {
+      "character": "Yumi",
+      "text": "Chika, you ever, like...lose your memories? Or get really confused when trying to explain certain stuff?"
+    },
+    {
+      "character": "Chika",
+      "text": "Uhh..."
+    },
+    {
+      "character": "Chika",
+      "text": "I mean, Sensei has memory problems, doesn\u2019t he? I can\u2019t really say I\u2019ve ever experienced anything like that."
+    },
+    {
+      "character": "Yumi",
+      "text": "Then...do you remember what me and him talked about after the Dorm Wars? Or...{i}anything{/i} that\u2019s happened over the last two months?"
+    },
+    {
+      "character": "Chika",
+      "text": "I remember the last two months, of course. But I have no clue what you and Sensei talked about back then. You never told me."
+    },
+    {
+      "character": "Yumi",
+      "text": "Huh..."
+    },
+    {
+      "character": "Chika",
+      "text": "This isn\u2019t what you wanted to talk to Sensei about tonight, is it? Because I was assuming it was something a little more...I don\u2019t know. Important?"
+    },
+    {
+      "character": "Yumi",
+      "text": "Important how?"
+    },
+    {
+      "character": "Chika",
+      "text": "Beats me. Maybe something about how much time you guys have been spending together lately?"
+    },
+    {
+      "character": "Yumi",
+      "text": "We\u2019ve...what? Why? {i}When?{/i}"
+    },
+    {
+      "character": "Chika",
+      "text": "Yumi, you can\u2019t just never tell me anything and then ask me to recap your life for you. I just figured it had something to do with you getting let back into school."
+    },
+    {
+      "character": "Chika",
+      "text": "Do you remember that much at least?"
+    },
+    {
+      "character": "Yumi",
+      "text": "Yeah, I-"
+    },
+    {
+      "character": "Yumi",
+      "text": "I..."
+    },
+    {
+      "character": "Chika",
+      "text": "..."
+    },
+    {
+      "character": "Yumi",
+      "text": "I don\u2019t remember {i}shit...{/i}"
+    },
+    {
+      "character": "Chika",
+      "text": "Yumi..."
+    },
+    {
+      "character": "Yumi",
+      "text": "What the fuck is going on?"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}I had to mess with the handle a little bit to get this one open, but I wanted to make sure you saw it before the credits roll or however it goes when stuff like this normally ends for you.{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Anyway, this one\u2019s a little depressing, so I won\u2019t bother with a full-on introduction this time.{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}But I will remind you that it\u2019s okay to cry! Even when it feels like there\u2019s nothing to cry about.{/i}"
+    },
+    {
+      "character": "Maya",
+      "text": "..."
+    },
+    {
+      "character": "Maya",
+      "text": "..."
+    },
+    {
+      "character": "Maya",
+      "text": "..."
+    },
+    {
+      "character": "Maya",
+      "text": "What am I doing here?..."
+    },
+    {
+      "character": "Ami",
+      "text": "Maya?"
+    },
+    {
+      "character": "Maya",
+      "text": "Uhh...hey! I didn\u2019t realize you were...this far along the beach."
+    },
+    {
+      "character": "Ayane",
+      "text": "We were...looking for Sensei..."
+    },
+    {
+      "character": "Ayane",
+      "text": "Is everything-"
+    },
+    {
+      "character": "Maya",
+      "text": "Y-Yeah! Just...got some sand in my eyes. It\u2019s nothing."
+    },
+    {
+      "character": "Ayane",
+      "text": "Ami...maybe we should leave Maya alone for-"
+    },
+    {
+      "character": "Maya",
+      "text": "Huh?..."
+    },
+    {
+      "character": "Ami",
+      "text": "Why are you lying?"
+    },
+    {
+      "character": "Maya",
+      "text": "Ami?..."
+    },
+    {
+      "character": "Ami",
+      "text": "It\u2019s okay to cry."
+    },
+    {
+      "character": "Ami",
+      "text": "Even when it feels like there\u2019s nothing to cry about."
+    },
+    {
+      "character": "Maya",
+      "text": "I\u2019m not crying..."
+    },
+    {
+      "character": "Ami",
+      "text": "Maya!"
+    },
+    {
+      "character": "Maya",
+      "text": "I\u2019m not crying!"
+    },
+    {
+      "character": "Maya",
+      "text": "I\u2019m..."
+    },
+    {
+      "character": "Maya",
+      "text": "I\u2019m not..."
+    },
+    {
+      "character": "Maya",
+      "text": "{b}AAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!!!{/b}"
+    },
+    {
+      "character": "Touka",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Touka",
+      "text": "I\u2019ll get you a new mattress. This one isn\u2019t as soft as I expected it to be."
+    },
+    {
+      "character": "Sensei",
+      "text": "I can\u2019t believe you bought me a fucking apartment. What am I going to tell Ami?"
+    },
+    {
+      "character": "Touka",
+      "text": "You don\u2019t have to tell her anything if you don\u2019t want to. It\u2019s not as if I was expecting you to live here full-time."
+    },
+    {
+      "character": "Touka",
+      "text": "I just figured it would be a convenient place for you to relax or take shelter from the many young girls fighting for your heart every day."
+    },
+    {
+      "character": "Touka",
+      "text": "Even I could tell it was getting to you during the Dorm Wars."
+    },
+    {
+      "character": "Sensei",
+      "text": "Thank you, Touka. No one else ever believes me when I say that."
+    },
+    {
+      "character": "Touka",
+      "text": "Ooh! I\u2019ve always wanted to say this-"
+    },
+    {
+      "character": "Touka",
+      "text": "{i}I\u2019m not like the other girls...{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "Well, you\u2019re certainly right about that. The only girl I can think of who\u2019s had as grand of a gesture as this is Noriko and..."
+    },
+    {
+      "character": "Sensei",
+      "text": "And I left her all by herself tonight..."
+    },
+    {
+      "character": "Touka",
+      "text": "You can\u2019t please everyone all the time, Sensei."
+    },
+    {
+      "character": "Sensei",
+      "text": "Pleasing one person one time might be a nice change of pace, though."
+    },
+    {
+      "character": "Touka",
+      "text": "I\u2019m sure that day will come."
+    },
+    {
+      "character": "Touka",
+      "text": "But in the meantime, allow me to please {i}you.{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "Fine. But I need to close the window first so no one sees us."
+    },
+    {
+      "character": "Touka",
+      "text": "And that\u2019s my cue to leave."
+    },
+    {
+      "character": "Sensei",
+      "text": "You\u2019re leaving already?"
+    },
+    {
+      "character": "Touka",
+      "text": "You didn\u2019t expect me to live here with you, did you?"
+    },
+    {
+      "character": "Sensei",
+      "text": "No, but...it feels like you just got here."
+    },
+    {
+      "character": "Touka",
+      "text": "I did. And so did you. But {i}now,{/i} I have to be getting back to the beach house to continue celebrating with my friends. "
+    },
+    {
+      "character": "Touka",
+      "text": "You\u2019re welcome to come if you\u2019d like, but the driver will be different and there won\u2019t be a blindfold this time."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Touka",
+      "text": "What\u2019s wrong? I believe that was the moment where you were supposed to comment on not actually liking blindfolds or something along those lines."
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t think I want to go back to the inn."
+    },
+    {
+      "character": "Touka",
+      "text": "Worried the rest of the girls will see us come back together?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Worried of {i}who{/i} I\u2019ll see."
+    },
+    {
+      "character": "Touka",
+      "text": "Hmm...My initial impression of you is proven more and more wrong every day."
+    },
+    {
+      "character": "Touka",
+      "text": "You really are interesting, Sensei."
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t understand what you mean..."
+    },
+    {
+      "character": "Touka",
+      "text": "Nothing in particular. There are just certain things you do and say that make me want to baby you...similar to the way I do with Yasu."
+    },
+    {
+      "character": "Sensei",
+      "text": "Please don\u2019t."
+    },
+    {
+      "character": "Touka",
+      "text": "Why not?"
+    },
+    {
+      "character": "Touka",
+      "text": "Will it make you feel weak?"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Touka",
+      "text": "You can act brave and strong all you want, but that facade won\u2019t last forever."
+    },
+    {
+      "character": "Touka",
+      "text": "But at least now you have somewhere it can crumble in private."
+    },
+    {
+      "character": "Sensei",
+      "text": "I think you should stay here with me."
+    },
+    {
+      "character": "Touka",
+      "text": "Why?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Why do you {i}think?{/i}"
+    },
+    {
+      "character": "Touka",
+      "text": "Boop."
+    },
+    {
+      "character": "Sensei",
+      "text": "Touka-"
+    },
+    {
+      "character": "Touka",
+      "text": "I will not let you take shelter from your feelings in me. I\u2019m far too smart for that."
+    },
+    {
+      "character": "Touka",
+      "text": "You\u2019re afraid of new sensations...so you want to mask them with familiar ones instead. Is that right?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t think you understand-"
+    },
+    {
+      "character": "Touka",
+      "text": "Goodnight, Sensei. "
+    },
+    {
+      "character": "Touka",
+      "text": "Oh, and kiss her next time. Idiot."
+    },
+    {
+      "character": "Sensei",
+      "text": "Wait-"
+    },
+    {
+      "character": "Touka",
+      "text": "The driver is waiting! Either you come back to the inn and talk to me along the way, or I will see you in school next Monday!"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Touka",
+      "text": "..."
+    },
+    {
+      "character": "Touka",
+      "text": "That\u2019s what I thought."
+    },
+    {
+      "character": "Yasu",
+      "text": "Let the birds sing, dilly, dilly...And the lambs play~"
+    },
+    {
+      "character": "Yasu",
+      "text": "We shall be safe, dilly, dilly...Out of harm's-"
+    },
+    {
+      "character": "Yasu",
+      "text": "Ah! Penemue! You can fly! Where did you learn how to do that?!"
+    },
+    {
+      "character": "Yasu",
+      "text": "Come down before you hurt yourself and I\u2019ll reward you with a bucket of well water."
+    },
+    {
+      "character": "Sekai",
+      "text": "Well, aren\u2019t you the cutest little thing?"
+    },
+    {
+      "character": "Yasu",
+      "text": "Huh? "
+    },
+    {
+      "character": "Yasu",
+      "text": "Who-"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "Touka was right...I {i}was{/i} trying to take shelter from my feelings by using her body as a shield."
+    },
+    {
+      "character": "narrator",
+      "text": "It wasn\u2019t my proudest moment, asking her to stay less than an hour after {i}almost{/i} kissing Maya, but...I doubt Maya would even be surprised if she heard about it."
+    },
+    {
+      "character": "narrator",
+      "text": "There\u2019s no expectation placed on me to drop everyone else just because she and I are...what {i}are{/i} we anyway?"
+    },
+    {
+      "character": "narrator",
+      "text": "She never said anything and never did anything. So it\u2019s kind of like nothing ever happened in the first place."
+    },
+    {
+      "character": "narrator",
+      "text": "And if nothing ever happened in the first place, things right now aren\u2019t any different from how they were last night when I forgot about her."
+    },
+    {
+      "character": "narrator",
+      "text": "I don\u2019t even understand love in the first place, right?"
+    },
+    {
+      "character": "narrator",
+      "text": "That was just a thing I said in the heat of the moment, right?"
+    },
+    {
+      "character": "narrator",
+      "text": "And...her too. "
+    },
+    {
+      "character": "narrator",
+      "text": "She never would have acted that way if I never-"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I wonder if there\u2019s a pen around here?"
+    }
+  ],
+  "state_changes": {
+    "beachmas20": {
+      "from": null,
+      "to": true
+    }
+  }
+}

@@ -329,7 +329,7 @@
   ],
   "state_changes": {
     "everyday": {
-      "from": false,
+      "from": null,
       "to": true
     }
   }

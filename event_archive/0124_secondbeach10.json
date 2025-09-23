@@ -1,0 +1,1124 @@
+{
+  "event_id": 124,
+  "event_label": "secondbeach10",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "The stars sink into the sea sometime after the sky goes to sleep."
+    },
+    {
+      "character": "narrator",
+      "text": "It\u2019s silent."
+    },
+    {
+      "character": "narrator",
+      "text": "But I find solace in the sensation of sand on the soles of my shoes."
+    },
+    {
+      "character": "narrator",
+      "text": "And while the slight semblance of my soul slips into the surface, it still seems as if a siren song is summoning me forward."
+    },
+    {
+      "character": "narrator",
+      "text": "So I go."
+    },
+    {
+      "character": "narrator",
+      "text": "I go. I go. I go. I go. I go."
+    },
+    {
+      "character": "narrator",
+      "text": "But where?"
+    },
+    {
+      "character": "narrator",
+      "text": "And when did the sun set? "
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Why{/i} did the sun set?"
+    },
+    {
+      "character": "narrator",
+      "text": "And who is the siren?"
+    },
+    {
+      "character": "narrator",
+      "text": "I press my hands together and glance down to see my fingers interlocking with one another, emulating the sensation of something I have not felt in quite some time."
+    },
+    {
+      "character": "narrator",
+      "text": "Even those I am closer with than I am to my own reflection mean nothing when there is a complete lack of understanding."
+    },
+    {
+      "character": "narrator",
+      "text": "And if there is anything I understand, it\u2019s that."
+    },
+    {
+      "character": "narrator",
+      "text": "Everything else is ephemeral. "
+    },
+    {
+      "character": "narrator",
+      "text": "It\u2019s gone just as quickly as it appears."
+    },
+    {
+      "character": "narrator",
+      "text": "Whether it be a night sky or a trip to a beach, it all fades into nothingness and leaves a trail of destruction clinging to life behind it as it goes."
+    },
+    {
+      "character": "narrator",
+      "text": "It goes. It goes. It goes. It goes. It goes."
+    },
+    {
+      "character": "narrator",
+      "text": "But where?"
+    },
+    {
+      "character": "narrator",
+      "text": "And when did I become someone whose silhouette does not attach itself to the shoreline?"
+    },
+    {
+      "character": "narrator",
+      "text": "No shadow on the ground nor reflection in the water."
+    },
+    {
+      "character": "narrator",
+      "text": "Typical."
+    },
+    {
+      "character": "narrator",
+      "text": "I replace \u201cephemeral\u201d with \u201cethereal\u201d in my head and let the winter air, laced with water droplets from waves I can\u2019t even see, jump onto my skin and my shirt."
+    },
+    {
+      "character": "narrator",
+      "text": "It somehow makes me feel a little less lonely."
+    },
+    {
+      "character": "narrator",
+      "text": "I don\u2019t even remember how I got here."
+    },
+    {
+      "character": "narrator",
+      "text": "Or when I got here."
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019m assuming this means I zoned out again but, apparently, was not fortunate enough to bump into anyone to snap me out of it this time around."
+    },
+    {
+      "character": "narrator",
+      "text": "Oh well."
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019m sure I\u2019ll find someone sooner or later."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I find something."
+    },
+    {
+      "character": "narrator",
+      "text": "It\u2019s not something I understand at first glimpse...nor is it something I understand after several more glimpses."
+    },
+    {
+      "character": "narrator",
+      "text": "But it appears to be some sort of sanctuary."
+    },
+    {
+      "character": "narrator",
+      "text": "Did I say sanctuary?"
+    },
+    {
+      "character": "narrator",
+      "text": "I meant to say {s}restaurant{/s} sanctuary."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I give up on whatever it is I want to say and direct my full attention to discerning the structure before me-"
+    },
+    {
+      "character": "narrator",
+      "text": "But the lingering scent of pork broth and what I think is fried chicken invades my nostrils and forces me into a state of mild confusion in which I can\u2019t even fully recall how I wound up here."
+    },
+    {
+      "character": "narrator",
+      "text": "I attempt to approach the building, but my legs stiffen up."
+    },
+    {
+      "character": "narrator",
+      "text": "And then, something extraordinary happens."
+    },
+    {
+      "character": "Plant #1",
+      "text": "Hear ye, hear ye."
+    },
+    {
+      "character": "Plant #1",
+      "text": "We, the council of plants, have called upon this meeting to discuss the probability of furthering the development of one-"
+    },
+    {
+      "character": "Plant #1",
+      "text": "Uhh...am I reading this correctly?"
+    },
+    {
+      "character": "Plant #1",
+      "text": "The name I have here is \u201cSensei Arakawa.\u201d"
+    },
+    {
+      "character": "Plant #3",
+      "text": "We couldn\u2019t figure out his full name, so we just put what all of the girls have been calling him."
+    },
+    {
+      "character": "Plant #2",
+      "text": "Wasn\u2019t it Steve? I could have sworn the tomboy one called him that recently."
+    },
+    {
+      "character": "Plant #4",
+      "text": "Which tomboy? The one who rips her hair out? Or the one he hugged on the bridge that one time?"
+    },
+    {
+      "character": "Plant #2",
+      "text": "The first one, with the hair."
+    },
+    {
+      "character": "Plant #3",
+      "text": "Wait, hold on. I just remembered I die in this event and I don't want to go through that again. It was horrible."
+    },
+    {
+      "character": "Plant #1",
+      "text": "Order, order."
+    },
+    {
+      "character": "Plant #1",
+      "text": "As exciting as it would be to sit here and discuss saving our dear brother's life, we must now take into consideration the fact that the beach trip is halfway over and barely anything has been accomplished."
+    },
+    {
+      "character": "Plant #2",
+      "text": "Well, what exactly were we hoping to accomplish again? We\u2019re just plants. It\u2019s not like we can actually...you know, \u201cfurther development\u201d or whatever."
+    },
+    {
+      "character": "Plant #1",
+      "text": "No, we certainly can not. But we can-"
+    },
+    {
+      "character": "Plant #3",
+      "text": "Woah woah woah. Wait a second. Isn\u2019t that him right there?"
+    },
+    {
+      "character": "Plant #4",
+      "text": "Oh, shit."
+    },
+    {
+      "character": "Plant #2",
+      "text": "What do we do?"
+    },
+    {
+      "character": "Plant #1",
+      "text": "Just...just stay quiet. It\u2019s not like he can hear us or anything."
+    },
+    {
+      "character": "Sensei",
+      "text": "Hello."
+    },
+    {
+      "character": "Plant #4",
+      "text": "..."
+    },
+    {
+      "character": "Plant #3",
+      "text": "Did he just fucking say, \u201cHello?\u201d"
+    },
+    {
+      "character": "Plant #2",
+      "text": "He totally just said, \u201cHello.\u201d"
+    },
+    {
+      "character": "Sensei",
+      "text": "Why are all of you plants talking about me?"
+    },
+    {
+      "character": "Plant #3",
+      "text": "Umm, better question. Who\u2019s a better hugger? Makoto or Chika?"
+    },
+    {
+      "character": "Plant #4",
+      "text": "Chika 100%%. Makoto\u2019s a little tramp, remember?"
+    },
+    {
+      "character": "Plant #2",
+      "text": "Dude, no. Not in this version she's not."
+    },
+    {
+      "character": "Plant #3",
+      "text": "Yeah! Sensei is the huggy boy now! Everyone is safe until they're not!"
+    },
+    {
+      "character": "Plant #1",
+      "text": "This is exactly what the narrator was talking about in \u201cSomething Everyone Knows and Ignores.\u201d"
+    },
+    {
+      "character": "Plant #4",
+      "text": "Ughhhhhhh please no. That fucking alphabet song {i}just{/i} stopped being stuck in my head."
+    },
+    {
+      "character": "Plant #2",
+      "text": "A! Apple!"
+    },
+    {
+      "character": "Plant #3",
+      "text": "B! Banana!"
+    },
+    {
+      "character": "Plant #1",
+      "text": "Order, order!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Can someone please explain to me where we are right now? Or...why you guys can talk?"
+    },
+    {
+      "character": "Plant #1",
+      "text": "Uhh...how should we put this-"
+    },
+    {
+      "character": "Plant #4",
+      "text": "It\u2019s all a hallucination, isn\u2019t it?"
+    },
+    {
+      "character": "Sensei",
+      "text": "A hallucination?"
+    },
+    {
+      "character": "Plant #2",
+      "text": "Uhhh yeah! None of this is actually happening right now! You\u2019re just dreaming!"
+    },
+    {
+      "character": "Plant #3",
+      "text": "Buuuuut if this {i}wasn\u2019t{/i} a dream, you\u2019d find yourself standing at a ramen shop at the edge of the world!"
+    },
+    {
+      "character": "Plant #4",
+      "text": "No, idiot. The edge of the world is the roof. Do you even fucking read the events?"
+    },
+    {
+      "character": "Plant #1",
+      "text": "No petition necessary."
+    },
+    {
+      "character": "Plant #3",
+      "text": "Wait! No! I can\u2019t get kicked out! I have saplings to feed!"
+    },
+    {
+      "character": "Plant #2",
+      "text": "Sorry, man. That\u2019s just the way the chrysanthemum crumbles."
+    },
+    {
+      "character": "Plant #3",
+      "text": "That\u2019s not even a plant! It\u2019s a flower!"
+    },
+    {
+      "character": "Plant #4",
+      "text": "Plants, flowers, what\u2019s the difference?"
+    },
+    {
+      "character": "Plant #3",
+      "text": "A lot! For starters, plants-"
+    },
+    {
+      "character": "narrator",
+      "text": "The cactus turns into a skull and the meeting adjourns."
+    },
+    {
+      "character": "Plant #4",
+      "text": "Good fucking riddance. I bet that guy wasn\u2019t even a Plantreon supporter."
+    },
+    {
+      "character": "Plant #2",
+      "text": "He was. I bumped into his wife at Whole Foods a few weeks ago and we talked about it for a little while."
+    },
+    {
+      "character": "Plant #2",
+      "text": "Really nice family. I\u2019m actually feeling kind of bad now."
+    },
+    {
+      "character": "Plant #1",
+      "text": "Petition denied."
+    },
+    {
+      "character": "Plant #2",
+      "text": "Asshole."
+    },
+    {
+      "character": "Sensei",
+      "text": "Can someone please tell me what\u2019s going on?"
+    },
+    {
+      "character": "Plant #4",
+      "text": "Dude, just go into the shop. You weren\u2019t even supposed to stop and talk to us."
+    },
+    {
+      "character": "Sensei",
+      "text": "I mean, it\u2019s not every day I bump into a group of inanimate objects having a conversation with one another."
+    },
+    {
+      "character": "Sensei",
+      "text": "Let alone a conversation about \u201cfurthering my development.\u201d"
+    },
+    {
+      "character": "Plant #1",
+      "text": "Ugh, great. Now I have to file an I-35 and explain to the {i}Supreme{/i} Plant Council why there was another deviation."
+    },
+    {
+      "character": "Plant #2",
+      "text": "There sure have been a lot of those lately...Do you think it\u2019s something we should worry about?"
+    },
+    {
+      "character": "Plant #4",
+      "text": "I\u2019m sure it\u2019s fine. It\u2019s just his memories trying to come back or whatever, isn't it?"
+    },
+    {
+      "character": "Plant #1",
+      "text": "Whatever it is, it won\u2019t do us any good to continue discussing it while he\u2019s right there listening."
+    },
+    {
+      "character": "Sensei",
+      "text": "?????????????????"
+    },
+    {
+      "character": "Plant #1",
+      "text": "Anyway! This concludes the ninety-seventh gathering of District 23\u2019s Plant Council!"
+    },
+    {
+      "character": "Plant #1",
+      "text": "Please remember to keep everything discussed here classified from any and all interested parties, and feel free to help yourself to a croissant on the way out."
+    },
+    {
+      "character": "Plant #4",
+      "text": "Croissants are for girls."
+    },
+    {
+      "character": "Plant #2",
+      "text": "Hah. I get it."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I stare blankly at a set of chairs before me."
+    },
+    {
+      "character": "narrator",
+      "text": "There is a skull on one of them."
+    },
+    {
+      "character": "narrator",
+      "text": "I feel like I\u2019m forgetting something."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I walk into the strange building to be met with the surprising sight of one girl I\u2019ve hugged and one girl I\u2019m going to hug."
+    },
+    {
+      "character": "narrator",
+      "text": "Their names are Makoto and Touka and they are both relatively unpopular, each for different reasons."
+    },
+    {
+      "character": "narrator",
+      "text": "But I\u2019m glad to see that they\u2019ve found company in one another."
+    },
+    {
+      "character": "Sensei",
+      "text": "Hey, you two. How are things?"
+    },
+    {
+      "character": "Touka",
+      "text": "..."
+    },
+    {
+      "character": "Makoto",
+      "text": "What do you mean, \u201cHow are things?\u201d What is wrong with you?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m sorry?"
+    },
+    {
+      "character": "Touka",
+      "text": "Sensei...you\u2019ve been standing there looking...lost for a fair amount of time now."
+    },
+    {
+      "character": "Makoto",
+      "text": "And let\u2019s not gloss over the fact that you played out an entire plant-based roleplay scenario of sorts."
+    },
+    {
+      "character": "Makoto",
+      "text": "Did Noriko give you another potion? Because I explicitly told her to not do that."
+    },
+    {
+      "character": "Sensei",
+      "text": "Plant...roleplay?"
+    },
+    {
+      "character": "Touka",
+      "text": "There was a fatality and everything. It was actually rather touching in a...very strange sort of way."
+    },
+    {
+      "character": "Sensei",
+      "text": "Nevermind that. Would one of you mind telling me where exactly we are right now?"
+    },
+    {
+      "character": "Touka",
+      "text": "Oh, this old place?"
+    },
+    {
+      "character": "Touka",
+      "text": "It\u2019s just an extra restaurant my family had lying around."
+    },
+    {
+      "character": "Touka",
+      "text": "I informed my father that there weren\u2019t many options for us to choose from for dinner, so he had this one airlifted over."
+    },
+    {
+      "character": "Makoto",
+      "text": "I envy the sort of life that leads to you having \u201cextra\u201d restaurants lying around."
+    },
+    {
+      "character": "Touka",
+      "text": "I actually quite like this one despite its rather drab decor and strange scent."
+    },
+    {
+      "character": "Makoto",
+      "text": "It\u2019s not really strange. That\u2019s just kind of...how ramen smells."
+    },
+    {
+      "character": "Touka",
+      "text": "Is that so?"
+    },
+    {
+      "character": "Touka",
+      "text": "I don\u2019t typically eat things this inexpensive, so I was unaware it was commonplace."
+    },
+    {
+      "character": "Sensei",
+      "text": "So you two are just...hanging out at a secret ramen shop Touka\u2019s family had airlifted in the middle of the night?"
+    },
+    {
+      "character": "Touka",
+      "text": "That\u2019s not all, Sensei. Makoto was actually helping me study."
+    },
+    {
+      "character": "Sensei",
+      "text": "Study? You {i}do{/i} realize we\u2019re on vacation, right?"
+    },
+    {
+      "character": "Makoto",
+      "text": "Neither of us had anything else to do, so..."
+    },
+    {
+      "character": "Touka",
+      "text": "I also find learning to be quite fun! And since swimming is out of the question given the weather, it only made sense for us to seize this opportunity to get something done."
+    },
+    {
+      "character": "Sensei",
+      "text": "Wow. If only someone who cared a little less about studying would show up right about now..."
+    },
+    {
+      "character": "Chika",
+      "text": "Woah..."
+    },
+    {
+      "character": "Chika",
+      "text": "What...is this place?..."
+    },
+    {
+      "character": "narrator",
+      "text": "A hidden audience erupts into applause as Chika finds her way into the secret Tsukioka ramen shop at the edge of the world that isn\u2019t actually the edge of the world maybe."
+    },
+    {
+      "character": "Chika",
+      "text": "..."
+    },
+    {
+      "character": "Touka",
+      "text": "Oh, Chika! You showed up after all."
+    },
+    {
+      "character": "Chika",
+      "text": "..."
+    },
+    {
+      "character": "Makoto",
+      "text": "I\u2019m assuming this is where our study-session concludes then?"
+    },
+    {
+      "character": "Chika",
+      "text": "..."
+    },
+    {
+      "character": "Touka",
+      "text": "Oh, don\u2019t be silly. I\u2019m sure Chika also sees the value in utilizing free time to become a better, more knowledgeable, person."
+    },
+    {
+      "character": "Touka",
+      "text": "Isn\u2019t that right, Chika?"
+    },
+    {
+      "character": "Chika",
+      "text": "..."
+    },
+    {
+      "character": "Makoto",
+      "text": "Chika? Hello?"
+    },
+    {
+      "character": "Chika",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Hey."
+    },
+    {
+      "character": "Chika",
+      "text": "Oh! Hey!"
+    },
+    {
+      "character": "Chika",
+      "text": "I didn\u2019t realize you were here too, Sensei."
+    },
+    {
+      "character": "Sensei",
+      "text": "Don\u2019t worry, even I didn\u2019t realize I was here until a few minutes ago."
+    },
+    {
+      "character": "Chika",
+      "text": "Oh, you. You\u2019re so funny. No wonder you and I are-"
+    },
+    {
+      "character": "Sensei",
+      "text": "Two people with a totally normal relationship not worth mentioning to anyone else?"
+    },
+    {
+      "character": "narrator",
+      "text": "Chika\u2019s clothes reform into a clown costume and I do a little jig to celebrate."
+    },
+    {
+      "character": "narrator",
+      "text": "A fish stares up at me from the ground outside of the restaurant, gasping for breath but incapable of breathing because...uhh, water."
+    },
+    {
+      "character": "narrator",
+      "text": "I don\u2019t know the sciencey explanation for it."
+    },
+    {
+      "character": "narrator",
+      "text": "It\u2019s reverse drowning."
+    },
+    {
+      "character": "Sensei",
+      "text": "Makoto, can you explain what the fish is doing?"
+    },
+    {
+      "character": "Makoto",
+      "text": "Fish? What fish?"
+    },
+    {
+      "character": "Touka",
+      "text": "Could he be referring to one of our bowls of cheap commoner noodles?"
+    },
+    {
+      "character": "Chika",
+      "text": "I could stand here and stare at you for the rest of eternity and not regret even a second of it."
+    },
+    {
+      "character": "Sensei",
+      "text": "But what about Chinami?"
+    },
+    {
+      "character": "Yumi",
+      "text": "Hm? What\u2019s this about Chinami?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Yumi?"
+    },
+    {
+      "character": "Yumi",
+      "text": "Uhhhhhh yup. That\u2019s my name, asshole."
+    },
+    {
+      "character": "Sensei",
+      "text": "What are you doing here?"
+    },
+    {
+      "character": "Yumi",
+      "text": "I work here, asshole."
+    },
+    {
+      "character": "Sensei",
+      "text": "Since when?"
+    },
+    {
+      "character": "Yumi",
+      "text": "Since you helped me get a job here. Remember, asshole?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t remember that at all."
+    },
+    {
+      "character": "Yumi",
+      "text": "Really? You don\u2019t remember the entire arc about my mom and me reconnecting? And me discovering that I\u2019m a product of her being knocked up while unconscious, asshole?"
+    },
+    {
+      "character": "Yumi",
+      "text": "Do you even pay any attention to me at all, asshole?"
+    },
+    {
+      "character": "Yumi",
+      "text": "Or are you just here to kill the pain, asshole?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Pain?"
+    },
+    {
+      "character": "Sensei",
+      "text": "What pain?"
+    },
+    {
+      "character": "Chika",
+      "text": "Senseiiiiiiii~ Look at meeeeeeee~"
+    },
+    {
+      "character": "Sensei",
+      "text": "No."
+    },
+    {
+      "character": "Yumi",
+      "text": "Hey, asshole."
+    },
+    {
+      "character": "Yumi",
+      "text": "Do you remember all of those detentions you used to give me back before you regained your own body (If that is what is actually happening here), asshole?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t."
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t remember anything from before the first time I \u201cwoke up\u201d in[school] again."
+    },
+    {
+      "character": "Yumi",
+      "text": "There was something you said to me during one of those that really stuck with me, asshole."
+    },
+    {
+      "character": "Sensei",
+      "text": "And what was that?"
+    },
+    {
+      "character": "Yumi",
+      "text": "That I was wasting my potential, asshole."
+    },
+    {
+      "character": "Sensei",
+      "text": "And that stuck with you?"
+    },
+    {
+      "character": "Yumi",
+      "text": "Yeah. But not in a good way, asshole."
+    },
+    {
+      "character": "Yumi",
+      "text": "Because, from my perspective, there was never any potential there, asshole."
+    },
+    {
+      "character": "Yumi",
+      "text": "I\u2019ve been nothing but an abomination of failures stitched together since the moment I popped out of my junkie mom, asshole."
+    },
+    {
+      "character": "Yumi",
+      "text": "And having some guy who knows nothing about me pretend to know my potential was even worse than the time you [[redacted]."
+    },
+    {
+      "character": "Yumi",
+      "text": "Asshole."
+    },
+    {
+      "character": "Makoto & Touka (?)",
+      "text": "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    },
+    {
+      "character": "61 6d 20 69 20 6f 6b 61 79",
+      "text": "I missed you."
+    },
+    {
+      "character": "Sensei",
+      "text": "...Maya?"
+    },
+    {
+      "character": "Makoto",
+      "text": "Maya?"
+    },
+    {
+      "character": "Touka",
+      "text": "Is everything okay, Sensei?"
+    },
+    {
+      "character": "Touka",
+      "text": "You\u2019ve been standing there looking...lost for a fair amount of time now."
+    },
+    {
+      "character": "Sensei",
+      "text": "I..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Wait, has...Chika been here? Or Yumi?"
+    },
+    {
+      "character": "Makoto",
+      "text": "Neither of those two have been-"
+    },
+    {
+      "character": "Chika",
+      "text": "Woah..."
+    },
+    {
+      "character": "Chika",
+      "text": "What..."
+    },
+    {
+      "character": "Chika",
+      "text": "What is this place?"
+    },
+    {
+      "character": "Chika",
+      "text": "Oh, this is where you were? I\u2019ve been looking all over for you."
+    },
+    {
+      "character": "Chika",
+      "text": "Why haven\u2019t you been answering your phone?"
+    },
+    {
+      "character": "Sensei",
+      "text": "My phone?"
+    },
+    {
+      "character": "narrator",
+      "text": "I slide my phone out of my pocket to find that I have several missed calls and an entire string of text messages from Chika spanning over the course of the last three hours."
+    },
+    {
+      "character": "Makoto",
+      "text": "How did..."
+    },
+    {
+      "character": "Makoto",
+      "text": "How did you know she would be here?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Is there an emergency or something?"
+    },
+    {
+      "character": "Chika",
+      "text": "No, I..."
+    },
+    {
+      "character": "Chika",
+      "text": "I just...you know..."
+    },
+    {
+      "character": "Touka",
+      "text": "Whatever brought you here, Chika, I do implore you to sit down and try these lower middle class ramen noodles! They are absolutely splendid!"
+    },
+    {
+      "character": "Chika",
+      "text": "Oh! Thank you!"
+    },
+    {
+      "character": "Chika",
+      "text": "I was starting to think I wouldn\u2019t be having dinner at all tonight."
+    },
+    {
+      "character": "Chika",
+      "text": "Do you think it\u2019d be okay if I packed some up for Yumi as well? Girl didn\u2019t even eat breakfast today."
+    },
+    {
+      "character": "narrator",
+      "text": "I take a seat at the counter and order from one of the Tsukioka family servants or...employees or something."
+    },
+    {
+      "character": "narrator",
+      "text": "He doesn\u2019t speak at all, but he nods after I place my order and brings me a fresh bowl of soup just minutes later."
+    },
+    {
+      "character": "narrator",
+      "text": "Before I know it, the girls and I are choking down piping hot lower middle class ramen noodles."
+    },
+    {
+      "character": "narrator",
+      "text": "They\u2019re good."
+    },
+    {
+      "character": "narrator",
+      "text": "Not Tojo Ramen good, but still good."
+    },
+    {
+      "character": "narrator",
+      "text": "I think mine had cactus in it."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "We leave the secret ramen shop and Makoto and Touka proceed to have some sort of formal, smart person conversation that I can\u2019t be bothered to pay attention to."
+    },
+    {
+      "character": "narrator",
+      "text": "Instead, I focus my gaze on stars sinking into the sea and find myself getting lost in a sea of my own."
+    },
+    {
+      "character": "narrator",
+      "text": "Not of water, but of skepticism and a heavy dose of regret."
+    },
+    {
+      "character": "narrator",
+      "text": "Not the type of regret that results from making a poor decision, but the kind that comes from feeling like you\u2019ve wasted too much time."
+    },
+    {
+      "character": "narrator",
+      "text": "But that shouldn\u2019t be an issue for me."
+    },
+    {
+      "character": "narrator",
+      "text": "I have as much time as the world can offer."
+    },
+    {
+      "character": "narrator",
+      "text": "But still-"
+    },
+    {
+      "character": "narrator",
+      "text": "I feel like yet another chunk of my life has been ripped away from me."
+    },
+    {
+      "character": "narrator",
+      "text": "Or out of me."
+    },
+    {
+      "character": "narrator",
+      "text": "Something is missing."
+    },
+    {
+      "character": "Chika",
+      "text": "Sensei?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah?"
+    },
+    {
+      "character": "Chika",
+      "text": "You okay?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m fine. Why do you ask?"
+    },
+    {
+      "character": "Chika",
+      "text": "Obviously cause you look...not okay."
+    },
+    {
+      "character": "Sensei",
+      "text": "Whatever it is will pass. I\u2019m probably just tired."
+    },
+    {
+      "character": "Chika",
+      "text": "Long day?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Yes and no."
+    },
+    {
+      "character": "Sensei",
+      "text": "Mostly yes, I think."
+    },
+    {
+      "character": "Chika",
+      "text": "Anything I can do to make you feel better?"
+    },
+    {
+      "character": "Sensei",
+      "text": "A hug would be nice."
+    },
+    {
+      "character": "Chika",
+      "text": "I see, I see."
+    },
+    {
+      "character": "Chika",
+      "text": "Come with me then."
+    },
+    {
+      "character": "Sensei",
+      "text": "Come with you where?"
+    },
+    {
+      "character": "Chika",
+      "text": "I don\u2019t know. Just come."
+    },
+    {
+      "character": "Sensei",
+      "text": "But-"
+    },
+    {
+      "character": "Chika",
+      "text": "They\u2019re talking about smart person stuff. They won\u2019t even realize we\u2019re gone."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m pretty sure they\u2019ll still realize if-"
+    },
+    {
+      "character": "Chika",
+      "text": "Shush."
+    },
+    {
+      "character": "Chika",
+      "text": "On the count of three, we turn around and start walking toward the woods."
+    },
+    {
+      "character": "Sensei",
+      "text": "Chika..."
+    },
+    {
+      "character": "Chika",
+      "text": "One..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Chika",
+      "text": "Two..."
+    },
+    {
+      "character": "Sensei",
+      "text": "{i}Hah...{/i}"
+    },
+    {
+      "character": "Chika",
+      "text": "Three."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Makoto",
+      "text": "Wait, where did Sensei and Chika go? Weren\u2019t they just here?"
+    },
+    {
+      "character": "Touka",
+      "text": "I believe so...but I don\u2019t recall them ever leaving."
+    },
+    {
+      "character": "Touka",
+      "text": "Perhaps they forgot something at my spare restaurant?"
+    },
+    {
+      "character": "Makoto",
+      "text": "..."
+    },
+    {
+      "character": "Makoto",
+      "text": "Perhaps."
+    },
+    {
+      "character": "Makoto",
+      "text": "Let\u2019s just head back to the inn, I guess..."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "plantcouncil": {
+      "from": null,
+      "to": true
+    },
+    "secondbeach10": {
+      "from": null,
+      "to": true
+    }
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "event_id": 115,
+  "event_label": "amifirsthall",
+  "dialogue": [
+    {
+      "character": "Ami",
+      "text": "Ugh! How come I always end up on stupid bathroom duty?! Wasn't that my job last week too?!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Hey Ami. Am I interrupting something?"
+    },
+    {
+      "character": "Ami",
+      "text": "Huh? Sensei?"
+    },
+    {
+      "character": "Ami",
+      "text": "When did you get here?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Just now. But if you have chores to do, I can just hang out with someone else instead."
+    },
+    {
+      "character": "Ami",
+      "text": "I would sooner abandon all of my chores for the rest of eternity than let you spend your time with anyone else."
+    },
+    {
+      "character": "Sensei",
+      "text": "Okay. That's not super controlling or anything."
+    },
+    {
+      "character": "Ami",
+      "text": "Of course it's not controlling, we're related. If you asked {i}me{/i} to never talk to anyone else, I'd do it in a heartbeat."
+    },
+    {
+      "character": "Sensei",
+      "text": "That's...not really something to smile about, Ami. That's actually really depressing."
+    },
+    {
+      "character": "Ami",
+      "text": "What's depressing is how you walked all the way through this hallway without shouting my name due to your uncontainable excitement to see me."
+    },
+    {
+      "character": "Sensei",
+      "text": "I see you literally every morning."
+    },
+    {
+      "character": "Ami",
+      "text": "And yet you still need more."
+    },
+    {
+      "character": "Ami",
+      "text": "So, what are you {i}really{/i} doing here? Did I forget something at home?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I wouldn't know if you did. I came here straight from school."
+    },
+    {
+      "character": "Ami",
+      "text": "You did? That's weird."
+    },
+    {
+      "character": "Sensei",
+      "text": "Why is that weird?"
+    },
+    {
+      "character": "Ami",
+      "text": "Because even if you had to stay late for counseling stuff, it's pretty late to be showing up here. School ended hours ago."
+    },
+    {
+      "character": "Ami",
+      "text": "You haven't been sneaking around and doing anything you can't tell me about, have you?"
+    },
+    {
+      "character": "Sensei",
+      "text": "It's not like I would tell you if I was. What I do with my free time is kind of up to me, isn't it?"
+    },
+    {
+      "character": "Ami",
+      "text": "Nope!"
+    },
+    {
+      "character": "narrator",
+      "text": "Is there somewhere I can go to trade in my niece for a different one?"
+    },
+    {
+      "character": "Ami",
+      "text": "I guess I can let you off the hook for tonight, though, since I already have plans."
+    },
+    {
+      "character": "Ami",
+      "text": "And no, I'm not talking about chores. The bathroom is stupid and it can die for all I care."
+    },
+    {
+      "character": "Sensei",
+      "text": "What do these {i}plans{/i} of yours entail? And can I tag along?"
+    },
+    {
+      "character": "Ami",
+      "text": "Me and Maya were going to go eat pizza and do karaoke or something like that."
+    },
+    {
+      "character": "Ami",
+      "text": "I'd invite you along, but...she kind of already made a no-Sensei rule, so...I'm not sure if I can make that happen."
+    },
+    {
+      "character": "Sensei",
+      "text": "That's fair. If I were a teenage girl, I probably wouldn't invite me either."
+    },
+    {
+      "character": "Ami",
+      "text": "Maybe you can come next time?"
+    },
+    {
+      "character": "Ami",
+      "text": "I'm not really sure what the problem is since me and Ayane are normally the only ones who sing anyway. Maya just hangs out on the bench and eats the whole time."
+    },
+    {
+      "character": "Sensei",
+      "text": "You need to stop saying {i}me and blank.{/i} It's getting on my nerves."
+    },
+    {
+      "character": "Ami",
+      "text": "Please save your grammar lessons for when we're in school, Sensei."
+    },
+    {
+      "character": "Sensei",
+      "text": "I can't. I use that time to sleep."
+    },
+    {
+      "character": "Ami",
+      "text": "Then I guess I'll just have to talk this way forever!"
+    },
+    {
+      "character": "Sensei",
+      "text": "That aside, how are you liking the dorms so far? This place seems like it has basically everything you could ever need."
+    },
+    {
+      "character": "Ami",
+      "text": "{i}Almost{/i} everything."
+    },
+    {
+      "character": "Ami",
+      "text": "But I really like it here. It makes me feel like I'm in college."
+    },
+    {
+      "character": "Ami",
+      "text": "I obviously don't hang out here as much as the girls without other housing options, but all of the time I {i}do{/i} spend here is super fun!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Wait, there are girls without other housing options? What do you mean by that?"
+    },
+    {
+      "character": "Sensei",
+      "text": "You're not implying that some of the girls in our class are homeless, are you?"
+    },
+    {
+      "character": "Ami",
+      "text": "{i}Homeless{/i} probably isn't the right word...but there are definitely a few girls who wouldn't technically have anywhere else to go if the dorms just...blew up or something."
+    },
+    {
+      "character": "Ami",
+      "text": "Take Maya for example. She doesn\u2019t have any family in Kumon-mi, so she\u2019d probably be forced to come stay with us if something like that were to happen."
+    },
+    {
+      "character": "Sensei",
+      "text": "What is she doing living here if her family isn\u2019t anywhere nearby?"
+    },
+    {
+      "character": "Ami",
+      "text": "No clue. She just sorta showed up one day and we\u2019ve been best friends ever since."
+    },
+    {
+      "character": "Ami",
+      "text": "I don't think we have to worry about a dorm explosion, though. I'm pretty sure nothing like that has ever happened before."
+    },
+    {
+      "character": "Ami",
+      "text": "Well...at least not here. But hey, I don't know everything."
+    },
+    {
+      "character": "Sensei",
+      "text": "Huh..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Well, alright then."
+    },
+    {
+      "character": "Maya",
+      "text": "Okay. I\u2019m ready to go."
+    },
+    {
+      "character": "Sensei",
+      "text": "Hey, Maya. Nice to see you."
+    },
+    {
+      "character": "Maya",
+      "text": "Yes, hello."
+    },
+    {
+      "character": "Maya",
+      "text": "He isn\u2019t coming, is he?"
+    },
+    {
+      "character": "Ami",
+      "text": "He\u2019s not...I already told him about your no-Sensei rule."
+    },
+    {
+      "character": "Sensei",
+      "text": "I can't say I don't understand it."
+    },
+    {
+      "character": "Maya",
+      "text": "Please stop talking to me."
+    },
+    {
+      "character": "Ami",
+      "text": "Well...I guess this means our time is up, huh?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Seems that way, Ami. Don't let Maya poison your mind about how horrible I am while I'm not around to stop her."
+    },
+    {
+      "character": "Maya",
+      "text": "I can assure you that it does not take poison for someone to understand just how deplorable you are."
+    },
+    {
+      "character": "Sensei",
+      "text": "Have fun at karaoke, you two. I'll be looking forward to any videos I'm sent with Maya singing."
+    },
+    {
+      "character": "Maya",
+      "text": "And I am looking forward to the sound your phone will make when I snatch it out of your hands and toss it off of a bridge."
+    },
+    {
+      "character": "Ami",
+      "text": "Don't worry, Sensei. I won't let her do that."
+    },
+    {
+      "character": "Ami",
+      "text": "I'll talk to you later, okay?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Sounds good. Goodnight, Ami."
+    },
+    {
+      "character": "Ami",
+      "text": "Goodnight, Sensei."
+    },
+    {
+      "character": "Sensei",
+      "text": "Goodnight, M-"
+    },
+    {
+      "character": "Maya",
+      "text": "No."
+    },
+    {
+      "character": "narrator",
+      "text": "Ami and Maya disappear down the hall and I'm suddenly left with nothing to do but head home."
+    },
+    {
+      "character": "narrator",
+      "text": "When I get outside, I realize that a great deal of time {i}has{/i} passed since school ended...which is strange, since I don't remember leaving much later than normal."
+    },
+    {
+      "character": "narrator",
+      "text": "I guess it's easy to lose track of time when your mind is elsewhere, though."
+    },
+    {
+      "character": "narrator",
+      "text": "Regardless, I accept the night and begin yet another walk across town in the sweltering heat."
+    },
+    {
+      "character": "narrator",
+      "text": "Here's hoping that Ami's night winds up being a little more exciting than mine."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Ami\u2019s affection has increased to [ami_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "amifirsthall": {
+      "from": null,
+      "to": true
+    }
+  }
+}

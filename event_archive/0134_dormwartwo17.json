@@ -1,0 +1,872 @@
+{
+  "event_id": 134,
+  "event_label": "dormwartwo17",
+  "dialogue": [
+    {
+      "character": "Wakana",
+      "text": "I will stop by the hardware store tomorrow."
+    },
+    {
+      "character": "Osako",
+      "text": "You\u2019re damn right you will."
+    },
+    {
+      "character": "Futaba",
+      "text": "Hey, how did the contest go?"
+    },
+    {
+      "character": "Rin",
+      "text": "Futaba, do you think we\u2019ve been growing distant at all lately?"
+    },
+    {
+      "character": "Futaba",
+      "text": "Well, I guess that answers {i}that{/i} question."
+    },
+    {
+      "character": "Rin",
+      "text": "Seriously, though. If somebody like...I don\u2019t know- {i}Uta{/i} came along and suddenly knew more about you than I did, how would that make you feel?"
+    },
+    {
+      "character": "Futaba",
+      "text": "Umm...shocked. I haven\u2019t really spoken much to Uta. Especially not compared to somebody like you or Nodoka."
+    },
+    {
+      "character": "Futaba",
+      "text": "Did Yasu...somehow beat you at the Sensei trivia contest thing?"
+    },
+    {
+      "character": "Rin",
+      "text": "Yes! But before you tell me it\u2019s not a big deal and that it\u2019s just a stupid contest and that it doesn\u2019t matter to me who puts what in my vagina, please understand that I am very sensitive about this!"
+    },
+    {
+      "character": "Futaba",
+      "text": "Of course it\u2019s a big deal. I know how much Sensei means to you and-"
+    },
+    {
+      "character": "Futaba",
+      "text": "Wait, what was that last part?"
+    },
+    {
+      "character": "Rin",
+      "text": "I\u2019m very sensitive!"
+    },
+    {
+      "character": "Futaba",
+      "text": "The...other last...You know what? That doesn\u2019t matter. "
+    },
+    {
+      "character": "Futaba",
+      "text": "I\u2019m not going to hold it against you for getting upset about this. But I don\u2019t think just losing a contest is enough to make your relationship with Sensei...devoid of all meaning."
+    },
+    {
+      "character": "Rin",
+      "text": "It\u2019s not {i}just{/i} that, though. We had a whole talk recently about how the two of us aren\u2019t as close as we once were, and it\u2019s really starting to get to me the more I think about it."
+    },
+    {
+      "character": "Futaba",
+      "text": "Then why not just...spend more time with him?"
+    },
+    {
+      "character": "Rin",
+      "text": "Because I can\u2019t even look at him without Otoha getting all self-conscious and thinking she\u2019s just the latest trend for me. And I can\u2019t ignore Sensei because he\u2019ll just think I don\u2019t care anymore."
+    },
+    {
+      "character": "Futaba",
+      "text": "I think Sensei is smarter than that, Rin."
+    },
+    {
+      "character": "Rin",
+      "text": "Yeah, well, you probably know more about him than I do at this point too. So I\u2019ll just have to take your word for it."
+    },
+    {
+      "character": "Futaba",
+      "text": "I\u2019m assuming this...unexpected turn of events also has something to do with the fact that...Otoha didn\u2019t come back with you?"
+    },
+    {
+      "character": "Rin",
+      "text": "You assume correctly. Now, please excuse me while I drown my worries away with thirty-seven Shirley Temples at the bar. "
+    },
+    {
+      "character": "Futaba",
+      "text": "How about I join you and...we can talk it out while I also prevent you from getting diabetes?"
+    },
+    {
+      "character": "Rin",
+      "text": "Thanks, Futaba. No one else ever tries to prevent me from getting diabetes."
+    },
+    {
+      "character": "Futaba",
+      "text": "That\u2019s...what I\u2019m here for."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Sana",
+      "text": "Hey...do you...need any help with anything?..."
+    },
+    {
+      "character": "Sara",
+      "text": "Oh, Sana! You\u2019re back. Did you have fun at church? "
+    },
+    {
+      "character": "Sana",
+      "text": "Uhh...no..."
+    },
+    {
+      "character": "Sana",
+      "text": "In fact...I kind of wish I just...stayed here instead..."
+    },
+    {
+      "character": "Sara",
+      "text": "Yeah. That about sums up how I felt the one time I went to a church too."
+    },
+    {
+      "character": "Sara",
+      "text": "You don\u2019t have to worry about helping out, though. Go have fun with all of your friends. I\u2019ve got Haruka and Kaori helping out tonight. And Yuki\u2019s starting to get pretty good at this."
+    },
+    {
+      "character": "Sana",
+      "text": "Are you sure? There are a lot of people here."
+    },
+    {
+      "character": "Sara",
+      "text": "And almost half of them are paying. Isn\u2019t that crazy? It\u2019s a major improvement from last year when I was just giving stuff away."
+    },
+    {
+      "character": "Sana",
+      "text": "I mean...yeah...yeah, that...wasn\u2019t really a good business move. "
+    },
+    {
+      "character": "Sana",
+      "text": "And neither was...giving alcohol to high school girls, but...at this rate of...self-improvement, you...might even stop doing that as well..."
+    },
+    {
+      "character": "Sara",
+      "text": "Maybe! Depends on profits as I\u2019m currently making back what I lost on you earlier."
+    },
+    {
+      "character": "Sana",
+      "text": "Please don\u2019t...bet on me anymore..."
+    },
+    {
+      "character": "Sara",
+      "text": "You are my daughter. It\u2019s not like I\u2019m going to bet {i}against{/i} you."
+    },
+    {
+      "character": "Sana",
+      "text": "You know you can just...not participate in any betting at all...right?..."
+    },
+    {
+      "character": "Sara",
+      "text": "And stay right above the poverty line forever? Not a chance. Mommy\u2019s gonna hit it rich. And if Mommy needs to stake all of her money on her beautiful daughter to do that, that\u2019s what Mommy is going to do."
+    },
+    {
+      "character": "Sana",
+      "text": "Can you...stop calling yourself that, please?...It makes me uncomfortable..."
+    },
+    {
+      "character": "Sara",
+      "text": "I\u2019ll stop when you turn 40. Until then, I\u2019m not changing a thing."
+    },
+    {
+      "character": "Sana",
+      "text": "Ugh..."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Imani",
+      "text": "Jeez. Shit\u2019s really poppin\u2019 off in here and all {i}I{/i} got to do over the last two hours is stand outside, watch some lesbians fight, then ride a bus."
+    },
+    {
+      "character": "Noriko",
+      "text": "Sounds like a normal day in LA to me."
+    },
+    {
+      "character": "Imani",
+      "text": "The fuck you know about LA? And how come you never invited me?"
+    },
+    {
+      "character": "Ami",
+      "text": "Sensei...I\u2019m sorry. I have lost the scavenger hunt and failed at winning your affection. And to Noriko, no less."
+    },
+    {
+      "character": "Noriko",
+      "text": "{i}Technically{/i} you lost to Kirin. "
+    },
+    {
+      "character": "Ami",
+      "text": "Do you think you\u2019re helping? Because that makes it even worse."
+    },
+    {
+      "character": "Imani",
+      "text": "Mind if I mingle for a bit before kicking off the costume contest? Wanna touch base with the rest of the girl gang before you choose which mini cosplayer you\u2019d rather bang."
+    },
+    {
+      "character": "Ami",
+      "text": "I\u2019d like to take this opportunity to speak on behalf of my uncle in saying that he has no interest in such a thing."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019d like to take this opportunity to speak on behalf of myself to say that I do, but only under the most legal of circumstances and that is simply something I will not budge on. Thank you."
+    },
+    {
+      "character": "Noriko",
+      "text": "Can I join your girl gang, Imani? "
+    },
+    {
+      "character": "Imani",
+      "text": "Depends. You willing to perform the blood oath?"
+    },
+    {
+      "character": "Noriko",
+      "text": "Of course. I was born to perform blood oaths."
+    },
+    {
+      "character": "Imani",
+      "text": "What a strange purpose to have been put on this planet for."
+    },
+    {
+      "character": "Imani",
+      "text": "But...even if, I\u2019m probably gonna say no. Wakana is in the gang and I\u2019m pretty sure she doesn\u2019t want you around her based on the...well, the fact that she kicked you out of her class."
+    },
+    {
+      "character": "Imani",
+      "text": "Also, if you join, Kirin is going to want to join and that would obviously turn into a whole thing because of her-"
+    },
+    {
+      "character": "Noriko",
+      "text": "Innate and unflappable desire to have sex with you?"
+    },
+    {
+      "character": "Imani",
+      "text": "Bingo."
+    },
+    {
+      "character": "Ami",
+      "text": "I say we just kill her."
+    },
+    {
+      "character": "Ami",
+      "text": "It would be for the best at this point. Miss Imai and Sensei would be protected from her advances, I\u2019d wind up getting the win for the scavenger hunt by default, and Noriko..."
+    },
+    {
+      "character": "Ami",
+      "text": "I don\u2019t know. Noriko can have her clothes or something. That would be easy."
+    },
+    {
+      "character": "Noriko",
+      "text": "She {i}does{/i} have a bra I like. And it {i}would{/i} be easy."
+    },
+    {
+      "character": "Imani",
+      "text": "Fine. If that\u2019s what it takes for me to get my drink on, you guys can kill Kirin. But if the cops ask, I said no. Capiche?"
+    },
+    {
+      "character": "Ami",
+      "text": "I\u2019ll call my people once the music dies down. I\u2019m glad we were able to reach an understanding."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Rika",
+      "text": "Rin! Hi! It\u2019s me! Not your mom! This looks like fifty feet, right?"
+    },
+    {
+      "character": "Rin",
+      "text": "Chika already knows you\u2019re my mom, {i}Mom.{/i} There\u2019s no point in hiding it anymore."
+    },
+    {
+      "character": "Rin",
+      "text": "Also, here\u2019s a question- why are you two together?"
+    },
+    {
+      "character": "Rin",
+      "text": "And why are you dressed in spandex? Aren\u2019t you too old for that?"
+    },
+    {
+      "character": "Rika",
+      "text": "You\u2019re never too old for spandex!"
+    },
+    {
+      "character": "Rin",
+      "text": "That is just demonstrably untrue."
+    },
+    {
+      "character": "Chika",
+      "text": "Anyway, I just figured I\u2019d hang out with your mom while I wait for you and Otoha to get back since...Yumi obviously isn\u2019t coming. "
+    },
+    {
+      "character": "Rin",
+      "text": "I...do not know how I feel about that."
+    },
+    {
+      "character": "Chika",
+      "text": "Where is she, by the way? Otoha, I mean. I think our class is going to start casting their votes for the popularity poll soon. "
+    },
+    {
+      "character": "Rika",
+      "text": "The adults, too. I promised Chika I\u2019d vote for her if she didn\u2019t tell anybody she knew where I was living right now. Which definitely isn\u2019t your room."
+    },
+    {
+      "character": "Chika",
+      "text": "I came by looking for band recommendations the other day since I want to try listening to more of the stuff you guys do. "
+    },
+    {
+      "character": "Rin",
+      "text": "Mom, you have to vote for my girlfriend. It wouldn\u2019t be right if you voted for Chika."
+    },
+    {
+      "character": "Rika",
+      "text": "But your girlfriend isn\u2019t even here."
+    },
+    {
+      "character": "Rin",
+      "text": "Yeah, because we got into a fight."
+    },
+    {
+      "character": "Chika",
+      "text": "You did? Over what? What happened?"
+    },
+    {
+      "character": "Rin",
+      "text": "I don\u2019t really want to talk about it right now. I just want to hang out and take my mind off of it."
+    },
+    {
+      "character": "Rika",
+      "text": "Hey! I can help with that! I\u2019m basically an expert at pretending failing relationships are still going strong!"
+    },
+    {
+      "character": "Rin",
+      "text": "Thanks, Mom. That\u2019s exactly what I wanted to hear."
+    },
+    {
+      "character": "Rika",
+      "text": "I figured! Great news, right?!"
+    },
+    {
+      "character": "Chika",
+      "text": "Hey, cheer up. I\u2019m sure things will go back to normal in no time at all."
+    },
+    {
+      "character": "Chika",
+      "text": "Besides, you\u2019ll have {i}me{/i} in the meantime. And I\u2019m not just saying that because I want you to vote for me. {size=15}But you should totally vote for me.{/size}"
+    },
+    {
+      "character": "Rin",
+      "text": "Uh...th...thank you?"
+    },
+    {
+      "character": "Rika",
+      "text": "Man, I wish I had a friend who was that caring. Or any friends at all. Or a girlfriend. Or a life."
+    },
+    {
+      "character": "Rika",
+      "text": "Or anything, really. "
+    },
+    {
+      "character": "Rika",
+      "text": "But hey, at least I\u2019ve got a beer."
+    },
+    {
+      "character": "Chika",
+      "text": "Just don\u2019t drink too much or you\u2019ll have even more problems on your hands. Pretty much everything is better in moderation with...only one exception I can think of but can\u2019t talk about."
+    },
+    {
+      "character": "Rika",
+      "text": "Sour Skittles? "
+    },
+    {
+      "character": "Chika",
+      "text": "Yes, Rika. Exactly that."
+    },
+    {
+      "character": "Rika",
+      "text": "Well said, Chika. I knew I-"
+    },
+    {
+      "character": "Rika",
+      "text": "Ooh! Holy shit! Our names rhyme! How cool is that?!"
+    },
+    {
+      "character": "Chika",
+      "text": "Really cool! The...coolest thing I\u2019ve heard all night."
+    },
+    {
+      "character": "Rika",
+      "text": "Right? Who even needs Otoha when we\u2019ve got the Rika-Chika duo? She\u2019d only drag us down anyway."
+    },
+    {
+      "character": "Rin",
+      "text": "Chika, can you maybe, like...move your- "
+    },
+    {
+      "character": "Chika",
+      "text": "That\u2019s not true at all. Rin and Otoha are actually really great together. You\u2019ve just gotta get to know her a little better."
+    },
+    {
+      "character": "Rika",
+      "text": "Yeah, I\u2019ve really only seen her the one time. But meanwhile, I know basically all there is to know about you after years of listening to Rin rave on and on and on and on..."
+    },
+    {
+      "character": "Chika",
+      "text": "Oh-ho-ho?"
+    },
+    {
+      "character": "Rin",
+      "text": "Mom...can you please not?"
+    },
+    {
+      "character": "Rika",
+      "text": "Oh, it\u2019s no big deal! The Chika era is behind you! Which means I can talk about that picture you kept of her on your vanity throughout all of middle school and no one will think it\u2019s weird!"
+    },
+    {
+      "character": "Rin",
+      "text": "Mom!"
+    },
+    {
+      "character": "Chika",
+      "text": "Oh my God! That is freaking adorable!"
+    },
+    {
+      "character": "Rika",
+      "text": "Right? You should have seen her blushing every time she said that you guys were just friends. She was so cute."
+    },
+    {
+      "character": "Rin",
+      "text": "Cut it out! "
+    },
+    {
+      "character": "Rika",
+      "text": "No, no, no. Just another minute. I\u2019m reminiscing. "
+    },
+    {
+      "character": "Chika",
+      "text": "I can\u2019t believe you kept it in for so long if your crush was really that huge. Were you waiting for a sign or something? You could have just told me."
+    },
+    {
+      "character": "Rika",
+      "text": "Yeah. Who knows what would have happened if she found out a little earlier? You might even be with Chika instead of Otoha right now."
+    },
+    {
+      "character": "Chika",
+      "text": "Heheh! Maybe! We\u2019d make a cute couple, right? Just look at us."
+    },
+    {
+      "character": "Rika",
+      "text": "Totally. And you\u2019re way more like the girls Rin usually-"
+    },
+    {
+      "character": "Rika",
+      "text": "Uh-oh. I went too far, didn\u2019t I?"
+    },
+    {
+      "character": "Chika",
+      "text": "Huh?"
+    },
+    {
+      "character": "Rin",
+      "text": "Yes...you did."
+    },
+    {
+      "character": "Chika",
+      "text": "Hey, I\u2019m sorry. We were just messing around. I didn\u2019t think that would hurt you."
+    },
+    {
+      "character": "Rin",
+      "text": "Yeah, no one seems to have any idea what hurts me tonight. So I\u2019m just going to go home as well."
+    },
+    {
+      "character": "Chika",
+      "text": "Rin, no. Stay with me. We can have fun together and forget things ever got weird."
+    },
+    {
+      "character": "Rin",
+      "text": "Yeah, maybe you can! But you\u2019re not the one being pulled in three different directions right now, Chika!"
+    },
+    {
+      "character": "Rin",
+      "text": "All this is going to do is confuse me! "
+    },
+    {
+      "character": "Chika",
+      "text": "Rin-"
+    },
+    {
+      "character": "Rin",
+      "text": "Let go!"
+    },
+    {
+      "character": "Chika",
+      "text": "Rin! Come on!"
+    },
+    {
+      "character": "Rin",
+      "text": "No! I\u2019m going home to my prude of a girlfriend and yelling at her again! But thanks a lot to both of you for making tonight even worse than it already was!"
+    },
+    {
+      "character": "Rika",
+      "text": "Ahhh! Why do I always ruin everything?! Who put this stupid brain inside of my body?!"
+    },
+    {
+      "character": "Haruka",
+      "text": "What happened with Rin? What\u2019s going on?"
+    },
+    {
+      "character": "Rika",
+      "text": "What happened is I am a failure of a mother who-"
+    },
+    {
+      "character": "Rika",
+      "text": "Wait a minute. You\u2019re that girl from the convenience store."
+    },
+    {
+      "character": "Haruka",
+      "text": "Haruka. Rin\u2019s boss. "
+    },
+    {
+      "character": "Haruka",
+      "text": "I kind of assumed you were her mother based on...well, everything about you...but I figured we\u2019d wind up meeting again soon enough."
+    },
+    {
+      "character": "Haruka",
+      "text": "I didn\u2019t think it would be like this, though."
+    },
+    {
+      "character": "Rika",
+      "text": "Ugh...me neither. But I also didn\u2019t think I was ever going to see you again, so we\u2019re not really the same."
+    },
+    {
+      "character": "Rika",
+      "text": "What should I do, Haruka? I keep making things worse for Rin and all I want to do is make her happy."
+    },
+    {
+      "character": "Haruka",
+      "text": "For now, I\u2019d probably just...give her some time. "
+    },
+    {
+      "character": "Haruka",
+      "text": "Chasing after her will only make her run that much faster."
+    },
+    {
+      "character": "Imani",
+      "text": "Hola, compadres! Ignoring the fact that Rika is too busy being a trainwreck to join us at the counter, I\u2019d like to extend a hearty hello to those of you who were stable enough to make it tonight!"
+    },
+    {
+      "character": "Osako",
+      "text": "Just {i}barely{i} made it, I\u2019ll add."
+    },
+    {
+      "character": "Imani",
+      "text": "But boy am I glad you did because this is a sight I would not mind waking up to every day for the rest of my life."
+    },
+    {
+      "character": "Osako",
+      "text": "Your surname isn\u2019t \u201cTakeda,\u201d is it?"
+    },
+    {
+      "character": "Imani",
+      "text": "I sure hope not or I am absolutely {i}fucked{/i} when it comes to my taxes."
+    },
+    {
+      "character": "Wakana",
+      "text": "Please excuse my partner for what I can sense is a rather angry expression she\u2019s currently making."
+    },
+    {
+      "character": "Wakana",
+      "text": "Recent discussions may have implanted in her head the idea that I have been interested in sex with multiple women at the same time and, thus, she now likely believes I have enlisted you for that purpose."
+    },
+    {
+      "character": "Imani",
+      "text": "Enlisted? Is that why I keep being excluded from threesomes? Because I\u2019m not signing the appropriate forms?"
+    },
+    {
+      "character": "Osako",
+      "text": "Despite what Wakana says and...what my expression {i}may{/i} have said...I\u2019m not angry. Just tired. And also extremely embarrassed to be seen wearing this in public."
+    },
+    {
+      "character": "Imani",
+      "text": "Why? You\u2019re hot as hell."
+    },
+    {
+      "character": "Wakana",
+      "text": "Amen. "
+    },
+    {
+      "character": "Osako",
+      "text": "Thanks, but there\u2019s no way this sort of thing fits me."
+    },
+    {
+      "character": "Osako",
+      "text": "I\u2019m sure it comes as no surprise given my relationship, but I\u2019ve always loved the style on other people. When it comes to myself, though...it just feels wrong. You know? "
+    },
+    {
+      "character": "Imani",
+      "text": "..."
+    },
+    {
+      "character": "Osako",
+      "text": "Imani?"
+    },
+    {
+      "character": "Imani",
+      "text": "Hm? Sorry. Did you say something? I was thinking about our threesome later."
+    },
+    {
+      "character": "Osako",
+      "text": "Okay. {i}Now{/i} I\u2019m angry."
+    },
+    {
+      "character": "Kirin",
+      "text": "Woah, Miku. What\u2019s going on? Is it the noise? Do you need to step outside?"
+    },
+    {
+      "character": "Kirin",
+      "text": "Makoto didn\u2019t leave yet, did she? Maybe she-"
+    },
+    {
+      "character": "Miku",
+      "text": "I can\u2019t do it. I can\u2019t go up there."
+    },
+    {
+      "character": "Kirin",
+      "text": "So...it\u2019s not the noise? And what do you mean you can\u2019t go up there? Why not? "
+    },
+    {
+      "character": "Miku",
+      "text": "This ain\u2019t me. I ain\u2019t cute...or stylish. Or pretty. And I got no idea what even half of what I\u2019ve been sayin\u2019 all weekend means."
+    },
+    {
+      "character": "Miku",
+      "text": "They\u2019re gonna see through me. See that I don\u2019t know how to do makeup or dress nice or talk without droppin\u2019 letters and that I ain\u2019t like them. I ain\u2019t anything like them."
+    },
+    {
+      "character": "Kirin",
+      "text": "Okay. Yeah. I get what you\u2019re saying, but...counterpoint. Do you think Uta is {i}actually{/i} a kunoichi?"
+    },
+    {
+      "character": "Miku",
+      "text": "Uhh...no?..."
+    },
+    {
+      "character": "Kirin",
+      "text": "Remember what you\u2019re doing. This is a {i}costume{/i} contest. No one is expecting you to actually {i}be{/i} this person."
+    },
+    {
+      "character": "Kirin",
+      "text": "And stop biting your nails. You\u2019re going to fuck them up."
+    },
+    {
+      "character": "Miku",
+      "text": "But...But I {i}have{/i} been this person since Friday. Why\u2019s it all startin\u2019 to crack now? "
+    },
+    {
+      "character": "Kirin",
+      "text": "Probably because Miku Maruyama hasn\u2019t existed for 48 hours and she\u2019s trying to break through again."
+    },
+    {
+      "character": "Kirin",
+      "text": "You spent too long being someone else and that\u2019s getting to you. But there\u2019s nothing wrong with being someone else...and doing that doesn\u2019t mean the {i}other{/i} you is gone forever."
+    },
+    {
+      "character": "Kirin",
+      "text": "It just means you\u2019ve gotta get better at controlling it so it takes longer for you to break next time."
+    },
+    {
+      "character": "Miku",
+      "text": "Why do I...have to break at all? Why can\u2019t I just be who I wanna be?"
+    },
+    {
+      "character": "Kirin",
+      "text": "You can. But you wouldn\u2019t have chosen such a hard costume and role if that's what you really wanted."
+    },
+    {
+      "character": "Miku",
+      "text": "I can\u2019t do it...I can\u2019t do it..."
+    },
+    {
+      "character": "Uta",
+      "text": "Miku, what\u2019s wrong?! We\u2019re gonna be starting any second now."
+    },
+    {
+      "character": "Miku",
+      "text": "Do it without me. I can\u2019t. I\u2019m gonna lose. There ain\u2019t no way."
+    },
+    {
+      "character": "Io",
+      "text": "Textbook panic attack. "
+    },
+    {
+      "character": "Kirin",
+      "text": "Gee, thanks Io. There\u2019s no way any of us would have been able to figure that out on our own."
+    },
+    {
+      "character": "Io",
+      "text": "Do you want my help or not? Because I\u2019ve got pills for this and an excuse to get me the fuck out of here right now would be great."
+    },
+    {
+      "character": "Kirin",
+      "text": "You really think you\u2019re going to be able to make it to the dorm and back in the next five minutes?"
+    },
+    {
+      "character": "Io",
+      "text": "No. But I {i}would{/i} be able to make it to the coin locker around the corner."
+    },
+    {
+      "character": "Uta",
+      "text": "I made Io lock her pills up so she wouldn\u2019t keep taking them all night long."
+    },
+    {
+      "character": "Io",
+      "text": "And this is the perfect example of why I said that would be a bad idea. But we can argue about that later. How much does she weigh?"
+    },
+    {
+      "character": "Kirin",
+      "text": "She doesn\u2019t need fucking pills! She needs to breathe. "
+    },
+    {
+      "character": "Io",
+      "text": "She needs {i}both.{/i} But hey, if you want to want to risk throwing her up on that stage and making everything ten times worse, be my guest."
+    },
+    {
+      "character": "Kirin",
+      "text": "Miku, what do you think? Do you want to try and tough this out? Or do you want some of Io\u2019s medication?"
+    },
+    {
+      "character": "Miku",
+      "text": "M...Medication?"
+    },
+    {
+      "character": "Miku",
+      "text": "I...I don\u2019t know...I don\u2019t usually take that kinda stuff..."
+    },
+    {
+      "character": "Miku",
+      "text": "Is it safe?..."
+    },
+    {
+      "character": "Io",
+      "text": "It\u2019s Valium so side effects would include dizziness...drowsiness...nausea...memory loss...pretty much all the standard shit. But that\u2019s all I\u2019ve got for panic attacks in the locker. "
+    },
+    {
+      "character": "Io",
+      "text": "Anything else, I\u2019d need to go back home."
+    },
+    {
+      "character": "Miku",
+      "text": "Fine. Yeah. Go. "
+    },
+    {
+      "character": "Kirin",
+      "text": "Are you {i}sure?{/i}"
+    },
+    {
+      "character": "Miku",
+      "text": "No. "
+    },
+    {
+      "character": "Io",
+      "text": "Just think of it like a painkiller but...for your brain. You\u2019ve taken painkillers before, right?"
+    },
+    {
+      "character": "Miku",
+      "text": "Yeah, but..."
+    },
+    {
+      "character": "Imani",
+      "text": "Attention, everyone! And let me start by saying thank you all very much for coming to the final stretch of the Dorm Wars!"
+    },
+    {
+      "character": "Uta",
+      "text": "Miss Imai! We-"
+    },
+    {
+      "character": "Miku",
+      "text": "Don\u2019t. Don\u2019t say anything. Attention is bad. Keep it away."
+    },
+    {
+      "character": "Io",
+      "text": "Yes or no? Final answer."
+    },
+    {
+      "character": "Kirin",
+      "text": "Are you up first, Uta? Or is Miku supposed to go?"
+    },
+    {
+      "character": "Uta",
+      "text": "I think Miku, but..."
+    },
+    {
+      "character": "Uta",
+      "text": "I\u2019ll figure out a way to go first! And I\u2019ll stall for as long as it takes."
+    },
+    {
+      "character": "Io",
+      "text": "Miku. Yes or no?"
+    },
+    {
+      "character": "Miku",
+      "text": "Yes. Yes yes yes. Go. Thank you. "
+    },
+    {
+      "character": "Miku",
+      "text": "Just painkillers for your brain. That sounds good. Really good."
+    },
+    {
+      "character": "Kirin",
+      "text": "Just hang in there, okay? "
+    },
+    {
+      "character": "Kirin",
+      "text": "It\u2019ll all be over soon."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "dormwartwo17": {
+      "from": null,
+      "to": true
+    }
+  }
+}

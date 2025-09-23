@@ -80,13 +80,13 @@
     }
   ],
   "state_changes": {
-    "day +": {
-      "from": null,
-      "to": 4
-    },
     "totaldays +": {
       "from": null,
       "to": 1
+    },
+    "day +": {
+      "from": null,
+      "to": 4
     }
   }
 }

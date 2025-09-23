@@ -1,3 +1,4 @@
+
 import json
 import operator
 import sys
@@ -9,6 +10,7 @@ class GameState:
     def __str__(self): return json.dumps(self.variables, indent=2)
 
 class EventAnalysisPacket:
+    # (This class is unchanged)
     def __init__(self, label_name, event_id):
         self.event_id = event_id
         self.label_name = label_name
@@ -46,8 +48,10 @@ class Simulator:
         self.comparisons = {">": operator.gt, "<": operator.lt, "==": operator.eq, "!=": operator.ne, ">=": operator.ge, "<=": operator.le}
         
         self.call_stack = []
+        # --- FIX 1: Initialize a persistent event counter ---
+        self.total_events_run = 0
 
-        print(f"Simulator (V10 - Validation) initialized. Found {len(self.labels)} labels.")
+        print(f"Simulator (V11 - Persistent Counter) initialized. Found {len(self.labels)} labels.")
         self._initialize_game_state()
 
     def _initialize_game_state(self):
@@ -57,6 +61,7 @@ class Simulator:
         print("--- Game State Initialized ---")
 
     def _evaluate_value(self, val_str):
+        # (This method is unchanged)
         val_str = str(val_str).strip()
         if val_str == 'True': return True
         if val_str == 'False': return False
@@ -68,6 +73,7 @@ class Simulator:
         return self.game_state.variables.get(val_str)
 
     def _evaluate_condition(self, cond_str):
+        # (This method is unchanged)
         for op, func in self.comparisons.items():
             if op in cond_str:
                 parts = [p.strip() for p in cond_str.split(op, 1)]
@@ -75,9 +81,10 @@ class Simulator:
                 if left is None or right is None: return False
                 return func(left, right)
         bool_val = self._evaluate_value(cond_str)
-        return bool_val if isinstance(bool_val, bool) else False
+        return bool(bool_val) if isinstance(bool_val, bool) else False
 
     def _execute_variable_assignment(self, node):
+        # (This method is unchanged)
         expr = node.get('expression', '').lstrip('$').strip()
         op = next((o for o in self.operators if o in expr), None)
         if not op: return
@@ -88,6 +95,7 @@ class Simulator:
         else: self.game_state.variables[var] = self.operators[op](self.game_state.variables.get(var, 0), val)
 
     def execute_node(self, node, packet):
+        # (This method is unchanged)
         ntype = node.get('type')
         if ntype == 'dialogue':
             if packet: packet.add_dialogue(node.get('character', 'narrator'), node.get('text'))
@@ -113,29 +121,32 @@ class Simulator:
         return None
 
     def execute_node_list(self, nodes, packet):
+        # (This method is unchanged)
         for node in nodes:
             signal = self.execute_node(node, packet)
             if signal: return signal
         return None
 
     def _handle_ai_handoff(self, packet):
+        # (This method is unchanged)
         filename = f"{str(packet.event_id).zfill(4)}_{packet.label_name}.json"
         filepath = os.path.join(self.output_dir, filename)
         with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(packet.to_dict(), f, indent=2)
         print(f"--> Event packet {packet.event_id} saved to {filepath}")
 
-    # --- MODIFICATION: Added 'max_events' parameter ---
     def run_from_label(self, start_label, max_events=9999):
         current_label = start_label
-        event_count = 0
-
-        # --- MODIFICATION: Loop now checks event_count against max_events ---
-        while current_label and current_label in self.labels and event_count < max_events:
-            event_count += 1
-            print(f"\n[EVENT {event_count}: Executing '{current_label}']")
+        # --- FIX 1: Use the class-level counter ---
+        # The local event_count has been removed.
+        
+        events_this_run = 0
+        while current_label and current_label in self.labels and events_this_run < max_events:
+            self.total_events_run += 1
+            events_this_run += 1
+            print(f"\n[EVENT {self.total_events_run}: Executing '{current_label}']")
             
-            packet = EventAnalysisPacket(current_label, event_count)
+            packet = EventAnalysisPacket(current_label, self.total_events_run)
             packet.set_initial_state(self.game_state.variables)
             
             signal = self.execute_node_list(self.labels[current_label].get('children', []), packet)
@@ -153,7 +164,7 @@ class Simulator:
             
             current_label = next_label
         
-        print(f"\n--- Simulation finished after {event_count} events. ---")
+        print(f"--- Simulation finished after {events_this_run} event(s) in this run. ---")
 
 def main():
     if len(sys.argv) != 2:

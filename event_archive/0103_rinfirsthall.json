@@ -1,0 +1,280 @@
+{
+  "event_id": 103,
+  "event_label": "rinfirsthall",
+  "dialogue": [
+    {
+      "character": "Sensei",
+      "text": "Hey, Rin. What\u2019s up?"
+    },
+    {
+      "character": "Rin",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "{i}Ahem.{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "Hey, Rin. What's up?"
+    },
+    {
+      "character": "Rin",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Wow, look at all of this free hair dye and assorted skull accessories."
+    },
+    {
+      "character": "Rin",
+      "text": "Huh? What? Hair dye? Where?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I'm sorry to disappoint you but there's no free stuff. I just didn't know what else to say to get your attention."
+    },
+    {
+      "character": "Rin",
+      "text": "Oh! Yeah...sorry about that. I didn\u2019t realize you were there and must've...zoned out or something."
+    },
+    {
+      "character": "Sensei",
+      "text": "It\u2019s fine, don't worry about it. What were you looking at, though?"
+    },
+    {
+      "character": "Rin",
+      "text": "Hm? What do you mean?"
+    },
+    {
+      "character": "Sensei",
+      "text": "You just seemed pretty focused on something while you were ignoring my existence."
+    },
+    {
+      "character": "Rin",
+      "text": "Me? Nooo...That doesn't sound like me at all."
+    },
+    {
+      "character": "Rin",
+      "text": "I was probably just...thinking about how...awesome it is that my teacher is always keeping such a close eye on me!"
+    },
+    {
+      "character": "Rin",
+      "text": "You must really care about my future, huh?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I don't...{i}not{/i} care about your future?"
+    },
+    {
+      "character": "Rin",
+      "text": "Cool! But now that we're done talking about me, what are you doing over here?"
+    },
+    {
+      "character": "Rin",
+      "text": "Apart from closely monitoring my well being, I mean."
+    },
+    {
+      "character": "Sensei",
+      "text": "Just trying to kill some time. Figured I\u2019d drop by, say hello, and snap you out of whatever sort of trance you were caught in."
+    },
+    {
+      "character": "Rin",
+      "text": "Well...hello, then!"
+    },
+    {
+      "character": "Rin",
+      "text": "I\u2019d offer to let you in so we can chill in my room, but I\u2019m kinda locked out right now so I guess we're both SOL."
+    },
+    {
+      "character": "Sensei",
+      "text": "You locked yourself out of your own room? How did you manage to pull that off?"
+    },
+    {
+      "character": "Rin",
+      "text": "To be fair, my problem could easily be solved by just going back to school, but...I think I'm having more fun just hanging out in the hallway."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah, you seemed to be having a real blast before I showed up."
+    },
+    {
+      "character": "Rin",
+      "text": "Maybe staring off into space is one of my hobbies? You don't see me belittling you for spending your free time sneaking into girls' dorms."
+    },
+    {
+      "character": "Sensei",
+      "text": "I'll have you know that security is essentially non-existent here and that I was able to get inside with virtually no sneaking whatsoever."
+    },
+    {
+      "character": "Rin",
+      "text": "Well, I sure hope security for the shower room is a little bit tighter!"
+    },
+    {
+      "character": "Sensei",
+      "text": "If you really need your keys, I can walk with you back to school. It's not like I have anything else going on right now."
+    },
+    {
+      "character": "Rin",
+      "text": "Nah, it's fine. The gates are probably locked by now anyway and I don't wanna have to make you hop them with me."
+    },
+    {
+      "character": "Rin",
+      "text": "Unless you've got a key, of course. But you don't really look like the type of guy the school would trust a key with."
+    },
+    {
+      "character": "Sensei",
+      "text": "I feel like I'm supposed to be offended by this but, to be honest, I don't really feel anything."
+    },
+    {
+      "character": "Rin",
+      "text": "Mood."
+    },
+    {
+      "character": "Rin",
+      "text": "Thanks for offering, though, Sensei."
+    },
+    {
+      "character": "Rin",
+      "text": "If Futaba wasn't already on her way back, I'd probably take you up on your offer. Quickest way to solve this remains to be just...sitting around and waiting."
+    },
+    {
+      "character": "Rin",
+      "text": "Just wish there was a little more to actually {i}do{/i} in the hallway, though. Options are {i}pretty{/i} limited here, as I'm sure you've noticed."
+    },
+    {
+      "character": "Sensei",
+      "text": "You could always talk to Chika. She\u2019s standing right there."
+    },
+    {
+      "character": "Rin",
+      "text": "Ooooooh...woooooow! It appears she is!"
+    },
+    {
+      "character": "Rin",
+      "text": "And to think that I am just noticing that for the first time right now..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Rin",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "You're acting weird."
+    },
+    {
+      "character": "Rin",
+      "text": "No! {i}You're{/i} acting weird! I'm acting like a completely normal teenage girl who just happens to enjoy yelling during her free time!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Do you...want {i}me{/i} to invite Chika to join us?"
+    },
+    {
+      "character": "Rin",
+      "text": "What? No. Chika's always just..."
+    },
+    {
+      "character": "Rin",
+      "text": "Chika's always just on her phone and stuff..."
+    },
+    {
+      "character": "Rin",
+      "text": "We'd probably be better off if we just, like...left her alone or-"
+    },
+    {
+      "character": "Rin",
+      "text": "Ah- I think that's Futaba."
+    },
+    {
+      "character": "Sensei",
+      "text": "Almost back with your key to salvation?"
+    },
+    {
+      "character": "Rin",
+      "text": "No, just the key to our room."
+    },
+    {
+      "character": "Rin",
+      "text": "Either that or she's about to be eaten by wolves and is simply saying goodbye and thanks for everything."
+    },
+    {
+      "character": "Sensei",
+      "text": "For everyone's sake, I'm going to hope it's the former."
+    },
+    {
+      "character": "Rin",
+      "text": "Same. You should probably head out now, though. I don't want Futaba getting jealous thinking that I'm out here trying to cozy up to you when {i}you're{/i} the one stalking {i}me.{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "I can assure you that I am very much not stalking you, nor do I ever intend to."
+    },
+    {
+      "character": "Rin",
+      "text": "Not even a little? That's actually kind of offensive."
+    },
+    {
+      "character": "Rin",
+      "text": "I am hurt and appalled and think you should at least {i}think{/i} about stalking me occasionally."
+    },
+    {
+      "character": "Sensei",
+      "text": "I will...add it to my list of things to do. Later, Rin."
+    },
+    {
+      "character": "Rin",
+      "text": "Later, Sensei."
+    },
+    {
+      "character": "Rin",
+      "text": "Bring popcorn next time, okay?"
+    },
+    {
+      "character": "narrator",
+      "text": "I exit the dorm and make my way back into the street without any interest in ever purchasing Rin popcorn."
+    },
+    {
+      "character": "narrator",
+      "text": "What I {i}do{/i} have an interest in, though...is why she got so weird as soon as I mentioned Chika."
+    },
+    {
+      "character": "narrator",
+      "text": "Granted, she was already weird before that, but..."
+    },
+    {
+      "character": "narrator",
+      "text": "I can't help but feel like there might be a little more to her lurking somewhere beneath the surface."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Rin\u2019s affection has increased to [rin_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "rinfirsthall": {
+      "from": null,
+      "to": true
+    }
+  }
+}

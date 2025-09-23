@@ -1,0 +1,816 @@
+{
+  "event_id": 326,
+  "event_label": "springend1",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "I\u2019ve been having this recurring dream lately, but I\u2019m not sure what it means."
+    },
+    {
+      "character": "narrator",
+      "text": "When I open my eyes (Though, I\u2019m not actually opening my eyes) there are clocks, some water, and a bed."
+    },
+    {
+      "character": "narrator",
+      "text": "It\u2019s the same bed I fell asleep in. Which I think implies that I\u2019m staring at where I\u2019m supposed to be. Which then implies that this vast ocean is my bedroom."
+    },
+    {
+      "character": "narrator",
+      "text": "And I think that is inaccurate."
+    },
+    {
+      "character": "narrator",
+      "text": "I think there\u2019s something more to this."
+    },
+    {
+      "character": "narrator",
+      "text": "But when you\u2019re caught inside a dream, there isn\u2019t much you can do to actually {i}investigate,{/i} you know?"
+    },
+    {
+      "character": "narrator",
+      "text": "You need to wait until you\u2019re awake for that."
+    },
+    {
+      "character": "narrator",
+      "text": "But I haven\u2019t enjoyed being awake lately."
+    },
+    {
+      "character": "narrator",
+      "text": "In fact, I haven\u2019t really {i}ever{/i} enjoyed that, thinking back on all of those nights beside the rocking chair and the mice who would take bites out of my ears in the middle of the night."
+    },
+    {
+      "character": "narrator",
+      "text": "Now, even when I open my eyes, it\u2019s like they\u2019re stitched shut. Like I\u2019ve blocked out the world to protect myself, and...maybe that\u2019s for the best?"
+    },
+    {
+      "character": "narrator",
+      "text": "I mean, I have nothing now."
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "Well...on second thought, that isn\u2019t true."
+    },
+    {
+      "character": "narrator",
+      "text": "There are plenty of things I have. I\u2019m just reluctant to name them during situations like this because it feels more like I\u2019ve stolen them. That they were never mine to begin with."
+    },
+    {
+      "character": "narrator",
+      "text": "If I wait long enough, I get a chance to see her."
+    },
+    {
+      "character": "narrator",
+      "text": "It\u2019s an incomplete her, but it\u2019s her nonetheless. "
+    },
+    {
+      "character": "narrator",
+      "text": "She doesn\u2019t speak much. But when she does, she warns me that there\u2019s someone outside wearing her skin."
+    },
+    {
+      "character": "narrator",
+      "text": "I tell her she\u2019s silly because her skin still covers her bones. Then, the two of us kiss and spend the rest of the night covering each other in our respective bodily fluids."
+    },
+    {
+      "character": "narrator",
+      "text": "I love being asleep now. And I love this recurring dream that has replaced the nightmares."
+    },
+    {
+      "character": "narrator",
+      "text": "But there\u2019s something I don\u2019t love about it \u2014 and no, it\u2019s not the fact that I know it isn\u2019t real."
+    },
+    {
+      "character": "narrator",
+      "text": "It\u2019s the fact that it always changes when I least want it to."
+    },
+    {
+      "character": "narrator",
+      "text": "There are other versions of her that come and interrupt us. And I think it\u2019s supposed to be some sort of metaphor about how difficult it is to figure out who the {i}real{/i} her is, but I could be misunderstanding."
+    },
+    {
+      "character": "narrator",
+      "text": "For all I know, I\u2019ve been spraying my fluids on the wrong person this whole time. And for all she knows, she could be doing the same."
+    },
+    {
+      "character": "narrator",
+      "text": "Or, alternatively, all three of them could be fake and they\u2019re all just here to lure me under the covers for a special reward."
+    },
+    {
+      "character": "narrator",
+      "text": "I don\u2019t really care, to be honest."
+    },
+    {
+      "character": "narrator",
+      "text": "She can have whatever she wants from me so long as it peels a layer or two off the pixel coating I have grown to abhor."
+    },
+    {
+      "character": "narrator",
+      "text": "That coating causes pieces of reality to get lodged in my teeth when we\u2019re making out sometimes, and I don\u2019t even want to {i}start{/i} talking about how long they take to get out."
+    },
+    {
+      "character": "narrator",
+      "text": "But I\u2019m going to have to."
+    },
+    {
+      "character": "narrator",
+      "text": "Because"
+    },
+    {
+      "character": "narrator",
+      "text": "As always"
+    },
+    {
+      "character": "narrator",
+      "text": "Things change"
+    },
+    {
+      "character": "Her",
+      "text": "Akira."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Her",
+      "text": "You know I\u2019m happier here, right?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah..."
+    },
+    {
+      "character": "Her",
+      "text": "Do you know it\u2019s because I don\u2019t have to be around you anymore?"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Her",
+      "text": "You can\u2019t abuse me in here. And that\u2019s all you ever did, Akira."
+    },
+    {
+      "character": "Her",
+      "text": "Ami is right for keeping you locked away. She\u2019s right for making sure you stay dormant in bed so you can\u2019t ruin anyone\u2019s life the way you ruined mine."
+    },
+    {
+      "character": "Her",
+      "text": "I could have been amazing without you, you know? I could have done anything."
+    },
+    {
+      "character": "Her",
+      "text": "I could have found someone my age...grown up alongside them. Gotten married. Had kids. You know, the whole nine yards."
+    },
+    {
+      "character": "Her",
+      "text": "But instead, all I got was a grown man addicted to the most bitter fruit of all."
+    },
+    {
+      "character": "Her",
+      "text": "Tell me, was the taste worth it in the end? Was I all you wanted me to be and more?"
+    },
+    {
+      "character": "Her",
+      "text": "Because for me, you were nothing."
+    },
+    {
+      "character": "Her",
+      "text": "And you can have my body so long as we\u2019re in here, but you will never have my heart."
+    },
+    {
+      "character": "Sensei",
+      "text": "You\u2019re talkative today."
+    },
+    {
+      "character": "Her",
+      "text": "You brought company. I\u2019m just trying to make a good first impression."
+    },
+    {
+      "character": "narrator",
+      "text": "She doesn\u2019t speak much. But when she does, she\u2019s hurtful."
+    },
+    {
+      "character": "narrator",
+      "text": "She tells me the truth. And she does it in a way that makes me fall even harder. But no matter how hard I fall in here, I never get hurt."
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019ve drowned a few times. And I\u2019ve watched the clocks fade from my sight as the current pulled me back to Kumon-mi. But it has never {i}hurt.{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "And that\u2019s sad."
+    },
+    {
+      "character": "narrator",
+      "text": "Because I think I want it to."
+    },
+    {
+      "character": "narrator",
+      "text": "Suddenly, she breaks apart. And it\u2019s a feeling I\u2019m all too familiar with."
+    },
+    {
+      "character": "narrator",
+      "text": "But I know it\u2019s for the best as I\u2019ll see her again tomorrow, when all her pieces are sewn back together and all of mine are a little bit more rotten."
+    },
+    {
+      "character": "Her",
+      "text": "Hey. Can I tell you a secret?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Of course. You can tell me anything and everything."
+    },
+    {
+      "character": "Her",
+      "text": "I\u2019m never coming back."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Her",
+      "text": "I like it here, Akira. And the girl who wears my skin isn\u2019t as dangerous as you think."
+    },
+    {
+      "character": "Her",
+      "text": "She\u2019ll let you do it raw. And she doesn\u2019t mind if it goes into the wrong hole every now and then. Avoiding her just because she has my eyes won\u2019t do you any good."
+    },
+    {
+      "character": "Her",
+      "text": "Plus, if there\u2019s anything I know about the me who isn\u2019t me, it\u2019s that I am but I\u2019m not pretty much always really probably horny maybe. You know?"
+    },
+    {
+      "character": "Sensei",
+      "text": "No."
+    },
+    {
+      "character": "Her",
+      "text": "Oh."
+    },
+    {
+      "character": "Her",
+      "text": "Well, yeah."
+    },
+    {
+      "character": "Her",
+      "text": "Anyway, see you later."
+    },
+    {
+      "character": "Her",
+      "text": "One more thing, though."
+    },
+    {
+      "character": "Sensei",
+      "text": "What?"
+    },
+    {
+      "character": "Her",
+      "text": "{i}Wake up or you\u2019ll see it.{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "See what? What does that mean?"
+    },
+    {
+      "character": "narrator",
+      "text": "I gaze at the bed once more. I recall the fluids."
+    },
+    {
+      "character": "narrator",
+      "text": "I recall them oh so fondly."
+    },
+    {
+      "character": "Her",
+      "text": "Aaahh! Akira! Fuck me! Fuck me harder!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Haaah! Agh....I\u2019m...going as hard as I can!"
+    },
+    {
+      "character": "Her",
+      "text": "No you\u2019re not! I...hah...know you can do better! Give me...hah...give me...everything you\u2019ve got!"
+    },
+    {
+      "character": "narrator",
+      "text": "My penis gets hard."
+    },
+    {
+      "character": "Angel 1",
+      "text": "{s}sssssssssssssssssssssssssssss!{/s}"
+    },
+    {
+      "character": "Angel 2",
+      "text": "{s}kkkkkkkkkkkkkkkkkkkkkkkkkk!{/s}"
+    },
+    {
+      "character": "narrator",
+      "text": "My penis gets soft."
+    },
+    {
+      "character": "Sensei",
+      "text": "What are you two doing here? This is the Pareidolia chapter and you\u2019re supposed to be aligned with that HOPE guy I can never remember the name of."
+    },
+    {
+      "character": "Angel 1",
+      "text": "A dream in which you want to see us!"
+    },
+    {
+      "character": "Angel 2",
+      "text": "A dream in which you\u2019ll never be us!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Move. I want to watch the sex scene before I inevitably wake up and spend the rest of the day trying to fall back asleep."
+    },
+    {
+      "character": "Angel 1",
+      "text": "He thinks he\u2019s ready for the world!"
+    },
+    {
+      "character": "Angel 2",
+      "text": "Methinks that he should go fuck girls!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Methinks that you guys are annoying. Move."
+    },
+    {
+      "character": "narrator",
+      "text": "I push the angels aside and watch as I penetrate her, desperately attempting to recall what her insides felt like as I pierced through them with an unreasonable amount of force."
+    },
+    {
+      "character": "narrator",
+      "text": "All I remember is that it felt better than anything I\u2019ve ever experienced in my life."
+    },
+    {
+      "character": "narrator",
+      "text": "But was it worth it like she said before?"
+    },
+    {
+      "character": "narrator",
+      "text": "Not even close."
+    },
+    {
+      "character": "narrator",
+      "text": "And I would castrate myself if it meant being able to measure my hand against hers. Or to help her tie a kimono for her very first festival. Or to teach her long division mixed with why it must be learned."
+    },
+    {
+      "character": "narrator",
+      "text": "I remember so much apart from the tickle of her labia."
+    },
+    {
+      "character": "narrator",
+      "text": "I can taste her sweat on my tongue while mine burns holes in her thighs as it drips from my brow."
+    },
+    {
+      "character": "Angel 1",
+      "text": "Back here, buddy! Back here, guy!"
+    },
+    {
+      "character": "Angel 2",
+      "text": "Back here, man! That girl is...died!"
+    },
+    {
+      "character": "Angel 1",
+      "text": "One more mistake! I\u2019ll have your tongue!"
+    },
+    {
+      "character": "Angel 2",
+      "text": "I\u2019m sorry, S! I\u2019m very dumb!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Seriously, can you guys go away now? This is the first bout of narrative sentience I\u2019ve had in over 50,000 words and I really don\u2019t want it spoiled by your unwanted inclusion."
+    },
+    {
+      "character": "Angel 1",
+      "text": "Sentient, he thinks! He\u2019s sentient, not!"
+    },
+    {
+      "character": "Angel 2",
+      "text": "A liar, methinks! His role, he\u2019s forgot.................ten!"
+    },
+    {
+      "character": "narrator",
+      "text": "I have always been a liar, but I have not always been good at it."
+    },
+    {
+      "character": "narrator",
+      "text": "The first time I was caught masturbating, I told my mother I was praying. And that, before I knew it, God had taken control of my body and acted of his own volition."
+    },
+    {
+      "character": "narrator",
+      "text": "She did not believe me. She said that God would not prey upon children. So I asked her why those he chose to carry his message {i}did.{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "She did not like that, and I felt the taste of soap for the very first time that night. But it would not be the last."
+    },
+    {
+      "character": "narrator",
+      "text": "Today, I am far more adept at concealing my tracks. But the fact that I can have sex with everyone I know without {i}bothering{/i} to hide them tells me they might just be invisible instead."
+    },
+    {
+      "character": "narrator",
+      "text": "Regardless, this does nothing for my psyche or the sack of meat I\u2019ve been reduced to these last few nights- or however long it\u2019s been."
+    },
+    {
+      "character": "narrator",
+      "text": "It does nothing to make me want to go home."
+    },
+    {
+      "character": "narrator",
+      "text": "And I will remain content in this realm, near my bugs and my bed, for as long as this body will last."
+    },
+    {
+      "character": "narrator",
+      "text": "Let it be known."
+    },
+    {
+      "character": "narrator",
+      "text": "Let it be gospel."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "Something approaches."
+    },
+    {
+      "character": "narrator",
+      "text": "It\u2019s the scissor angel."
+    },
+    {
+      "character": "???",
+      "text": "{font=IBMPlexSansArabic-Regular.ttf}\u064a\u062c\u0628 \u0623\u0646 \u062a\u0639\u064a\u0634.{/font}"
+    },
+    {
+      "character": "???",
+      "text": "{font=IBMPlexSansArabic-Regular.ttf}\u0627\u0633\u062a\u064a\u0642\u0638 \u064a\u0627 \u0637\u0641\u0644\u064a.{/font}"
+    },
+    {
+      "character": "narrator",
+      "text": "I was warned that this might happen by a messenger pigeon sent to me on Christmas morning."
+    },
+    {
+      "character": "narrator",
+      "text": "I should hear the angel out before it chops off my hands."
+    },
+    {
+      "character": "???",
+      "text": "For what reason did your sorrows craft this realm? And what may I do to mend your broken heart?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m not sure you can, scissor angel."
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "You may call me \u201cGossamer.\u201d"
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "I appear in dreams to those who need me most."
+    },
+    {
+      "character": "Sensei",
+      "text": "Well, you\u2019ve never appeared to me before and I\u2019ve definitely needed some help recently."
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "Unfortunately, I was unable to appear before you until this very moment."
+    },
+    {
+      "character": "Sensei",
+      "text": "Busy schedule?"
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "{font=IBMPlexSansArabic-Regular.ttf}.\u0644\u0627{/font} .I was absent as you\u2019d closed your heart completely "
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "But now, you\u2019ve opened it once more. Which means you\u2019re in desperate need of my assistance."
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "Aren\u2019t you, Akira?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Why? Is there something you can do to actually {i}assist{/i} me?"
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "Of course. There is no limit to my power."
+    },
+    {
+      "character": "Sensei",
+      "text": "Then bring her back."
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "I apologize, but that is something I can not do."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yeah, of course it\u2019s not."
+    },
+    {
+      "character": "Sensei",
+      "text": "You \u201cdivine beings\u201d are all the same. You\u2019re all talk until we actually {i}need{/i} something. Then, once we do, you act completely powerless and abandon us."
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "You\u2019re misunderstanding, Akira. I am not abandoning you. It\u2019s just that your request is impossible."
+    },
+    {
+      "character": "Sensei",
+      "text": "Then I guess there\u2019s a limit to your power after all, isn\u2019t there?"
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "I suppose so... But still, I can feel your pain as if it is my own. And in feeling it, I can see you\u2019ll be crushed if you remain this way."
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "Come, Akira. Embrace me. Cry into my bosom and I will absorb some of those feelings, so that {i}you{/i} may continue living the life that you are meant to lead."
+    },
+    {
+      "character": "Sensei",
+      "text": "And if I refuse?"
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "I will chop your body into string and make a puppet of your flesh that can see the world as you did. Feel the things {i}you{/i} felt."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yet you can\u2019t make a meat puppet of her?"
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "My child..."
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "What exactly do you think the {i}new{/i} her is?"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "This ocean of your tears will drown even her reflection if your torment does not cease. But...I\u2019m curious."
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "Why will you only cry in here?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Because no one can see me in here."
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "{i}We{/i} can see you in here."
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "We have {i}always{/i} seen you."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yet, you\u2019ve always ignored me."
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "Because you blocked us out, my child. I can not explain it any other way."
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "But now that you are willing to see us, it means you\u2019re willing to {i}accept{/i} us. And I have come here to beseech that acceptance in exchange for absolution."
+    },
+    {
+      "character": "Sensei",
+      "text": "You can absolve me of my sins?"
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "I can not erase the guilt your sins have caused, but I can weave you a spidersilk hammock and reserve your plot in Heaven\u2019s Web."
+    },
+    {
+      "character": "Sensei",
+      "text": "Heaven\u2019s Web?"
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "The domain in which I preside \u2014 where there can be no sorrow, nor escape."
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "It\u2019s the perfect match for a man like you- who wishes for naught more than stasis and eternal anesthesia."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "I will not force your hand if you are not ready to extend it. But I implore you...{i}wake up.{/i}"
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "Drag yourself out of bed or you will {i}never{/i} have the chance to live again. And my appearance before you now shows that this is something you desire."
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "You\u2019re just lost."
+    },
+    {
+      "character": "Sensei",
+      "text": "Why can\u2019t I just stay {i}here?{/i} I\u2019m happy here."
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "If that were true, I would still be on the web."
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "You know well that this realm is just a waiting room. That reality is through the door behind you. And you\u2019re far too weak to open it, but {i}I{/i} can open it for you."
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "I just need to hear you say the word. And if you don\u2019t-"
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "Know that more of us will come."
+    },
+    {
+      "character": "Sensei",
+      "text": "How many more?"
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "Far more than you could ever imagine."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "What will it be, Akira?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Open it."
+    },
+    {
+      "character": "Gossamer, God of Torment",
+      "text": "As you wish."
+    },
+    {
+      "character": "narrator",
+      "text": "I make my way over to the dorms."
+    },
+    {
+      "character": "narrator",
+      "text": "It doesn\u2019t look like anyone\u2019s in the hall today."
+    },
+    {
+      "character": "narrator",
+      "text": "What do I want to do?"
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019ve been here long enough."
+    },
+    {
+      "character": "narrator",
+      "text": "Goodbye now."
+    },
+    {
+      "character": "???",
+      "text": "Wait!"
+    },
+    {
+      "character": "Ami",
+      "text": "If you leave now, you\u2019ll never get to see the end of the game!"
+    },
+    {
+      "character": "Maya",
+      "text": "That\u2019s right. You need to keep playing so you can bring me back one day."
+    },
+    {
+      "character": "Ayane",
+      "text": "And if it\u2019s too hard right now, just try doing it the way you did in the beginning!"
+    },
+    {
+      "character": "Sana",
+      "text": "Yeah...Just...have sex with...everybody and...gain points and...stuff..."
+    },
+    {
+      "character": "Ami",
+      "text": "Ooooh! Like an RPG! Good thinking, Sana!"
+    },
+    {
+      "character": "Maya",
+      "text": "Not like an RPG, idiot. She\u2019s talking about visual novels that use a hidden counter to determine how much affection heroines have with the protagonist."
+    },
+    {
+      "character": "Ayane",
+      "text": "Oh, is that how it works? I\u2019ve always wondered how games keep track of that."
+    },
+    {
+      "character": "Sana",
+      "text": "It\u2019s not always...hidden, though...Like...sometimes you know...exactly how much affection...each character has..."
+    },
+    {
+      "character": "Maya",
+      "text": "That\u2019s more of a western H-game thing. And none of those are any good, so...yeah."
+    },
+    {
+      "character": "Ami",
+      "text": "Anyway! Don\u2019t kill yourself, Sensei! You\u2019ve still got so much left to see!"
+    },
+    {
+      "character": "Ayane",
+      "text": "Yeah! And, speaking from a marketing standpoint, some of it {i}has{/i} to be happy or the story won\u2019t sell!"
+    },
+    {
+      "character": "Sana",
+      "text": "And...in the event that...{i}none{/i} of it\u2019s happy-"
+    },
+    {
+      "character": "Ayane",
+      "text": "You can come have sex with me!"
+    },
+    {
+      "character": "Ami",
+      "text": "Or me!"
+    },
+    {
+      "character": "Sana",
+      "text": "Or..."
+    },
+    {
+      "character": "Sana",
+      "text": "Or me..."
+    },
+    {
+      "character": "Maya",
+      "text": "Or me. But please know that I {i}will{/i} make you buy me dinner afterwards."
+    },
+    {
+      "character": "Sensei",
+      "text": "{b}I don\u2019t want to play this game anymore. None of it makes any sense.{/b}"
+    },
+    {
+      "character": "Ami",
+      "text": "Did it ever?"
+    },
+    {
+      "character": "Ayane",
+      "text": "Yeah! Like, how do you know you\u2019re not still in that room?"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Oh, you\u2019ve gotta be fucking-"
+    }
+  ],
+  "state_changes": {
+    "springend1": {
+      "from": null,
+      "to": true
+    },
+    "renpy.config.rtl": {
+      "from": null,
+      "to": false
+    }
+  }
+}

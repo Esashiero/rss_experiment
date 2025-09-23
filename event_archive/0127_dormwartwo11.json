@@ -1,0 +1,928 @@
+{
+  "event_id": 127,
+  "event_label": "dormwartwo11",
+  "dialogue": [
+    {
+      "character": "Imani",
+      "text": "Goooooood morning Vietnaaaaaam! And by Vietnam, I mean Kumon-mi because I\u2019m realizing now that none of you understood that reference."
+    },
+    {
+      "character": "Imani",
+      "text": "But that\u2019s fine because you\u2019ll only be paying minimal attention to me while two of our most antisocial students duke it out to see which one of them is best at being the complete opposite of themselves!"
+    },
+    {
+      "character": "Imani",
+      "text": "Special thanks once again to the Produce Delivery Administration and the Tsukioka Foundation for sponsoring the event, as well as...whatever the name of Uta\u2019s maid cafe is!"
+    },
+    {
+      "character": "Uta",
+      "text": "There is no need for a name when we exist in the shadows."
+    },
+    {
+      "character": "Imani",
+      "text": "You say, despite the giant sign out front advertising that there is a maid cafe here!"
+    },
+    {
+      "character": "Uta",
+      "text": "A sign is but a symbol of what can never be."
+    },
+    {
+      "character": "Imani",
+      "text": "The things you\u2019re saying make less and less sense as the days go by so either you\u2019re running out of steam or have suddenly become the world\u2019s worst method actor."
+    },
+    {
+      "character": "Molly",
+      "text": "Ahh, yes. Spoken like someone who has never seen Suicide Squad."
+    },
+    {
+      "character": "Imani",
+      "text": "Well, apologies for having {i}taste,{/i} Molly! But before this devolves into a debate about movies, let\u2019s get back to the method acting thing!"
+    },
+    {
+      "character": "Imani",
+      "text": "Folks, being a maid is more than just ketchup and cumshots-"
+    },
+    {
+      "character": "Uta",
+      "text": "Not that type of cafe."
+    },
+    {
+      "character": "Imani",
+      "text": "It\u2019s about embodying the role of someone who lives for the sole purpose of someone else!"
+    },
+    {
+      "character": "Imani",
+      "text": "And while it has become eerily apparent to me that that combination of words already describes a good half of you in regard to my Senpai, it\u2019s not enough! For maids have an element of cuteness as well!"
+    },
+    {
+      "character": "Chika",
+      "text": "Imani, are you saying some of us aren\u2019t cute?"
+    },
+    {
+      "character": "Imani",
+      "text": "I\u2019m saying some of you have evolved {i}past{/i} cuteness and are now extremely sexualized, anthropomorphized animals! "
+    },
+    {
+      "character": "Chika",
+      "text": "Aww! Come over here and let me lick you."
+    },
+    {
+      "character": "Imani",
+      "text": "Do not tempt me with a good time!"
+    },
+    {
+      "character": "Imani",
+      "text": "Like, seriously. These last two days have been rough."
+    },
+    {
+      "character": "Imani",
+      "text": "But that\u2019s enough of me since I\u2019m sure you\u2019re all raring to go!"
+    },
+    {
+      "character": "Imani",
+      "text": "In just a few short minutes, both of our competitors should be ready and we can kick things off. "
+    },
+    {
+      "character": "Imani",
+      "text": "So for now...sit back, relax, and enjoy the complimentary tea and breakfast!"
+    },
+    {
+      "character": "narrator",
+      "text": "Imani\u2019s speech comes to an end and I lean back in my chair, awaiting a day I didn\u2019t think would ever come- seeing Maya in a maid costume."
+    },
+    {
+      "character": "narrator",
+      "text": "Of course I\u2019m excited to be waited on by Io as well but, apparently, she\u2019s going to stay in her butler costume and play {i}that{/i} role instead of the traditional maid."
+    },
+    {
+      "character": "narrator",
+      "text": "Either way, I have entrusted my wallet to Futaba for the rest of the morning so as to not tempt me into immediately emptying its contents in front of whoever goes first."
+    },
+    {
+      "character": "narrator",
+      "text": "Which, if we\u2019re deciding based on whoever the first one out of the locker room is, will be Io."
+    },
+    {
+      "character": "Io",
+      "text": "Morning. "
+    },
+    {
+      "character": "Io",
+      "text": "Sorry for not wearing a dress. Dresses look stupid on me and make me remember that I have a vagina. Which is a thing I probably shouldn\u2019t be saying out loud, but...anyway, hi. Io here."
+    },
+    {
+      "character": "Sensei",
+      "text": "You seem nervous?"
+    },
+    {
+      "character": "Io",
+      "text": "Yeah. I\u2019ve got pills that are supposed to take care of that, but Uta said I\u2019ve been taking too many lately and that they might affect my, uhh...{i}performance.{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "Was that supposed to sound sexual in nature or no?"
+    },
+    {
+      "character": "Io",
+      "text": "No. It wasn\u2019t. But if thinking it was brings me closer to winning, that\u2019s fine. "
+    },
+    {
+      "character": "Io",
+      "text": "Because, even if I can\u2019t stand the vast majority of my floor, having you with me, uhh...wherever it is you wind up being forced to sleep...will sort of counteract that."
+    },
+    {
+      "character": "Io",
+      "text": "Should I have sucked it up and worn the dress after all? I feel like that\u2019s a thing I should have done. Just tell me to go get changed and I\u2019ll do it."
+    },
+    {
+      "character": "Sensei",
+      "text": "You\u2019re fine the way you are. Don\u2019t worry about it."
+    },
+    {
+      "character": "Io",
+      "text": "We both know that\u2019s a lie, but thank you anyway."
+    },
+    {
+      "character": "Uta",
+      "text": "Psst...the wind blows...in this general direction..."
+    },
+    {
+      "character": "Io",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "I think Uta wants you."
+    },
+    {
+      "character": "Io",
+      "text": "Just ignore her. She\u2019ll go away."
+    },
+    {
+      "character": "Uta",
+      "text": "PSSSSST!!!"
+    },
+    {
+      "character": "Io",
+      "text": "Ugh! What do you want?!"
+    },
+    {
+      "character": "narrator",
+      "text": "Uta pulls Io aside to, most likely, give her some form of pep talk before the competition begins."
+    },
+    {
+      "character": "narrator",
+      "text": "Either that or the two of them have a secret, lesbian relationship with one another and Uta simply couldn\u2019t wait to get her hands on her best friend anymore."
+    },
+    {
+      "character": "narrator",
+      "text": "Which is fair and better than the first thing I imagined, so that\u2019s what I\u2019m going to go with instead."
+    },
+    {
+      "character": "Maya",
+      "text": "Oh, good. You\u2019re already thinking of something disgusting and you haven\u2019t even seen me yet. Wonderful."
+    },
+    {
+      "character": "Sensei",
+      "text": "Stop reading my- oh boy."
+    },
+    {
+      "character": "Maya",
+      "text": "Yes. I am adorable. Thank you for noticing."
+    },
+    {
+      "character": "Sensei",
+      "text": "I think you were born to wear that outfit."
+    },
+    {
+      "character": "Maya",
+      "text": "That\u2019s actually very funny since wearing it makes me wish I was never born at all."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m surprised you even agreed to this. I figured you\u2019d just take the loss if it meant embarrassing yourself in front of me."
+    },
+    {
+      "character": "Maya",
+      "text": "I am not {i}embarrassing{/i} myself. Something like this is well within my capabilities. "
+    },
+    {
+      "character": "Maya",
+      "text": "What irritates me is the fact that I must do it for {i}you{/i} and the inevitable plethora of jokes you will make about it in the future."
+    },
+    {
+      "character": "Sensei",
+      "text": "If I\u2019m not too busy masturbating, you mean."
+    },
+    {
+      "character": "Maya",
+      "text": "You\u2019re disgusting. But I don\u2019t blame you. This is a once in a lifetime opportunity and I was aware of the consequences when I signed on."
+    },
+    {
+      "character": "Maya",
+      "text": "Fortunately for you, my victory will be ensured by the month worth of buffet tickets Ayane has promised me in exchange for it. "
+    },
+    {
+      "character": "Sensei",
+      "text": "Just make sure you\u2019re extra nice to me. I don\u2019t like tsundere maids."
+    },
+    {
+      "character": "Maya",
+      "text": "You will like whatever I tell you to like and that\u2019s final."
+    },
+    {
+      "character": "Sensei",
+      "text": "Have you met Niki yet? Because I think you two might have more in common than you think."
+    },
+    {
+      "character": "Maya",
+      "text": "Yeah. Me too."
+    },
+    {
+      "character": "Imani",
+      "text": "Maya! Io! Gather round because shit\u2019s about to take off!"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Imani",
+      "text": "The rules are plain and simple. Whoever is a better maid...or butler...wins."
+    },
+    {
+      "character": "Imani",
+      "text": "We\u2019re going to set this up in a sort of...wheel around the service worker system. So you two will take turns getting short bursts of service in before swapping places."
+    },
+    {
+      "character": "Imani",
+      "text": "We\u2019ll be using the order you two came out of the locker room in to determine who goes first, so...Io. You\u2019re up."
+    },
+    {
+      "character": "Io",
+      "text": "Shit. What if I went back in there and then came out again? Would that put me at the back of the order?"
+    },
+    {
+      "character": "Uta",
+      "text": "Go, you must. And butler, you shall."
+    },
+    {
+      "character": "Imani",
+      "text": "There are no strict rules determining what is and isn\u2019t good maid-slash-butlering, so use your knowledge of Sensei to better suit his exact needs and desires."
+    },
+    {
+      "character": "Maya",
+      "text": "Right. But what are we supposed to do if we want to keep our clothes {i}on?{/i}"
+    },
+    {
+      "character": "Imani",
+      "text": "Accept defeat, I guess? Beats me. But I ain\u2019t judging this one! So, without further ado..."
+    },
+    {
+      "character": "Imani",
+      "text": "Io...attack!"
+    },
+    {
+      "character": "narrator",
+      "text": "Io steels herself and tries to calm her nerves. "
+    },
+    {
+      "character": "narrator",
+      "text": "Of course, she fails miserably. But Uta is there to give her yet another pep talk (Without any secret lesbian contact, as far as I can tell) before she sighs heavily and makes her way over to my table..."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Io",
+      "text": "Welcome back to...Unnamed Cafe, Young Master. "
+    },
+    {
+      "character": "Io",
+      "text": "It will be my pleasure to...assist you with all of your...clothed desires this fine after...morning. Not afternoon. It\u2019s morning now."
+    },
+    {
+      "character": "Sensei",
+      "text": "It certainly is."
+    },
+    {
+      "character": "Io",
+      "text": "Could I perhaps interest you in a spot of...omelet? Or tea? Which is what I probably should have brought over here, but..."
+    },
+    {
+      "character": "Io",
+      "text": "Omelet?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Sure. I was just about to order that anyway. Great predictive thinking, Io."
+    },
+    {
+      "character": "Io",
+      "text": "O...Of course, Young Master! It is my greatest pleasure to always be of clothed service to you."
+    },
+    {
+      "character": "Io",
+      "text": "So if there is anything else I can do to-"
+    },
+    {
+      "character": "Imani",
+      "text": "Time! Maya, go!"
+    },
+    {
+      "character": "Sensei",
+      "text": "What? Already?"
+    },
+    {
+      "character": "Io",
+      "text": "Oh, thank god. Are we done? Is that it?"
+    },
+    {
+      "character": "Maya",
+      "text": "Does my presence disturb you, {i}Master?{/i} Would you like me to retrieve your previous servant?"
+    },
+    {
+      "character": "Maya",
+      "text": "Or are you going to shut up and let me win my buffet tickets?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I want Io back. Bring me the butler."
+    },
+    {
+      "character": "Imani",
+      "text": "Maya, out! Io in!"
+    },
+    {
+      "character": "Io",
+      "text": "What?! Again?! And where did I get this second omelet?!"
+    },
+    {
+      "character": "Uta",
+      "text": "Never question the mystery omelet."
+    },
+    {
+      "character": "Io",
+      "text": "Uhh...hi! I guess things didn\u2019t work out with Maya or something, so...here I am! Your...maid...ler."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Io",
+      "text": "Uhh..."
+    },
+    {
+      "character": "Io",
+      "text": "Io out. Maya in?"
+    },
+    {
+      "character": "Maya",
+      "text": "Hah..."
+    },
+    {
+      "character": "Io",
+      "text": "Woah, it actually worked."
+    },
+    {
+      "character": "Sensei",
+      "text": "Not to be rude, but you two are pretty fucking bad at this."
+    },
+    {
+      "character": "Maya",
+      "text": "Maybe you\u2019re just a bad customer? Constantly swapping out maids and butlers like they\u2019re socks...who exactly do you think you are?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I specifically told you I didn\u2019t want a tsundere maid."
+    },
+    {
+      "character": "Maya",
+      "text": "You did? Oh my gosh, I\u2019m so sorry. I was just so blinded by how happy I was to see you that I must have completely forgotten."
+    },
+    {
+      "character": "Sensei",
+      "text": "Go on..."
+    },
+    {
+      "character": "Maya",
+      "text": "With what? You already have your entree. My job here is done. "
+    },
+    {
+      "character": "Sensei",
+      "text": "I mean...you could always get me a drink?"
+    },
+    {
+      "character": "Maya",
+      "text": "Maya out. Io in."
+    },
+    {
+      "character": "Io",
+      "text": "Hi! Io again! And I brought a drink this time! Look!"
+    },
+    {
+      "character": "Io",
+      "text": "That makes the score two points for Io and zero points for Maya. Do I win yet?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Go back to talking like a butler. You\u2019re just talking like Io right now."
+    },
+    {
+      "character": "Io",
+      "text": "Understood, Young Master. Of course Io would not be good enough for you. You deserve only the most attentive of servants, and I am but a lowly peon meant to do your bidding."
+    },
+    {
+      "character": "Io",
+      "text": "Again, clothed."
+    },
+    {
+      "character": "Sensei",
+      "text": "Io out. Uta-chan in."
+    },
+    {
+      "character": "Uta",
+      "text": "Yes, Master?"
+    },
+    {
+      "character": "Uta",
+      "text": "Wait, you tricked me! I\u2019m not supposed to be up here!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Don\u2019t leave. I need you."
+    },
+    {
+      "character": "Uta",
+      "text": "Uta-chan out! Maya in!"
+    },
+    {
+      "character": "Maya",
+      "text": "Hi."
+    },
+    {
+      "character": "Sensei",
+      "text": "This is the worst contest yet."
+    },
+    {
+      "character": "Maya",
+      "text": "I actually quite like this format. It means I never have to see you for more than several seconds at a time."
+    },
+    {
+      "character": "Maya",
+      "text": "It\u2019s extremely ideal for me."
+    },
+    {
+      "character": "Sensei",
+      "text": "Would it kill you to at least {i}try{/i} and be nice?"
+    },
+    {
+      "character": "Maya",
+      "text": "Probably. Maya out again. Io in."
+    },
+    {
+      "character": "Io",
+      "text": "Are you also starting to get dizzy?"
+    },
+    {
+      "character": "Sensei",
+      "text": "A little. But maybe if you have a sip of the drink I didn\u2019t order and the omelet I haven\u2019t been able to touch yet, some of that nausea will go away?"
+    },
+    {
+      "character": "Io",
+      "text": "Do you have any idea how long this has to go on for? I kind of want to sit down."
+    },
+    {
+      "character": "Sensei",
+      "text": "Just sit here. It\u2019s not like there\u2019s any actual format to this contest at this point and I doubt anyone will care."
+    },
+    {
+      "character": "Io",
+      "text": "Sure. That sounds good."
+    },
+    {
+      "character": "Io",
+      "text": "Io sit. Maya in."
+    },
+    {
+      "character": "Maya",
+      "text": "You traitor."
+    },
+    {
+      "character": "Io",
+      "text": "Can I get an omelet as well? And maybe some coffee?"
+    },
+    {
+      "character": "Maya",
+      "text": "I am not here to serve you."
+    },
+    {
+      "character": "Sensei",
+      "text": "You\u2019re not here to serve me either. "
+    },
+    {
+      "character": "Sensei",
+      "text": "In fact, Io is already two points ahead of you and it\u2019s starting to look like those buffet tickets of yours are just a pipe dream."
+    },
+    {
+      "character": "Maya",
+      "text": "You\u2019ll regret saying those words to me."
+    },
+    {
+      "character": "Sensei",
+      "text": "Will I? Because it seems to me like you {i}have{/i} to do something to redeem yourself at this point or you\u2019re basically screwed."
+    },
+    {
+      "character": "Maya",
+      "text": "I am warning you..."
+    },
+    {
+      "character": "Io",
+      "text": "Hey, maid girl? I still haven\u2019t gotten my coffee and it\u2019s been...almost fifteen seconds. So if you could hurry it up a little bit, that would be great. Thanks."
+    },
+    {
+      "character": "Maya",
+      "text": "Hah..."
+    },
+    {
+      "character": "Maya",
+      "text": "Please forget everything you are about to see."
+    },
+    {
+      "character": "Sensei",
+      "text": "What? What does-"
+    },
+    {
+      "character": "Maya",
+      "text": "Hiya, Master! Moe Moe Maya here!"
+    },
+    {
+      "character": "Io",
+      "text": "Oh no! Effort! My greatest weakness!"
+    },
+    {
+      "character": "Maya",
+      "text": "It looks to me like somebody is a little hungry! Is there anything I can whip up for ya that\u2019ll bring a smile to that big ole\u2019 handsome face of yours?"
+    },
+    {
+      "character": "Sensei",
+      "text": "As much as I...appreciate the sudden effort...I already have-"
+    },
+    {
+      "character": "Maya",
+      "text": "You mean you\u2019re not gonna order something from me?...After I tried {i}sooooo{/i} hard to work up the courage to talk to you? You\u2019re gonna bweak my widdle heart."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m sorry, Io...I can\u2019t resist...much longer..."
+    },
+    {
+      "character": "Io",
+      "text": "Fight it! Fight it, Sensei! "
+    },
+    {
+      "character": "Maya",
+      "text": "Please, Master?...Can\u2019t you do this one little thing for me?..."
+    },
+    {
+      "character": "Maya",
+      "text": "If you don\u2019t buy any food from Moe Moe Maya, she\u2019ll have to sleep on the streets. And she gets {i}so scared{/i} when she has to do that..."
+    },
+    {
+      "character": "Maya",
+      "text": "Oh! Here\u2019s an idea! What if I throw in my biggest, most enthusiastic Moe Moe beam totally free of charge? Would {i}that{/i} make you happy?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Yes. One of everything, please. And also...will you marry-"
+    },
+    {
+      "character": "Maya",
+      "text": "No. Maya out."
+    },
+    {
+      "character": "Io",
+      "text": "Uhh...uhh!"
+    },
+    {
+      "character": "Io",
+      "text": "Io in!"
+    },
+    {
+      "character": "Io",
+      "text": "How...How do I do the beam thing?!"
+    },
+    {
+      "character": "Io",
+      "text": "Io...beeeeaaaam?"
+    },
+    {
+      "character": "Sensei",
+      "text": "It\u2019s no use...you haven\u2019t trained enough, Io. You'll only hurt yourself."
+    },
+    {
+      "character": "Io",
+      "text": "But...I brought you things! And I didn\u2019t flip you off! "
+    },
+    {
+      "character": "Io",
+      "text": "So what if I\u2019m not as good of an actor as Maya?! Isn\u2019t she only doing this for food anyway?! Shouldn\u2019t what matters most be heart?!"
+    },
+    {
+      "character": "Maya",
+      "text": "Io out. Maya in."
+    },
+    {
+      "character": "Io",
+      "text": "No! It\u2019s too soon!"
+    },
+    {
+      "character": "Maya",
+      "text": "I\u2019m having a new, {i}special{/i} omelet prepared just for you, Master. But, in the meantime...how about I cast my beam on that sorry excuse for an omelet you already have in front of you and make it edible?"
+    },
+    {
+      "character": "Io",
+      "text": "Take that back! I\u2019ll have you know that someone probably worked...moderately hard on that! But I\u2019m not really sure as I just took it off the counter!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Beam me up, Scotty."
+    },
+    {
+      "character": "Maya",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m sorry."
+    },
+    {
+      "character": "Maya",
+      "text": "Oh, Master. You sure do say some funny things sometimes. But that\u2019s just what Moe Moe Maya loves so much about you."
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t like how good you are at this."
+    },
+    {
+      "character": "Maya",
+      "text": "Just wait until you get a taste of how delicious {i}I{/i} am."
+    },
+    {
+      "character": "Maya",
+      "text": "Whoops! Did I say {i}me?{/i} Because what I really meant to say was my food. Teehee!"
+    },
+    {
+      "character": "narrator",
+      "text": "Somewhere deep inside of my chest, a heart grows back."
+    },
+    {
+      "character": "Maya",
+      "text": "Soft and sweet and full of cream! Happy hearts and hungry dreams! Cuteness turned up to extreme! Give this boy a MOE BEAM!!!"
+    },
+    {
+      "character": "Maya",
+      "text": "KYAAAAA!!!!!!!~~~~"
+    },
+    {
+      "character": "Uta",
+      "text": "Ahh! Her beam was fully capitalized! That means it\u2019s a max level maid beam! It\u2019s on par with mine!"
+    },
+    {
+      "character": "Imani",
+      "text": "And her focal lines are blocking us out! Who knew Maya possessed this much power?!"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Imani",
+      "text": "Well...I think it\u2019s safe to say that we all know who the winner of this competition is. "
+    },
+    {
+      "character": "Io",
+      "text": "I\u2019m sorry, Uta...I let you down. We all knew it already, but it appears that I\u2019m really not cut out to be a maid."
+    },
+    {
+      "character": "Maya",
+      "text": "And it appears that I will not be going hungry any time soon."
+    },
+    {
+      "character": "Uta",
+      "text": "The wind...wishes to know if you are looking for a part time job..."
+    },
+    {
+      "character": "Io",
+      "text": "I\u2019m already in the guillotine. Just hurry up and chop my head off already so I can go home and take my pills."
+    },
+    {
+      "character": "Imani",
+      "text": "You heard her, Senpai! Say the words so we can get on with the last day of the Dorm Wars!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Fine, fine..."
+    },
+    {
+      "character": "Sensei",
+      "text": "The winner is..."
+    },
+    {
+      "character": "Sensei",
+      "text": "...obviously Maya."
+    },
+    {
+      "character": "Maya",
+      "text": "Still got it."
+    },
+    {
+      "character": "Sensei",
+      "text": "Still? Have you done this-"
+    },
+    {
+      "character": "Maya",
+      "text": "No. Now, please excuse me as I put my actual costume back on and all of us forget this ever happened."
+    },
+    {
+      "character": "Chika",
+      "text": "Well, that...sure was something."
+    },
+    {
+      "character": "Nodoka",
+      "text": "Something wonderful."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "I feel as if we\u2019ve been here before."
+    },
+    {
+      "character": "Nodoka",
+      "text": "It\u2019s one thing to be stuck in a room full of girls in revealing clothing, but to watch as two of them desperately fight over a man as if it\u2019s sport...my. What a beautiful start to the day."
+    },
+    {
+      "character": "Chika",
+      "text": "It won\u2019t be beautiful for too long, you know. Your contest is up next."
+    },
+    {
+      "character": "Nodoka",
+      "text": "Is it? I haven\u2019t been keeping much track of the schedule."
+    },
+    {
+      "character": "Chika",
+      "text": "I wouldn\u2019t take things so lightly if I were you. Yumi\u2019s not going to hold back."
+    },
+    {
+      "character": "Nodoka",
+      "text": "Oh, is she actually coming? That\u2019s fantastic. I\u2019m excited to see her so the two of us can put an end to this immature feud once and for all."
+    },
+    {
+      "character": "Chika",
+      "text": "Uhh...I don\u2019t think that\u2019s something she\u2019s really interested in doing right now. I think she just wants to win the contest and go back home."
+    },
+    {
+      "character": "Nodoka",
+      "text": "If that\u2019s what she wants, that\u2019s what she\u2019ll get. And I wish her the best of luck as very few people have defeated me in...well, anything."
+    },
+    {
+      "character": "Chika",
+      "text": "You sound pretty...cool with her coming back to participate despite her beating the living shit out of you the last time you saw her."
+    },
+    {
+      "character": "Nodoka",
+      "text": "I\u2019m alive, aren\u2019t I? And more content than ever, might I add."
+    },
+    {
+      "character": "Chika",
+      "text": "If you, uhh..."
+    },
+    {
+      "character": "Chika",
+      "text": "If you don\u2019t mind me asking...do you think you might have, like...done something to piss her off? Because I\u2019ve never seen Yumi do anything like that to anyone before and..."
+    },
+    {
+      "character": "Chika",
+      "text": "Not to suggest anything, but it\u2019s hard for me to believe she\u2019d do that without a reason."
+    },
+    {
+      "character": "Nodoka",
+      "text": "Me?"
+    },
+    {
+      "character": "Nodoka",
+      "text": "All {i}I{/i} did was steal her clothes and try to get her to masturbate in front of me. Is that really so bad?"
+    },
+    {
+      "character": "Chika",
+      "text": "Ugh. Do you always have to be that perverted? Because if you\u2019re not going to tell me the truth, just forget I even asked."
+    },
+    {
+      "character": "Futaba",
+      "text": "Molly...are you sure you don\u2019t want to invite Tsuneyo over here? She seems a little out of place with Chika and Nodoka, don\u2019t you think?"
+    },
+    {
+      "character": "Molly",
+      "text": "I\u2019m a bit...uhh...how should I say...at odds with the Kendo Princess following her...{i}performance{/i} from last night."
+    },
+    {
+      "character": "Futaba",
+      "text": "I agree that she took things way too far, but...I think she was trying her best."
+    },
+    {
+      "character": "Futaba",
+      "text": "Even if her best was...disgusting and used you as...the punchline to..."
+    },
+    {
+      "character": "Futaba",
+      "text": "Actually, on second thought, I can understand why you\u2019re upset with her. I just...felt a little bad, I guess."
+    },
+    {
+      "character": "Molly",
+      "text": "As do I. And I will confront her about the situation shortly once I...uhh..."
+    },
+    {
+      "character": "Molly",
+      "text": "Find some sort of...charisma-increasing potion."
+    },
+    {
+      "character": "Futaba",
+      "text": "Please don\u2019t get drunk at a third consecutive Halloween party. It\u2019s my least favorite tradition."
+    },
+    {
+      "character": "Molly",
+      "text": "Oh, rest assured...I will not be drinking that much again any time soon..."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Maya\u2019s affection has increased to [maya_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Io\u2019s affection has increased to [io_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "{i}First Floor: [dorm1war2points]\\nSecond Floor: [dorm2war2points]{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "maya_love +": {
+      "from": 100,
+      "to": 1
+    },
+    "dormwartwo11": {
+      "from": null,
+      "to": true
+    },
+    "maidwarmaya": {
+      "from": null,
+      "to": true
+    },
+    "dorm1war2points +": {
+      "from": null,
+      "to": 1
+    }
+  }
+}

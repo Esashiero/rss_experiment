@@ -1,0 +1,988 @@
+{
+  "event_id": 155,
+  "event_label": "beachmas17",
+  "dialogue": [
+    {
+      "character": "Imani",
+      "text": "Alright, everybody! Now that Ayane has returned without Uta and Io, it means it\u2019s safe to assume that they drowned and that it\u2019s okay to start Secret Santa without them!"
+    },
+    {
+      "character": "Ayane",
+      "text": "They didn\u2019t {i}drown.{/i} I found them and they\u2019ll be here soon. I\u2019m pretty sure Uta just needs a minute to collect herself for...reasons beyond my comprehension at the current moment."
+    },
+    {
+      "character": "Imani",
+      "text": "Okay! Nevermind! Guess we can all sit here and fuck ourselves while we wait! In a nonliteral way, of course, so Kirin and Nodoka don\u2019t combine brains and have a collective aneurysm!"
+    },
+    {
+      "character": "Kirin",
+      "text": "Just implanting the thought in my head is enough to get me through the night."
+    },
+    {
+      "character": "Noriko",
+      "text": "Sure, Kirin. As if it wasn\u2019t already there. "
+    },
+    {
+      "character": "Imani",
+      "text": "Hey! Here\u2019s a fun idea! How about, instead of oversharing the things that turn us on, we share our favorite Christmas memories! Starting with Ami!"
+    },
+    {
+      "character": "Ami",
+      "text": "Sure! I think my favorite Christmas memory is from when I was still a little girl and-"
+    },
+    {
+      "character": "Imani",
+      "text": "Oh, look! Dorm 7 is back! Which means that we can all stop listening to Ami\u2019s story and start giving each other shit! And I won\u2019t even have to worry about being snubbed this year!"
+    },
+    {
+      "character": "Ayane",
+      "text": "Feeling any better, Uta?"
+    },
+    {
+      "character": "Uta",
+      "text": "This dream sure is carrying on for a long time."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Molly",
+      "text": "Merry Christmas, Yasu. I bestow unto you another MacCormack creation \u2014 your very own staff to complete your favorite costume in the club room."
+    },
+    {
+      "character": "Molly",
+      "text": "The quality isn\u2019t as good as mine, but I still managed to channel enough of my energy into it to allow the orb to float. Just don\u2019t poke it or it may explode and kill you."
+    },
+    {
+      "character": "Yasu",
+      "text": "Am I really allowed to have this?"
+    },
+    {
+      "character": "Molly",
+      "text": "Of course! Tis\u2019 the season, after all."
+    },
+    {
+      "character": "Yasu",
+      "text": "I mean religiously. Magic goes against the tenets of my beliefs and even holding such an object puts me at risk of disintegration. "
+    },
+    {
+      "character": "Molly",
+      "text": "Tsk tsk tsk. There is no {i}real{/i} magic imbued in this staff, Yasu. The {i}real{/i} magic is the friends we made along the way."
+    },
+    {
+      "character": "Yasu",
+      "text": "That sounds even more dangerous..."
+    },
+    {
+      "character": "Molly",
+      "text": "And it very well may be. But if you continue following in my footsteps, I can guarantee you that you\u2019ll never have enough friends to make it a problem."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "Merry holiday, Touka. May your days be joyous and filled with your preferred consistency of egg yolk."
+    },
+    {
+      "character": "Touka",
+      "text": "Thank you, Tsuneyo. Merry egg yolk to you as well and best wishes to you and your father."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "You appear troubled. Would you like to share some of the best Christmas present I have ever received? Out of the three Christmas presents I have ever received."
+    },
+    {
+      "character": "Touka",
+      "text": "No thank you. I have trouble eating when I\u2019m nervous and I worry that I\u2019m about to once again ruin Christmas."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "If you are going to murder someone, I believe Io would be the best choice. She contributes nothing to the class and would only be missed by one person. "
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "But no matter who you decide to kill, please spare my son. I am willing to die in his place. But only if you can defeat me in hand to hand combat."
+    },
+    {
+      "character": "Touka",
+      "text": "I have no intention of killing anyone. I just have a proven track record of giving gifts that are considered {i}over-excessive{/i} by my classmates. "
+    },
+    {
+      "character": "Touka",
+      "text": "And yes, that record may be comprised of just one thing, but that does nothing to dispel my worries and Sensei is {i}already{/i} difficult to shop for when his interests are limited to just...women."
+    },
+    {
+      "character": "Molly",
+      "text": "Sir appears to like the shirt I made for him. He\u2019s been regularly wearing it for a whole year now. "
+    },
+    {
+      "character": "Yasu",
+      "text": "I\u2019m sure that whatever you got for our teacher will be great, Touka. You\u2019re so kind and smart and good and have so much money to spend on material goods."
+    },
+    {
+      "character": "Molly",
+      "text": "What\u2019d you get him anyway? I don\u2019t remember you bringing anything with you on the bus ride over. Well, apart from your seemingly infinite inventory of cosmetic equipment."
+    },
+    {
+      "character": "Tsuneyo",
+      "text": "You can never have too many breast-accentuating tops. Isn\u2019t that right, noodle-refuser?"
+    },
+    {
+      "character": "Molly",
+      "text": "You could always give the Herald a wardrobe malfunction for Christmas. I\u2019m sure that would go over well."
+    },
+    {
+      "character": "Touka",
+      "text": "Perhaps {i}too{/i} well..."
+    },
+    {
+      "character": "Touka",
+      "text": "Unfortunately, I agreed earlier to not reveal the true nature of my gift to anyone else, so..."
+    },
+    {
+      "character": "Touka",
+      "text": "I\u2019ll just have to wait and see what {i}his{/i} reaction to it will be..."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Ayane",
+      "text": "..."
+    },
+    {
+      "character": "Ami",
+      "text": "..."
+    },
+    {
+      "character": "Maya",
+      "text": "..."
+    },
+    {
+      "character": "Ayane",
+      "text": "Umm...yes, Ami?"
+    },
+    {
+      "character": "Ami",
+      "text": "Oh, don\u2019t mind me. I\u2019m just waiting for my present. "
+    },
+    {
+      "character": "Ayane",
+      "text": "And...what makes you think I\u2019m the one who has it?"
+    },
+    {
+      "character": "Ami",
+      "text": "I saw my name on the slip of paper you drew from the hat."
+    },
+    {
+      "character": "Ayane",
+      "text": "Right, right..."
+    },
+    {
+      "character": "Ayane",
+      "text": "And on the off chance I left your present at home?"
+    },
+    {
+      "character": "Ami",
+      "text": "You what?! How?! You\u2019re normally so prepared for this kinda thing! Do I really mean so little to you that you couldn\u2019t even remember me on this super special, super important day?!"
+    },
+    {
+      "character": "Ayane",
+      "text": "I\u2019ll make it up to you okay?! This whole trip kind of, like...came out of nowhere for me. So..."
+    },
+    {
+      "character": "Ami",
+      "text": "We went shopping together for the trip like four days ago! Stop making excuses and tell me what my present is!"
+    },
+    {
+      "character": "Maya",
+      "text": "On the bright side, you\u2019re not the only person without a present. Seems like a few people forgot to bring things this year. Myself included."
+    },
+    {
+      "character": "Maya",
+      "text": "In fact, {i}none{/i} of us have gotten presents yet."
+    },
+    {
+      "character": "Makoto",
+      "text": "Hi. Melon delivery. Where do you want it?"
+    },
+    {
+      "character": "Maya",
+      "text": "Anywhere is fine since Karin didn\u2019t come this year. And thank you very much for such a thoughtful gift, Makoto. "
+    },
+    {
+      "character": "Maya",
+      "text": "Oooh, she got me one of the cube ones. Well done. "
+    },
+    {
+      "character": "Ami",
+      "text": "What were you saying about none of us getting presents, Maya?"
+    },
+    {
+      "character": "Maya",
+      "text": "Just that Ayane\u2019s not the only person who forgot to bring hers and that I, too, am a horrible friend."
+    },
+    {
+      "character": "Maya",
+      "text": "Unless I was assigned someone I\u2019m not friends with. In that case, I\u2019d just be a bad person. "
+    },
+    {
+      "character": "Ami",
+      "text": "How do you not even remember who you got? You had two whole months to plan this."
+    },
+    {
+      "character": "Maya",
+      "text": "I\u2019ll find out sooner or later. Just keep an eye out for anyone else walking around empty handed. "
+    },
+    {
+      "character": "Maya",
+      "text": "Like Sensei over there- who looks like he\u2019s about to be ritualistically whisked away by yet another troubled partygoer. "
+    },
+    {
+      "character": "Ami",
+      "text": "He forgot to get somebody a present too, didn\u2019t he?"
+    },
+    {
+      "character": "Ayane",
+      "text": "Looks that way."
+    },
+    {
+      "character": "Ami",
+      "text": "Why am I the only one in this dysfunctional family who cares about Christmas this year?"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Chika",
+      "text": "Hey! How busy are you on a scale of one to ten?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Like a four. It feels like I\u2019ve barely even been the protagonist for the last couple days."
+    },
+    {
+      "character": "Chika",
+      "text": "Great! That means you can come with me to see the super awesome present I got you!"
+    },
+    {
+      "character": "Chika",
+      "text": "Also, do you know where Rin is? I haven\u2019t seen her since Niki\u2019s concert ended."
+    },
+    {
+      "character": "Sensei",
+      "text": "She wasn\u2019t feeling well and is laying down in my room for now. She\u2019ll probably come back once she remembers there is life outside of Otoha."
+    },
+    {
+      "character": "Chika",
+      "text": "I am lowkey fed up with Otoha. She has no idea what she\u2019s missing."
+    },
+    {
+      "character": "Sensei",
+      "text": "Says a girl who willingly missed out on the same exact thing."
+    },
+    {
+      "character": "Chika",
+      "text": "The heart wants what the heart wants. And sometimes the heart wants a six foot tall adult male with a big dick. You got a problem?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Not really. If anything, I\u2019m more curious about what\u2019s going on behind you right now."
+    },
+    {
+      "character": "Chika",
+      "text": "Is that code for something? Because I\u2019m down if you are."
+    },
+    {
+      "character": "Sensei",
+      "text": "It wasn\u2019t. "
+    },
+    {
+      "character": "Chika",
+      "text": "Well, it should be. Niki always gets my heart pounding and I\u2019d let you do pretty much anything you want to me right now."
+    },
+    {
+      "character": "Chika",
+      "text": "Wait, no. Shit. Not right now. I completely lost myself for a second and forgot I needed you to follow me. "
+    },
+    {
+      "character": "Sensei",
+      "text": "Can that wait a second? Because I kind of want to hear more about your fantasies involving a certain pink-haired-"
+    },
+    {
+      "character": "Chika",
+      "text": "Maybe another time. We\u2019ve got more important stuff to do right now."
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "So...what exactly did you get for me that has an apparently strict time limit and {i}isn\u2019t{/i} sex?"
+    },
+    {
+      "character": "Chika",
+      "text": "Only the greatest present in the whole wide world."
+    },
+    {
+      "character": "Sensei",
+      "text": "Got it. So it {i}is{/i} sex."
+    },
+    {
+      "character": "Chika",
+      "text": "That would certainly be an interesting turn of events. But no, it\u2019s not that."
+    },
+    {
+      "character": "Chika",
+      "text": "In fact, it\u2019s not really as much of a present as it is a surprise. "
+    },
+    {
+      "character": "Chika",
+      "text": "My {i}real{/i} present is still on the way. It just needs a little more...preparation first."
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t think non-present surprises are a valid Secret Santa gift."
+    },
+    {
+      "character": "Chika",
+      "text": "I didn\u2019t have you for Secret Santa this year. "
+    },
+    {
+      "character": "Sensei",
+      "text": "You didn\u2019t?"
+    },
+    {
+      "character": "Chika",
+      "text": "No. This is just a thing I\u2019m getting you involved with because of how much I love you. Which is a lot. And it\u2019s okay if I say that since nobody else can hear us right now."
+    },
+    {
+      "character": "Sensei",
+      "text": "Correct. But this also means that there is another present waiting for me back in that room and you are keeping me from it."
+    },
+    {
+      "character": "Chika",
+      "text": "Get it later. This is more important."
+    },
+    {
+      "character": "Sensei",
+      "text": "What can be more important than a mystery gift from a mystery person? That\u2019s two whole layers of mystery."
+    },
+    {
+      "character": "Chika",
+      "text": "That."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Chika",
+      "text": "Kay! My job is done here. Play nice, you two. I have to go give Miku a box of old accessories and convince her to go fulltime gyaru with me."
+    },
+    {
+      "character": "Yumi",
+      "text": "Thanks, Chika."
+    },
+    {
+      "character": "Chika",
+      "text": "Mhm! Love ya! Byeeee!"
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m not sure if I understand what\u2019s going on right now..."
+    },
+    {
+      "character": "Yumi",
+      "text": "Make that two of us."
+    },
+    {
+      "character": "Sensei",
+      "text": "Did you...ask for Chika to bring me to you? Because I\u2019ve been looking all over-"
+    },
+    {
+      "character": "Yumi",
+      "text": "Why? So you could shout out a bunch of shit about jerking off to me again? "
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Yumi",
+      "text": "You gonna be able to keep that to yourself this time? Or should I just walk away now?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I can try, yeah."
+    },
+    {
+      "character": "Yumi",
+      "text": "Good. Because I still ain\u2019t said all I need to say to you and I\u2019m tryin\u2019 not to let petty shit like what people think about me drag me down anymore. You included."
+    },
+    {
+      "character": "Sensei",
+      "text": "I-"
+    },
+    {
+      "character": "Yumi",
+      "text": "And I don\u2019t want a fuckin\u2019 apology either. Wouldn\u2019t mean shit coming from you anyway."
+    },
+    {
+      "character": "Sensei",
+      "text": "Luckily for you, I wasn\u2019t about to apologize. Because, like you said, it would mean nothing coming from me."
+    },
+    {
+      "character": "Yumi",
+      "text": "We gonna stand here like fuckin\u2019 lunatics or are we gonna sit down? Can\u2019t imagine this shit will be over quick. And if I don\u2019t give my legs a break, I might not be able to book it again when you get all fuckin\u2019 weird."
+    },
+    {
+      "character": "narrator",
+      "text": "Yumi takes a seat at the edge of the pier. "
+    },
+    {
+      "character": "narrator",
+      "text": "I watch as the moon-touched water ripples in the breeze, far warmer than it should ever be this time of year."
+    },
+    {
+      "character": "narrator",
+      "text": "And then I set my sights on the face of a girl watching the same exact thing."
+    },
+    {
+      "character": "narrator",
+      "text": "A girl that, for the first time in what I can safely call {i}years{/i} at this point, found {i}me{/i} instead of me finding her."
+    },
+    {
+      "character": "narrator",
+      "text": "Not counting of course our final moments at the Dorm Wars, which may or may not have even happened at this point."
+    },
+    {
+      "character": "narrator",
+      "text": "In fact, it\u2019s hard to recall {i}anything{/i} that\u2019s happened at this point when my relationship with Yumi is arguably one of the most convoluted ones I have...and it\u2019s all for reasons I don\u2019t understand."
+    },
+    {
+      "character": "narrator",
+      "text": "She\u2019s never made it to the rooftop. She\u2019s never even entered my house. "
+    },
+    {
+      "character": "narrator",
+      "text": "And her feelings, though blurred by my serpent tongue and its tendency to graze the skin of my unsuspecting prey, are all skin deep."
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019m certain I could taste them if I sunk my fangs into her again."
+    },
+    {
+      "character": "narrator",
+      "text": "If I coiled around her body...waited patiently for her to stop moving..."
+    },
+    {
+      "character": "narrator",
+      "text": "{b}DEVOURED HER WHOLE{/b}"
+    },
+    {
+      "character": "narrator",
+      "text": "But I will not."
+    },
+    {
+      "character": "narrator",
+      "text": "Because her flesh looks better in the moonlight. "
+    },
+    {
+      "character": "narrator",
+      "text": "And I long for the added effect of how my bedroom window will make it glow someday."
+    },
+    {
+      "character": "narrator",
+      "text": "Maybe far off in the future."
+    },
+    {
+      "character": "narrator",
+      "text": "Or maybe tonight if I have never understood her at all."
+    },
+    {
+      "character": "Yumi",
+      "text": "What do you think about me?"
+    },
+    {
+      "character": "Sensei",
+      "text": "What do you mean?"
+    },
+    {
+      "character": "Yumi",
+      "text": "Just...me as a whole."
+    },
+    {
+      "character": "Yumi",
+      "text": "What kind of person am I? How do you feel when you\u2019re with me?"
+    },
+    {
+      "character": "Yumi",
+      "text": "Do you ever find yourself getting mad? Confused? And how does that compare to the way you feel about everyone else?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t...really get why you\u2019re asking."
+    },
+    {
+      "character": "Yumi",
+      "text": "Because I want to fucking know and I just don\u2019t get it."
+    },
+    {
+      "character": "Yumi",
+      "text": "You\u2019re a confusing dude. And you do tons of shit that makes me want to rip your guts out and stomp on \u2018em...but you\u2019ve also helped me a lot. And I can\u2019t ignore that shit anymore."
+    },
+    {
+      "character": "Yumi",
+      "text": "Not if it\u2019s gonna make me feel like this."
+    },
+    {
+      "character": "Sensei",
+      "text": "Like {i}what,{/i} Yumi?"
+    },
+    {
+      "character": "Yumi",
+      "text": "Like...calling you out here in the middle of the night just so I can talk to you. That ain\u2019t shit I {i}want{/i} to do...but it\u2019s shit I feel like I {i}have{/i} to do and I don\u2019t get why I suddenly feel like that."
+    },
+    {
+      "character": "Yumi",
+      "text": "I did a lot of thinking in my time away from school...mostly about how I wished I would\u2019ve fucked Nodoka up even harder, but I thought a lot about {i}you{/i} too."
+    },
+    {
+      "character": "Yumi",
+      "text": "But before you go freakin\u2019 out again about how horrible of a douche we all know you are, there were some actual, like...{i}good{/i} thoughts in there."
+    },
+    {
+      "character": "Yumi",
+      "text": "Maybe it\u2019s just cause I\u2019m so used to all of the adults in my life being fuckin\u2019 worthless criminals...but you ain\u2019t been all that bad by comparison."
+    },
+    {
+      "character": "Yumi",
+      "text": "Done more for me than my mom or dad ever did, that\u2019s for sure."
+    },
+    {
+      "character": "Yumi",
+      "text": "That said, though...you\u2019re still fucking scum. And the chances of you ever bein\u2019 able to redeem yourself for all of the horrible shit you\u2019ve done don\u2019t even exist as far as I\u2019m concerned. "
+    },
+    {
+      "character": "Yumi",
+      "text": "It ain\u2019t just me you\u2019re lettin\u2019 down by bein\u2019 so caught up in yourself that you can\u2019t see everybody else, it\u2019s...well, {i}everybody else{/i} that\u2019s bein\u2019 let down. You get it?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I do...but I don\u2019t think you would have had Chika bring me here if that\u2019s all you wanted to say."
+    },
+    {
+      "character": "Sensei",
+      "text": "So what else is there? Do you want to make up? Or is this your way of telling me to leave you alone for the rest of forever- a thing we both know I wouldn\u2019t be able to do?"
+    },
+    {
+      "character": "Yumi",
+      "text": "I don\u2019t fuckin\u2019 know, man. I\u2019ve been thinkin\u2019 nonstop about all of the shit I was gonna say over the last 24 hours, and now that you\u2019re here, all I wanna do is call you a jack-off and tell you to eat shit."
+    },
+    {
+      "character": "Yumi",
+      "text": "Why\u2019d you have to go and say all that stuff about yourself, man? Are you {i}trying{/i} to confuse me? Because it fuckin\u2019 worked if that\u2019s what you were going for."
+    },
+    {
+      "character": "Sensei",
+      "text": "I just want to be honest with you. And that\u2019s a pretty big deal since I can\u2019t even be honest with myself most of the time."
+    },
+    {
+      "character": "Yumi",
+      "text": "Honesty fucking hurts. Why couldn\u2019t you just keep lyin\u2019 to me and save me from actually havin\u2019 to use my shitty ass brain? None of this makes sense."
+    },
+    {
+      "character": "Yumi",
+      "text": "Whether it be your relationship with Chika..."
+    },
+    {
+      "character": "Yumi",
+      "text": "Or how you waited until I was at my most vulnerable to straight up give up on me..."
+    },
+    {
+      "character": "Yumi",
+      "text": "I know I freaked out when you walked in, but..."
+    },
+    {
+      "character": "Yumi",
+      "text": "But there was a serious moment before Nodoka showed up where I felt like I\u2019d actually been {i}saved...{/i}"
+    },
+    {
+      "character": "Yumi",
+      "text": "But then..."
+    },
+    {
+      "character": "Yumi",
+      "text": "You didn\u2019t do shit."
+    },
+    {
+      "character": "Yumi",
+      "text": "You just watched it all happen."
+    },
+    {
+      "character": "Yumi",
+      "text": "Do you {i}want{/i} me to hurt? Are you punishing me for something?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Why does that make you h-"
+    },
+    {
+      "character": "Yumi",
+      "text": "{b}WHY THE FUCK DO YOU THINK?!{/b}"
+    },
+    {
+      "character": "Yumi",
+      "text": "{b}USE YOUR STUPID, FUCKING ADULT BRAIN TO PUT YOURSELF INTO THE SHOES OF A CONFUSED TEENAGE GIRL TAKING THE WORLD ON ALL BY HERSELF!{/b}"
+    },
+    {
+      "character": "Yumi",
+      "text": "{b}IMAGINE WHAT IT WOULD BE LIKE FINALLY BEING HELPED BY SOMEONE AFTER YEARS AND YEARS OF DOING EVERYTHING ALONE!{/b}"
+    },
+    {
+      "character": "Yumi",
+      "text": "{b}IMAGINE HOW YOU WOULD FEEL ABOUT THAT PERSON!{/b}"
+    },
+    {
+      "character": "Yumi",
+      "text": "{b}THEN IMAGINE WHAT IT WOULD BE LIKE TO HAVE IT ALL TAKEN AWAY! {/b}"
+    },
+    {
+      "character": "Yumi",
+      "text": "{b}I FUCKING HATE YOU! BUT I DON\u2019T! OKAY?! I DON\u2019T!{/b}"
+    },
+    {
+      "character": "Yumi",
+      "text": "Or at least I {i}didn\u2019t.{/i}"
+    },
+    {
+      "character": "Yumi",
+      "text": "I don\u2019t know anymore."
+    },
+    {
+      "character": "Yumi",
+      "text": "But at the end of the day, I\u2019m just another stupid fucking girl who can\u2019t figure shit out on her own."
+    },
+    {
+      "character": "Yumi",
+      "text": "And that\u2019s the exact reason you ever wanted to spend time with me in the first place."
+    },
+    {
+      "character": "Yumi",
+      "text": "Does it make you feel strong, Sensei? Having so much power and never actually using it for anyone but yourself?"
+    },
+    {
+      "character": "Yumi",
+      "text": "How do you sleep at night?"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Yumi",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Feel better now?"
+    },
+    {
+      "character": "Yumi",
+      "text": "A little."
+    },
+    {
+      "character": "Sensei",
+      "text": "Good. Guess I\u2019ll just pick up where we left off a couple months ago then."
+    },
+    {
+      "character": "Yumi",
+      "text": "What?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m exactly the type of person you said I am."
+    },
+    {
+      "character": "Sensei",
+      "text": "You were vulnerable, so I swooped in...and did things to make you trust me because I thought it would increase the chances of me getting into your pants one day."
+    },
+    {
+      "character": "Yumi",
+      "text": "You\u2019re fucking-"
+    },
+    {
+      "character": "Sensei",
+      "text": "But that was just the beginning."
+    },
+    {
+      "character": "Yumi",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Somewhere down the line, I actually {i}did{/i} start wanting to help you."
+    },
+    {
+      "character": "Sensei",
+      "text": "I don\u2019t know if I just felt indebted because of the horrible experience I put you through in the second half of town so long ago...but I really did want to help."
+    },
+    {
+      "character": "Sensei",
+      "text": "And I {i}still{/i} want to help."
+    },
+    {
+      "character": "Sensei",
+      "text": "But those other feelings? The ones that I know are wrong- that you {i}despise{/i} me for having."
+    },
+    {
+      "character": "Sensei",
+      "text": "I can\u2019t make them go away."
+    },
+    {
+      "character": "Sensei",
+      "text": "If it was that easy, I\u2019d do it."
+    },
+    {
+      "character": "Sensei",
+      "text": "But to me, you...and everyone else...will always find your way into my fan-"
+    },
+    {
+      "character": "Yumi",
+      "text": "Don\u2019t tell me about your fucking fantasies! They only make shit more confusing!"
+    },
+    {
+      "character": "Sensei",
+      "text": "I tried to get it all off my chest two months ago, but-"
+    },
+    {
+      "character": "Yumi",
+      "text": "And what the fuck are you talking about with all this \u201cTwo months ago\u201d crap?! You said all of that shit to me {i}yesterday!{/i} Stop trying to confuse me every chance you get!"
+    },
+    {
+      "character": "Sensei",
+      "text": "But if that\u2019s what we talked about yesterday, what did we talk about at the end of the Dorm Wars?"
+    },
+    {
+      "character": "Yumi",
+      "text": "The fuck are you on, dude? We-"
+    },
+    {
+      "character": "Yumi",
+      "text": "We..."
+    },
+    {
+      "character": "Yumi",
+      "text": "That\u2019s..."
+    },
+    {
+      "character": "Yumi",
+      "text": "That\u2019s...weird..."
+    },
+    {
+      "character": "Yumi",
+      "text": "I can\u2019t really remember..."
+    },
+    {
+      "character": "Yumi",
+      "text": "I remember...coming to the closing ceremony thing to talk to you about..."
+    },
+    {
+      "character": "Yumi",
+      "text": "About...the same thing I\u2019m talking about today? But why...would..."
+    },
+    {
+      "character": "Yumi",
+      "text": "What the fuck?..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Yumi",
+      "text": "What the {i}fuck?{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "Do you remember...{i}anything{/i} from the last two months, Yumi?"
+    },
+    {
+      "character": "Yumi",
+      "text": "Yeah, obviously! It wasn\u2019t much different from how shit normally is. I woke up...went to sc-"
+    },
+    {
+      "character": "Yumi",
+      "text": "Wait, no. I was suspended from school, wasn\u2019t I? How\u2019d I get back in? {i}When{/i} did I get back in? And why don\u2019t I..."
+    },
+    {
+      "character": "Yumi",
+      "text": "What...the fuck is going on right now? Why can\u2019t I remember anything?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Maybe you just...{i}skipped{/i} the last couple months?"
+    },
+    {
+      "character": "Yumi",
+      "text": "{i}Skipped{/i} them? Are you fucking crazy?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I know how it sounds. And there are probably rules against me telling you this, but that\u2019s exactly how it happened for me."
+    },
+    {
+      "character": "Sensei",
+      "text": "I started talking to you at the end of the Dorm Wars...blinked...and suddenly we were all here."
+    },
+    {
+      "character": "Yumi",
+      "text": "This really isn\u2019t the time to fuck with me, dick."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m not."
+    },
+    {
+      "character": "Yumi",
+      "text": "Yeah, whatever...just..."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Yumi",
+      "text": "..."
+    },
+    {
+      "character": "Yumi",
+      "text": "Seriously, what the {i}fuck?{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "My phone goes off while Yumi is busy staring into space (For reasons I completely understand) and I seize the opportunity to take a look at who it is."
+    },
+    {
+      "character": "Noriko",
+      "text": "{i}Merry Christmas! I asked Chika where you were since I saw you guys leave together and she told me you were busy, but I wanted to remind you about our plans tonight.{/i}"
+    },
+    {
+      "character": "Noriko",
+      "text": "{i}You don\u2019t HAVE to come if it\u2019s something super serious and whatnot, but I\u2019ll be in this little clearing thing I found near where the forest meets the dunes.{/i}"
+    },
+    {
+      "character": "Noriko",
+      "text": "{i}You can get there from a trail about half a mile west of the inn, but it\u2019s kind of hard to see when it\u2019s dark, so I drew a big heart in the sand. Turn there and follow that until you find me. {/i}"
+    },
+    {
+      "character": "Noriko",
+      "text": "{i}I started a bonfire for the two of us (Or just me if you can\u2019t come) so that might help you find me as well.{/i}"
+    },
+    {
+      "character": "Noriko",
+      "text": "{i}Anyway, that\u2019s all! Just checking in and letting you know I\u2019m here whenever you want to (Or don\u2019t want to) come.{/i}"
+    },
+    {
+      "character": "Noriko",
+      "text": "{i}See you soon. Maybe <3{/i}"
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "Yumi",
+      "text": "..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yumi, I-"
+    },
+    {
+      "character": "Yumi",
+      "text": "Yeah, go."
+    },
+    {
+      "character": "Yumi",
+      "text": "I need to, like...gather my thoughts and shit."
+    },
+    {
+      "character": "Yumi",
+      "text": "But we ain\u2019t done. We\u2019ll pick this shit up once I can actually think again."
+    },
+    {
+      "character": "Sensei",
+      "text": "Well, best of luck. And let me know if you figure anything out because it would sure as hell be a huge help."
+    },
+    {
+      "character": "narrator",
+      "text": "You\u2019re in luck, Noriko."
+    },
+    {
+      "character": "narrator",
+      "text": "You won\u2019t have to spend another night alone."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Yumi\u2019s affection has increased to [yumi_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "yumiknows": {
+      "from": null,
+      "to": true
+    },
+    "beachmas17": {
+      "from": null,
+      "to": true
+    }
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "event_id": 27,
+  "event_label": "firsttimestreets",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "Not really knowing what else to do with this sudden abundance of free time, I decide to get a little more acquainted with the city."
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019m still getting used to this place, so I figure that the quicker I can actually figure out where I am, the quicker I can...I don't know. Do stuff?"
+    },
+    {
+      "character": "narrator",
+      "text": "Plus, being out in the open gives me a better chance to run into someone than just sitting around in my room- and I believe that the easiest way to kill time is by distracting yourself with the presence of others."
+    },
+    {
+      "character": "narrator",
+      "text": "Granted, that mindset gets a lot worse considering the only people I have any reason to spend time with right now are teenagers, but it doesn't really matter."
+    },
+    {
+      "character": "narrator",
+      "text": "No one\u2019s judging here. At least not to my knowledge."
+    },
+    {
+      "character": "narrator",
+      "text": "And if I'm going to be making the most of my time in this...new world or whatever it is, dwelling on how anyone else feels will just hold me back."
+    },
+    {
+      "character": "narrator",
+      "text": "If all of this is fake, I have nothing to fear."
+    },
+    {
+      "character": "narrator",
+      "text": "If all of this is fake, I am free to live as I please."
+    },
+    {
+      "character": "narrator",
+      "text": "I walk up a flight of stairs onto a bridge overlooking the same part of town I have to go through in order to make it to school and take in the sights from a brand new perspective."
+    },
+    {
+      "character": "narrator",
+      "text": "The light of the setting sun illuminates the body of a young girl and looks beautiful in the several seconds before she exercises {i}her{/i} free will to spit on a passing car."
+    },
+    {
+      "character": "narrator",
+      "text": "She misses dramatically, but I'm sure she'll have many more chances."
+    },
+    {
+      "character": "???",
+      "text": "{i}Hah...{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "The mysterious girl lets out a sigh and stares off into the distance."
+    },
+    {
+      "character": "narrator",
+      "text": "I wonder what it is that brought her here?"
+    },
+    {
+      "character": "narrator",
+      "text": "I wonder why she isn't with anyone else?"
+    },
+    {
+      "character": "???",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "Something inside of me convinces me to call out."
+    },
+    {
+      "character": "Sensei",
+      "text": "Hey."
+    },
+    {
+      "character": "Yumi",
+      "text": "The fuck do {i}you{/i} want?"
+    },
+    {
+      "character": "narrator",
+      "text": "Apparently, that something is entirely unaware that not {i}everyone{/i} here unabashedly celebrates my existence."
+    },
+    {
+      "character": "Sensei",
+      "text": "Nothing in particular. Just...looking around, I guess."
+    },
+    {
+      "character": "Yumi",
+      "text": "Uh-huh. Right."
+    },
+    {
+      "character": "Yumi",
+      "text": "So you just happened to {i}look around{/i} exactly where I'm hanging out? Couldn't get on with your {i}adventure{/i} before annoying me first?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Apparently. But what's even more confusing than that is the abrupt appearance of ska music."
+    },
+    {
+      "character": "Yumi",
+      "text": "Ska...music? The fuck are you talking about?"
+    },
+    {
+      "character": "Yumi",
+      "text": "This one of those fuckin' hidden camera shows or some shit? Cause I ain't cool with being filmed, dickweed."
+    },
+    {
+      "character": "Yumi",
+      "text": "The hell are you even sayin' hi to me for? What do you want?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Just thought you could use a little company if you're going to be hanging out up here. And since the two of us aren't doing anything-"
+    },
+    {
+      "character": "Yumi",
+      "text": "What? You thought you'd just call out to a girl who's like a fifth of your age and that she'd get all excited to hang out with you or some shit?"
+    },
+    {
+      "character": "Yumi",
+      "text": "Gimme a break. This ain't some fuckin' manga or whatever."
+    },
+    {
+      "character": "Sensei",
+      "text": "First off, there is absolutely no way I'm even half as old as you think I am."
+    },
+    {
+      "character": "Sensei",
+      "text": "And second, you should try to remember I'm responsible for your grades before you start doing things like insulting me and spitting on random cars."
+    },
+    {
+      "character": "narrator",
+      "text": "I attempt to flex my newfound teacher muscle but, considering the type of girl Yumi appears to be, I doubt it will do anything."
+    },
+    {
+      "character": "Yumi",
+      "text": "Oh, suck my dick. You can't control where I spit. We ain't even in school right now. You've got no right to say shit like that to me."
+    },
+    {
+      "character": "narrator",
+      "text": "Yup. Entirely ineffective."
+    },
+    {
+      "character": "narrator",
+      "text": "Let's try a new strategy."
+    },
+    {
+      "character": "Sensei",
+      "text": "You're just a lot cuter when you're not projectile-salivating on commuters."
+    },
+    {
+      "character": "Yumi",
+      "text": "Excuse me?! The fuck did you just say?!"
+    },
+    {
+      "character": "Yumi",
+      "text": "I'll throw you off this bridge right now, fuckface!"
+    },
+    {
+      "character": "narrator",
+      "text": "Strategy two is also a bust and I immediately question why I had to be reborn into a place like this instead of one where I am universally loved."
+    },
+    {
+      "character": "Sensei",
+      "text": "If you want to try and lift me, go ahead. But I'm twice your size and I can't imagine you really want to touch me in the first place."
+    },
+    {
+      "character": "Yumi",
+      "text": "Well...you're right about the touching part. But I ain't some dainty, little princess! I'm strong as shit!"
+    },
+    {
+      "character": "Sensei",
+      "text": "I'm sure you are, Yumi. I'm very intimidated."
+    },
+    {
+      "character": "Yumi",
+      "text": "I am! I ain't fuckin' around!"
+    },
+    {
+      "character": "Yumi",
+      "text": "This one time, I made this old man cry just by punching him."
+    },
+    {
+      "character": "Sensei",
+      "text": "Why would you do that?"
+    },
+    {
+      "character": "Yumi",
+      "text": "Because I am Yumi and punching old people is a character trait I have in the Patreon friendly version of the game."
+    },
+    {
+      "character": "narrator",
+      "text": "I still obviously don't know Yumi very well, but it's clear that she's not very fond of whoever inhabited this body last."
+    },
+    {
+      "character": "narrator",
+      "text": "Frankly, it feels like even trying to get to know her at this point is a lost cause."
+    },
+    {
+      "character": "Sensei",
+      "text": "So, is this just...where you hang out or something?"
+    },
+    {
+      "character": "Yumi",
+      "text": "If I say yes, are you going to fucking stalk me all the time? Cause I really don't wanna deal with that shit."
+    },
+    {
+      "character": "Sensei",
+      "text": "Just...trying to learn more about one of my students."
+    },
+    {
+      "character": "Yumi",
+      "text": "Why? I barely even come to class."
+    },
+    {
+      "character": "Sensei",
+      "text": "Hey, you don't have to come {i}at all{/i} if you don't want to. It doesn't make much of a difference to me."
+    },
+    {
+      "character": "Yumi",
+      "text": "Wait, what? You serious?"
+    },
+    {
+      "character": "Yumi",
+      "text": "You ain't gonna, like...lecture me or some shit?"
+    },
+    {
+      "character": "Yumi",
+      "text": "The fuck is goin' on with you today? This ain't normal."
+    },
+    {
+      "character": "Sensei",
+      "text": "I guess you could say I've got a new lease on life. Come whenever you want or just...don't. It's up to you."
+    },
+    {
+      "character": "Sensei",
+      "text": "I just want to know what you're busy doing when you're {i}not{/i} in school."
+    },
+    {
+      "character": "Yumi",
+      "text": "Well...nothing lately. Pretty much everybody I used to chill with is like, out in space or whatever now."
+    },
+    {
+      "character": "narrator",
+      "text": "I assume she's talking about those Yakuza-looking guys my journal mentioned."
+    },
+    {
+      "character": "Yumi",
+      "text": "We\u2019d hang out at the arcade...shoot the shit...pick the locks on Pachinko machines for some free cash..."
+    },
+    {
+      "character": "Yumi",
+      "text": "You know how it is."
+    },
+    {
+      "character": "Sensei",
+      "text": "Wow, Pachinko machines. I can only imagine how feared you must be around here."
+    },
+    {
+      "character": "Yumi",
+      "text": "Yo! Cut it the fuck out! You don't know shit about what I've been through!"
+    },
+    {
+      "character": "Yumi",
+      "text": "Can guarantee you the life I lead is a lot rougher than hangin\u2019 out with your friggin\u2019 {i}niece{/i} all day."
+    },
+    {
+      "character": "Yumi",
+      "text": "The hell is even up with that? You guys are way too fuckin' close for family."
+    },
+    {
+      "character": "Yumi",
+      "text": "I bet she ain't even your real [niece] and is just some fuckin' mindslave you bought on the market or something."
+    },
+    {
+      "character": "Sensei",
+      "text": "She is a real accountant and has efficiently filed my taxes for years now."
+    },
+    {
+      "character": "Yumi",
+      "text": "...Yeah, well whatever. You\u2019re still a fucking creep."
+    },
+    {
+      "character": "Sensei",
+      "text": "You say that as if you're a completely respectable and normal person."
+    },
+    {
+      "character": "Yumi",
+      "text": "Least I don't spend my time borderline molesting girls on overpasses."
+    },
+    {
+      "character": "Sensei",
+      "text": "I haven't even touched you."
+    },
+    {
+      "character": "Yumi",
+      "text": "Awesome job. You want a fuckin' medal?"
+    },
+    {
+      "character": "Yumi",
+      "text": "I ain't that abnormal, scumbag. I'm just not like the people you're used to bein' around."
+    },
+    {
+      "character": "Sensei",
+      "text": "I'll say. You\u2019re more aggressive than basically everyone else I know combined."
+    },
+    {
+      "character": "Yumi",
+      "text": "So what? Like I said, you don\u2019t know what I\u2019ve been through."
+    },
+    {
+      "character": "Sensei",
+      "text": "Probably on account of you refusing to tell me anything."
+    },
+    {
+      "character": "Yumi",
+      "text": "What, are you my dad now?! I don\u2019t have to tell you shit!"
+    },
+    {
+      "character": "narrator",
+      "text": "This really isn\u2019t going anywhere..."
+    },
+    {
+      "character": "Sensei",
+      "text": "Listen, I\u2019m not here to judge you or...try to discipline you or anything like that. I just thought-"
+    },
+    {
+      "character": "Yumi",
+      "text": "Thought what? We could be friends? Fat chance. I\u2019d never willingly spend time with someone like you."
+    },
+    {
+      "character": "Sensei",
+      "text": "Why, though? What did I ever do to you?"
+    },
+    {
+      "character": "Yumi",
+      "text": "The fuck do you mean {i}What did I ever do to you?!{/i}"
+    },
+    {
+      "character": "Yumi",
+      "text": "You think I just up and forgot about all those fucking creepy ass detentions?! Get real!"
+    },
+    {
+      "character": "narrator",
+      "text": "Detentions?"
+    },
+    {
+      "character": "narrator",
+      "text": "Is she talking about something the old Sensei did?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Well, what can I do to make it up to you? I want to be on good terms."
+    },
+    {
+      "character": "Yumi",
+      "text": "I\u2019ll need $5,000,000 in cash."
+    },
+    {
+      "character": "Sensei",
+      "text": "US Dollars?"
+    },
+    {
+      "character": "Yumi",
+      "text": "There a problem with that?"
+    },
+    {
+      "character": "Sensei",
+      "text": "No, hold on one sec."
+    },
+    {
+      "character": "Yumi",
+      "text": "Wait, do you really-"
+    },
+    {
+      "character": "narrator",
+      "text": "I look through my wallet and pull out some cash."
+    },
+    {
+      "character": "Sensei",
+      "text": "I have 600 yen."
+    },
+    {
+      "character": "Sensei",
+      "text": "I know it's Japanese money, but-"
+    },
+    {
+      "character": "Yumi",
+      "text": "That\u2019s not even close! Get the fuck out of here you creep!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Okay. I\u2019ll just leave this here and-"
+    },
+    {
+      "character": "Yumi",
+      "text": "I SAID GO BEFORE I HIDE CONDIMENTS IN YOUR POCKET."
+    },
+    {
+      "character": "Sensei",
+      "text": "Okay, okay. I\u2019m- wait, what?"
+    },
+    {
+      "character": "Yumi",
+      "text": "YOU HEARD ME!"
+    },
+    {
+      "character": "narrator",
+      "text": "Yumi snatches the 600 yen out of my hands and storms away, leaving me alone on the bridge to soak up the remainder of the sunset and contemplate what my life has become."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "As the day turns to night, I come to the depressing realization that this is very likely not the last time I'll wind up giving her money."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Yumi\u2019s affection has somehow increased to [yumi_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "firsttimestreets": {
+      "from": null,
+      "to": true
+    },
+    "yumi_love +": {
+      "from": null,
+      "to": 1
+    }
+  }
+}

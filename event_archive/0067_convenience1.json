@@ -1,0 +1,668 @@
+{
+  "event_id": 67,
+  "event_label": "convenience1",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "A sudden desire to go somewhere far away washes over me."
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019m not sure what brings it on, but I guess that really ties into the word \u201csudden,\u201d now doesn\u2019t it?"
+    },
+    {
+      "character": "narrator",
+      "text": "sud-den (s\u0259dn) {i}adjective{/i} - occurring or done quickly and unexpectedly or without warning."
+    },
+    {
+      "character": "narrator",
+      "text": "Sudden."
+    },
+    {
+      "character": "narrator",
+      "text": "Definitions can be fun if you\u2019re willing to swim through all of the words you don\u2019t like."
+    },
+    {
+      "character": "narrator",
+      "text": "What are some words you don\u2019t like?"
+    },
+    {
+      "character": "narrator",
+      "text": "Tell me."
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019m excited to hear them."
+    },
+    {
+      "character": "narrator",
+      "text": "Sudden."
+    },
+    {
+      "character": "Sensei",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I wind up at an unfamiliar convenience store in the blink of an eye."
+    },
+    {
+      "character": "narrator",
+      "text": "I have...absolutely no idea how I got here or where in town this even is, but...I guess I\u2019m going to buy a drink or something."
+    },
+    {
+      "character": "narrator",
+      "text": "A [young_girl] sits at the counter and-"
+    },
+    {
+      "character": "narrator",
+      "text": "Wait. Isn\u2019t that Noriko?"
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019ve definitely heard her mention having a job before, and I guess something like a convenience store is suited to girls her age."
+    },
+    {
+      "character": "narrator",
+      "text": "But it\u2019s just all so sudden."
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    },
+    {
+      "character": "narrator",
+      "text": "I wonder if maybe I can take advantage of how much she likes me to get a discount on stuff?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Hey. How\u2019s it going?"
+    },
+    {
+      "character": "Noriko",
+      "text": "Can I help you?"
+    },
+    {
+      "character": "Sensei",
+      "text": "What, you don\u2019t recognize my voice?"
+    },
+    {
+      "character": "Noriko",
+      "text": "If you\u2019re here to start trouble, I-"
+    },
+    {
+      "character": "Noriko",
+      "text": "Ah! Sensei! What are you doing here?!"
+    },
+    {
+      "character": "Noriko",
+      "text": "Did Nee-chan tell you where I worked?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Nope. Just coincidentally happened to stumble in here."
+    },
+    {
+      "character": "Noriko",
+      "text": "Ahh! That\u2019s so great!"
+    },
+    {
+      "character": "Noriko",
+      "text": "I\u2019m glad we got our reunion out of the way in the classroom first, because breaking down behind the counter and confessing in front of the onigiri wouldn\u2019t have been a good look for me."
+    },
+    {
+      "character": "Sensei",
+      "text": "Sure, I\u2019ll take the hit to all of my current relationships so the rice balls don\u2019t think you\u2019re weird."
+    },
+    {
+      "character": "Noriko",
+      "text": "Heheh~ Thanks!"
+    },
+    {
+      "character": "Noriko",
+      "text": "You sure you weren\u2019t over here looking for me, though?"
+    },
+    {
+      "character": "Noriko",
+      "text": "The old district seems like it\u2019s kind of far from[school] to just show up in all coincidentally and whatnot."
+    },
+    {
+      "character": "Sensei",
+      "text": "We\u2019re all the way in the old district?"
+    },
+    {
+      "character": "Noriko",
+      "text": "Wait, is this another memory thingy? "
+    },
+    {
+      "character": "Noriko",
+      "text": "Are you sure it\u2019s not Alzheimer\u2019s? "
+    },
+    {
+      "character": "Sensei",
+      "text": "Pretty positive."
+    },
+    {
+      "character": "Sensei",
+      "text": "Are you really commuting from the dorms to the old district every day for work?"
+    },
+    {
+      "character": "Noriko",
+      "text": "Yup! But I normally just take an Uber so it\u2019s not like it\u2019s crazy far."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m surprised you can afford that."
+    },
+    {
+      "character": "Noriko",
+      "text": "I still make money running errands for my sister every weekend, so I\u2019m not totally broke. "
+    },
+    {
+      "character": "Noriko",
+      "text": "Our parents are pretty well off now, too. Their business really took off a couple years ago."
+    },
+    {
+      "character": "Sensei",
+      "text": "Is their business a thing I knew about?"
+    },
+    {
+      "character": "Noriko",
+      "text": "They were just starting it up around the time you disappeared, so you probably knew a little bit about it at least."
+    },
+    {
+      "character": "Noriko",
+      "text": "It\u2019s just some Chinese restaurant thingy near my old[school]. If you\u2019d like, I can take you there sometime?"
+    },
+    {
+      "character": "Noriko",
+      "text": "I\u2019m sure they\u2019d be happy to see you."
+    },
+    {
+      "character": "Sensei",
+      "text": "Maybe after I remember a little more about them."
+    },
+    {
+      "character": "narrator",
+      "text": "Assuming that ever happens."
+    },
+    {
+      "character": "narrator",
+      "text": "Which it likely won\u2019t."
+    },
+    {
+      "character": "narrator",
+      "text": "But, then again, I just happened to find this place out of nowhere tonight, so I wouldn\u2019t say it\u2019s entirely out of the question to find somewhere else just like it."
+    },
+    {
+      "character": "Noriko",
+      "text": "Hmm..."
+    },
+    {
+      "character": "Sensei",
+      "text": "What? What is that look?"
+    },
+    {
+      "character": "Noriko",
+      "text": "I was just thinking that maybe your conscience led you here in search of me."
+    },
+    {
+      "character": "Noriko",
+      "text": "What if your memories are trying to speak to you, Sensei?"
+    },
+    {
+      "character": "Noriko",
+      "text": "Can you hear them shouting \u201cNoriko! Noriko!\u201d or something like that?"
+    },
+    {
+      "character": "Sensei",
+      "text": "All I hear is a really loud song on the radio."
+    },
+    {
+      "character": "Noriko",
+      "text": "The radio\u2019s not even on, though. Are you sure you\u2019re feeling okay?"
+    },
+    {
+      "character": "Noriko",
+      "text": "Do you want a rice ball?"
+    },
+    {
+      "character": "Sensei",
+      "text": "One of the sentient ones that judge you based on how you react to reuniting with a long lost love interest? No thanks."
+    },
+    {
+      "character": "Sensei",
+      "text": "I prefer my food to not have a mind of its own."
+    },
+    {
+      "character": "Noriko",
+      "text": "So, what? You don\u2019t eat yogurt either then?"
+    },
+    {
+      "character": "Sensei",
+      "text": "What?"
+    },
+    {
+      "character": "Noriko",
+      "text": "Yogurt. The thick sour white stuff full of living organisms that people eat when they want to feel healthier."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yogurt is alive?"
+    },
+    {
+      "character": "Noriko",
+      "text": "Yeah. And not only is it alive, it can {i}feel{/i}."
+    },
+    {
+      "character": "Sensei",
+      "text": "You\u2019re shitting me."
+    },
+    {
+      "character": "Noriko",
+      "text": "I am not!"
+    },
+    {
+      "character": "Noriko",
+      "text": "We watched a video in one of my old science classes where a bunch of researchers hooked a thing of yogurt up to a machine and then yelled at it and it got {i}scared{/i}."
+    },
+    {
+      "character": "Noriko",
+      "text": "Or at least reacted in a way that emulated some level of fear. I guess it\u2019s not technically possible to prove whether or not it actually {i}did{/i} display the more human type of fear."
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019d like to meet whoever decided to hook yogurt up to a machine and yell at it. They sound very interesting."
+    },
+    {
+      "character": "Noriko",
+      "text": "Hey, are we gonna do any cool experiments like that in your class, Sensei?"
+    },
+    {
+      "character": "Sensei",
+      "text": "We\u2019re not going to do anything in my class ever."
+    },
+    {
+      "character": "Noriko",
+      "text": "Wait, ever? Why?"
+    },
+    {
+      "character": "Sensei",
+      "text": "That\u2019s just not how I teach."
+    },
+    {
+      "character": "Noriko",
+      "text": "Did something happen? You used to love teaching."
+    },
+    {
+      "character": "Noriko",
+      "text": "Like, sure there were days where you\u2019d get all upset and mopey and just have us do worksheets, but everyone gets days like that. "
+    },
+    {
+      "character": "Noriko",
+      "text": "Well, without the worksheets. I think that\u2019s a thing specific to tutors and teachers and stuff."
+    },
+    {
+      "character": "Sensei",
+      "text": "You can mess around with the science equipment if you want, just don\u2019t burn the classroom down."
+    },
+    {
+      "character": "Sensei",
+      "text": "Ami did something like that once and I\u2019m pretty sure several of the girls had a near-brush with death as a result."
+    },
+    {
+      "character": "Noriko",
+      "text": "Hell yeah. That\u2019s what I like to hear."
+    },
+    {
+      "character": "Noriko",
+      "text": "I\u2019m a little upset that you won\u2019t be doing any {i}actual{/i} teaching anymore, but I guess I\u2019m already way ahead of most other girls my age anyway."
+    },
+    {
+      "character": "Sensei",
+      "text": "Wait, really?"
+    },
+    {
+      "character": "Noriko",
+      "text": "What? Are you surprised?"
+    },
+    {
+      "character": "Sensei",
+      "text": "I\u2019m not sure yet. How ahead are you, exactly?"
+    },
+    {
+      "character": "Noriko",
+      "text": "I had the second highest standardized test score in my entire grade at my last[school]."
+    },
+    {
+      "character": "Noriko",
+      "text": "Pretty cruel twist of fate, too, since I wound up transferring into Wakana\u2019s class right beside the girl who beat me."
+    },
+    {
+      "character": "Sensei",
+      "text": "Yup. Now I\u2019m definitely a little surprised."
+    },
+    {
+      "character": "Noriko",
+      "text": "Don\u2019t judge books by their covers, Sensei. Especially when the books are in love with you and filled with lots of embarrassing secrets."
+    },
+    {
+      "character": "Sensei",
+      "text": "And I\u2019m assuming you\u2019re going to weaponize those secrets as soon as it becomes convenient for you to do so?"
+    },
+    {
+      "character": "Noriko",
+      "text": "What? No. Of course not."
+    },
+    {
+      "character": "Noriko",
+      "text": "I have nothing to gain by embarrassing you in public. Which is why I also agree to start changing my wardrobe if I attract too much attention and you hate it."
+    },
+    {
+      "character": "Noriko",
+      "text": "I realize some of my clothes can be a little...uhh...flashy?"
+    },
+    {
+      "character": "Sensei",
+      "text": "Is that what the kids are calling it nowadays?"
+    },
+    {
+      "character": "Noriko",
+      "text": "Or, as my sister would say, {i}trashy, tactless, and immeasurably undesirable.{/i}"
+    },
+    {
+      "character": "Noriko",
+      "text": "{i}The complete opposite of what a girl should look like.{/i}"
+    },
+    {
+      "character": "Noriko",
+      "text": "Or something."
+    },
+    {
+      "character": "Noriko",
+      "text": "But, little does she know, this is all part of my patented strategy to show her that you can obtain everything you want in life without signing away your soul to do it."
+    },
+    {
+      "character": "Noriko",
+      "text": "I will live free and dangerously in complete contrast to the name \u201cNoriko!\u201d"
+    },
+    {
+      "character": "Sensei",
+      "text": "You do that. Just don\u2019t get yourself into any trouble."
+    },
+    {
+      "character": "Noriko",
+      "text": "Yes, Sir. I\u2019ll be a good girl. "
+    },
+    {
+      "character": "Noriko",
+      "text": "I mean, look at me now. I\u2019ve already got a job. Two jobs if you count all of the PA stuff, and my grades are awesome."
+    },
+    {
+      "character": "Noriko",
+      "text": "And, to top it all off, I get to spend at least seven hours of every day with the man of my dreams."
+    },
+    {
+      "character": "Noriko",
+      "text": "This is the happiest I\u2019ve been in a long time, Sensei."
+    },
+    {
+      "character": "Noriko",
+      "text": "I don\u2019t even care that Maya looks like she\u2019s going to slit my throat every time our eyes accidentally meet."
+    },
+    {
+      "character": "Sensei",
+      "text": "Thankfully, I don\u2019t think Maya carries around a pocket knife like some other girl I know."
+    },
+    {
+      "character": "Noriko",
+      "text": "Sensei?"
+    },
+    {
+      "character": "Sensei",
+      "text": "...Yes?"
+    },
+    {
+      "character": "Noriko",
+      "text": "I\u2019m so happy you\u2019re back."
+    },
+    {
+      "character": "Noriko",
+      "text": "I know I keep saying it, but I really am. "
+    },
+    {
+      "character": "Sensei",
+      "text": "The more times you say it, the worse I will feel for remembering literally none of it."
+    },
+    {
+      "character": "Noriko",
+      "text": "You\u2019ll remember. I know you will."
+    },
+    {
+      "character": "Noriko",
+      "text": "There\u2019s probably just some sort of...inhibitor that was implanted in your brain by aliens or something like that."
+    },
+    {
+      "character": "Sensei",
+      "text": "Is that what the space war is all about?"
+    },
+    {
+      "character": "Noriko",
+      "text": "Mmm...no. I\u2019m pretty sure that was an economic thing."
+    },
+    {
+      "character": "narrator",
+      "text": "What the hell is happening with the Japanese economy that provoked a war in space?"
+    },
+    {
+      "character": "Noriko",
+      "text": "At least it would make sense for it to be. It\u2019s not like wars have never been started for money before."
+    },
+    {
+      "character": "Noriko",
+      "text": "In fact, war itself is a major money maker for a lot of different industries and helps bolster political favor for the powerful people neck deep inside of them."
+    },
+    {
+      "character": "Sensei",
+      "text": "I agree and understand exactly what we are talking about."
+    },
+    {
+      "character": "Sensei",
+      "text": "Is the ailing economy the same reason you got a job as well, Noriko?"
+    },
+    {
+      "character": "Noriko",
+      "text": "Nah, I was just bored since Nee-chan only needs help on the weekends."
+    },
+    {
+      "character": "Noriko",
+      "text": "I mean, I could have probably gone and worked at my parents\u2019 restaurant, but being independent feels a lot better."
+    },
+    {
+      "character": "Noriko",
+      "text": "And also, they started looking at me weirdly ever since I told them I was in love with you. Whoops."
+    },
+    {
+      "character": "Sensei",
+      "text": "Why on earth did you do that? And how did this whole love thing even happen?"
+    },
+    {
+      "character": "Noriko",
+      "text": "Which one of those do you want me to answer first?"
+    },
+    {
+      "character": "Sensei",
+      "text": "The latter one. I\u2019m just going to assume you told your parents because of an alien implant. I like that excuse and will be using it frequently."
+    },
+    {
+      "character": "Noriko",
+      "text": "Ooooh, nice callback."
+    },
+    {
+      "character": "Noriko",
+      "text": "But...love just happens, you know?"
+    },
+    {
+      "character": "Noriko",
+      "text": "We were alone together a lot back in the day. And I thought you were super cool."
+    },
+    {
+      "character": "Noriko",
+      "text": "Saying I\u2019ve \u201cloved\u201d you since I was six is probably a bit of a stretch. I imagine it was something more akin to just pure admiration at first."
+    },
+    {
+      "character": "Noriko",
+      "text": "But now, literally all I think about is hugging you."
+    },
+    {
+      "character": "Sensei",
+      "text": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHH"
+    },
+    {
+      "character": "Noriko",
+      "text": "What now? You want to call me crazy again?"
+    },
+    {
+      "character": "Sensei",
+      "text": "No. I just saw a spider."
+    },
+    {
+      "character": "Noriko",
+      "text": "Stop...you\u2019re going to make me blush."
+    },
+    {
+      "character": "Sensei",
+      "text": "You are very much already blushing."
+    },
+    {
+      "character": "Noriko",
+      "text": "The boy I like called me cute. Obviously, I\u2019m going to blush."
+    },
+    {
+      "character": "Sensei",
+      "text": "Very cute, actually. Even if your dream of us running a restaurant together involves me having to actually work- a thing I have sworn to never do again."
+    },
+    {
+      "character": "Noriko",
+      "text": "Hey, man! If you\u2019re gonna be my second in command, you\u2019re gonna at least have to clean the bathrooms or something."
+    },
+    {
+      "character": "Sensei",
+      "text": "Ewwwwww gross. Aren't you supposed to be like a sister to me or something? Cut me some slack."
+    },
+    {
+      "character": "Noriko",
+      "text": "Oh! Then it will be like, a {i}double{/i} family business! The Nakayamas and the Arakawas coming together as one! Serving fried rice to all of Kumon-mi!"
+    },
+    {
+      "character": "Noriko",
+      "text": "The Arakawayamas! The Nakakawas!"
+    },
+    {
+      "character": "Noriko",
+      "text": "The Nakayarakawayamas!"
+    },
+    {
+      "character": "Sensei",
+      "text": "Please calm down, Noriko..."
+    },
+    {
+      "character": "Noriko",
+      "text": "Yes, Sir. I\u2019ll be a good girl. "
+    },
+    {
+      "character": "Noriko",
+      "text": "Besides, we don\u2019t have to do something like that if it\u2019s not a future you want for yourself."
+    },
+    {
+      "character": "Noriko",
+      "text": "Anything is possible in Kumon-mi."
+    },
+    {
+      "character": "Noriko",
+      "text": "Like, if {i}Nee-chan{/i} can become a top idol when all she for the first 4000 years of her life was doodle anime characters, I'm sure the two of us can explore some options."
+    },
+    {
+      "character": "Noriko",
+      "text": "If...you ever want to do that, I mean."
+    },
+    {
+      "character": "Noriko",
+      "text": "Obviously, there\u2019s more than one person fighting for your affection right now."
+    },
+    {
+      "character": "Noriko",
+      "text": "But remember that...even if you forget me now, everything will come flooding back eventually."
+    },
+    {
+      "character": "Noriko",
+      "text": "And when that happens, know you can count on me to be everything you\u2019ll ever need."
+    },
+    {
+      "character": "narrator",
+      "text": "The way I leave the convenience store is a lot less sudden (s\u0259dn) than how I arrived."
+    },
+    {
+      "character": "narrator",
+      "text": "Noriko and I wind up chatting for another hour or two about random things that pop into her head and, just as always, I have a hard time understanding why Maya hates her as much as she does."
+    },
+    {
+      "character": "narrator",
+      "text": "She\u2019s smart, extremely kind, good at holding a conversation, and even {i}did{/i} give me a discount on a [[non-sentient] rice ball as I left."
+    },
+    {
+      "character": "narrator",
+      "text": "But I feel like there\u2019s something else to her that I can\u2019t quite put my finger on yet."
+    },
+    {
+      "character": "narrator",
+      "text": "I feel the same way when looking at sculptures."
+    },
+    {
+      "character": "narrator",
+      "text": "There\u2019s too much perfection on the outside for everything to possibly be the same once you work your way in."
+    },
+    {
+      "character": "narrator",
+      "text": "Just the insides of sculptures are pure stone or marble-"
+    },
+    {
+      "character": "narrator",
+      "text": "And the insides of Noriko are a lot less beautiful."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Noriko\u2019s affection has increased to [noriko_love]!{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "........."
+    },
+    {
+      "character": "narrator",
+      "text": "......"
+    },
+    {
+      "character": "narrator",
+      "text": "..."
+    }
+  ],
+  "state_changes": {
+    "convenience1": {
+      "from": null,
+      "to": true
+    }
+  }
+}

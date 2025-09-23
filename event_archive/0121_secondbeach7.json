@@ -1,0 +1,900 @@
+{
+  "event_id": 121,
+  "event_label": "secondbeach7",
+  "dialogue": [
+    {
+      "character": "narrator",
+      "text": "{i}Meanwhile...{/i}"
+    },
+    {
+      "character": "narrator",
+      "text": "Two girls on a- "
+    },
+    {
+      "character": "narrator",
+      "text": "Oh, fuck it. You get the point already."
+    },
+    {
+      "character": "narrator",
+      "text": "The thing is, these two are a little different from the rest."
+    },
+    {
+      "character": "narrator",
+      "text": "But how, you ask?"
+    },
+    {
+      "character": "narrator",
+      "text": "Why, that would be a question to ask either of them. Not me."
+    },
+    {
+      "character": "narrator",
+      "text": "I\u2019m just a bystander."
+    },
+    {
+      "character": "narrator",
+      "text": "A voice or a thought carried in on a snowflake, melting before I have the chance to kiss the ground."
+    },
+    {
+      "character": "narrator",
+      "text": "Then, just as I\u2019m about to get a taste of what it is to be real, I become ephemeral."
+    },
+    {
+      "character": "narrator",
+      "text": "And I evaporate."
+    },
+    {
+      "character": "narrator",
+      "text": "But that\u2019s a good thing. "
+    },
+    {
+      "character": "narrator",
+      "text": "Because it means I get to spend more time with you."
+    },
+    {
+      "character": "Uta",
+      "text": "It\u2019s been a while since I\u2019ve seen you with your hair down."
+    },
+    {
+      "character": "Io",
+      "text": "Does it look weird?"
+    },
+    {
+      "character": "Uta",
+      "text": "\u2018Course not."
+    },
+    {
+      "character": "Uta",
+      "text": "Want me to teach you how to do my braid thingy so we can be twins?"
+    },
+    {
+      "character": "Io",
+      "text": "I think I\u2019d need to grow a few more sizes before we could really be called that, Uta."
+    },
+    {
+      "character": "Uta",
+      "text": "You\u2019d have to put on a few pounds, too. I haven\u2019t had my ribs showing like yours since back in elementary[school]."
+    },
+    {
+      "character": "Io",
+      "text": "Heheh...you were even skinnier than me back then."
+    },
+    {
+      "character": "Uta",
+      "text": "Alas, what puberty does to a [young_girl]\u2019s body."
+    },
+    {
+      "character": "Io",
+      "text": "Or {i}doesn\u2019t{/i} in my case."
+    },
+    {
+      "character": "Uta",
+      "text": "What\u2019s the rush, girl? It\u2019s not like we\u2019re goin\u2019 anywhere anytime soon."
+    },
+    {
+      "character": "Uta",
+      "text": "You\u2019ve got all of [high_school] to worry about puttin\u2019 some meat on those bones."
+    },
+    {
+      "character": "Io",
+      "text": "I guess so."
+    },
+    {
+      "character": "Io",
+      "text": "I mean, there are kind of...bigger things to worry about right now anyway."
+    },
+    {
+      "character": "Uta",
+      "text": "Have somethin\u2019 on your mind? You know you can always talk to me if there\u2019s somethin\u2019 troublin\u2019 ya."
+    },
+    {
+      "character": "Io",
+      "text": "Yeah...I just..."
+    },
+    {
+      "character": "Io",
+      "text": "I really like Sensei, Uta."
+    },
+    {
+      "character": "Uta",
+      "text": "..."
+    },
+    {
+      "character": "Uta",
+      "text": "Ah. "
+    },
+    {
+      "character": "Uta",
+      "text": "Yeah, I know you do."
+    },
+    {
+      "character": "Uta",
+      "text": "You two would be cute together."
+    },
+    {
+      "character": "Io",
+      "text": "I don\u2019t really think that \u201ccute\u201d is a term that either of us strive for."
+    },
+    {
+      "character": "Io",
+      "text": "But things are a little less...horrible when I\u2019m with him."
+    },
+    {
+      "character": "Io",
+      "text": "Which probably makes me sound overly dependent and moronic given that I\u2019ve known him for less than a[school] year, but you know how my brain works and blah blah blah Io stuff."
+    },
+    {
+      "character": "Io",
+      "text": "I\u2019m just kinda nervous, you know?"
+    },
+    {
+      "character": "Io",
+      "text": "He\u2019s so cool and I\u2019m so...shitty. "
+    },
+    {
+      "character": "Io",
+      "text": "I just wish there was something I could do to-"
+    },
+    {
+      "character": "Uta",
+      "text": "It might help to be a little less self-deprecating every now and then."
+    },
+    {
+      "character": "Io",
+      "text": "Hm?"
+    },
+    {
+      "character": "Uta",
+      "text": "I...just mean that Sensei probably gets a little annoyed having to hear you always talking down about yourself!"
+    },
+    {
+      "character": "Io",
+      "text": "I know what you mean, and I\u2019m fully aware of that as well. You\u2019re just not normally as direct when it comes to criticizing my flaws."
+    },
+    {
+      "character": "Uta",
+      "text": "No...I\u2019m not, am I?"
+    },
+    {
+      "character": "Io",
+      "text": "Uh-oh. Looks like Uta might {i}also{/i} need somebody to talk to."
+    },
+    {
+      "character": "Io",
+      "text": "Is it time to relive one of our famous late night vents from the old chat room?"
+    },
+    {
+      "character": "Uta",
+      "text": "I don\u2019t really want to get into anything that deep, Io. It\u2019s still a vacation after all."
+    },
+    {
+      "character": "Uta",
+      "text": "And we\u2019re not really the same people we were back then."
+    },
+    {
+      "character": "Io",
+      "text": "Hmm..."
+    },
+    {
+      "character": "Io",
+      "text": "I disagree."
+    },
+    {
+      "character": "Io",
+      "text": "I think that, to some extent, people never really change."
+    },
+    {
+      "character": "Io",
+      "text": "Sure, you can learn to handle some things differently...and learn to approach problems in more constructive ways."
+    },
+    {
+      "character": "Io",
+      "text": "But we\u2019re all still products of our upbringing and the experiences we had during the most impressionable times of our childhood."
+    },
+    {
+      "character": "Io",
+      "text": "Which is part of why I\u2019ll always think I\u2019m worthless and why you\u2019ll always-"
+    },
+    {
+      "character": "Uta",
+      "text": "I\u2019m not really in the mood to be analyzed right now, Io."
+    },
+    {
+      "character": "Uta",
+      "text": "Besides...you wanted to talk about Sensei, didn\u2019t you?"
+    },
+    {
+      "character": "Uta",
+      "text": "About how...cool he is or whatever it was you said?"
+    },
+    {
+      "character": "Io",
+      "text": "He\u2019s great."
+    },
+    {
+      "character": "Io",
+      "text": "He listens to me and understands me."
+    },
+    {
+      "character": "Io",
+      "text": "Or at least I think he understands me. I\u2019m so all over the place that I don\u2019t think anyone will ever be able to pick up on 100%% of my bullshit."
+    },
+    {
+      "character": "Io",
+      "text": "And...I don\u2019t know. I just feel like there\u2019s this deep sort of connection there despite the two of us having never done anything to truly {i}connect{/i} with one another."
+    },
+    {
+      "character": "Io",
+      "text": "And I guess...that last part is what I\u2019m more worried about than anything."
+    },
+    {
+      "character": "Uta",
+      "text": "Are you...talking about him being the huggy boy?..."
+    },
+    {
+      "character": "Io",
+      "text": "Yeah..."
+    },
+    {
+      "character": "Io",
+      "text": "Like...how do I connect with the huggy boy? What if my hugs aren't up to his standards?"
+    },
+    {
+      "character": "Io",
+      "text": "I can't do it, Uta."
+    },
+    {
+      "character": "Uta",
+      "text": "I get it."
+    },
+    {
+      "character": "Uta",
+      "text": "I understand you better than anyone, so I know that comin\u2019 out and talkin\u2019 about all that\u2019s just gonna make both of us feel like puddles of...grossness."
+    },
+    {
+      "character": "Uta",
+      "text": "Remember what we learned back then- the best thing to do is face forward. Don\u2019t let your stupid brain or the stupid world bring you down."
+    },
+    {
+      "character": "Io",
+      "text": "This is starting to get into chat room territory after all."
+    },
+    {
+      "character": "Uta",
+      "text": "Specifically the fun times in the chat room. Without all the venting about our problems and more of all the stuff we planned on doing together once we finally met."
+    },
+    {
+      "character": "Io",
+      "text": "Heheh...we still haven\u2019t gone to a baseball game together."
+    },
+    {
+      "character": "Uta",
+      "text": "Or the zoo! "
+    },
+    {
+      "character": "Io",
+      "text": "Or a professional wrestling match."
+    },
+    {
+      "character": "Uta",
+      "text": "Or another zoo!"
+    },
+    {
+      "character": "Io",
+      "text": "Why did I ever think you were a boy when all you wanted to do was go to different zoos?"
+    },
+    {
+      "character": "Uta",
+      "text": "Idunno. I probably told you I had short hair or something back then and you just ran with it cause that\u2019s what you wanted me to be."
+    },
+    {
+      "character": "Uta",
+      "text": "Also, boys can go to zoos, Io. For all we know, Sensei loves the zoo."
+    },
+    {
+      "character": "Io",
+      "text": "Heheh...maybe he does."
+    },
+    {
+      "character": "Io",
+      "text": "I think I still want to go alone with you before we let him tag along, though. We\u2019ve kind of had plans for years already, so it wouldn\u2019t be fair to make him the third wheel."
+    },
+    {
+      "character": "Uta",
+      "text": "That\u2019s right! Hoes before bros!"
+    },
+    {
+      "character": "Io",
+      "text": "Don\u2019t call us that. It\u2019s a derogatory term that reduces the two of us to mindless bimbos instead of the sweet, fun-loving girls we actually are."
+    },
+    {
+      "character": "Uta",
+      "text": "Uhh..."
+    },
+    {
+      "character": "Uta",
+      "text": "Sisters before misters?"
+    },
+    {
+      "character": "Io",
+      "text": "Heheh...I like that one a lot more."
+    },
+    {
+      "character": "Io",
+      "text": "Hey...Uta?"
+    },
+    {
+      "character": "Uta",
+      "text": "Yeah?"
+    },
+    {
+      "character": "Io",
+      "text": "I\u2019m kind of glad you convinced me to come along this weekend."
+    },
+    {
+      "character": "Io",
+      "text": "Thank you."
+    },
+    {
+      "character": "Uta",
+      "text": "Don\u2019t thank me yet. We still haven\u2019t gotten to the sleepover part, and that\u2019s probably gonna be harder than anything for you."
+    },
+    {
+      "character": "Uta",
+      "text": "I am glad you\u2019re here, though."
+    },
+    {
+      "character": "Uta",
+      "text": "Even if you probably wouldn\u2019t have come if it was just me and not Sensei."
+    },
+    {
+      "character": "Io",
+      "text": "You say that, but here I am watching the sunset with you instead of going around and searching for him."
+    },
+    {
+      "character": "Uta",
+      "text": "What can I say? I\u2019m just as popular with the ladies as I am with the men."
+    },
+    {
+      "character": "Io",
+      "text": "You do get a surprising amount of female customers at the maid cafe."
+    },
+    {
+      "character": "Uta",
+      "text": "There are a surprising amount of females in Kumon-mi."
+    },
+    {
+      "character": "Io",
+      "text": "Also a good point."
+    },
+    {
+      "character": "Io",
+      "text": "Do you ever think about how life would be if it were the other way around? If it was all the women who disappeared instead?"
+    },
+    {
+      "character": "Uta",
+      "text": "I think I would be making significantly more money to spend on a variety of sugary cereals."
+    },
+    {
+      "character": "Io",
+      "text": "You should probably learn to be a little more careful with your paychecks, Uta."
+    },
+    {
+      "character": "Uta",
+      "text": "I have a problem."
+    },
+    {
+      "character": "Uta",
+      "text": "I do think it\u2019d be...different, though."
+    },
+    {
+      "character": "Uta",
+      "text": "I think a world like that would be a little better for you and...a heck of a lot worse for me."
+    },
+    {
+      "character": "Io",
+      "text": "Probably. You\u2019re definitely the type that guys tend to fawn over."
+    },
+    {
+      "character": "Uta",
+      "text": "I wouldn\u2019t be worried about that part. If there\u2019s anything I\u2019m confident about that isn\u2019t attached to my torso, it\u2019s the ability to dodge boys. "
+    },
+    {
+      "character": "Uta",
+      "text": "What I\u2019d be scared of would be the whole issue of...figuring out who I am."
+    },
+    {
+      "character": "Uta",
+      "text": "I\u2019ve only been a \u201cgirly\u201d girl for a really small part of my life. And it\u2019s not like I figured out how to do that all on my own."
+    },
+    {
+      "character": "Uta",
+      "text": "I learned from other girls and stuff. Just saw what they were doing and...voila."
+    },
+    {
+      "character": "Uta",
+      "text": "But I like it. "
+    },
+    {
+      "character": "Uta",
+      "text": "I like this version of me."
+    },
+    {
+      "character": "Io",
+      "text": "I like this version of you too."
+    },
+    {
+      "character": "Uta",
+      "text": "How much would you say you like it on a scale of one to Sensei?"
+    },
+    {
+      "character": "Io",
+      "text": "Definitely Sensei. "
+    },
+    {
+      "character": "Uta",
+      "text": "Jerk. After all of the indirect kisses we have shared while sharing assorted beverages."
+    },
+    {
+      "character": "Io",
+      "text": "You know, maybe I should knock you down to a nine or something instead?"
+    },
+    {
+      "character": "Yasu",
+      "text": "(Airplane noises)"
+    },
+    {
+      "character": "Yasu",
+      "text": "Your limbs will fall off and dissolve into the sand."
+    },
+    {
+      "character": "Uta",
+      "text": "..."
+    },
+    {
+      "character": "Io",
+      "text": "..."
+    },
+    {
+      "character": "Uta",
+      "text": "Did you hear that just now?"
+    },
+    {
+      "character": "Io",
+      "text": "Yup..."
+    },
+    {
+      "character": "Uta",
+      "text": "Oh! Yasuyasu\u2019s here! What a...delightful surprise!"
+    },
+    {
+      "character": "Yasu",
+      "text": "Do not be delighted to be visited by a mere worm like me. I am simply scouring the sands in search of decaying plant matter to feast upon."
+    },
+    {
+      "character": "Uta",
+      "text": "Did uhh...did Noriko convince you to go vegetarian or something?"
+    },
+    {
+      "character": "Yasu",
+      "text": "I beg your pardon?"
+    },
+    {
+      "character": "Uta",
+      "text": "Umm...don\u2019t worry about it. Just a little confused by the whole...plant matter thingy."
+    },
+    {
+      "character": "Uta",
+      "text": "You...wanna sit down with us maybe? We\u2019re kinda just killin\u2019 time before goin\u2019 back to the room for dinner."
+    },
+    {
+      "character": "Yasu",
+      "text": "You\u2019re inviting {i}me{/i} to sit with you? Is that really okay?"
+    },
+    {
+      "character": "Uta",
+      "text": "I mean...as long as Io is okay with it, I don\u2019t really mind. It\u2019ll definitely...liven up the conversation at least."
+    },
+    {
+      "character": "Io",
+      "text": "Uhh..."
+    },
+    {
+      "character": "Io",
+      "text": "I guess it\u2019s okay?"
+    },
+    {
+      "character": "Io",
+      "text": "I don\u2019t really count Yasu as a human, so there\u2019s not really anything for me to despise apart from the whole religious fanatic thing."
+    },
+    {
+      "character": "Yasu",
+      "text": "Do you dislike God, Io?"
+    },
+    {
+      "character": "Io",
+      "text": "It\u2019s not possible to dislike something that doesn\u2019t actually exist."
+    },
+    {
+      "character": "Yasu",
+      "text": "But what if I can prove He does?"
+    },
+    {
+      "character": "Io",
+      "text": "You can\u2019t. Countless people have attempted to prove the existence of divine beings and each and every effort has been not only incredibly flawed, but-"
+    },
+    {
+      "character": "Uta",
+      "text": "I\u2019m bored! Let\u2019s talk about something that I can understand instead!"
+    },
+    {
+      "character": "Yasu",
+      "text": "I\u2019d be more than willing to teach you if-"
+    },
+    {
+      "character": "Uta",
+      "text": "I\u2019m good! "
+    },
+    {
+      "character": "Uta",
+      "text": "Plop that booty down right next to me and talk about something other than God for a change, Yasuyasu. "
+    },
+    {
+      "character": "Yasu",
+      "text": "Something...other than God?"
+    },
+    {
+      "character": "Yasu",
+      "text": "Do I know anything else?"
+    },
+    {
+      "character": "Uta",
+      "text": "You\u2019ve gotta know {i}something{/i} else."
+    },
+    {
+      "character": "Uta",
+      "text": "Like...maybe some hobbies? Or a TV show you like that you never really get to talk about?"
+    },
+    {
+      "character": "Uta",
+      "text": "Me and Io watch a lot of TV together, so there\u2019s a pretty good chance we\u2019ve seen whatever you\u2019re into."
+    },
+    {
+      "character": "Yasu",
+      "text": "I don\u2019t watch TV. The frequency of the sound and color of the light causes my brain to shake in ways that make me feel a great deal of pain."
+    },
+    {
+      "character": "Uta",
+      "text": "Ooooooookay. Then how about food? Do you have a favorite?"
+    },
+    {
+      "character": "Yasu",
+      "text": "A favorite food..."
+    },
+    {
+      "character": "Yasu",
+      "text": "Strawberry daifuku."
+    },
+    {
+      "character": "Uta",
+      "text": "Ah! A real answer! And a really cute one at that!"
+    },
+    {
+      "character": "Io",
+      "text": "That is...not the answer I was expecting."
+    },
+    {
+      "character": "Yasu",
+      "text": "What were you expecting, Io?"
+    },
+    {
+      "character": "Io",
+      "text": "I don\u2019t know...Maybe the...blood of angels or something?"
+    },
+    {
+      "character": "Yasu",
+      "text": "Why ever would I consume the life essence of what I aspire to become? That\u2019s just silly."
+    },
+    {
+      "character": "Uta",
+      "text": "Yasuyasu, tell me somethin\u2019 else you like. Another girly thing."
+    },
+    {
+      "character": "Uta",
+      "text": "Like...tell me how you feel about love!"
+    },
+    {
+      "character": "Yasu",
+      "text": "Love?"
+    },
+    {
+      "character": "Uta",
+      "text": "Yeah! Like...what kinda boys do you like? Or girls. We ain\u2019t judgin\u2019 here."
+    },
+    {
+      "character": "Yasu",
+      "text": "I\u2019m not quite sure. "
+    },
+    {
+      "character": "Yasu",
+      "text": "I can\u2019t say I\u2019ve ever known someone long enough to feel an emotion as strong as that."
+    },
+    {
+      "character": "Uta",
+      "text": "Not even like a family member you joked about marrying or something? "
+    },
+    {
+      "character": "Yasu",
+      "text": "Family?"
+    },
+    {
+      "character": "Uta",
+      "text": "Yeah. Your mom must\u2019ve told you about love at some point, right? "
+    },
+    {
+      "character": "Yasu",
+      "text": "I\u2019m afraid I don\u2019t have a mother."
+    },
+    {
+      "character": "Uta",
+      "text": "Oh...crap. I\u2019m sorry."
+    },
+    {
+      "character": "Uta",
+      "text": "This is what I get for choosing two conversation topics in a row, isn\u2019t it?"
+    },
+    {
+      "character": "Io",
+      "text": "You\u2019ve got Touka, though, right?"
+    },
+    {
+      "character": "Io",
+      "text": "I\u2019m sure that she\u2019s probably asked you something similar in the past. You two are basically attached at the hip, aren't you?"
+    },
+    {
+      "character": "Yasu",
+      "text": "I suppose that Touka is like a mother to me."
+    },
+    {
+      "character": "Io",
+      "text": "Not really what I was going for, but sure. Let\u2019s run with that."
+    },
+    {
+      "character": "Yasu",
+      "text": "She is a good person."
+    },
+    {
+      "character": "Yasu",
+      "text": "Pure of heart and mind."
+    },
+    {
+      "character": "Yasu",
+      "text": "(Airplane noises)"
+    },
+    {
+      "character": "Io",
+      "text": "Uta, change the topic again."
+    },
+    {
+      "character": "Uta",
+      "text": "Are you kidding? I wanna see where this goes."
+    },
+    {
+      "character": "Yasu",
+      "text": "A person like her would be better suited for this conversation."
+    },
+    {
+      "character": "Yasu",
+      "text": "She possesses both the freedom of thought and an unearthly desire to belong. To love and to be loved."
+    },
+    {
+      "character": "Yasu",
+      "text": "I possess none of that."
+    },
+    {
+      "character": "Yasu",
+      "text": "I am a vessel. Incapable of feeling or wanting those things."
+    },
+    {
+      "character": "Yasu",
+      "text": "Existing for the sole purpose of filling myself with light and pouring it over the heads of those willing to be drenched in His love."
+    },
+    {
+      "character": "Yasu",
+      "text": "Slipping silently into sermons, scalding each surrounding servant with seed stripped from sinful serpents."
+    },
+    {
+      "character": "Yasu",
+      "text": "Singeing the skin of those sleeping in shadows by singing the praises of the smile in the sky."
+    },
+    {
+      "character": "Yasu",
+      "text": "These are the reasons I exist."
+    },
+    {
+      "character": "Yasu",
+      "text": "Not to love. Not to feel. Not to want."
+    },
+    {
+      "character": "Yasu",
+      "text": "But to be. And become."
+    },
+    {
+      "character": "Yasu",
+      "text": "And to save. And to be saved."
+    },
+    {
+      "character": "Yasu",
+      "text": "All I want is for the world to smile together, all at once."
+    },
+    {
+      "character": "Yasu",
+      "text": "That is all He wants as well."
+    },
+    {
+      "character": "Yasu",
+      "text": "But there is so much darkness. "
+    },
+    {
+      "character": "Yasu",
+      "text": "And not just in the world itself, but in everyone."
+    },
+    {
+      "character": "Yasu",
+      "text": "In each of you."
+    },
+    {
+      "character": "Yasu",
+      "text": "It will swallow you whole, you know. "
+    },
+    {
+      "character": "Yasu",
+      "text": "Maybe not now. Maybe not tomorrow."
+    },
+    {
+      "character": "Yasu",
+      "text": "But there will come a time when you are forced to face what you fear the most."
+    },
+    {
+      "character": "Yasu",
+      "text": "And when that time comes, I will be right around the corner- with open arms and a sanctuary for you to lose yourself in when you think there\u2019s nothing {i}left{/i} to lose."
+    },
+    {
+      "character": "Uta",
+      "text": "..."
+    },
+    {
+      "character": "Io",
+      "text": "..."
+    },
+    {
+      "character": "Yasu",
+      "text": "..."
+    },
+    {
+      "character": "Yasu",
+      "text": "I\u2019m sorry. What was the question again?"
+    },
+    {
+      "character": "Uta",
+      "text": "We..."
+    },
+    {
+      "character": "Uta",
+      "text": "We just wanted to know what you thought about love."
+    },
+    {
+      "character": "Yasu",
+      "text": "I see."
+    },
+    {
+      "character": "Uta",
+      "text": "..."
+    },
+    {
+      "character": "Io",
+      "text": "..."
+    },
+    {
+      "character": "Yasu",
+      "text": "..."
+    },
+    {
+      "character": "Yasu",
+      "text": "I think love is lovely."
+    },
+    {
+      "character": "narrator",
+      "text": "Three girls in a line on the beach."
+    },
+    {
+      "character": "narrator",
+      "text": "One callous-"
+    },
+    {
+      "character": "narrator",
+      "text": "And two others."
+    },
+    {
+      "character": "narrator",
+      "text": "But is there truly an issue with callousness in and of itself?"
+    },
+    {
+      "character": "narrator",
+      "text": "And couldn\u2019t such an adjective change based on your perception of it?"
+    },
+    {
+      "character": "narrator",
+      "text": "If you want my opinion, the answer is yes."
+    },
+    {
+      "character": "narrator",
+      "text": "My opinion is that everything can change. And that everyone\u2019s thoughts can be changed if you try hard enough to actually change them."
+    },
+    {
+      "character": "narrator",
+      "text": "And so I say to Io Ichimonji, the girl who thinks no one can change, that you are weak."
+    },
+    {
+      "character": "narrator",
+      "text": "And I say to Uta Ushibori, the girl who doesn\u2019t want to think at all, that you, too, are weak."
+    },
+    {
+      "character": "narrator",
+      "text": "And to the girl {s}in the black dress{/s} in the[school] swimsuit-"
+    },
+    {
+      "character": "narrator",
+      "text": "You are the weakest of all."
+    },
+    {
+      "character": "narrator",
+      "text": "But for reasons quite different than that of the others."
+    },
+    {
+      "character": "narrator",
+      "text": "The three girls run into the water and never return."
+    },
+    {
+      "character": "narrator",
+      "text": "And I fall back into place in the midst of the water cycle, for the storm clouds have drifted slightly off course."
+    },
+    {
+      "character": "narrator",
+      "text": "Everything is ephemeral."
+    },
+    {
+      "character": "narrator",
+      "text": "Everything is falling."
+    },
+    {
+      "character": "narrator",
+      "text": "{i}Affection!{/i}"
+    }
+  ],
+  "state_changes": {
+    "secondbeach7": {
+      "from": null,
+      "to": true
+    }
+  }
+}
