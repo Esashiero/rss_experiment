@@ -2,60 +2,27 @@
 import json
 import sys
 import os
-import re  # <-- THIS IS THE MISSING LINE THAT FIXES THE CRASH
+import re
 from sim import Simulator
-from opportunity_scanner import find_event_triggers, GameLogicEvaluator
+# --- MODIFICATION: Import from our new, accurate finder ---
+from condition_finder import find_all_conditions
 from event_extractor import extract_events_from_screens
+# --- GameLogicEvaluator is now only needed here ---
+from collections import defaultdict
+
+class GameLogicEvaluator:
+    def __init__(self, game_state):
+        self.context = defaultdict(lambda: False, game_state)
+        self.secure_globals = {"__builtins__": {}}
+    def evaluate_condition(self, cond_str):
+        if not cond_str: return True
+        try:
+            return bool(eval(cond_str, self.secure_globals, self.context))
+        except Exception:
+            return False
 
 def create_new_game_state():
-    """
-    Returns a dictionary representing the state of a brand new game.
-    This is crucial for ensuring the simulation starts correctly.
-    """
-    return {
-        "totaldays": 1,
-        "day": 1,
-        "money": 50 
-    }
-
-def prioritize_events(available_events, event_triggers):
-    """
-    Scores and sorts available events to find the most logical one to run next.
-    (Version 2 - More Nuanced)
-    """
-    scored_events = []
-    for event_id in available_events:
-        score = 0
-        condition = event_triggers.get(event_id, "").lower()
-
-        day_match = re.search(r'totaldays\s*(>=|==)\s*(\d+)', condition)
-        if day_match:
-            day_num = int(day_match.group(2))
-            if day_num < 50:
-                score += (1000 - day_num)
-
-        if event_id.startswith('firsttime'):
-            score += 500
-            
-        love_match = re.search(r'_love\s*(>=|==)\s*(\d+)', condition)
-        if love_match:
-            love_num = int(love_match.group(2))
-            if love_num < 10:
-                score += 100
-        
-        if "invite" in event_id:
-            score -= 100
-            
-        scored_events.append((score, event_id))
-    
-    scored_events.sort(key=lambda x: x[0], reverse=True)
-    
-    print("--- Top 5 Prioritized Events ---", file=sys.stderr)
-    for score, event_id in scored_events[:5]:
-        print(f"  - Score {score}: {event_id}", file=sys.stderr)
-    print("---------------------------------", file=sys.stderr)
-
-    return [event_id for score, event_id in scored_events]
+    return { "totaldays": 1, "day": 1, "money": 50 }
 
 def main():
     if len(sys.argv) != 3:
@@ -68,8 +35,9 @@ def main():
     print("--- [CONTROLLER] Setup Phase ---", file=sys.stderr)
     master_event_list = extract_events_from_screens(screens_rpy_path)
     print(f"Loaded {len(master_event_list)} total events.", file=sys.stderr)
-    event_triggers = find_event_triggers(game_dir, master_event_list)
-    print(f"Found {len(event_triggers)} trigger conditions for events.", file=sys.stderr)
+    
+    # --- MODIFICATION: Use the new, robust condition finder ---
+    event_triggers = find_all_conditions(game_dir, master_event_list)
 
     print("\n--- [CONTROLLER] Simulation Phase ---", file=sys.stderr)
     ast_path = "global_ast.json"
@@ -98,19 +66,20 @@ def main():
         
         available_events = []
         for event_id, condition in event_triggers.items():
-            has_been_completed = current_game_state.get(event_id, False)
-            if not has_been_completed and evaluator.evaluate_condition(condition):
+            # No need to check completion flag here, it's now part of the condition string
+            if evaluator.evaluate_condition(condition):
                 available_events.append(event_id)
 
         if not available_events:
             print("--- [CONTROLLER] No more available events found. Simulation complete. ---", file=sys.stderr)
             break
         
-        sorted_events = prioritize_events(available_events, event_triggers)
-        event_to_run = sorted_events[0]
+        # --- MODIFICATION: No more prioritization needed! Just pick the first. ---
+        # The list is now accurate.
+        event_to_run = available_events[0]
         event_name = master_event_list.get(event_to_run, {}).get("name", "Unknown")
 
-        print(f"Found {len(available_events)} available events. Prioritized choice is '{event_name}' ({event_to_run})'", file=sys.stderr)
+        print(f"Found {len(available_events)} available events. Choosing '{event_name}' ({event_to_run})'", file=sys.stderr)
 
         sim.run_from_label(event_to_run)
         print(f"--- [CONTROLLER] Forcing completion flag: '{event_to_run}' = True ---", file=sys.stderr)

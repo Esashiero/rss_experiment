@@ -1,0 +1,98 @@
+
+import os
+import re
+
+def find_all_conditions(game_dir, master_event_list):
+    """
+    Finds all event trigger conditions by directly adapting the robust logic
+    from the "Lessons-In-Love-Guide-Tool" (game_data.py).
+
+    This replaces our naive scanner with a proven, multi-layered approach that includes
+    custom overrides for hard-to-parse events.
+    """
+    print("--- [Condition Finder] Using guide tool's logic to find all triggers... ---", file=sys.stderr)
+    event_conditions = {}
+
+    # --- TACTIC 1: Simple Backwards Scan (from the guide tool's method) ---
+    script_files = [os.path.join(root, f) for root, _, files in os.walk(game_dir) for f in files if f.endswith(".rpy")]
+    for script_file in script_files:
+        try:
+            with open(script_file, 'r', encoding='utf-8-sig') as f:
+                lines = [line.strip() for line in f.readlines()]
+        except Exception:
+            continue
+
+        for i, line in enumerate(lines):
+            if line.startswith("jump "):
+                target_label = line.split(" ")[1]
+                if target_label in master_event_list:
+                    for j in range(1, 10):
+                        if i - j < 0: break
+                        prev_line = lines[i - j]
+                        if prev_line.startswith("if "):
+                            condition = prev_line[3:-1].strip()
+                            # Store the *first* condition found this way
+                            if target_label not in event_conditions:
+                                event_conditions[target_label] = condition
+                            break
+    
+    # --- TACTIC 2: Phone.rpy Prereqs (Directly from guide tool) ---
+    call_pre_reqs = {}
+    invite_pre_reqs = {}
+    phone_rpy_path = os.path.join(game_dir, "Phone.rpy")
+    if os.path.exists(phone_rpy_path):
+        with open(phone_rpy_path, "r", encoding="utf8") as f:
+            phone_script = f.read()
+            if "contactsList = [" in phone_script:
+                region = phone_script.split("contactsList = [")[1].split("]")[0]
+                contacts = region.split("Contact(")
+                for contact in contacts:
+                    tokens = contact.split(",")[0:9]
+                    if len(tokens) >= 9:
+                        id_prefix = tokens[0].replace("\"", "").strip()
+                        id_req_call = tokens[7].strip()
+                        id_req_invite = tokens[8].replace(")", "").strip()
+                        if id_req_call not in ["True", "False"]: call_pre_reqs[id_prefix] = id_req_call
+                        if id_req_invite not in ["True", "False"]: invite_pre_reqs[id_prefix] = id_req_invite
+
+    # Apply phone conditions to relevant events
+    for event_id in master_event_list:
+        # Check for call events
+        if event_id.startswith("call") and any(s in event_id for s in ["morning", "afternoon", "night"]):
+            name = event_id[4:].replace("morning","").replace("afternoon","").replace("night","")
+            if name in call_pre_reqs:
+                event_conditions[event_id] = call_pre_reqs[name]
+        # Check for invite events
+        if event_id.endswith("invite") or event_id[:-1].endswith("invite"):
+            name = event_id.replace("invite","")
+            while name and name[-1].isdigit(): name = name[:-1]
+            if name in invite_pre_reqs:
+                event_conditions[event_id] = invite_pre_reqs[name]
+
+    # --- TACTIC 3: Custom Overrides (THE MOST IMPORTANT PART, from guide tool) ---
+    # This manually curated list fixes all the scanner's blind spots.
+    custom_conditions = {
+        "aminew1": "totaldays >= 44 and amisroom10 and day24 and not aminew1",
+        "iofirsthall": ["day247"], "utafirsthall": ["day247"], "yasufirsthall": ["day304"],
+        "toukafirsthall": ["day304"], "toukastreets1": ["day304"], "ramen1": ["day154"],
+        "tsuneyofirsthall": ["day154"], "otohafirsthall": ["day288"], "mollycafe1": ["day154"],
+        "mollyfirsthall": ["day154"], "kirindate1": ["soccer20"], "kirinfirsthall": ["day271"],
+        "nodokafirsthall": ["day288"], "norikofirsthall": ["day271"], "osakodojo1": ["osakodate1"],
+        "harukafirstlust": ["harukadate1"], "harukalust10": ["harukadate1"],
+    }
+    # Convert list-based custom conditions to 'and' strings
+    for event, conditions in custom_conditions.items():
+        if isinstance(conditions, list):
+            event_conditions[event] = " and ".join(conditions)
+        else:
+            event_conditions[event] = conditions
+
+    # Finally, ensure every event has at least its own completion flag as a condition
+    for event_id in master_event_list:
+        if event_id not in event_conditions:
+            event_conditions[event_id] = f"{event_id} == False"
+        elif f"{event_id}" not in event_conditions[event_id]:
+             event_conditions[event_id] += f" and {event_id} == False"
+
+    print(f"--- [Condition Finder] Found {len(event_conditions)} total conditions using guide tool's logic. ---", file=sys.stderr)
+    return event_conditions
