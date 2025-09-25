@@ -215,9 +215,10 @@ class Simulator:
         with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(packet.to_dict(), f, indent=2)
         print(f"--> [SIM] Event packet {packet.event_id} saved to {filepath}", file=sys.stderr)
+# In your sim.py file, modify the _run_event_chain method signature and add one line:
 
-    # --- RENAMED: from run_from_label to _run_event_chain to reflect its new internal role ---
-    def _run_event_chain(self, start_label, max_jumps=50):
+    # RENAMED: from run_from_label to _run_event_chain to reflect its new internal role
+    def _run_event_chain(self, start_label, max_jumps=50, process_only_one=False): # ADD process_only_one FLAG
         current_label = start_label
         jumps = 0
         while current_label and current_label in self.labels and jumps < max_jumps:
@@ -233,6 +234,11 @@ class Simulator:
             packet.finalize(self.game_state.variables)
             self._handle_ai_handoff(packet)
 
+            # --- ADD THIS BLOCK ---
+            if process_only_one:
+                break # Exit the loop after processing just the start_label
+            # --- END OF ADDITION ---
+
             next_label = None
             if signal:
                 stype, sval = signal
@@ -243,7 +249,8 @@ class Simulator:
 
             current_label = next_label
         if jumps >= max_jumps:
-            print(f"[SIM] WARNING: Exceeded max jumps ({max_jumps}) in event chain starting from '{start_label}'. Halting chain.", file=sys.stderr)
+            print(f"[SIM] WARNING: Exceeded max jumps ({max_jumps}) in event chain.", file=sys.stderr)
+
 
 # --- The main function is now just a placeholder for direct testing ---
 def main():
