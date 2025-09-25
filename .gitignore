@@ -27,7 +27,6 @@ events.json
 # Users of this project should provide their own copy of the game.
 # Committing these to a public repository is a copyright violation.
 # ===================================================================
-game_scripts/
 old/
 
 

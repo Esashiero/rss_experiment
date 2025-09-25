@@ -1,0 +1,27 @@
+init python:
+    config.name = "Hug Simulator"
+
+    bonus = False
+
+    teenager = "collegiate age female"
+    niece = "certified public accountant"
+    uncle = "little pogchamp"
+    high_school = "college"
+    incest = "bad stuff"
+    kumon_mi_high = "Kumon-mi College"
+    rape = "angrily hug"
+    molest = "angrily hug"
+    school = " college"
+    teenage = "fully grown and legal "
+    young_girl = "adequately aged, mature woman"
+    young_girls = "adequately aged, mature women"
+    young = "young, but old enough to legally consent "
+    adolescent = "fully developed human"
+    teen = " mature girl "
+    masturbate = "dance"
+    masturbation = "dancing"
+    teens = "mature girls"
+    raping = "angrily hugging"
+    molesting = "angrily hugging"
+    younger_girls = "younger but not THAT much younger girls"
+    rapist = "supervillain"
