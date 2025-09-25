@@ -218,9 +218,9 @@ class Simulator:
 # In your sim.py file, modify the _run_event_chain method signature and add one line:
 
     # RENAMED: from run_from_label to _run_event_chain to reflect its new internal role
-    def _run_event_chain(self, start_label, max_jumps=50, process_only_one=False): # ADD process_only_one FLAG
+    def _run_event_chain(self, start_label, max_jumps=50, process_only_one=False):
         current_label = start_label
-        jumps = 0
+        jumps = 50
         while current_label and current_label in self.labels and jumps < max_jumps:
             self.total_events_run += 1
             jumps += 1
@@ -250,6 +250,7 @@ class Simulator:
             current_label = next_label
         if jumps >= max_jumps:
             print(f"[SIM] WARNING: Exceeded max jumps ({max_jumps}) in event chain.", file=sys.stderr)
+        return current_label # Report whe re the event chain finished.   
 
 
 # --- The main function is now just a placeholder for direct testing ---
