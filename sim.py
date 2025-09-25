@@ -1,13 +1,28 @@
-
 import json
 import operator
 import sys
 import copy
 import os
 
+# --- MODIFIED: GameState now manages the core game loop variables ---
 class GameState:
-    def __init__(self): self.variables = {}
-    def __str__(self): return json.dumps(self.variables, indent=2)
+    def __init__(self):
+        self.variables = {}
+        # Core simulation state
+        self.totaldays = 1
+        self.day = 1 # Day of the week (1=Mon, 2=Tue, etc.)
+        self.time_of_day = "morning" # morning, afternoon, night
+        self.current_hub_label = "mondaymorning"
+
+    def __str__(self):
+        state_summary = {
+            "hub": self.current_hub_label,
+            "day": self.day,
+            "totaldays": self.totaldays,
+            "time": self.time_of_day,
+            "variables": self.variables
+        }
+        return json.dumps(state_summary, indent=2)
 
 class EventAnalysisPacket:
     # (This class is unchanged)
@@ -32,10 +47,11 @@ class EventAnalysisPacket:
             init_val, final_val = self.initial_state.get(key), self.final_state.get(key)
             if init_val != final_val: delta[key] = {"from": init_val, "to": final_val}
         self.state_changes = delta
-    
+
     def to_dict(self):
         return {"event_id": self.event_id, "event_label": self.label_name, "dialogue": self.dialogue_log, "state_changes": self.state_changes}
 
+# --- MODIFIED: Simulator is now a Game Loop Manager ---
 class Simulator:
     def __init__(self, ast, output_dir="event_archive"):
         self.ast = ast
@@ -43,22 +59,85 @@ class Simulator:
         self.labels = {n['name']: n for n in ast.get('children', []) if n.get('type') == 'label'}
         self.output_dir = output_dir
         if not os.path.exists(output_dir): os.makedirs(output_dir)
-        
+
         self.operators = {"=": operator.setitem, "+=": operator.iadd, "-=": operator.isub}
         self.comparisons = {">": operator.gt, "<": operator.lt, "==": operator.eq, "!=": operator.ne, ">=": operator.ge, "<=": operator.le}
-        
+
         self.call_stack = []
-        # --- FIX 1: Initialize a persistent event counter ---
         self.total_events_run = 0
 
-        print(f"Simulator (V11 - Persistent Counter) initialized. Found {len(self.labels)} labels.")
-        self._initialize_game_state()
+        print(f"Simulator (V12 - Game Loop Manager) initialized. Found {len(self.labels)} labels.", file=sys.stderr)
+        self._initialize_renpy_defaults()
 
-    def _initialize_game_state(self):
-        print("--- Initializing Game State ---")
+    def _initialize_renpy_defaults(self):
+        print("--- Initializing Ren'Py Default Variables ---", file=sys.stderr)
         init_blocks = sorted([n for n in self.ast.get('children', []) if n.get('type') == 'init_block'], key=lambda x: x.get('priority', 0))
-        for block in init_blocks: self.execute_node_list(block.get('children', []), None)
-        print("--- Game State Initialized ---")
+        for block in init_blocks:
+            self.execute_node_list(block.get('children', []), None)
+        print("--- Ren'Py Defaults Initialized ---", file=sys.stderr)
+
+    # --- NEW: Sets up the state for a new game ---
+    def set_initial_state(self, new_game_variables):
+        """
+        Sets the initial state of the game, including player-defined
+        variables and the starting day/time.
+        """
+        self.game_state.variables = new_game_variables
+        self.game_state.totaldays = self.game_state.variables.get("totaldays", 1)
+        self.game_state.day = self.game_state.variables.get("day", 1)
+        self.game_state.time_of_day = "morning"
+        self._update_hub_label() # Calculate the first hub label
+        print(f"--- Simulator state initialized. Starting at: {self.game_state.current_hub_label} ---", file=sys.stderr)
+
+    # --- NEW: Public method for the controller to get the current location ---
+    def get_current_hub(self):
+        return self.game_state.current_hub_label
+
+    # --- NEW: Main entry point for the controller to execute a player's choice ---
+    def execute_player_choice(self, choice_label):
+        """
+        Executes an event chain starting from a given label and then
+        advances the game's time.
+        """
+        # --- ADD THIS CHECK ---
+        if choice_label is None:
+            print(f"\n--- [SIM] No choice made. Passing time. ---", file=sys.stderr)
+            self._advance_time()
+            print(f"--- [SIM] Time advanced. New hub is: '{self.game_state.current_hub_label}' ---", file=sys.stderr)
+            return
+        # --- END OF ADDITION ---
+
+        print(f"\n--- [SIM] Player chose '{choice_label}'. Executing event chain. ---", file=sys.stderr)
+        self._run_event_chain(choice_label)
+        self._advance_time()
+        print(f"--- [SIM] Time advanced. New hub is: '{self.game_state.current_hub_label}' ---", file=sys.stderr)
+
+
+
+    # --- NEW: Private method to handle time and day progression ---
+    def _advance_time(self):
+        if self.game_state.time_of_day == "morning":
+            self.game_state.time_of_day = "afternoon"
+        elif self.game_state.time_of_day == "afternoon":
+            self.game_state.time_of_day = "night"
+        elif self.game_state.time_of_day == "night":
+            self.game_state.time_of_day = "morning"
+            self.game_state.day = (self.game_state.day % 7) + 1 # Cycle 1-7
+            self.game_state.totaldays += 1
+            # Update the persistent variables
+            self.game_state.variables["day"] = self.game_state.day
+            self.game_state.variables["totaldays"] = self.game_state.totaldays
+
+        self._update_hub_label()
+
+    # --- NEW: Private method to calculate the current hub label from the state ---
+    def _update_hub_label(self):
+        day_map = {
+            1: "monday", 2: "tuesday", 3: "wednesday", 4: "thursday",
+            5: "friday", 6: "saturday", 7: "sunday"
+        }
+        day_name = day_map.get(self.game_state.day, "monday")
+        self.game_state.current_hub_label = f"{day_name}{self.game_state.time_of_day}"
 
     def _evaluate_value(self, val_str):
         # (This method is unchanged)
@@ -109,6 +188,8 @@ class Simulator:
         elif ntype == 'else_statement':
              return self.execute_node_list(node.get('children', []), packet)
         elif ntype == 'menu':
+            # NOTE: The player agent now handles menu choices. The simulator
+            # will just pick the first option to ensure event chains complete.
             for choice in node.get('children', []):
                 return self.execute_node_list(choice.get('children', []), packet)
         elif ntype == 'command':
@@ -133,24 +214,22 @@ class Simulator:
         filepath = os.path.join(self.output_dir, filename)
         with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(packet.to_dict(), f, indent=2)
-        print(f"--> Event packet {packet.event_id} saved to {filepath}")
+        print(f"--> [SIM] Event packet {packet.event_id} saved to {filepath}", file=sys.stderr)
 
-    def run_from_label(self, start_label, max_events=9999):
+    # --- RENAMED: from run_from_label to _run_event_chain to reflect its new internal role ---
+    def _run_event_chain(self, start_label, max_jumps=50):
         current_label = start_label
-        # --- FIX 1: Use the class-level counter ---
-        # The local event_count has been removed.
-        
-        events_this_run = 0
-        while current_label and current_label in self.labels and events_this_run < max_events:
+        jumps = 0
+        while current_label and current_label in self.labels and jumps < max_jumps:
             self.total_events_run += 1
-            events_this_run += 1
-            print(f"\n[EVENT {self.total_events_run}: Executing '{current_label}']")
-            
+            jumps += 1
+            print(f"[SIM - Event {self.total_events_run}: Executing '{current_label}']", file=sys.stderr)
+
             packet = EventAnalysisPacket(current_label, self.total_events_run)
             packet.set_initial_state(self.game_state.variables)
-            
+
             signal = self.execute_node_list(self.labels[current_label].get('children', []), packet)
-            
+
             packet.finalize(self.game_state.variables)
             self._handle_ai_handoff(packet)
 
@@ -159,28 +238,17 @@ class Simulator:
                 stype, sval = signal
                 if stype == 'jump': next_label = sval
                 elif stype == 'return':
-                    if self.call_stack: self.call_stack.pop(); break 
+                    if self.call_stack: self.call_stack.pop(); break
                     else: break
-            
+
             current_label = next_label
-        
-        print(f"--- Simulation finished after {events_this_run} event(s) in this run. ---")
+        if jumps >= max_jumps:
+            print(f"[SIM] WARNING: Exceeded max jumps ({max_jumps}) in event chain starting from '{start_label}'. Halting chain.", file=sys.stderr)
 
+# --- The main function is now just a placeholder for direct testing ---
 def main():
-    if len(sys.argv) != 2:
-        print(f"Usage: python {sys.argv[0]} <path_to_global_ast.json>", file=sys.stderr)
-        sys.exit(1)
-    ast_path = sys.argv[1]
-    try:
-        with open(ast_path, 'r') as f: ast = json.load(f)
-    except Exception as e:
-        print(f"Error loading AST file: {e}", file=sys.stderr)
-        return
-
-    sim = Simulator(ast)
-    # --- THIS IS WHERE YOU SET UP YOUR TEST ---
-    # Run from the 'start2' label and stop after 4 events.
-    sim.run_from_label('start2', max_events=4)
+    print("This script is now intended to be driven by completionist_controller.py.", file=sys.stderr)
+    print("To test, you would load an AST, initialize the simulator, and call its methods.", file=sys.stderr)
 
 if __name__ == "__main__":
     main()

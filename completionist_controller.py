@@ -1,92 +1,77 @@
+# completionist_controller.py
 
 import json
 import sys
 import os
-import re
 from sim import Simulator
-# --- MODIFICATION: Import from our new, accurate finder ---
-from condition_finder import find_all_conditions
-from event_extractor import extract_events_from_screens
-# --- GameLogicEvaluator is now only needed here ---
-from collections import defaultdict
-
-class GameLogicEvaluator:
-    def __init__(self, game_state):
-        self.context = defaultdict(lambda: False, game_state)
-        self.secure_globals = {"__builtins__": {}}
-    def evaluate_condition(self, cond_str):
-        if not cond_str: return True
-        try:
-            return bool(eval(cond_str, self.secure_globals, self.context))
-        except Exception:
-            return False
-
-def create_new_game_state():
-    return { "totaldays": 1, "day": 1, "money": 50 }
+from hub_analyzer import get_hub_choices # <-- NEW: Import the hub analyzer
+# Note: GameStateAnalyzer is no longer needed for driving the main loop,
+# but could be used later for more complex logic or verification.
 
 def main():
-    if len(sys.argv) != 3:
-        print(f"Usage: python {sys.argv[0]} <path_to_game_directory> <path_to_screens.rpy>", file=sys.stderr)
+    if len(sys.argv) != 2:
+        print(f"Usage: python {sys.argv[0]} <path_to_game_directory>", file=sys.stderr)
         sys.exit(1)
 
     game_dir = sys.argv[1]
-    screens_rpy_path = sys.argv[2]
-    
-    print("--- [CONTROLLER] Setup Phase ---", file=sys.stderr)
-    master_event_list = extract_events_from_screens(screens_rpy_path)
-    print(f"Loaded {len(master_event_list)} total events.", file=sys.stderr)
-    
-    # --- MODIFICATION: Use the new, robust condition finder ---
-    event_triggers = find_all_conditions(game_dir, master_event_list)
-
-    print("\n--- [CONTROLLER] Simulation Phase ---", file=sys.stderr)
     ast_path = "global_ast.json"
+
     if not os.path.exists(ast_path):
-        print(f"Error: Global AST file not found at '{ast_path}'.", file=sys.stderr)
+        print(f"Error: Global AST file not found at '{ast_path}'. Please generate it first using the parser.", file=sys.stderr)
         return
-        
-    with open(ast_path, 'r') as f: ast = json.load(f)
+
+    print("--- [CONTROLLER] Setup Phase ---", file=sys.stderr)
+    try:
+        with open(ast_path, 'r') as f:
+            ast = json.load(f)
+    except Exception as e:
+        print(f"Error loading or parsing AST file: {e}", file=sys.stderr)
+        return
+
+    # --- Initialize the new Simulator ---
     sim = Simulator(ast)
-    
-    sim.game_state.variables = create_new_game_state()
-    print(f"Initialized with New Game State: {json.dumps(sim.game_state.variables)}", file=sys.stderr)
-    
+
+    # --- Create a new game state and run the mandatory 'start' sequence ---
+    # This gets the game to the first real day.
+    initial_vars = {"totaldays": 1, "day": 1, "money": 50}
+    sim.set_initial_state(initial_vars)
     print("\n--- [CONTROLLER] Executing mandatory game start sequence from 'start' label ---", file=sys.stderr)
-    if 'start' in sim.labels:
-        sim.run_from_label('start')
-        sim.game_state.variables['start'] = True
-        print("--- [CONTROLLER] Game start sequence complete. Beginning completionist loop. ---", file=sys.stderr)
-    
-    MAX_EVENTS_TO_RUN = 100
-    for i in range(1, MAX_EVENTS_TO_RUN + 1):
-        print(f"\n--- [CONTROLLER] Loop {i} ---", file=sys.stderr)
-        
-        current_game_state = sim.game_state.variables
-        evaluator = GameLogicEvaluator(current_game_state)
-        
-        available_events = []
-        for event_id, condition in event_triggers.items():
-            # No need to check completion flag here, it's now part of the condition string
-            if evaluator.evaluate_condition(condition):
-                available_events.append(event_id)
+    sim.execute_player_choice('start') # This will run 'start' and then advance time to the next hub
 
-        if not available_events:
-            print("--- [CONTROLLER] No more available events found. Simulation complete. ---", file=sys.stderr)
-            break
-        
-        # --- MODIFICATION: No more prioritization needed! Just pick the first. ---
-        # The list is now accurate.
-        event_to_run = available_events[0]
-        event_name = master_event_list.get(event_to_run, {}).get("name", "Unknown")
+    print("\n--- [CONTROLLER] Game start complete. Beginning Hub-and-Spoke simulation loop. ---", file=sys.stderr)
 
-        print(f"Found {len(available_events)} available events. Choosing '{event_name}' ({event_to_run})'", file=sys.stderr)
+    # --- The New Simulation Loop ---
+    MAX_DAYS_TO_SIMULATE = 5 # Let's simulate 5 full days
+    while sim.game_state.totaldays <= MAX_DAYS_TO_SIMULATE:
+        current_hub = sim.get_current_hub()
+        print(f"\n========================================================", file=sys.stderr)
+        print(f"   CONTROLLER LOOP: Day {sim.game_state.totaldays}, {sim.game_state.time_of_day.upper()}", file=sys.stderr)
+        print(f"========================================================", file=sys.stderr)
+        print(f"[CONTROLLER] Current Hub: '{current_hub}'", file=sys.stderr)
 
-        sim.run_from_label(event_to_run)
-        print(f"--- [CONTROLLER] Forcing completion flag: '{event_to_run}' = True ---", file=sys.stderr)
-        sim.game_state.variables[event_to_run] = True
 
-    if i >= MAX_EVENTS_TO_RUN:
-        print(f"--- [CONTROLLER] Reached max event limit of {MAX_EVENTS_TO_RUN}. Halting. ---", file=sys.stderr)
+        # 1. PERCEIVE: Use the Hub Analyzer to see what choices are available.
+        available_choices = get_hub_choices(ast, current_hub)
+        print(f"[CONTROLLER] Found {len(available_choices)} choices in hub: {[c['text'] for c in available_choices]}", file=sys.stderr)
+
+        # 2. DECIDE: Choose an action.
+        # For a completionist, the simplest strategy is to always pick the first valid option.
+        if not available_choices:
+            print("[CONTROLLER] No choices found in hub. Passing time.", file=sys.stderr)
+            # We tell the simulator to execute nothing, which will just advance time.
+            choice_to_execute = None
+        else:
+            # Simple Strategy: Always pick the first choice.
+            chosen_action = available_choices[0]
+            choice_to_execute = chosen_action['target_label']
+            print(f"[CONTROLLER] DECISION: Choosing '{chosen_action['text']}' -> jumps to '{choice_to_execute}'", file=sys.stderr)
+
+        # 3. ACT: Command the simulator to execute the choice.
+        # The simulator will run the corresponding event chain and advance time automatically.
+        sim.execute_player_choice(choice_to_execute)
+
+    print(f"\n--- [CONTROLLER] Simulation finished after reaching Day {MAX_DAYS_TO_SIMULATE}. ---", file=sys.stderr)
+
 
 if __name__ == "__main__":
     main()
